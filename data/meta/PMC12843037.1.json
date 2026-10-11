@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC12843037",
+  "version": 1,
+  "pmid": 41598193,
+  "doi": "10.3390/life16010037",
+  "mid": null,
+  "title": "Comparative Study on the Protective Effect of Thiamine and Thiamine Pyrophosphate Against Hydroxychloroquine-Induced Cardiomyopathy in Rats",
+  "citation": "Life (Basel). 2025 Dec 25;16(1):37. doi: 10.3390/life16010037",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12843037.1/PMC12843037.1.pdf?md5=25d0565ba441a945fa8d0787353dc962",
+  "xml_url": "s3://pmc-oa-opendata/PMC12843037.1/PMC12843037.1.xml?md5=b0cab290d96c4c8ab2edf6b1c5a7560b",
+  "text_url": "s3://pmc-oa-opendata/PMC12843037.1/PMC12843037.1.txt?md5=81ab5f24cecae8575ba487e3bbd69dc1",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g001.jpg?md5=204337ef76782da6156d3866633eed3d",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g002.jpg?md5=35a5e8bed220740028437f9e2338d690",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g003.jpg?md5=533d9fec2015dd3163df701b4a9cf657",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g004.jpg?md5=298450b18b33fa0ac6c0457a20095906",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g005.jpg?md5=9478d37154e2d4661d71472b2d1f02e1",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g006.jpg?md5=80dac25f6abf9aa4ef0b574426f20b32",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-g007.jpg?md5=2ab69bbb7b2b86005a95c80169308529",
+    "s3://pmc-oa-opendata/PMC12843037.1/life-16-00037-s001.zip?md5=45d273f2aa4ec32d8eefeeca2051df8a"
+  ]
+}

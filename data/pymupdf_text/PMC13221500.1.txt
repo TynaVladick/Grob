@@ -1,0 +1,583 @@
+Neurosci. Bull. June, 2026, 42(6):1218–1234                                                                                                              www.neurosci.cn
+https://doi.org/10.1007/s12264-025-01538-6                                                               www.springer.com/12264
+ ORIGINAL ARTICLE
+
+The Secondary Motor Cortex‑External Globus Pallidus Pathway
+Regulates Auditory Feedback of Volitional Control
+
+Shengtao Luo1,2,3 · Yuchen Fan1,2 · Feiyang Yu1,2 ·
+Xiaopeng Zhou1,2 · Ke Hu1,2 · Hang Yi1,2 · Hui Zhou1,2 ·
+Tao Li1,2 · Jiang‑Fan Chen1,2     · Liping Zhang1,2 
+
+
+
+
+Received: 7 May 2025 / Accepted: 19 September 2025 / Published online: 2 December 2025
+© The Author(s) 2025
+
+Abstract   Effective use of brain-computer interfaces  GO trial response times. Collectively, these findings
+(BCIs) requires the ability to suppress a planned action    identified the M2-GPe pathway for auditory biofeedback
+(volitional inhibition) for adaptable control in real-world    to improve volitional control, offering novel avenues for
+scenarios, but their mechanisms are unclear. Here, we    the advancement of neural interfaces for biofeedback and
+used fiber photometry to monitor external globus pallidus    enhancement of BCI efficacy.
+(GPe) and subthalamic nucleus (STN) neurons’ activity in
+mice during a volitional stop-signal task (67% GO, 33%   Keywords   Auditory feedback · Biofeedback · Volitional
+NO-GO). GPe/STN neurons (receiving M2 projections)    control · Volitional inhibition · BCI · Secondary motor
+responded to auditory cues, feedback, and rewards in both    cortex (M2) · External globus pallidus (GPe)
+trials. Importantly, chemogenetic activation of the M2-GPe
+pathway enhanced volitional inhibition by modulating
+auditory feedback response, yet inhibited GPe neurons’   Introduction
+feedback response. Furthermore, time-locked optogenetic
+inhibition of M2-projecting GPe neurons at auditory    Brain-computer interfaces (BCIs) hold great promise for
+feedback also enhanced volitional inhibition via prolonged    assisting individuals with paralysis in regaining certain
+                                                            brain-controlled functions by operating neuroprosthetic
+                                                             devices [1–3]. To effectively utilize BCIs in real-world situa-
+Shengtao Luo and Yuchen Fan contributed equally to this work.          tions, the user must be capable of flexible control across var-
+                                                             ious environments, including the ability to inhibit intended
+Supplementary Information  The online version contains           responses in accordance with environmental changes (i.e.,
+supplementary material available at https://​doi.​org/​10.​1007/​                                                                volitional inhibition). The stop-signal task is commonlys12264-​025-​01538-6.
+                                                       used to investigate response inhibition in motor or response
+* Jiang‑Fan Chen                                             control [4–7]. This paradigm requires participants to per-
+    Chenjf555@eye.ac.cn                                  form a ’GO’ task, in which they must quickly respond to a
+* Liping Zhang                           GO stimulus. If a NO-GO stimulus follows the GO stimu-
+    lip_zhang@eye.ac.cn                                               lus, the NO-GO stimulus instructs participants to suppress
+1   The Molecular Neuropharmacology Laboratory                     their response to the initial GO stimulus. However, beyond
+    and the Eye‑Brain Research Center, State Key Laboratory           the GO and NO-GO stimuli, BCIs also require online feed-
+    of Eye Health, Eye Hospital, Wenzhou Medical University,         back to turn the BCI into a bidirectional closed-loop system   Wenzhou 325027, China
+2                                                           [8–10]. In fact, sensory stimulation and sensory feedback
+    Oujiang Laboratory (Zhejiang Laboratory for Regenerative         play important roles in BCI applications, with sensory stim-    Medicine, Vision and Brain Health), School
+    of Ophthalmology and Optometry and Eye Hospital,               ulation serving as an external factor and sensory feedback
+   Wenzhou Medical University, Wenzhou 325027, China             indicating responses to the internal neuronal state.
+3   The Second People’s Hospital of Lishui, Lishui 323000,            The neural circuitry underlying the influence of sensory
+    China                                                       stimulation and sensory feedback on the volitional inhibition
+
+Vol:.(1234567890)S. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1219
+
+remains poorly understood. In rodents, the secondary    photoperiod (lights on at 08.00 h). After surgery, the mice
+motor cortex (M2) is analogous to the premotor cortex,   were placed on a 37 °C homeothermic pad until waking.
+supplementary motor area, or frontal eye field found in   Then Thy1-GCaMP6f transgenic mice were individually
+monkeys [11]. Studies have revealed the vital role of M2   housed under a 12 h light–dark cycle for at least 14 days
+in linking sensory information from the visual, auditory,    before conducting any further experiments. After the
+and somatosensory cortices to motor functions [11–13].   completion of the protocols, all mice were sacrificed
+Additionally, studies using optogenetics, chemogenetics,   by anesthetic overdose and cervical dislocation. All
+and lesion studies have demonstrated that M2 neurons   animal procedures were conducted in accordance with
+process various sensory signals to regulate visual and    the National Institutes of Health Guide for the Care
+auditory processing, guide action execution, select adaptive   and Use of Laboratory Animals and were approved by
+behaviors, and support flexible voluntary control [11,    the Institutional Animal Care and Use Committee of
+14–16]. M2 neurons also project directly to arkypallidal   Wenzhou Medical University (xmsq2023-0254). Every
+and prototypic neurons in the external globus pallidus (GPe)    effort was made to minimize animal suffering and reduce
+and preferentially innervate arkypallidal neurons [17]. These    the number of animals used while maintaining scientific
+prototypic and arkypallidal neurons in the GPe work together    rigor.
+with the direct, indirect, and hyperdirect pathways in the
+basal ganglia to participate in sensory processing [18]. These   Animal Group and Number of Animals
+studies suggest that GPe neurons receiving projections from
+M2 may play a crucial role in integrating auditory, visual,   Calcium signals were recorded from five Thy1-GCaMP6f
+and somatosensory inputs to support volitional control.      mice in which the fluorescent calcium sensor jRGE-
+  To explore the influence of sensory input and bio-   CO1a was expressed in the GPe and subthalamic nucleus
+feedback on the adaptability of volitional control, we   (STN) during the GO/NO-GO task. For the chemogenetic
+designed a volitional stop-signal (GO, NO-GO) task.    manipulation of M2-projected GPe neurons, the experi-
+This task was based on a novel neuroprosthetic paradigm   mental groups comprised six in the control group, six
+involving head-fixed mice, in which the mice exerted    in the hM3D group, and six in the hM4D group. For the
+volitional control over the population calcium signals in    optogenetic manipulation of M2-projected GPe neurons,
+the primary motor cortex (M1) using a fiber photometry    the experimental groups comprised six in the control
+system. In the GO trials, mice were required to respond    group, seven in the eNpHR group.
+to a 5000 Hz auditory cue within 30 seconds to inten-
+tionally adjust M1 neuronal activity above a set thresh-    Surgery, Virus Injection, and Optic Fiber Implantation
+old in order to receive a reward. In the NO-GO trial,
+after the 5000 Hz GO sound cue, a 27,000 Hz STOP cue   Thy1-GCaMP6f transgenic mice were anesthetized
+was presented two seconds later, requiring the mice to    with pentobarbital (60 mg/kg, i.p.) and mounted on a
+keep M1 neural activity below a specified threshold for    stereotaxic apparatus. Thy1-GCaMP6f transgenic mice
+13 seconds. In this volitional stop-signal task, GO and   were unilaterally injected with 300 nL of the ScAAV-
+NO-GO trials made up 67% and 33% of the total trials,   hSyn-CRE-WPREs (5.40 × ­1012 vg/mL) into the left
+respectively, and were presented randomly. We utilized  M2 cortex (distance from bregma: anteroposterior
+anterograde transsynaptic tracing methods, along with    (AP): 1.94 mm, mediolateral (ML): 0.85 mm, dors-
+optogenetics, chemogenetics, and combined with multi-    oventral (DV): 0.85 mm). Meanwhile, Thy1-GCaMP6f
+channel and multi-color single-channel fiber photometry    transgenic mice were unilaterally injected with 200 nL
+systems to assess the role of GPe receiving projection    of the rAAV-EF1α-DIO-jRGECO1a-WPREs into the
+from M2 in regulating volitional control through the     left GPe nucleus (AP: − 0.34 mm, ML:1.90 mm, DV:
+modulation of auditory feedback.                         − 3.50 mm) and left STN nucleus (AP: − 2.06 mm, ML:
+                                                        − 1.55 mm, DV: − 4.30 mm), respectively, for calcium
+                                                   imaging using a Nanojet II injector. For chemogenetic
+Material and Methods                                manipulation, Thy1-GCaMP6f transgenic mice were
+                                                             unilaterally injected with 200 nL of the rAAV-EF1α-
+Animals                                       DIO-hM3D(Gq)-mCherry-WPREs (5.04 × ­1012 vg/mL),
+                                             rAAV-EF1α-DIO-hM4D(Gi)-mCherry-WPREs (5.34 ×
+Thy1-GCaMP6f transgenic mice were obtained from     ­1012 vg/mL) and rAAV-EF1α-DIO-mCherry-WPREs-
+The Jackson Laboratory (JAX Stock No. 025393), as   hGH, respectively into the left GPe nucleus (AP: − 0.34
+described previously [19]. Thy1-GCaMP6f transgenic   mm, ML: 1.90 mm, DV: − 3.50 mm) using a Nanojet
+mice were maintained under a 12 h/12 h light–dark     II injector (Drummond Scientific, Broomall, PA, USA)1220                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+
+
+
+
+
+Fig. 1   Development of the Volitional Stop-signal Task. A Closed-     value within 30 s after the GO cue was presented. C Thy1-GCaMP6f
+loop BCI  control  system:  the  population  calcium  signal (ΔF)     transgenic mice exhibited GCaMP6f expression in their brains. The
+exceeding the defined threshold value to trigger auditory feedback     right panel was enlarged to show the white arrow in the left mouse
+and deliver a reward after 1 s. B The volitional stop-signal task. GO     brain section for the GPe. The red arrows indicate neurons in GPe
+and NO-GO tasks accounted for 67% and 33%, respectively. In the     expressing GCaMP6f, and the white arrows indicate nerve fibers in
+NO-GO task, following a GO cue, the mice were instructed to inhibit     the GPe. D Thy1-GCaMP6f transgenic mice expressed GCaMP6f in
+the calcium signal of M1 below a defined threshold value for a     their brains. The right panel was enlarged to show the white arrow
+duration of 13 s after the NO-GO cue was presented, which occurred     in the left mouse brain section for the STN. The red arrows indicate
+2 s post-GO signal. In the GO task, the mice were instructed to    neurons in the STN expressing GCaMP6f, and the white arrows
+activate the calcium signal of M1 exceeding the defined threshold     indicate nerve fibers in the STN. Scale bar, 100 μm.S. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1221 1222                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+◂Fig. 2   The Change of Calcium Signal for M2 Projected GPe  /    time (within 10 ms) of the auditory cue occurrence. No
+ STN Neurons in GO, NO-GO Task. A Schematic of the injection    recording data were excluded from the analysis.
+  for anterograde  transsynaptic  tracing. ScAAV-hSyn-CRE-WPREs
+ were  injected  into  the M2,  and rAAV-EF1α-DIO-jRGECO1a-
+ WPREs were injected into the GPe and STN. B M1, M2, GPe,   Data Analysis
+ and STN were located on the same hemisphere of the mouse
+  brain. C Thy1-GCaMP6f  transgenic mice  exhibit expression  of     Statistical analyses were performed using GraphPad Prism
+ GCaMP6f in M1. D The expression of jRGECO1a in the GPe by                                                           5.01 (GraphPad Software Inc., San Diego, CA, USA). Data anterograde transsynaptic tracing. E The expression of jRGECO1a
+  in STN by anterograde  transsynaptic  tracing. F Analysis  of a    are expressed as means ± SEM. An unpaired two-tailed Stu-
+  representative population calcium signal before (15  s) and  after    dent’s t-test and Mann–Whitney U test were used to compare
+ (10 s) the reward delivery for M1 in GO, GO withdraw GO cue,    two-group data, as appropriate. A P-value of <0.05 was con-
+ GO withdraw auditory feedback, GO withdraw reward, random                                                                sidered statistically significant: *P < 0.05, **P < 0.01, ***P reward, and NO-GO task. Different calcium signals are indicated by
+  the different color arrows. Black arrow: the volitional signal; Red  < 0.001. In the chemogenetic manipulation experiments,
+ arrow: the auditory feedback signal; Dark red arrow: reward signal;    the results were averaged across sessions for each mouse,
+ Green arrow: the GO auditory cue signal; Yellow arrow: the Stop    resulting in n = 6 independent data points for subsequent
+ auditory cue signal. G Same as F, but for GPe. H Same as F, but                                                                           statistical analysis.  for STN. I The performance ON the GO task, GO withdraw, GO
+  cue, GO withdraw auditory feedback, GO withdraw reward (n = 5).
+ GO-BF: GO withdraw auditory feedback; GO: GO task; GO-RW:    Fluorescence
+ GO withdraw reward; GO-AC: GO withdraw auditory cue. J The
+  analysis of the peak of the calcium signal for auditory feedback                                    A sample was performed on free-floating sections (30 μm). and reward in M1 between the GO task and GO withdraw auditory
+ feedback( left) or GO withdraw reward. K Same as J, but for GPe. L)   The sections were directly imaged using confocal laser
+ Same as J, but for STN. Scale bar, 100 μm. Sample size: n = 6.        scanning microscopy (LSM710; Carl Zeiss, Oberkochen,
+                                                      Germany).
+
+                                               The Volitional Stop‑Signal Task
+ at a rate of 60 nL/min. For the optogenetic manipula-
+ tion, Thy1-GCaMP6f transgenic mice were unilaterally   The volitional control task has been thoroughly described
+ injected with 200 nL of the rAAV-EF1α-DIO-eNpHR3.0-    in previous research [20]. Thy1-GCaMP6f transgenic
+ -mCherry-WPRE-hGH (5.14 × ­1012 vg/mL and rAAV-   mice first underwent training to complete 50 correct
+ EF1α-DIO-mCherry-WPREs-hGH (5.40 × ­1012 vg/mL),  GO trials daily for 10 days, achieving a final accuracy
+ respectively, into the left GPe nucleus (AP: − 0.34 mm,    rate of 85%–100%. They then underwent a random
+ ML: 1.90 mm, DV: − 3.50 mm) using a Nanojet II injec-    reward test to confirm goal-oriented volitional control.
+ tor (Drummond Scientific, Broomall, PA, USA) at a rate    Next, these mice were trained to complete 50 correct
+ of 60 nL/min. Thy1-GCaMP6f transgenic mice were  NO-GO trials daily over another 10 days, with final
+ then implanted with an optical fibre (230 μm O.D., 0.37    accuracy also reaching 85%–100%. Once proficiency
+ Numerical Aperture (NA); Shanghai Fiblaser Technology    in both GO and NO-GO tasks was achieved—defined
+ Co., Ltd (Shanghai, China)) within a ceramic ferrule in   by a correct response rate of 85%–100% over three
+ the M1, GPe, and STN at the same sites. The ceramic   consecutive days—the Thy1-GCaMP6f transgenic
+ ferrule was supported with a skull-penetrating screw and   mice were subjected to the volitional stop-signal task
+ dental cement.                                               (Fig. 1B). This task comprises a total of 50 successful
+                                                                          trials, with 67% being GO trials and 33% being NO-GO
+                                                                          trials. Success rates are calculated as the proportion of
+ Calcium Fluorescence Signal Analysis                     successful GO trials relative to the total number of GO
+                                                                            trials, and similarly for NO-GO trials. The response time
+ Photometry data were exported to MATLAB Mat files    for both GO and NO-GO trials is defined as the interval
+ for further analysis using the MATLAB platform (Math-   from trial onset to reaching the preset threshold.
+ Works, Natick, MA, USA) with custom-written programs
+ [20–22]. After smoothing the data with a moving aver-
+ age filter (20 ms span with a 10 ms moving step), the   Result
+ event-related calcium fluorescence signals relating to
+ the reward (with reward delivery set as time ‘0’) were    Volitional Stop‑signal Paradigm
+ analyzed. We derived the calcium signal change val-
+ ues (△F) by calculating △F/F =(F − F0)/F0, where F0    In our previous study, we developed an operant, volition-
+ was the baseline of the population calcium signal at the    ally controlled neural task integrated with a closed-loopS. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1223
+
+
+
+
+
+Fig. 3   Schematic of the Injection for Anterograde Transsynaptic    Analysis of a representative population calcium signal before (15
+Tracing and Calcium Imaging. A ScAAV-hSyn-CRE-WPREs was     s) and after (10 s) the reward delivery for M1 in the GO, random
+injected into the M2, and rAAV-EF1α-DIO-hM3D(Gq)-mCherry-     reward, and NO-GO task using Thy1-GCaMP6f transgenic mice.
+WPREs/  rAAV-EF1α-DIO-hM4D(Gi)-mCherry-WPREs/  rAAV-     Different calcium  signals  are  indicated by  the  different  color
+EF1α-DIO-mCherry-WPREs-hGH were  injected  into  the GPe.     arrows. Black arrow: the volitional signal; Red arrow: the auditory
+Fiber optic probes were implanted in the M1, GPe, and STN to    feedback  signal; Dark red arrow: reward  signal; Green arrow:
+facilitate the monitoring of calcium signaling in Thy1-GCaMP6f     the GO auditory cue signal; Yellow arrow: the Stop auditory cue
+transgenic mice. B The hM3D(Gq), hM4D(Gi), and mCherry     signal. D Same as C, but for the GPe. E Same as C, but for STN.
+expression in the GPe using Thy1-GCaMP6f transgenic mice. C     Scale bar, 100 μm.1224                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+
+feedback system. This system enabled volitional condi-    receive input from M2 neurons. We trained the mice to
+tioning of population neurons in the M1 cortex via real-   modulate M1 neurons to execute GO and NO-GO tasks
+time monitoring of calcium fluorescence signals using a    (Fig. 1B) while simultaneously monitoring calcium
+fiber photometry system [20, 22]. For the current study,    signal changes in the GPe and STN in real-time using
+we improved the previous volitional control task by uti-    multi-color single-channel fiber photometry systems.
+lizing different auditory frequencies as cues and biofeed-   The calcium signals were aligned to the time of reward
+back independently (Fig. 1A). In the GO task, mice were    delivery(“0”) and represented the calcium signal peak
+exposed to a 5,000 Hz auditory stimulus to condition-    before (15 s) and after (10 s) reward delivery. During
+ally influence M1 neuronal activity to cross a specified    the GO task, calcium signals corresponding to volitional
+threshold within 30 seconds. Subsequently, 10,000 Hz    control, auditory feedback, and reward were detected in
+auditory feedback was provided upon the calcium signal    the M1, GPe, and STN (Fig. 2F–H). To validate these
+crossing the preset threshold, followed by a 1 s delay    signals, we systematically removed the auditory cue,
+before receiving a sucrose reward, and then a 10 s inter-    auditory feedback, or reward from the GO task, one at
+val before the next trial began (Fig. 1B, upper). In the    a time. As shown in Fig. 2F–H, the removal of auditory
+NO-GO task, mice were exposed to a 5000 Hz auditory    feedback or reward during the GO task results in the
+stimulus and a 2 s wait for the second auditory stimulus    disappearance of the associated signal in the M1, GPe,
+(27,000 Hz). Then, mice were required to maintain M1   and STN (Fig. 2F–H). The results also revealed that
+neuronal activity below threshold for 13 s. Successful    only withdrawal of the reward was sufficient to alter
+maintenance triggered a 10,000 Hz auditory feedback   performance in the GO task (Fig. 2I, P = 0.006). We
+tone (500 ms duration), followed after 1 s by sucrose   conducted a comparative analysis of the alterations
+reward delivery. A 10-s inter-trial interval preceded the    in calcium signal following the removal of auditory
+next trial (Fig. 1B, below). The volitional stop-signal    cues, reward, and auditory feedback individually. Our
+paradigm comprised 67% GO tasks and 33% NO-GO    findings indicated that the calcium signal exhibited a
+tasks, with each trial type occurring randomly (Fig. 1B).    significant reduction upon the removal of each of these
+For the present investigation, we employed a fiber pho-    stimuli in M1 (Fig. 2J; left: t-test P = 0.02; Right: t-test
+tometry system for real-time monitoring of calcium flu-    P = 0.02), GPe (Fig. 2K, left: t-test P = 0.03; Right: t-test
+orescence signals in the M1 cortex of Thy1-GCaMP6f    P = 0.048), and STN (Fig. 2L, left: t-test P = 0.03; Right:
+transgenic mice, facilitating the volitional conditioning     t-test P=0.02). The volitional signal is characterized as
+of neuronal populations. Thy1-GCaMP6f transgenic mice    the calcium signal that occurs prior to attaining the set
+were engineered to express GCaMP6f in various brain    threshold. However, given that the interval between the
+regions, including the cortex, hippocampus, amygdala,    volitional signal and the auditory cue is variable during
+thalamus, and hypothalamus, among others [19] (Fig. 1C,    the GO task, the auditory cue signal is not detected in
+D). Our investigation revealed that many GPe and STN    the M1, GPe, and STN. In the NO-GO task, we noted
+neurons (Fig. 1C, D, right panel: red arrow) exhibited    the presence of the GO auditory cue, auditory feedback,
+GCaMP6f expression, whereas a large number of nerve   and reward signal; however, the stop auditory cue signal
+fibers in these regions also exhibited GCaMP6f expres-   was not detected in the M1, GPe, and STN regions
+sion (Fig. 1C, D, right panel: white arrow).                  (Fig. 2F–H). In the random reward test, we also observed
+                                                         a combined calcium signal of the auditory cue and
+                                                       reward. Taken together, we inferred that M1 neurons,
+M2‑innervated GPe and STN Neurons Respond          GPe, and STN neurons innervated by M2 responded to
+to Auditory Cue, Reward, and Auditory Feedback          auditory cues, auditory feedback, and reward during both
+in the Volitional Control                     GO and NO-GO tasks.
+
+To investigate the neural mechanisms regulating
+responses to auditory cues and feedback, we used   Chemogenetic Activation of M2‑GPe Pathway Promotes
+anterograde transsynaptic tracing to label GPe and STN    Volitional Inhibition
+neurons that receive M2 projections, and expressed
+the fluorescent calcium sensor jRGECO1a in these   To illuminate the volitional inhibition function of GPe
+labeled neurons (Fig. 2A, B). As demonstrated in   neurons innervated by M2, we employed anterograde
+Fig. 2C–E, GCaMP6f expression in the M1 region    transsynaptic tracing techniques to label the input
+of Thy1 transgenic mice (Fig. 2C) and jRGECO1a   from M2 to GPe using hM3D(Gq) or hM4D(Gi),
+expression in neurons located in the GPe (Fig. 2D) and    respectively(Fig. 3A, B). Since GPe neurons receiving
+the STN (Fig. 2E) confirmed that GPe and STN neurons    projection from M2 were already labeled with hM3D(Gq)S. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1225
+
+
+
+
+
+Fig. 4   Chemogenetic  Manipulation   of  M2-innervated  GPe    and after (10 s) the reward delivery for M1 in control, hM4D(Gi),
+Neurons in the Volitional Stop Signal Task. A The performance of    and hM3D(Gq) groups using Thy1-GCaMP6f transgenic mice. F
+GO tasks with or without manipulation of GPe neurons for 6 days    Analysis of the peak of the calcium signal for the volitional signal
+in the volitional stop signal task. B Analysis of the performance    among control, hM4D(Gi), and hM3D(Gq) groups. G Analysis
+on the GO task for a total of 3 days among the control group,     of the peak of the calcium signal for auditory feedback among
+hM4D(Gi), and hM3D(Gq) groups. C Analysis of the total licks of     control, hM4D(Gi), and hM3D(Gq)groups. H Analysis of the
+the GO task for 3 days among the control group, hM4D(Gi), and    peak of the calcium signal for the reward signal among control,
+hM3D(Gq) groups. D Analysis of response time of the GO task    hM4D(Gi), and hM3D(Gq)groups. H–K Same as D–G, but for the
+for 3 days among the control group, hM4D(Gi), and hM3D(Gq)    GPe. L–O Same as D–G, but for the STN. The control group: n =
+group. E A representative population calcium signal before (15 s)     6; hM4D(Gi) group: n = 6; hM3D(Gq)group: n = 6.1226                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+
+or hM4D(Gi) and could not be simultaneously labeled    significantly inhibited the calcium signal for the auditory
+with the fluorescent calcium sensor jRGECO1a (red),    feedback in the GPe during the GO task (Fig. 4F–H, J, L,
+we directly recorded the GPe and STN neuronal calcium   N–P, P >0.05; Fig. 4K; P <0.05).
+signals of Thy1-GCaMP6f transgenic mice using multi-      Next, we analyzed the performance, licking behavior,
+channel fiber photometry systems. Nevertheless, we also    response time, and calcium signals for the NO-GO task
+identified the volitional, auditory feedback, and reward    in the volitional stop-signal paradigm (Fig. 5A–S).
+signals within the M1, GPe, and STN, which exhibited   The results indicated the activation of these neurons
+a similar pattern to that observed in M1, GPe, and STN   enhanced performance on the NO-GO task (Fig. 5A and
+neurons receiving projection from M2 (Fig. 3C–E). We    B, P<0.05) and decreased licking behavior (Fig. 5C, P
+also observed a calcium signal for the stop auditory    <0.05), but had no influence on the error-trial response
+cue (27,000Hz at GPe and STN) in the NO-GO task    time (Fig. 5D; P >0.05). The inhibition of GPe neurons
+(Fig. 3C–E). Consequently, we believe that some    innervated by M2 did not affect performance (Fig. 5B, P
+neurons identified within the GPe and STN of Thy1-    >0.05), licking behavior (Fig. 5C, P >0.05), and error-
+GCaMP6f transgenic mice received M2 projections.     trial response time (Fig. 5D, P >0.05). The analysis of
+We, subsequently, carried out a six-day experimental   calcium signal indicated that the activation of these
+procedure during which Clozapine N-oxide (CNO) was   neurons inhibited the calcium signal for auditory
+administered on alternate days, culminating in a total   feedback (Fig. 5M, P <0.05) and reward in the GPe
+of three administration days (Fig. 4A). We calculated    (Fig. 5N, P <0.05). The inhibition of these neurons also
+the results of three days of CNO treatment and found    decreased the calcium signal for auditory feedback in
+that the activation of GPe neurons innervated by M2    the GPe (Fig. 5M, P <0.05) and for auditory feedback
+decreased the GO task success rate (Fig. 4B; P <0.01).    (Fig. 5R, P <0.01) in the STN. Taking the above
+However, the inhibition of these neurons did not affect    results together, we suggest that GPe neurons receiving
+the GO task (Fig. 4B, P >0.05). The pharmacological    projection from M2 play a crucial role in modulating
+activation of GPe neurons receiving projection from M2    auditory feedback during the volitional stop-signal task
+also inhibited licking behavior in the GO task (Fig. 4C, P    to affect volitional inhibition.
+<0.05), but pharmacological inhibition of these neurons
+had no such influence on the licking behavior (Fig. 4C, P   GPe Neurons Receiving Projection From M2 Regulate
+>0.05). Nonetheless, the pharmacological activation and   Auditory Feedback to Enhance Volitional Inhibition
+inhibition of these neurons did not influence response
+time in the GO task, indicating that the inhibition of   To further verify the function of GPe neurons innervated by
+GO success by activating GPe neurons innervated by M2   M2, we labeled GPe neurons receiving projection from M2
+was not achieved by altering response time during the   by employing anterograde transsynaptic tracing techniques
+volitional stop-signal paradigm (Fig. 4D, P >0.05).        using eNpHR (Fig. 6A-B). We employed optogenetic
+  We also analyzed the calcium signal for the volitional,    techniques for time-licked inhibiting labelled GPe neurons
+auditory feedback, and reward in the M1, GPe, and STN    for a duration of 1 s in conjunction with auditory feedback
+(Fig. 4E–P). To eliminate the influence of different    during the volitional stop-signal paradigm. The results
+transgenic mouse models on GCaMP6f expression levels,    indicated that the transient optogenetic inhibition of
+we analyzed the calcium signal in response to auditory   GPe neurons receiving projection from M2 resulted in a
+cues, volitional, auditory feedback, and reward among    decreased success rate in the GO task (Fig. 6C, P <0.01),
+control, HM3D (Gq), and HM4D (Gi) groups during the    as well as an increased response time required to complete
+GO and NO-GO tasks in the absence of CNO treatment    the task (Fig. 6E, P <0.05). Prolonged response time is a
+(supplemental Fig. S1–S2). In addition to the significant    well-validated behavioral marker of response inhibition,
+differences in auditory feedback observed between the     reflecting the active suppression of prepotent motor plans—a
+hM4D group and the control groups within the STN    core feature of volitional stop processes [23]. However, the
+in the GO task (supplemental Fig. S1K, P <0.05) and    transient optogenetic inhibition of GPe neurons innervated
+the NO-GO task (supplemental Fig. S2N, P <0.05), no    by M2 increased the NO-GO success rate (Fig. 6D, P <0.05),
+substantial variations were identified in auditory cues,    but had no influence on the response time for the error-trial
+volitional signals, auditory feedback, or reward signals     (Fig. 6F, P >0.05). Simultaneously, the transient optogenetic
+in the M1 and GPe. The inhibition of GPe neurons    inhibition of GPe neurons receiving projection from M2 did
+innervated by M2 significantly inhibited the calcium    not appear to affect licking behavior (Fig. 6G, P >0.05).
+signal for reward signal in M1 (Fig. 4H, P <0.05), for    Analysis calcium signal indicated that the calcium signals
+auditory feedback in STN (Fig. 4O, P <0.01). However,    for auditory feedback and reward exhibited a significant
+the activation of GPe neurons innervated by M2 onlyS. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1227
+
+
+
+
+
+Fig. 5   Analysis of the Performance and Calcium Signal  for the      s) the reward delivery for M1 in control, hM4D(Gi), and hM3D(Gq)
+NO-GO Task in the Volitional Stop Signal Task. A The performance    groups using Thy1-GCaMP6f transgenic mice. E Analysis of the
+on NO-GO tasks with or without manipulation of GPe neurons for 6    peak of the calcium signal for the volitional signal among control,
+days in the volitional stop signal task. B Analysis of the performance    hM4D(Gi), and hM3D(Gq) groups. F Analysis of the peak of the
+on  the NO-GO  task  for a  total of 3 days among  the  control,    calcium signal for auditory feedback among control, hM4D(Gi), and
+hM4D(Gi), and hM3D(Gq) groups. C Analysis of the total licks of    hM3D(Gq) groups. G Analysis of the peak of the calcium signal for
+the GO task for 3 days among the control, hM4D(Gi), and hM3D(Gq)     the reward signal among the control, hM4D(Gi), and hM3D(Gq)
+groups. D) Analysis of response time of error NO-GO task for 3 days     groups. H–K Same as D–G, but for the GPe. L–O Same as D–G,
+among the control, hM4D(Gi), and hM3D(Gq) groups. D Analysis of     but for the STN. The control group: n = 6; hM4D(Gi) group: n = 6;
+a representative population calcium signal before (15 s) and after (10    hM3D(Gq) group: n = 6.1228                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+
+difference in the STN (Fig. 6N, P <0.05; Fig. 6O, P <0.05),    the brain stem [30–34]. Additionally, BCI models pos-
+but have no influence on the volitional signal, auditory    sess the capability to eliminate somatosensory feedback
+feedback and reward in M1 (Fig. 6H–K, P >0.05) and on the   and can also artificially replicate such feedback through
+volitional signal in STN (Fig. 6M, P >0.05). In summary, the    direct stimulation of the somatosensory cortex, which
+modulation of volitional inhibition via the M2-GPe pathway   can be subsequently integrated into the BCI model [8,
+is accomplished through the prolongation of response times    25]. Moreover, the control neurons within the BCIs are
+in GO tasks.                                                   specifically tailored by the researcher, thereby establish-
+  However, we also employed transient optogenetic    ing a causal link between neuroprosthetic movement and
+inhibition of GPe neurons innervated by M2 during auditory    neuronal activity [30]. The aforementioned characteris-
+cue (Fig. 7A–M) and reward presentation (Fig. 8A–M)    tics render the BCI model an effective tool for inves-
+for a duration of 1 s in the volitional stop-signal test. The    tigating sensorimotor integration, with distinct advan-
+optogenetic inhibition of GPe neurons receiving projection    tages. In the current volitional task, we not only detected
+from M2 neurons in response to GO auditory cue or rewards    various sensory signals across different temporal dimen-
+during the volitional stop-signal paradigm did not affect    sions but also analyzed neural signals across multiple
+performance on GO (Fig. 7A, P >0.05; Fig. 8A, P >0.05)    spatial dimensions (different brain areas). Additionally,
+and NO-GO (Fig. 7B, P >0.05; Fig. 8B, P >0.05) tasks,    transgenic mice with expression of GCaMP6f in various
+response time (Fig. 7C, D, P >0.05; Fig. 8C, D, P >0.05)    neuronal types facilitate a comprehensive investigation
+and licking behavior (Fig. 7E, P >0.05; Fig. 8E, P >0.05).     into the mechanisms of sensorimotor integration across
+  We analyzed the calcium signaling in response to    distinct neuronal populations, temporal contexts, and
+volitional signals, auditory feedback, and reward signals    spatial dimensions. Furthermore, owing to the causal
+during the GO tasks of control and eNpHR groups in    relationship between neuronal activity and neuropro-
+the absence of optogenetic inhibition. No significant dif-    sthetics in BCI, the combination of optogenetics and
+ferences were observed between the control and eNpHR   chemogenetics facilitates the examination of neuronal
+groups in terms of the calcium signaling the M1 and    population dynamics or oscillation changes by specific
+STN regions (Supplemental Fig. 3). Transient optoge-    sensory inputs on BCI control outcomes. Taken together,
+netic inhibition of M2-innervated GPe neurons during    these features render the BCI a very useful tool for the
+auditory cue presentation did not significantly alter    investigation of sensorimotor integration.
+calcium signals associated with volitional action, audi-
+tory feedback, or reward delivery in either M1 or STN   GPe Neurons Innervated by M2 are Involved in Sensory
+(Fig. 7F–M, P >0.05). In contrast, transient optogenetic   Feedback for Volitional Control
+inhibition of M2-innervated GPe neurons during reward
+presentation suppressed calcium signals linked to voli-    Online feedback, which can include auditory, visual, or
+tional action, auditory feedback, and reward delivery in     artificial stimulation, plays a crucial role in facilitating
+STN (Fig. 8K, M, P <0.05; Fig. 8N, P <0.01) but left M1   BCI control by transforming the BCI into a bidirectional
+signals unchanged (Fig. 8F–I, P >0.05). These findings    closed-loop system [10]. Real-time feedback provides
+indicate that the M2-GPe pathway primarily modulated   BCI users with immediate results regarding their control
+the auditory feedback response in the GPe, involving the    efforts, enabling them to actively modify their mental
+regulation of volitional inhibition. Meanwhile, the inhibi-    activity strategies or select suitable external stimuli to
+tion of these neurons also impaired the volitional control   enhance performance stability, accuracy, and timeliness
+task and increased the response time.                        [10, 35, 36]. We demonstrate that GPe neurons receiving
+                                                           the projection from M2 play a crucial role in regulating
+                                                       auditory feedback for volitional inhibition. Notably,
+Discussion                                              the auditory feedback is associated with the control
+                                                                efforts and internal neuronal state. Thus, the inhibition
+The Volitional Control Task as a Powerful Tool            of GPe neurons also impaired volitional control (GO
+for Basic Scientific Studies of Sensorimotor Integration     task). Furthermore, GPe neurons receiving projection
+                                                 from M2 also respond to the auditory cue (5000 Hz),
+The effectiveness of BCI control relies on a well-defined    but optogenetic manipulation induced suppression of
+sensorimotor loop involving cognitive functions such as    auditory signals at the presentation of the auditory cue
+prediction, learning, and multisensory integration [8, 10,    failed to influence volitional inhibition. Auditory cues
+24–29]. The motor BCIs primarily rely on neural cir-   may influence the learning process; however, the mice
+cuits associated with movement, without engaging the   had already mastered the GO and NO-GO tasks prior
+intricate and extensive muscle system located beneath    to engaging in the volitional stop-signal paradigm.S. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1229 1230                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+◂Fig. 6   Optogenetic Inhibition of M2-innervated GPe Neurons in the    the motivational level, the neural circuits involved in
+  Volitional Stop Signal Task during Auditory Feedback. A Schematic of   BCI learning and control are comparable to those used
+  the injection for anterograde transsynaptic tracing. ScAAV-hSyn-CRE-                                                                in motor learning and control [21]. However, BCIs are WPREs were injected into the M2, and rAAV-EF1α-DIO-eNpHR3.0--
+ mCherry-WPRE-hGH or rAAV-EF1α-DIO-mCherry-WPREs-hGH were    directly governed by the modulation of a specific local
+  injected into the GPe. Fiber optic probes were implanted in the M1 and    population of neurons to manipulate external devices [3],
+ STN to facilitate the monitoring of calcium signaling and implanted in   whereas motor control involves the brain’s regulation of
+ GPe for optogenetic manipulation in Thy1-GCaMP6f transgenic mice.                                                             the musculoskeletal system to facilitate motor behaviors. B Representative image of eNpHR3.0 and mCherry expression in GPe.
+ C The GO performance analysis between the control and eNpHR3.0   BCI control is executed by the cortex-spinal cord system,
+  groups. D Analysis of the performance on the NO-GO task between the    resulting in the absence of somatosensory feedback.
+  control and eNpHR3.0 group in the volitional stop signal task. E The   These distinctions indicate that there are significant
+ response time on the GO task between the control and eNpHR 3.0 groups                                                                 disparities between the control mechanisms of BCI and  in the volitional stop signal task. F The response time on the NO-GO
+  task between the control and eNpHR 3.0 group in the volitional stop    those of motion control systems. Indeed, our recent
+  signal task. G The analysis of licking behavior between the control and    investigation has demonstrated that various brain regions
+ eNpHR3.0 group in the volitional stop signal task. H The representation    exhibit contrasting effects on BCI and motor controls
+  of calcium signal before (10 s) and after (10 s) the reward delivery for M1                                                               [22]. Nonhuman primates perform a two-dimensional,  using Thy1-GCaMP6f transgenic mice. I Analysis of the peak calcium
+  signal for the volitional signal between control and eNpHR groups. J    self-initiated, center-out task under BCI control and
+  Analysis of the peak calcium signal for auditory feedback between control   motor control, demonstrating the presence of distinct
+ and eNpHR groups. K Analysis of the peak of the calcium signal for    neural representations for BCI and manual controls in
+ reward between control and eNpHR groups. L–O Same as H–K, but for                                              M1, DLPFC, and Cd [42]. Actually, the absence of the STN. The control group: n = 6; eNpHR 3.0 group: n = 7.
+                                                    somatosensory feedback represents a clear distinction
+                                                     between the BCI control and motor control. Furthermore,
+                                                              loss of proprioception has a more profound effect on
+ Thus, optogenetic suppression of GPe neurons receiving    coordinated body movements [43–45]. Consequently, we
+ projection from M2 precisely at the time of auditory    speculate that the absence of somatosensory feedback
+ feedback likely influenced the volitional inhibition. In   may be a critical bottleneck for BCI control to achieve
+ addition to the auditory processing, the M2 region also   normal motor control. However, it provides a theoretical
+ receives projections from the visual and somatosensory    basis for introducing artificial somatosensory feedback in
+ cortices. The M2 also exhibits  a topographical   BCI control by dissecting the neural circuit mechanism
+ organization in its reception of sensory projections,    of different sensory feedback.
+ with the rostral M2 receiving a greater proportion of
+ somatosensory motor input, while the caudal M2 is
+ predominantly associated with the reception of sensory
+ input. The finding that the M2-GPe projection pathway    External Variables Affected BCI Control and Volitional
+ plays an important role in auditory feedback could open    Inhibition
+ up new opportunities for simulating M2 as biofeedback
+ to enhance the stability and accuracy of volitional   The control of BCIs is affected by a range of internal
+ inhibition and, therefore, of BCI control.                and external variables [46]. External variables are
+                                                        defined as elements of the environment that primarily
+                                                                exist outside the BCI user and are situated within the
+ The Difference Between BCI Control and Motor         BCI system itself. Internal variables are characterized as
+ Control                                                     factors that primarily arise from within the user of the
+                                                    BCI, such as emotion, attention, motivation, and similar
+ Motor BCIs necessitate the acquisition of skills    elements. The volitional stop-signal task is designed to
+ through repetitive practice in order to attain proficient    evaluate the impact of external variables on BCI control,
+ functionality [20–22, 32, 37]. Similar to the control and   encompassing aspects such as environmental interactions
+ learning of motor skills, BCIs depend on neural circuits   and sensory feedback mechanisms. Our research utilized
+ located within the cortical and subcortical basal ganglia    distinct auditory cues, specifically 5000 Hz and 27000
+ regions [38, 39]. Various cortical regions have been   Hz, to signify interaction with the environment, while
+ implicated in the BCI control [40, 41]. Our previous    a sensory feedback cue at 10,000 Hz was employed to
+ research has demonstrated that adenosine A2A receptors,    represent sensory feedback. Nonetheless, both external
+ which are known to modulate motor skill acquisition,    variables can be incorporated via the M2 region [11, 12].
+ also play a role in the learning processes associated with   However, environmental interactions occur through the
+ volitional and hence BCI control [20, 21]. Similarly, at    M2-striatal pathway, and sensory feedback is processedS. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1231
+
+
+
+
+
+Fig. 7   Optogenetic Inhibition of M2-innervated GPe Neurons during    and eNpHR3.0 group  in the  volitional stop  signal  task. F The
+Auditory Cue Presentation. A The analysis of GO task performance     representation of calcium signal before (10 s) and after (10 s) the
+between the control and eNpHR3.0 group. B The analysis of NO-GO    reward delivery for M1 using Thy1-GCaMP6f transgenic mice. G
+task performance between the control and eNpHR3.0 groups in the     Analysis of the peak calcium signal for the volitional signal between
+volitional stop signal task. C The response time analysis for the GO     control and eNpHR groups. H Analysis of the peak calcium signal
+task between the control and eNpHR 3.0 group in the volitional     for auditory feedback between control and eNpHR groups. I Analysis
+stop signal task. D The response time analysis for the NO-GO task     of the peak calcium signal for reward between control and eNpHR
+between the control and eNpHR 3.0 groups in the volitional stop     groups. J–M Same as F-I, but for the STN. The control group: n = 6;
+signal task. E The analysis of licking behavior between the control   eNpHR 3.0 group: n = 7.
+
+
+through the M2-GPe loop. Finally, these two pathways,    designed to assess the ability to inhibit initiated volitional
+integrated with direct and indirect pathways the basal    processes in response to environmental changes during
+ganglia to BCI control by returning to the M1 region.   BCI control. Volitional inhibition is particularly crucial
+However, the volitional stop-signal task is primarily    for the application of BCI in real-world settings. We
+                                                assume the neural circuits responsible for regulating1232                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+
+
+
+
+
+Fig. 8   Optogenetic inhibition of M2-innervated GPe neurons during     volitional stop signal task. F The representation of calcium signal
+reward presentation. A The GO task performance analysis between     before (10 s) and after (10 s) the reward delivery for M1 using Thy1-
+the control and eNpHR3.0 groups. B The NO-GO task performance   GCaMP6f transgenic mice. G Analysis of the peak of the calcium
+analysis between the control and eNpHR3.0 groups in the volitional     signal for the volitional signal between control and eNpHR groups.
+stop signal task. C Analysis of the GO task response time between   H Analysis of the peak of the calcium signal for auditory feedback
+the control and eNpHR 3.0 groups in the volitional stop signal task.    between control and eNpHR groups. I Analysis of the peak of the
+D Analysis of the go task response time between the control and    calcium signal for reward between control and eNpHR groups. J–M)
+eNpHR 3.0 groups in the volitional stop signal task. E Analysis of    Same as F–I, but for STN. The control group: n = 6; eNpHR 3.0
+licking behavior between the control and eNpHR3.0 groups in the     group: n = 7.
+
+
+behavioral inhibition and volitional inhibition may   Conclusion
+operate through similar mechanisms; however, a key
+distinction lies in the presence of sensory feedback in    In summary (Fig. 9), volitional control requires the
+volitional control.                                        coordinated activity of the direct and indirect pathways
+                                                            of the basal ganglia to effectively support processes such
+                                                            as learning and executive control. M1 generates volition-
+                                                               initiating neural signals that drive the execution ofS. Luo et al.: The Secondary Motor Cortex-External Globus Pallidus Pathway                                                  1233
+
+
+
+                                                  Open Access   This article is licensed under a Creative Commons
+                                                                       Attribution 4.0 International License, which permits use, sharing,
+                                                                        adaptation, distribution and reproduction in any medium or format,
+                                                                        as long as you give appropriate credit to the original author(s) and the
+                                                                         source, provide a link to the Creative Commons licence, and indicate
+                                                                                                 if changes were made. The images or other third party material in this
+                                                                                  article are included in the article’s Creative Commons licence, unless
+                                                                        indicated otherwise in a credit line to the material. If material is not
+                                                                     included in the article’s Creative Commons licence and your intended
+                                                                   use is not permitted by statutory regulation or exceeds the permitted
+                                                                          use, you will need to obtain permission directly from the copyright
+                                                                           holder. To view a copy of this licence, visit http://creativecommons.
+                                                                             org/licenses/by/4.0/.
+
+                                                  References
+
+                                                                                 1.  Lebedev MA, Nicolelis MAL. Brain-machine interfaces: From
+                                                                             basic science to neuroprostheses and neurorehabilitation. Physiol
+Fig. 9   Schematic  Diagram  of  M2-GPe  Neurons  Involved  in        Rev 2017, 97: 767–837.
+Volitional Control. The direct and indirect pathways within the basal      2.  Taccola G, Sayenko D, Gad P, Gerasimenko Y, Edgerton VR.
+ganglia play a critical role in modulating both the acquisition and       And yet it moves: Recovery of volitional control after spinal cord
+execution of volitional control. Sensory feedback, including visual,           injury. Prog Neurobiol 2018, 160: 64–81.
+auditory, and somatosensory signals, is integrated via the M2-GPe      3.  Lebedev MA, Nicolelis MAL. Brain-machine interfaces: Past,
+circuit to the basal ganglia, collectively contributing to the regulation         present and future. Trends Neurosci 2006, 29: 536–546.
+of volitional control.                                                          4.  Eagle DM, Bari A, Robbins TW. The neuropsychopharmacology
+                                                                            of action inhibition: Cross-species translation of the stop-signal
+volitional responses. The GP(e) a component of the indirect        and go/no-go tasks. Psychopharmacology (Berl) 2008, 199:
+pathway that relays striatum inputs to the STN-mediated        439–456.                                                                               5.  Janczyk M, Huestegge L. Effects of a no-go task 2 on task 1volitional inhibition and circuit stabilization to support                                                                  performance in dual - tasking: From benefits to costs. Atten
+the precision of volitional control. The M2-GPe circuit         Percept Psychophys 2017, 79: 796–806.
+primarily integrates sensory feedback—including auditory,      6.  Sasi M, Friedman S, Lamy D. The go no-go reviewing
+visual, and tactile inputs—via this pathway, interacting with         paradigm: A reliable method for measuring perceptual object-                                                                                                 file updating. Atten Percept Psychophys 2023, 85: 140–151.the direct and indirect pathways of the basal ganglia to                                                                               7.  Zhang N, An W, Yu Y, Wu J, Yang J. Go/No-go ratios modulate
+modulate volitional control. The M2-GPe circuit contributes          inhibition-related brain activity: An event-related potential
+to volitional inhibition by influencing the response time of          study. Brain Sci 2024, 14: 414.
+volitional control (GO task).                                            8.  Halme HL, Parkkonen L. The effect of visual and proprioceptive                                                                     feedback on sensorimotor rhythms during BCI training. PLoS
+                                                        One 2022, 17: e0264354.Acknowledgements   This work was supported by Zhejiang Provincial                                                                               9.  Chen Y, Wang F, Li T, Zhao L, Gong A, Nan W. ConsiderationsNatural Science Foundation (LY22C090005), Science and Technology                                                                and discussions on the clear definition and definite scope ofInitiative STI2030-Major Projects (2021ZD0203400), Scientific Research                                                                      brain-computer interfaces. Front Neurosci 2024, 18: 1449208.Starting Foundation of Oujiang Laboratory (Zhejiang Lab for Regenerative                                                                      10.  Sitaram R, Ros T, Stoeckel L, Haller S, Scharnowski F, Lewis-Medicine, Vision and Brain Health) (OJQDSP2022007), and National Key                                                                Peacock J, et al. Closed-loop brain training: The science ofResearch and Development Program of China (2022YFE0210100). We                                                                       neurofeedback. Nat Rev Neurosci 2017, 18: 86–100.thank the Scientific Research Center of Wenzhou Medical University for                                                                      11.  Barthas F, Kwan AC. Secondary motor cortex: Where ‘sensory’providing excellent consultation and instrumental support.                                                                 meets ‘motor’ in the rodent frontal cortex. Trends Neurosci
+                                                                     2017, 40: 181–193.
+Data Availability   Original data and code are available upon request     12. Yang JH, Kwan AC. Secondary motor cortex: Broadcasting and
+from the corresponding author.                                             biasing animal’s decisions through long-range circuits. Int Rev
+                                                                     Neurobiol 2021, 158: 443–470.
+Conflict of interest  The authors declare that there are no conflicts     13. Zhou L, Gu Y. Cortical mechanisms of multisensory linear self-
+of interest.                                                         motion perception. Neurosci Bull 2023, 39: 125–137.
+                                                                      14. Wang TY, Liu J, Yao H. Control of adaptive action selection by
+                                                                   secondary motor cortex during flexible visual categorization.
+                                                                                 Elife 2020, 9: e54474.
+                                                                      15. Cao VY, Ye Y, Mastwal S, Ren M, Coon M, Liu Q, et al. Motor
+                                                                        learning consolidates arc-expressing neuronal ensembles in
+                                                                    secondary motor cortex. Neuron 2015, 86: 1385–1392.1234                                                                                         Neurosci. Bull. June, 2026, 42(6):1218–1234
+
+16.  Sul JH, Jo S, Lee D, Jung MW. Role of rodent secondary motor     30. Moxon KA, Foffani G. Brain-machine interfaces beyond
+     cortex in value-based action selection. Nat Neurosci 2011, 14:          neuroprosthetics. Neuron 2015, 86: 55–67.
+    1202–1208.                                                      31. Wander JD, Blakely T, Miller KJ, Weaver KE, Johnson LA,
+17. Karube F, Takahashi S, Kobayashi K, Fujiyama F. Motor cortex        Olson JD, et al. Distributed cortical adaptation during learning
+    can directly drive the globus pallidus neurons in a projection         of a brain-computer interface task. Proc Natl Acad Sci USA
+    neuron type-dependent manner in the rat. Elife 2019, 8: e49511.         2013, 110: 10818–10823.
+18.  Johansson Y, Ketzef M. Sensory processing in external globus     32. Clancy KB, Koralek AC, Costa RM, Feldman DE, Carmena
+     pallidus neurons. Cell Rep 2023, 42: 111952.                     JM. Volitional modulation of optically recorded calcium
+19. Dana H, Chen TW, Hu A, Shields BC, Guo C, Looger LL, et         signals during neuroprosthetic learning. Nat Neurosci 2014,
+     al. Thy1-GCaMP6 transgenic mice for neuronal population         17: 807–809.
+    imaging in vivo. PLoS One 2014, 9: e108697.                     33.  Koralek AC, Costa RM, Carmena JM. Temporally precise cell-
+20. Zhang L, Zhou Y, Liu C, Zheng W, Yao Z, Wang Q, et al.          specific coherence develops in corticostriatal networks during
+    Adenosine ­A2A receptor blockade improves neuroprosthetic          learning. Neuron 2013, 79: 865–872.
+     learning by volitional control of population calcium signal in     34. Koralek AC, Jin X, Long JD 2nd, Costa RM, Carmena JM.
+   M1 cortical neurons. Neuropharmacology 2020, 178: 108250.          Corticostriatal plasticity is necessary for learning intentional
+21. Zhang L, Liu C, Zhou X, Zhou H, Luo S, Wang Q, et al. Neural         neuroprosthetic skills. Nature 2012, 483: 331–335.
+    representation and modulation of volitional motivation in     35.  Héliot R, Ganguly K, Jimenez J, Carmena JM. Learning
+    response to escalating efforts. J Physiol 2023, 601: 631–645.           in closed-loop brain–machine interfaces: Modeling and
+22. Luo S, Zhou X, Zhou H, Li T, He Y, Chen JF, et al. Volitional         experimental validation. IEEE Trans Syst Man Cybern Part B
+    modulation of neuronal activity in the external globus pallidus        Cybern 2010, 40: 1387–1397.
+    by engagement of the cortical-basal Ganglia circuit. J Physiol     36. Osuna-Orozco R, Zhao Y, Stealey HM, Lu HY, Contreras-
+    2024, 602: 3755–3768.                                       Hernandez E, Santacruz SR. Adaptation and learning as
+23. Verbruggen F, Logan GD. Response inhibition in the stop-signal          strategies to maximize reward in neurofeedback tasks. Front
+    paradigm. Trends Cogn Sci 2008, 12: 418–424.               Hum Neurosci 2024, 18: 1368115.
+24. Clancy KB, Mrsic-Flogel TD. The sensory representation of     37. Ganguly K, Carmena JM. Emergence of a stable cortical map
+     causally controlled objects. Neuron 2021, 109: 677-689.e4.              for neuroprosthetic control. PLoS Biol 2009, 7: e1000153.
+25.  Klaes C, Shi Y, Kellis S, Minxha J, Revechkis B, Andersen RA.     38. Roth RH, Ding JB. Cortico-basal Ganglia plasticity in motor
+   A cognitive neuroprosthetic that uses cortical stimulation for          learning. Neuron 2024, 112: 2486–2502.
+    somatosensory feedback. J Neural Eng 2014, 11: 056024.          39.  Marchesotti S, Martuzzi R, Schurger A, Blefari ML, Del Millán
+26.  Astrand E, Wardak C, Ben HS. Selective visual attention to drive         JR, Bleuler H, et al. Cortical and subcortical mechanisms
+     cognitive brain-machine interfaces: From concepts to neurofeedback         of brain-machine interfaces. Hum Brain Mapp 2017, 38:
+    and rehabilitation applications. Front Syst Neurosci 2014, 8: 144.          2971–2989.
+27. Golub MD, Chase SM, Batista AP, Yu BM. Brain-computer     40. Lebedev MA, Carmena JM, O’Doherty JE, Zacksenhouse
+     interfaces for dissecting cognitive processes underlying       M, Henriquez CS, Principe JC, et al. Cortical ensemble adap-
+    sensorimotor control. Curr Opin Neurobiol 2016, 37: 53–58.             tation to represent velocity of an artificial actuator controlled by a
+28. Tankus A, Fried I, Shoham S. Cognitive-motor brain-machine         brain-machine interface. J Neurosci 2005, 25: 4681–4693.
+     interfaces. J Physiol Paris 2014, 108: 38–44.                       41.  Taylor DM, Tillery SIH, Schwartz AB. Direct cortical control of
+29.  Prins NW, Sanchez JC, Prasad A. Feedback for reinforcement       3D neuroprosthetic devices. Science 2002, 296: 1829–1832.
+    learning based brain-machine interfaces using confidence     42.  Zippi EL, Shvartsman GF, Vendrell-Llopis N, Wallis JD, Carmena
+     metrics. J Neural Eng 2017, 14: 036016.                         JM. Distinct neural representations during a brain-machine
+                                                                                interface and manual reaching task in motor cortex, prefrontal
+                                                                                 cortex, and striatum. Sci Rep 2023, 13: 17810.
+                                                                       43.  Scott SH. Optimal feedback control and the neural basis of
+                                                                                   volitional motor control. Nat Rev Neurosci 2004, 5: 532–546.
+                                                                       44.  Sainburg RL, Ghilardi MF, Poizner H, Ghez C. Control of limb
+                                                                   dynamics in normal subjects and patients without proprioception.
+                                                                                      J Neurophysiol 1995, 73: 820–835.
+                                                                       45. Bossom J. Movement without proprioception. Brain Res 1974,
+                                                                           71: 285–296.
+                                                                       46.  Horowitz AJ, Guger C, Korostenskaja M. What external variables
+                                                                                      affect sensorimotor rhythm brain-computer interface (SMR-BCI)
+                                                                     performance? HCA Healthc J Med 2021, 2: 143–162.

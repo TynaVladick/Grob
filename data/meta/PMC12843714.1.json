@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC12843714",
+  "version": 1,
+  "pmid": 41597573,
+  "doi": "10.3390/microorganisms14010053",
+  "mid": null,
+  "title": "Characterization of Bacterial Communities in Air and Bedding Materials of Intensive Donkey Farms During Summer",
+  "citation": "Microorganisms. 2025 Dec 26;14(1):53. doi: 10.3390/microorganisms14010053",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC12843714.1/PMC12843714.1.txt?md5=cc8b847bc59806215dfca124caac2a0c",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12843714.1/PMC12843714.1.pdf?md5=433382aa07bc16b44b36f56c94e5f8f7",
+  "xml_url": "s3://pmc-oa-opendata/PMC12843714.1/PMC12843714.1.xml?md5=983d45e0b5ef50f49615c782d8675d80",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12843714.1/microorganisms-14-00053-g001.jpg?md5=93d39d7dd6f256c61faa0dd88aa86661",
+    "s3://pmc-oa-opendata/PMC12843714.1/microorganisms-14-00053-g002.jpg?md5=06bb6d6b59648c0bf610a760e852cc48",
+    "s3://pmc-oa-opendata/PMC12843714.1/microorganisms-14-00053-g003.jpg?md5=d853345a676737f1bf936eb21daa99ff",
+    "s3://pmc-oa-opendata/PMC12843714.1/microorganisms-14-00053-g004.jpg?md5=1f2f8ce30fffd0535dde9489e73b4e3d",
+    "s3://pmc-oa-opendata/PMC12843714.1/microorganisms-14-00053-g005.jpg?md5=ead67789921ce83602d36ae1576fc265",
+    "s3://pmc-oa-opendata/PMC12843714.1/microorganisms-14-00053-g006.jpg?md5=ec50735f82e84a3a5d5e1cce88a66ae1"
+  ]
+}

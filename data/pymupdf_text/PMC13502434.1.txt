@@ -1,0 +1,805 @@
+Received: 29 September 2025    |  Accepted: 15 November 2025
+
+DOI: 10.1002/ksa.70226
+
+
+K N E E A R T H R O P L A S T Y
+
+
+Functional alignment in robotic total knee arthroplasty
+provides favourable outcomes and minimal early
+revisions: A systematic review and meta‐analysis
+
+
+Vasileios Giovanoulis1    |  Angelo V. Vasiliadis1,2    |  Luca Andriollo1,3    |
+Pietro Gregori1,4    |  Konstantinos Dretakis5    |  Christos Koutserimpas1,5,6         |
+Sébastien Lustig1,7
+
+
+
+1Department of Orthopaedics Surgery and
+Sports Medicine, Hôpital de la Croix‐Rousse,    Abstract
+Lyon, France                       Purpose: Functional alignment (FA) has emerged as a personalised
+2Department of Anatomy, University of         alignment strategy in total knee arthroplasty (TKA), enabled by robotic‐
+Thessaly, Volos, Greece                   assisted technology. Although early clinical results are encouraging, evi-
+3Ortopedia e Traumatologia, Fondazione       dence remains heterogeneous and long‐term safety  is uncertain. This
+Poliambulanza Istituto Ospedaliero,           systematic review aimed to evaluate functional outcomes, and early revision
+Brescia, Italy
+                                          risk of robotic‐assisted TKA performed under FA principles with a minimum
+4Fondazione Policlinico Universitario Campus
+                                     follow‐up of 2 years.Bio‐Medico, Roma, Italy
+                              Methods: This review was conducted according to PRISMA guidelines and
+52nd Department of Orthopaedics, Hygeia
+General Hospital of Athens, Athens, Greece      registered in PROSPERO (CRD420251134340). PubMed/MEDLINE and
+                              Scopus were searched up to August 2025. Eligible studies included adult
+6School of Rehabilitation Health Sciences,
+University of Patras, Patras, Greece            patients undergoing robotic‐assisted primary TKA with FA, reporting out-
+                            comes at ≥2 years' follow‐up. Data on demographics, robotic system,7IFSTTAR, LBMC UMR_T9406, Univ Lyon,
+Claude Bernard Lyon 1 University,            implant  type,  patient‐reported outcome measures (PROMs), range  of
+Lyon, France                         motion (ROM), complications, and revision rates were extracted. Risk of
+                                    bias was assessed using ROB 2 and ROBINS‐I. A random‐effects single‐
+Correspondence                   arm meta‐analysis of pooled proportions was performed for early aseptic
+Christos Koutserimpas, Department of          revision risk.
+Orthopaedics Surgery and Sports Medicine,
+FIFA Medical Center of Excellence, Croix‐       Results: Twenty studies (5155 TKAs) were included, with a weighted mean
+Rousse Hospital, Hospices Civils de Lyon,       follow‐up of 2.5 years. All procedures were performed using the image‐
+Lyon North University Hospital, 103 Grande     based robotic system. Postoperative PROMs were consistently high: KneeRue de la Croix‐Rousse, 69004 Lyon, France.
+Email: koutserimpas@upatras.gr             Society Score (KSS) Knee 92.4–94.5, KSS Function 91.4–93.4, and FJS
+                                   74.8–77.5. Kujala scores indicated minimal anterior knee pain (88.1–93.2).
+                     ROM improved from a mean preoperative ﬂexion of 119.3° to 123°–124.8°.
+                                  Complications were infrequent, most commonly stiffness requiring manip-
+                                       ulation under anaesthesia. Across all cohorts, 18 aseptic revisions were
+                                   reported (pooled proportion 0.35%, 95% CI 0.23–0.55). The single‐arm
+                                  meta‐analysis of pooled proportions showed a negligible pooled early
+
+
+
+
+
+Abbreviations: AKPS, Anterior Knee Pain Scale; CI, conﬁdence interval; EQ‐5D, EuroQol‐5D; FA, functional alignment; FJS, Forgotten Joint Score; KA, kinematic
+alignment; KOOS, Knee injury and Osteoarthritis Outcome Score; KSS, Knee Society Score; OKS, Oxford Knee Score; PRISMA, Preferred Reporting Items for
+Systematic Reviews and Meta‐Analyses; PROMS, patient‐reported outcome measures; ROM, range of motion; TKA, total knee arthroplasty; WOMAC, Western
+Ontario and McMaster Universities Osteoarthritis Index.
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium,
+provided the original work is properly cited.
+© 2025 The Author(s). Knee Surgery, Sports Traumatology, Arthroscopy published by John Wiley & Sons Ltd on behalf of European Society of Sports Traumatology,
+Knee Surgery and Arthroscopy.
+
+3362      |    wileyonlinelibrary.com/journal/ksa                                           Knee Surg Sports Traumatol Arthrosc. 2026;34:3362–3376.FUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3363
+
+
+                                      revision risk (rounded to 0.00; 95% CI 0.00–0.01; I² = 0%). Outcomes were
+                               comparable across age, gender, ﬁxation type, and implant constraint,
+                                  although obese patients accounted for all mechanical failures.
+                               Conclusion: Robotic‐assisted TKA performed under FA principles yields
+                                   favourable short‐ to mid‐term functional outcomes and a low rate of early
+                                    aseptic revision.
+
+                                Level of Evidence: Level III, systematic review and meta‐analysis.
+
+
+                            K E Y W O R D S
+
+                                                functional alignment, functional knee positioning, personalised alignment, robotic knee,
+                                                robotic TKA
+
+
+
+INTRODUCTION                              outcomes, complication rates, and early revision risk at
+                                               a minimum of 2 years' follow‐up. We hypothesised that
+Functional alignment (FA), also referred to as functional    robotic‐assisted FA would provide excellent functional
+knee  positioning, has emerged as a personalised    results and implant survivorship without increasing the
+alignment philosophy in total knee arthroplasty (TKA)    incidence of complications or early revisions.
+that aims to restore native knee biomechanics by bal-
+ancing bony anatomy and soft tissue tension in three
+dimensions [5, 22]. Unlike mechanical alignment, which  METHODS
+imposes a  uniform  neutral  axis, FA  individualises
+implant positioning based on each patient's limb mor-    This systematic review was conducted in accordance with
+phology, ligamentous  laxities, and anterior compart-    the Preferred Reporting Items for Systematic Reviews and
+ment behaviour [16, 39]. This approach relies on the    Meta‐Analyses (PRISMA) guidelines [36]. The protocol
+precise intraoperative evaluation of mediolateral gaps   was prospectively registered with the International Pro-
+in extension and ﬂexion, joint line preservation, and    spective Register of Systematic Reviews (PROSPERO)
+component orientation tailored to the patient's pheno-     (registration number: CRD420251134340).
+type. Such detailed assessment and execution are only
+feasible with robotic‐assisted platforms, which provide
+accurate, real‐time data on implant positioning, gap   Search strategy
+balancing, and kinematic behaviour [5, 16, 22, 39].
+   This newly introduced philosophy of alignment has   A comprehensive search of PubMed/MEDLINE and
+demonstrated promising early outcomes, but it remains   Scopus  databases was  performed  from  database
+under active investigation [22, 33, 38]. FA is intrinsically    inception to August 2025. The following search string
+linked to robotic platforms, which have been shown to   was applied: (“total knee arthroplasty” OR “TKA” OR
+be safe and  accurate,  providing three‐dimensional     “total knee replacement” OR “TKR”) AND (“functional
+implant planning together with precise evaluation of    alignment” OR “functional knee position” OR “FA” OR
+mediolateral gaps in both extension and ﬂexion [13, 14,    “FKP”) AND (robotic OR “robotic‐assisted” OR “robot‐
+24]. While FA has been associated with favourable    assisted”).
+kinematics, reduced need for soft tissue releases, and      The search was restricted to studies published in
+high levels of patient‐reported satisfaction, the availa-    English. Reference lists of included full‐text articles were
+ble evidence  is  still relatively limited and heteroge-    screened manually to identify additional eligible studies.
+neous,  consisting  mainly  of  single‐center  cohort
+studies [42, 44]. Important questions remain regarding
+its  long‐term  safety,  reproducibility,  and  potential    Eligibility criteria
+impact on revision risk when compared with traditional
+alignment strategies. Given the growing adoption of    Studies were considered eligible if they included adult
+robotic systems worldwide, there is a pressing need to    patients  undergoing  primary  robotic‐assisted TKA
+synthesise the existing evidence to clarify the clinical    under FA principles, and if they reported outcomes at a
+performance of FA in robotic TKA.                   minimum  follow‐up  of 2  years.  Acceptable  study
+   The objective of this systematic review and single‐    designs were randomised controlled trials, prospective
+arm meta‐analysis was to critically evaluate the out-    or retrospective comparative cohort studies, or large
+comes of robotic‐assisted TKA performed under FA   case series with at least 50 patients. To be included,
+principles, with a speciﬁc focus on patient‐reported    studies also needed to report at least one validated3364      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+
+patient‐reported outcome measure, such as the Knee    recorded as frequencies or percentages. A single‐arm
+Society Score (KSS), the Forgotten Joint Score (FJS),    meta‐analysis of pooled proportions was performed to
+the  Western  Ontario  and  McMaster  Universities    calculate the incidence of aseptic revision among FA
+Osteoarthritis Index (WOMAC), the Oxford Knee Score    cohorts. Pooled event rates with 95% conﬁdence inter-
+(OKS), the Kujala score, the Knee injury and Osteo-    vals were generated using a random‐effects model.
+arthritis Outcome Score (KOOS), or the EuroQol‐5D      Data synthesis and meta‐analyses were performed
+(EQ‐5D). Studies were excluded  if they involved revi-    using Review Manager (RevMan, version  5.4; Co-
+sion or partial knee arthroplasty, small case series with    chrane Collaboration) and R software (version 4.3.2)
+fewer than 50 patients, cadaveric or biomechanical    with the ‘meta’ and ‘metafor’ packages. Heterogeneity
+investigations, expert opinions, narrative reviews, or   was assessed with Cochran's Q, τ2, and I2 (with ~25%,
+non‐English language publications.                  ~50%, ~75%  interpreted as  low, moderate,  high).
+                                                     Authors also reported a 95% prediction interval when
+                                                         estimable. Small‐study effects/publication bias were
+Study selection and data extraction           assessed with Peters' test for the proportion meta‐
+                                                          analysis and Egger's regression for the incidence‐rate
+Study selection was carried out independently by two    meta‐analysis (two‐sided α = 0.05).
+reviewers (V.G., AV.V.), who ﬁrst screened titles and
+abstracts, and subsequently reviewed the full texts of
+potentially   eligible   articles.  Discrepancies  were   Quality assessment
+resolved by discussion with a third reviewer (C.K). Data
+extraction was  also conducted  independently and   The risk of bias was assessed using the RoB 2 tool for
+included study design and information, patient demo-    randomised controlled trials and the ROBINS‐I tool for
+graphics, robotic system used, and comparator groups    non‐randomised studies. The certainty of evidence was
+where applicable [2, 6, 12, 13]. Outcomes extracted    rated as very low, low, moderate, or high based on the
+included patient‐reported outcome measures, range of   domains of risk of bias, inconsistency, indirectness,
+motion, complications, as well as revision rates. The    imprecision, and publication bias.
+indications for the revisions were also recorded.
+
+                             RESULTS
+FA strategy
+                                              The  initial database search  yielded a  total  of 57
+Across the included literature, most cohorts applied FA    records. After removal of duplicates and screening of
+strategy within a standardised set of planning bound-     titles and  abstracts, 49 studies underwent  full‐text
+aries. Fourteen of the twenty studies (Andriollo et al.    review (Figure 1). Twenty studies met the inclusion
+[1–3], Diquattro et al. [11, 12], and Koutserimpas et al.     criteria and were included in the ﬁnal synthesis. All
+[20, 23, 25, 27–30] explicitly reported using the image‐    studies were published between 2023 and 2025.
+based robotic workﬂow described by Shatrov et  al.,       This review encompassed 5155 primary  robotic
+which targets HKA 174°–180°, femoral positioning from     total knee arthroplasties performed using functional
+3° varus to 6° valgus, tibial positioning at 0°–6° varus,    alignment principles [39]. Median cohort size was 292
+femoral rotation 0° internal rotation–6° external rotation   knees (range, 60–527), with a weighted mean follow‐
+[39]. The remaining cohorts applied comparable limits:   up of 2.5 years (range, 2–3 years), Most cohorts were
+Nixon et al. [37], Young et al. [44], Yu et al. [45] and    retrospective  analyses  of  prospectively  maintained
+Manara et al. [34] followed similar FA principles and     registries, while also one randomised trial [44] and one
+implant positioning ranges. Choi et al. [6] positioned    prospective study [8] were included. Most series origi-
+both components within ±3° in the coronal plane, with    nated from high‐volume single centres with the Croix
+an overall limb alignment of 0–3°. Clark et  al.  [8]   Rousse hospital of Lyon contributing several large data
+allowed tibial positioning up to 6° varus and femoral    sets, and additional studies from South Korea  [6],
+positioning up to 6° valgus, while Daffara et al. [10]    Australia [8], China [45], Italy [10] and New Zealand
+reported tibial alignment within 4° varus and 2° valgus.     [44]. Patient demographics were broadly consistent,
+Yang et al. [43] targeted component positioning within    with mean age between 66 and 72 years, body mass
+±5° of varus/valgus.                                    index ranging from 26.3 to 30.4 kg/m², and a female
+                                                          proportion between 58% and 67%. All of the 20 cohorts
+                                                used the image‐based MAKO (Stryker, Mako Surgical
+Statistical analyses                                 Corp., Fort Lauderdale, FL, USA) platform. Where
+                                                         implant constraint was reported, construct choice was
+Continuous variables were extracted as means and     typically mixed but skewed toward posterior‐stabilised
+standard deviations, while categorical variables were    (PS) designs (≈two‐thirds PS) (Table 1).FUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3365
+
+
+
+
+
+FIGURE 1   Preferred Reporting Items for Systematic Reviews and Meta‐analyses (PRISMA) ﬂowchart.
+
+
+
+   Functional outcomes were  reported  across  all    were reported, with eight cohorts having no events [3, 6,
+included studies, with the KSS and KSS‐function being    11, 12, 34, 43–45] and the rest 12 cohorts reporting at
+the most commonly used measures. The  studies     least one revision. The overall pooled proportion of early
+demonstrated high postoperative knee function, with    aseptic revisions was 0.35% (18 revisions out of 5155
+the mean KSS Knee score ranging from 92.4 to 94.5,    knees; 95% CI: 0.23%–0.55%) (Table 4).
+and the mean KSS‐function score ranging from 91.4 to      The single‐arm meta‐analysis of these cohorts dem-
+93.4 (Table 2). The FJS ranged between 74.8 and 77.5    onstrated a very low revision risk with negligible variability
+in most studies, with FA principles showing signiﬁcant    across studies. The random‐effects pooled proportion of
+differences  when  compared   with   conventional    early aseptic revisions was effectively zero, rounded to
+mechanical alignment in terms of FJS scores [44]. The    0.00 (95% CI: 0.00–0.01), with  I² ≈0% and p = 1.00
+Kujala Anterior Knee Pain Scale (AKPS) was another    (Figure 2). The pooled incidence rate of revisions per
+key outcome measure, showing  consistent  values    component‐year was also very low, approximately 0.2 per
+ranging from 88.1 to 93.2, indicating minimal anterior   100  component‐years,  with   I² ≈ 0% and p = 1.00
+knee pain across cohorts. Some studies also reported    (Figure 3). The funnel plot showed no signiﬁcant asym-
+on WOMAC [6] and KOOS Total [8, 10, 37, 43, 44] and    metry, indicating no evident small‐study effects, although
+OKS [8, 34, 37, 44], indicating an overall high level of    the limited number of events and narrow study size range
+knee‐related  quality  of  life  post‐surgery. Range  of     restricts statistical power to detect such effects (Figure 4).
+motion (ROM) also varied across studies, with the
+mean recurvatum being approximately 0.6°–1.1° pre-
+operatively, improving to 0.2°–1.3° postoperatively. The   Study quality (ROBINS‐I)
+ﬂexion contracture ranged from 2.2° preoperatively to
+0.2° postoperatively, with maximum ﬂexion improving    Risk‐of‐bias assessments  for the included observa-
+from 119.3° preoperatively to a postoperative range of     tional cohorts were primarily moderate (18 cohorts),
+123°–124.8° (Tables 2 and 3).                            with a small number of studies rated as low‐moderate
+   Complication and  early  revision  rates were  low    (2 cohorts). The sole randomised controlled trial was
+throughout the included series. The most frequent events   assessed as having a low risk of bias based on the
+were stiffness requiring manipulation under anaesthesia   ROB2 tool used for randomised studies. Formal small‐
+(N = 92;  1.78%), and haematomas (N = 63;  1.22%).    study effect testing showed no evidence of bias: Peters'
+Mechanical failures were observed more frequently (4     test  for the proportion meta‐analysis non‐signiﬁcant
+cases – 3%)  in obese  patients, as  described  by    (p > 0.10) and Egger's regression for the incidence‐rate
+Koutserimpas et al. [27], while rare revisions for aseptic    meta‐analysis non‐signiﬁcant (p > 0.10). Power is lim-
+loosening, instability, or allergic reactions were also re-     ited due to the very low event rates and the narrow
+ported. Among these cohorts, 18 early aseptic revisions    study‐size range.3366      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+
+TABLE 1  Demographic data and implant characteristics of the included studies.
+
+                                                                               Implant
+                                                                                   constraint          Fixation        Follow‐up
+ Study           Sample  Age (mean ± SD)  Female (%)  BMI (mean ± SD)     (CR/CS/PS, %)     type (%)         (years)
+
+ Andriollo et al. [3]   310     69 ± 8.3           58.4         28.6 ± 4.9              ‐/34.5/65.5       NR              2.9
+
+ Andriollo et al. [1]   310     69 ± 8.3           58.4         28.6 ± 4.9              ‐/34.5/65.5       NR              2.9
+
+ Andriollo et al. [2]   180      69.1 ± 8.3         55.6         28.9 ± 4.6              ‐/23.9/76.1       NR              2.9
+
+ Choi et al. [6]      60       70.0 ± 5.7         0.78         26.7 ± 2.6              ‐/100/‐         NR            2
+
+ Clark et al. [8]      300     66−67            49.6−56.9    32.0 ± 8            100           NR            2
+
+ Daffara et al. [10]   164      71.7 ± 8.9         62.8         28.7 ± 4.7             51/‐/49        CM (49)        2
+
+                                                                              CL (51)
+
+ Diquattro et al. [11]  283      68.6 ± 8.1        55           28.7 ± 4.8           NR/34.3/NR      NR              2.8
+
+ Diquattro et al. [12]  268     70 (median)       63.8         28.1 ± 6 (median)      ‐/35/65         NR              2.7
+
+ Koutserimpas      353     70 (median)       61.8         28.1 (median)         35/‐/65        CM (96)          2.8
+ et al. [20]
+                                                                              CL (257)
+
+ Koutserimpas      355     70 (IQR 64–74)    57.8         27.8 (IQR             ‐/35/65         NR              2.8
+ et al. [23]                                                    24.9–31.8)
+
+ Koutserimpas      327     68–70 (median)    58.4         28.1 (IQR 25–32)     35/‐/65              ≤3°: CL (70.7)    2.5
+ et al. [25]                                                                                                   >3°: CL (76.3)
+
+ Koutserimpas      372     70 (IQR 64–74)    59.1         27.8 (IQR             35/‐/65        CM (28) CL (72)  2.5
+ et al. [27]                                                    24.9–31.7)
+
+ Koutserimpas      329     71 (IQR 65–75)    66.3         28.1 (IQR 25–32)     ‐/37/63         NR            3
+ et al. [28]
+
+ Koutserimpas      393     70 (IQR 64–74)    61.3         28.3 (IQR          CM: 3.5/‐/96.5 CL:  CM (23.5)        2.5
+ et al. [29]                                                    25.2–31.6)            42/‐/58          CL (76.5)
+
+ Koutserimpas      190     70 (IQR 63–75)    54.2         28.3 (IQR            <10°: ‐/73/27 ≥10°: NR            3
+ et al. [30]                                                    25.5–31.7)            ‐/86/14
+
+ Manara et al. [34]   101      64.5              35.6        30 (22–40)          CR/CS/‐       CM (tibia &      2
+                                                                                                                         patella) CL
+                                                                                                            (femur)
+
+ Nixon et al. [37]    527      67.4–67.7         49.2 −57.2  31.5–32.6              100/‐/‐         NR            2
+
+ Yang et al. [43]     100      69.6 ± 6.3          0.8          26.3 ± 4.1              100/‐/‐        CM (100)       2
+
+ Young et al. [44]    244     66 ± 7.1           48.8         31.1 ± 4.6              100/‐/‐        CM (100)       2
+
+ Yu et al. [45]       110     67 ± 8.1            0.5          26.9 ± 3.7              100/‐/‐        CM (100)       2
+
+Abbreviations: BMI, body mass index; CL, cementless; CM, cemented; CR, cruciate‐retaining; CS, cruciate‐substituting; FA, functional alignment; IQR, interquartile
+range; PS, posterior stabilise; NR, not reported.
+
+
+DISCUSSION                                      favourable patellofemoral kinematics, may be prob-
+                                                          lematic in valgus knees: robotic simulations and tech-
+The most important ﬁnding  of  this study was  that    nical reports have shown that KA may drive excessive
+robotic FA TKA is associated with favourable patient‐    femoral valgus and internal rotation in valgus morpho-
+reported outcomes, low complication rates, and very    types; changes that risk undercoverage or malorienta-
+low rates of aseptic revision across more than 5000     tion of the trochlea and potentially aggravate anterior
+patients at 2.5 years of follow‐up.                     compartment mechanics  unless  implant  design  is
+   These  results  sit  within the broader debate on    speciﬁcally adjusted [19, 40, 41]. These concerns have
+alignment strategies. Mechanical alignment is repro-   prompted proposals  for  explicit “boundaries” when
+ducible but  it may disregard patient‐speciﬁc morphol-    applying KA, particularly in valgus alignment. By con-
+ogy  [4, 5, 9, 33]. Kinematic alignment (KA), while     trast, FA, implemented with robotics, has been applied
+attractive  for  restoring  native  joint  lines and  often    successfully in valgus knees, achieving safe coronalFUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3367
+
+                                                                                           (42.7)      (42.4)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       (Continues)
+        OKS — —   — —   FAk   FAm —   — —   —       —   —   —   —   —
+
+
+                                                                                                10.0)     14.0)
+                   ± ±              total                                                            (86)      (85.9)                                                                                                (88.8     (86.7
+           KOOS — —   — —   FAk   FAm  PS  CR — —   —       —   —   —   —   —
+
+
+                                                    12.3
+             ±
+              WOMAC — —   —    13.6 —   —   — —   —       —   —   —   —   —
+
+
+
+          14  13                                                                                                                                         15.8)     ± ±                                                                                        12.5)
+                         ±                                                                                                                                                               (95)                                            14.1                                             12.0   ±                                                                                                                                                       (92)           ±           ±                (87.5                                                                                                                               (89.5           AKPS         88.1–89.4         88.7–89.9            88.4 — —   —             89.7 R  NR —                                    Varus      Valgus —   —   —   —
+
+                                  22.1)     21.9)
+       ± ±
+          22                                                                                                                                                                                                                            20.9)                                                                                                                                                                                                                  23.9)                                                                                                                                         22.2)                                                                                                           12.8)
+                                          ±                           ±                     ±                23.0)                                            ±    (86)    (84)     ±     (76.2     (76.8                                     9.2)±                                                                                                                                                               (90)                                                    30.1                                                                                             22.7                                            22.4                                                                                                                                                       (86)
+                       ±           ±             ±      (79.5)      (71.6)                         ±     (75.6                                                                                                (89.3     (87.5                                                                                                                                                                                                                  (75.6     (77.1   ≥30  30<    (86)    (84)    (84)    (90)                                 ≤7.5°    7.5°>                                                                                                                               (76.0              FJS12         74.8–77.5  CF  CF    74.8    79.6   FAk   FAm  PS  CR    75.0 R  NR —                                    Varus      Valgus   ≤3°   >3°   BMI   BMI  CS  PS  CL  CM
+
+
+
+
+
+       9     9                                                                                                                                                                                8.9)                                                                                                                                                                        9.9)                                                                                                              8.8)
+     ±
+                                          ±       ±                                                                      9.9)                                            ±    (90)    (90)                           ±    (94)    (90)                         ±                             (90)                     (94)                                                    15.1                                                                      8.7                                            10.3                                                                                                30                      function             ±           ±                       ±                (93.1   ≥75   <75            (95)    (90)                (91.3     (92.3   ≥30                                                                                                                               (90.6                      <    (90)    (90)    (90)    (90)        KSS         91.4–92.2         91.8–92.5            91.7    76.9 —   —             92.3 R  NR   Age   Age      Female    Male     Varus      Valgus   ≤3°   >3°   BMI   BMI  CS  PS  CL  CM
+      studies.
+
+       8     8                                                                                                              8.9)
+     ±       ±                                                                      8.1)                           ±    (95)      (94.5)                                     8.9)±    8.3)±    (95)      (94.5)                         ±                             (94)                     (94)                                       6.4                                                                      8.4                                 8.7                                                                                                                                                       (95)      included    knee             ±           ±                       ±                (93.2   ≥75   <75            (95)                                                                                                                                                                                                                  (92.2     (92.6   ≥30  30<    (91)    (94)    (94)    (95)                                                                                                                               (91.7  the   KSS         92.8–92.9         92.4–93.4            92.7    94.5 —   —             93.6 R  NR   Age   Age      Female    Male     Varus      Valgus   ≤3°   >3°   BMI   BMI  CS  PS  CL   CM:
+ of
+    score
+                                                                                                                      [20]                             [23]            [25]            [27]             [28]            [29]
+                                                                                                                                          al.                                                                                                                 al.                                                                                                                              al.                                                                                                                                                       al.                                                                                                                                                                   al.                                                                                             [11]    [12]         al.
+                                                                                            et                                                                                                    et                                                           et                                                                            et                                                                                    et                                                                                                             et              [3]   [1]         [2]                             [10]      Outcomes         al.   al.         al.                                       [6]   [8]         al.         al.   al.
+          et  et      et
+ 2                                       al.   al.      et      et  et
+                          et  et              Study          Andriollo          Andriollo                            Andriollo    Choi     Clark                      Daffara                            Diquattro          Diquattro                                     Koutserimpas                                                                                       Koutserimpas                                     Koutserimpas                                     Koutserimpas                                      Koutserimpas                                      Koutserimpas    TABLE3368      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+                                                                                                                              FA, Joint items
+                                                 6.4)         6.8)         4.9)                                  5.8               12
+                               ±                           0.8         ±  mm ±  mm ±  mm ±                                                                                                                                                                                                                                                                                                                                                                                                      Forgotten        OKS —      44  <2 (42.0   2‐3 (42.2   3‐6 (43.6 —                                     41.9 —                               Dimensions;         SF‐12,
+                                          5
+                                                                                                                                                                                                                                                                    FJS12,                                                                                                                                                                                                                                                                                                      EuroQol                resurface;                                                                        14.3)                                                                                                                                                           score; R,                                                       14.2)  ±            12.5)
+           ±      ±                                                                                                                                          (85.1)                                                                                     EQ‐5D,                                                                        (84.8                                                                                                                                                                                                                                                                                                                                                          patellar   stabilise;                                                                                        (88.4              total                                    (84.4                                                                                                                             12.9                                                                                                                                                                   (25.9)     68.4)                             mm                                  (84.5)                   (79.1)                      mm           mm             ±                                                  Feller′s           KOOS —   —  <2       2—3       3‐6         Pain        Symptoms   ADL     Sport   QOL    86.6 —                                                 posterior                                                                                                                                                                             FPS,
+                                                                                                                                      PS,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    cruciate‐substituting; plan;
+                                                                                                                                                                                                                                                                            Score;
+                                                                                                                              CS,   alignment Knee              WOMAC —   — —         —         — —
+                                                                                                                                                                                                                                                                            Oxford
+                                                                                                                                                                                  OKS,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         cruciate‐retaining;   mechanical
+                                                                                                                              CR,
+                   (92)    (93)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        preoperative   resurfaced;
+                                           a not                                                                                                                                                                                                                                                                                                                                                                                          cemented;           AKPS    ≥10°    <10° — —         —         — —
+                                                                                                                                                                             with                                                                                                                              CM,     NR,
+                                                                                                                                                                                                                                                                            Score;                                                                                                                                                                                                                                                                                                                                                                                                      alignment                                                                        26.6)                                                                                        23.6)                                                                                                                                                                                                                                                                                                                                                                                                                                                                              cementless;                      2)              ±                  ±           ±                                                                                                                                                                                                                        Society                                                                        (72.2            (79.6                                                              CL,   functional                                                       (73.9                                                                                                                            Knee                                                               7.5                                     25.6                   (80)    (82)                             mm     mm  ±         ±                                   ﬂexion; FAm,
+              FJS12    ≥10°    <10°    78.4  mm<2       2–3       3–6         81.8                                     70.1 —                     plan; KSS,                                                                                                                                                                                                                                                                                                                                                combined         Score;  Index.
+                                                                                                                              CF,                                                                                                                                                                                                                                                                                                                                                                                                      alignment                                                                                                                                                                                                                                                                                                                        Outcome   Arthritis                                                                                                                                                                                                                                                            index;                                                                                                                             16.5    13.3                      function    (90)    (93)                       ± ±                                                                                                                                                                        mass   kinematic                                                                                                                                                                                                                                                                                                                                                                             improved.        KSS    ≥10°    <10° — —         —                                     82.6    84.6                                                                                Universities                                                                                                                                                                        body                      Osteoarthritis
+                                                                                                                                                                        BMI,     and                                                                                                                                                                                                                                                                                                                                                                             subscales                     preoperative                                           a             McMaster                                                                                                                                                                                                                                                            Scale;         injury
+                                                                                                                                          and                                                                                                                                                                  KOOS       with                                                                                                    6.7                                                                                                                                                                        Pain      Knee           knee    (91)    (95)                                                                                             10.4±                                 ±    All
+        KSS    ≥10°    <10° — —         —                                     90.3    93.9    SD.±  Knee   alignment KOOS,  Ontario
+                                                                                                                                                                  mean    Anterior         score;  Western                                                                                 as                  functional                   [30]
+              al.                                                                                                                                                                                                                                                            Kujala FAk,  patellar  WOMAC,          et            [34]        (Continued)                                                                                                                                                                                                                                                                                                                                                                             expressed  AKPS,                                            [37]                                    [43]                                     [44]                           al.
+                                                                                              al.                                                                                                                                     [45]                                                                                                                          are                                                                                                                                                                                                                                                                                                                                 survey;                                                               al. 2              et   al.                                                                                                                                                                                                                                                                                                                                                                                                                                                 alignment;  Feller′s                                                              et                      et                                                                                                    al.                                          et                                                                                                                                                                                  FPS,                                                                                                                                                                  Data                 form                                                                   et              Study             Koutserimpas                   Manara     Nixon                                    Yang                                               Young  Yu    TABLE                                                                                                                                                                                                Note:       Abbreviations:   functional  Score; shortFUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3369
+
+
+TABLE 3   Visual analogue score, stair ability and range of motion of the included studies.
+
+ Study               VAS                    Stair ability       ROM‐r (degrees)   ROM‐c (degrees)   ROM‐f (degrees)
+
+ Andriollo et al. [3]    —          —                   1.1° ± 2.4–2.5        0.2° ± 1.1–1.3        123.2°–124.8° ± 10
+
+ Andriollo et al. [1]    —          —                  0.9°–1.5° ± 2−3      0.2°–0.3° ± 1         123.5°–126.4° ± 9–10
+
+ Andriollo et al. [2]    —          —        —         —         —
+
+ Choi et al. [6]      —          —        —         —         —
+
+ Clark et al. [8]           FAk (11.0)      —        —         —               FAk (124.6°)
+                   FAm (12.3)                                                   FAm (121°)
+
+ Daffara et al. [10]     —          —        —         —         —
+
+ Diquattro et al. [11]    —          —                  1°–1.4° ± 2.3         0.1°–0.3° ± 1.2      124° ± 10.0
+
+ Diquattro et al. [12]    —          —        —         —         —
+
+ Koutserimpas et al. [20]  —          —        —         —         —
+
+ Koutserimpas et al. [23]  —          —        —         —                 Varus (130°)
+                                                                                                          Valgus (130°)
+
+ Koutserimpas et al. [25]  —          —               0 ± 0              0 ± 0               ≤3° (130°)
+                                                                                                       >3° (130°)
+
+ Koutserimpas et al. [27]  —          —              BMI ≥30 (0)       BMI ≥30 (0)       BMI ≥30 (130°)
+                                                        BMI < 30 (0)       BMI < 30 (0)       BMI < 30 (130°)
+
+ Koutserimpas et al. [28]  —          —            CS (0)          CS (0)          CS (130°)
+                                                  PS (0)          PS (0)          PS (130°)
+
+ Koutserimpas et al. [29]  —          —        —         —         —
+
+ Koutserimpas et al. [30]  —          —        —                 ≥10° (1°)           ≥10° (120°)
+                                                                                  <10° (0)            <10° (130°)
+
+ Manara et al. [34]       TKA (9.5 ± 3.5)    —        —         —              TKA (126° ± 2.7)
+
+ Nixon et al. [37]         2 mm (10.9 ± 17.9)     <2 mm (54%)#   —         —               <2 mm (124.2°)
+                          2‐3 mm (13.1 ± 21.5)   2–3 mm (56.7%)#                                      2–3 mm (125°)
+                          3‐6 mm (10.1 ± 20.6)   3–6 mm (70.9%)#                                      3–6 mm (126.3°)
+
+ Yang et al. [43]      —          —        —         —                  130.1° ± 9
+
+ Young et al. [44]        VAS rest       —               0 ± 0              0 ± 0                120.2° ± 9.4
+                            7.6 ± 14.7
+                    VAS mob
+                       9 ± 15.9
+
+ Yu et al. [45]              0.7 ± 0.9       —        —         —                   113.4° ± 8
+
+Note: Data are expressed as mean ± SD.
+Abbreviations: BMI, body mass index; CS, cruciate‐substituting; FA, functional alignment; FAk, functional alignment with a preoperative kinematic alignment plan;
+FAm, functional alignment with a preoperative mechanical alignment plan; PS, posterior stabilise; ROMf, range of motion‐ﬂexion; ROM‐r, range of motion‐
+recurvatum; ROMc, range of motion‐contracture; TKA, total knee arthroplasty; UKA, unicompartmental knee arthroplasty; VAS, visual analogue score.
+
+
+
+alignment within deﬁned targets, avoiding soft‐tissue    planning to balance the medial and lateral gaps in ex-
+releases, and delivering comparable outcomes and    tension and ﬂexion while preserving joint line height
+survivorship to varus cases, without adverse signals   and respecting safe boundaries of coronal, sagittal, and
+related to component positioning or the anterior com-    rotational component positioning [16, 22, 39]. Notably,
+partment [17, 23]. While early evidence suggests ad-    fourteen cohorts explicitly followed the Shatrov et al
+vantages of FA in restoring  joint line and ligament    study for FA, targeting HKA 174°–180° and component
+balance, comparative data against mechanical and KA    positioning within 3° varus to 6° valgus for the femur
+remain  limited.  Direct comparative  studies  will be   and 0°–6° varus for the tibia [39]. The remaining stud-
+needed to deﬁne whether these theoretical beneﬁts    ies used comparable limits (±3° to ±5°), indicating that
+translate into meaningful clinical differences.          FA was applied within a narrow and reproducible range
+   FA, or functional knee positioning, follows a repro-    across the included literature. Within this framework, a
+ducible intraoperative workﬂow that begins with robotic    recurrent  concern has been  the management  of3370      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+
+TABLE 4   Complications of the included studies.
+
+                    Complication,                                                           Early aseptic     Revision
+ Study         N (%)               Infection   MUA     Other complications (N)       revisions, N (%)  indications
+
+ Andriollo et al. [3]   21 (6.8)           2          13       Scar revision (3)             2 (0.6)             Nickel allergy
+
+                                                                    Nickel allergy revision (1)                       Femoral revision
+
+                                                                         Patellar revision (1)                                  Patellar revision
+
+                                                           Femoral revision (1)
+
+ Andriollo et al. [1]   21 (6.8)           2          13       Scar revision (3)             2 (0.6)             Nickel allergy
+
+                                                                    Nickel allergy revision (1)                       Femoral revision
+
+                                                                         Patellar revision (1)                                  Patellar revision
+
+                                                           Femoral revision (1)
+
+ Andriollo et al. [2]   0 (0)              0          0      NR                       0 (0)         NR
+
+ Choi et al. [6]      1 (1.7)            0          0        Femoral shaft pin‐site fracture  0 (0)         NR
+
+ Clark et al. [8]      1 (0.3)            1          4         Fracture (1)                 1 (0.3)           Pain (1)
+
+                                                                                                                                 Infection (1)
+
+ Daffara et al. [10]   3 (1.8)            2        NR     NR                       1 (0.6)           PS: instability (1),
+                                                                                                                                   infection (1)
+
+                                                                                              CR: infection (1)
+
+ Diquattro et al. [11]  0 (0)              0        NR     NR                       0 (0)            0
+
+ Diquattro et al. [12]  0 (0)              0          0      NR                       0 (0)         NR
+
+ Koutserimpas      46 (13)            3          18      Haematoma (16)            1 (0.3)           Mechanical failure
+ et al. [20]                                                                                                                    (aseptic)
+                                                 Wound (3)
+
+                                                                       Intra‐operative femoral
+                                                                         fracture (3)
+
+                                                              Reoperation patellar
+                                                                     resurfacing (2)
+
+ Koutserimpas      4 (1.1)            1        NR     NR                       1 (0.3)            Varus: Aseptic
+ et al. [23]                                                                                                        loosening (1)
+
+ Koutserimpas         Total: 37 (11.3);      ≤3°:           Total: 14  ≤3°: haematoma (5), DVT (2),  1 (0.3)             >3°: aseptic (1)
+ et al. [25]                         DAIR (1)              delayed wound healing (2)
+
+                     ≤3°:19 (12.7)        >3°:          ≤3°: (9)   >3°: haematoma (9), delayed
+                                 DAIR (1)            wound healing (1), patella
+                                                                   button removal (1)
+
+                      >3°: 18 (10.2)                      >3°: (5)
+
+ Koutserimpas         Total: 47 (12.6);    NR       NR      BMI ≥30: septic &            3 (0.8)          BMI ≥30:
+ et al. [27]                                                          aseptic (4.5%)                                 mechanical
+                                                                                                                                      failures (4)
+
+                 BMI ≥30: 30 (12.7)                     BMI < 30: aseptic (3%)                      BMI < 30:
+                                                                                                           mechanical
+                                                                                                                                      failures (1)
+
+                 BMI < 30: 17 (13.5)
+
+ Koutserimpas         Total: 40 (12.2)     PS: 3         Total: 15  CS: haematomas (5)         3 (0.9)          CS: femoral
+ et al. [28]                                                                                                                                    instability (2)
+
+                  CS: 13 (10.7)                  CS: 6    PS: lateral condyle                           PS: aseptic (1)
+                                                                       fractures (3)
+
+                   PS: 27 (13)                    PS: 9    haematomas (11)FUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3371
+
+
+TABLE 4   (Continued)
+
+                    Complication,                                                           Early aseptic     Revision
+ Study         N (%)               Infection   MUA     Other complications (N)       revisions, N (%)  indications
+
+ Koutserimpas         Total: 41               Total: 5       Total: 14  CL: haematomas (17), femoral  1 (0.3)           CL: aseptic (1)
+ et al. [29]                                                            fractures (1)
+
+                   CL: 34 (12.3)       CL: 3       CL: 12   CM: femoral fractures (2),                   CM: fracture (1)
+                                                               medial condyle necrosis (1)
+
+                CM: 7 (8.2)       CM: 2      CM: 2
+
+ Koutserimpas       ≥10°: 1 (2.3)         ≥10°: 1    NR       <10°: femoral component (1)   1 (0.5)            ≥10°: DAIR (1),
+ et al. [30]                                                                                                       femoral revision (1)
+
+                     <10°: 2 (1.4)         <10°: 1                                                                 <10°: DAIR (1)
+
+ Manara et al. [34]  NR           NR       NR      TKA: cellulitis (1)            0           NR
+
+ Nixon et al. [37]    6 (1.1)            2        NR         Instability (2)                2 (0.4)          2–3 mm:
+                                                                                                                                                 instability (2)
+
+ Yang et al. [43]     0 (0)              0          0        0                         0 (0)            0
+
+ Young et al. [44]    2 (0.8)            1          1      NR                       0 (0)            1 infection
+
+ Yu et al. [45]       0 (0)              0          0      NR                       0 (0)         NR
+
+Abbreviations: BMI, body mass index; CL, cementless; CM, cemented; CR, cruciate‐retaining; CS, cruciate‐substituting; DAIR, debridement antibiotics implant
+retention; DVT, deep venous thrombosis; FA, functional alignment; MUA, manipulationa under anaesthesia; NR, not reported; PS, posterior stabilise.
+
+
+
+
+
+FIGURE 2   Forest plot of early aseptic revision proportions after functionally aligned robotic total knee arthroplasty. Andriollo (1), (2), (3)
+refers to [1–3], Diquattro (1) and (2) refer to studies [10] and [11], Koutserimpas (1), (2), (3), (4), (5), (6), (7) refers to studies [23, 25, 27–30]
+respectively. CI, conﬁdence interval.3372      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+
+
+
+
+FIGURE 3   Forest plot of early aseptic revision incidence rates (revisions per component‐year). Andriollo (1), (2), (3) refers to [1–3],
+Diquattro (1) and (2) refer to studies [10] and [11], Koutserimpas (1), (2), (3), (4), (5), (6), (7) refers to studies [23, 25, 27–30] respectively.
+CI, conﬁdence interval.
+
+
+
+
+
+FIGURE 4  Funnel plot of early aseptic revision proportions. Andriollo (1), (2), (3) refers to [1–3], Diquattro (1) and (2) refer to studies [10]
+and [11], Koutserimpas (1), (2), (3), (4), (5), (6), (7) refers to studies [23, 25, 27–30] respectively.FUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3373
+
+
+marked varus deformities, particularly regarding tibial    comparative analyses conﬁrm that both cemented and
+implant positioning. Two main strategies have been    cementless implants are safe in FA, with similar mid‐
+described: expanding the tibial varus beyond the con-    term survivorship and functional outcomes, despite
+ventional 3° threshold (up to ~6°) to restore native    minor differences in radiographic tibial varus position-
+alignment without soft tissue release, or alternatively    ing [29]. Finally, FA has been shown to manage pre-
+respecting the ≤3° varus limit and performing limited    operative ﬂexion contracture ≥10° without requiring
+medial releases to achieve balance [18, 25]. Both ap-    soft‐tissue  releases, achieving  functional outcomes
+proaches have been applied successfully, with recent   and survivorship equivalent to patients without con-
+series  reporting  excellent  functional outcomes and    tracture [30]. Taken together, these ﬁndings reinforce
+negligible differences in complications or implant sur-    that FA provides stable and reproducible results across
+vivorship.  Importantly,  this meta‐analysis conﬁrmed    diverse demographic proﬁles and implant designs,
+that even in cohorts where tibial varus positioning ex-    while highlighting that BMI remains a potential risk
+ceeded 3°, the rate of aseptic revision remained mini-    factor  for mechanical complications and should be
+mal, reinforcing the safety of FA strategy [18, 25].        considered carefully in surgical planning.
+   Beyond the coronal plane, FA also addresses the       Robotic‐assisted TKA platforms that provide quan-
+sagittal and axial planes, with particular emphasis on the     titative, real‐time gap measurements and soft‐tissue
+anterior compartment [1, 2]. This “third space” has histor-    balance information appear to offer clear advantages;
+ically received limited attention in mechanically aligned     particularly when applying FA. For example, Clark et al.
+TKA, where femoral component rotation was used as a   showed that FA achieved “overall balance” in ~97% of
+surrogate for patellofemoral mechanics [4]. In contrast, FA   knees  (within  ±2 mm   in  extension/ﬂexion/medial‐
+explicitly and independently evaluates the anterior com-     lateral) compared to 73% with kinematic and 55% with
+partment by matching the native trochlea to the anterior    mechanical alignment, before any soft‐tissue releases
+ﬂange of the femoral component, as well as dynamically     [7]. Similarly, Lee et al. demonstrated that FA required
+visualising  the  patellofemoral  tracking  [21,  31].  This    signiﬁcantly less additional soft tissue release com-
+approach aims to optimise trochlear tracking in the med-    pared to mechanical alignment, performed with the
+iolateral aspect but also to avoid overstufﬁng or under-   manual  or  robotic  technique,  with  better  patient‐
+stufﬁng, and respect the native patellofemoral morphology,    reported outcomes at 1 year [32]. These data suggest
+taking into account that overstufﬁng of the anterior com-    that the capabilities of robotic systems to assess gaps,
+partment >5 mm leads to adverse outcomes [26]. Recent    visualise balance, and ﬁne‐tune component position
+studies have conﬁrmed that FA with the use of the image‐   make FA more effective in achieving soft‐tissue spar-
+based robotic system achieves accurate restoration of     ing, more physiological alignment, and better early
+patellar  tilt, translation, and offset, reducing reliance on   outcomes than alignment strategies that do not lever-
+patellar resurfacing and minimising the risk of anterior knee   age these intraoperative measurements. Nevertheless,
+pain [11]. Importantly, both resurfaced and non‐resurfaced       it should be noted that the majority of the included
+cases have shown excellent outcomes when the anterior    studies did not quantify the force applied during in-
+compartment is restored using FA, indicating that robotic    traoperative gap assessment. Because manual ten-
+assessment and dynamic visualisation of the patellofe-    sioning varies between surgeons, this may inﬂuence
+moral joint can reliably safeguard implant positioning and   gap measurements and implant positioning. Lack of
+extensor mechanism function [12, 15].                       objective force measurement remains a limitation of the
+   Another important aspect  is whether patient‐ or    current evidence.
+implant‐related variables inﬂuence outcomes under FA     A previous review by Migliorini et al. summarised
+principles. A recent study demonstrated that FA yields    early clinical experience with FA, reporting promising
+consistent outcomes across gender and age groups,    short‐term outcomes in 1198 patients (mean follow‐up
+with elderly patients (≥75 years) and women achieving   ~17 months) [35]. The present review builds on those
+comparable functional scores, complication rates, and    ﬁndings by analysing over 5000 patients and including
+survivorship to younger or male patients [20]. In con-    only studies with a minimum 2‐year follow‐up, offering
+trast, BMI appears to play a more critical role. While   a more contemporary appraisal. In addition, we also
+functional results remain excellent across  all weight    reported pooled aseptic revision rates, which were not
+categories, obese patients have shown a higher inci-    analysed in the previous review.
+dence of mechanical complications and aseptic revi-       This review has some limitations that should be
+sions, indicating that excess body weight may  still    considered. Most of the included cohorts were retro-
+predispose to implant‐related failure despite the preci-    spective single‐center series, with only one rando-
+sion of FA [27]. Implant choice also appears ﬂexible   mised controlled trial available, which may introduce
+under FA: both cruciate‐substituting and PS inserts    selection and reporting bias. The follow‐up was limited
+have shown equivalent results in robotic TKA, with no    to 2–3 years; however, this is inherent to the fact that
+differences in functional scores or revision rates [28].   FA  is a  relatively new concept.  In  addition, some
+Fixation method  is  another debated  variable,  but    studies did not report all complication categories, which3374      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+
+may lead to underestimation of overall event rates.   CONFLICT OF INTEREST STATEMENT
+Moreover, the  I² value of 0% could reﬂect the low    Konstantinos Dretakis: Consultant for Stryker. Christos
+number of revision events and small effect size, and    Koutserimpas:  Consultant  for Smith and Nephew.
+therefore  may  underestimate  true  heterogeneity.    Sébastien Lustig: Consultant for Stryker. The remaining
+Another limitation is the heterogeneity in outcome re-    authors declare no conﬂicts of interest.
+porting, as studies used different PROMs (KSS, FJS,
+WOMAC, OKS,  Kujala and KOOS), which  limited   DATA AVAILABILITY STATEMENT
+pooled analyses across all functional domains. Also,   The data that support the ﬁndings of this study are
+most studies did not evaluate outcomes according to    available from the corresponding author, upon rea-
+patient phenotypes (such as severe varus or valgus,    sonable request.
+obesity, or ﬂexion contracture), and future research
+focusing on phenotype‐speciﬁc results could provide   ETHICS STATEMENT
+valuable information for reﬁning FA strategies further.   The protocol of this review has been prospectively re-
+Finally, it should be noted that a signiﬁcant proportion of    gistered with the International Prospective Register of
+included patients originated from a single high‐volume    Systematic Reviews (PROSPERO) (registration num-
+center, which may  limit  generalisability. In addition,    ber: CRD420251134340).
+some Lyon‐based cohorts likely include overlapping
+patients, as  several  studies  reported  results from   ORCID
+institutional series with similar timeframes.                Christos Koutserimpas   https://orcid.org/0000-0002-
+                                                 1398-9626
+
+CONCLUSION                      REFERENCES
+                                                                                1.  Andriollo  L,  Gregori  P,  Koutserimpas  C,  Servien  E,
+This  systematic  review  has  demonstrated  that           Batailler C, Lustig S. Beyond the coronal plane in robotic
+robotic‐assisted  functionally  aligned TKA demon-            total knee arthroplasty‐Part 2: combined ﬂexion does not
+strates favourable PROMS and very low rates of           affect outcomes. Knee Surg Sports Traumatol Arthrosc.
+                                                                    2025;33(8):2939–49.
+complications and aseptic revision at 2.5 years of
+                                                                                2.  Andriollo L, Koutserimpas C, Gregori P, Servien E, Batailler C,
+follow‐up. While longer‐term and multicenter data are          Lustig S. Beyond the coronal plane  in  robotic  total knee
+still needed, the available evidence suggests that FA           arthroplasty‐Part 1: variations in tibial slope and distal femoral
+is a safe and reproducible alignment strategy  in          ﬂexion do not affect outcomes. Knee Surg Sports Traumatol
+contemporary TKA.                                                      Arthrosc. 2025;33(8):2928–38.
+                                                                                3.  Andriollo L, Koutserimpas C, Gregori P, Servien E, Batailler C,
+                                                                               Lustig S. A new parameter in the era of robotic total knee ar-
+AUTHOR CONTRIBUTIONS                                                                                    throplasty: coronal alignment at 90° of ﬂexion impacts clinical
+Conceptualisation:  Vasileios  Giovanoulis,  Angelo  V.         outcomes. Knee Surg Sports Traumatol Arthrosc. 2025;33(7):
+Vasiliadis,  Luca  Andriollo,  Pietro  Gregori,  Christos         2581–91.
+Koutserimpas,  Konstantinos  Dretakis, and  Sébastien       4.  Beckers  G,  Meneghini RM,  Hirschmann  MT,  Kostretzis
+Lustig. Data  curation: Luca  Andriollo,  Pietro Gregori,           L, Kiss M‐O, Vendittoli P‐A. Ten ﬂaws of systematic mechanical
+                                                                         alignment total knee arthroplasty. J Arthroplasty. 2024;39(3):
+Konstantinos Dretakis, Vasileios Giovanoulis, and Angelo                                                                     591–9.
+V.  Vasiliadis. Formal  analysis:  Vasileios  Giovanoulis,       5.  Begum FA, Kayani B, Magan AA, Chang JS, Haddad FS.
+Angelo V. Vasiliadis, and Christos Koutserimpas. Investi-          Current concepts in total knee arthroplasty: mechanical, kine-
+gation:  Luca  Andriollo,  Pietro  Gregori,  Konstantinos          matic, anatomical, and functional alignment. Bone Joint Open.
+Dretakis, Christos Koutserimpas, and Sébastien Lustig.          2021;2(6):397–404.
+                                                                                6.  Choi BS, Kim SE, Yang M, Ro DH, Han H‐S. Functional align-
+Methodology:    Konstantinos     Dretakis,    Christos
+                                                               ment with robotic‑arm assisted total knee arthroplasty demon-
+Koutserimpas, and Sébastien Lustig. Project administra-           strated  better  patient‐reported outcomes  than  mechanical
+tion: Konstantinos Dretakis and Sébastien Lustig. Super-          alignment with manual  total knee  arthroplasty. Knee Surg
+vision: Konstantinos Dretakis, Christos Koutserimpas, and          Sports Traumatol Arthrosc. 2023;31(3):1072–80.
+Sébastien  Lustig.  Validation:  Pietro  Gregori,  Luca       7.  Clark G, Steer R, Wood D. Functional alignment achieves a
+Andriollo,  and  Christos  Koutserimpas.  Visualisation:        more balanced total knee arthroplasty than either mechanical
+                                                                         alignment or kinematic alignment prior to soft tissue releases.
+Vasileios Giovanoulis and Angelo V. Vasiliadis. Writing–                                                            Knee Surg Sports Traumatol Arthrosc. 2023;31(4):1420–6.
+original draft: Vasileios Giovanoulis, Angelo V. Vasiliadis,       8.  Clark GW, Steer RA, Khan RN, Collopy DM, Wood D. Main-
+Luca    Andriollo,   Pietro   Gregori,   and   Christos           taining joint line obliquity optimizes outcomes of functional
+Koutserimpas. Writing–review and editing: Konstantinos         alignment in total knee arthroplasty in patients with constitu-
+Dretakis and Sébastien Lustig.                                               tionally varus knees. J  Arthroplasty. 2023;38(7 Suppl  2):
+                                                                S239–44.
+                                                                                9.  Cortina G, Za P, Papalia GF, Gregori P, Condello V, Vasta S,
+ACKNOWLEDGEMENTS                                                                                    et al. Restricted kinematic alignment is clinically non‐inferior to
+The publication of this article in OA mode was ﬁnan-         mechanical alignment in the short and mid‐term: a systematic
+cially supported by HEAL‐Link.                                       review. Knee. 2023;45:137–46.FUNCTIONAL ALIGNMENT IN ROBOTIC TKA                                                                                                                                                                                            |   3375
+
+
+10.  Daffara V, Zambianchi F, Bazzan G, Matveitchouk N, Berni A,     25.  Koutserimpas C, Garibaldi R, Olivier F, Servien E, Batailler C,
+     Piacentini L, et al. No difference in clinical outcomes between          Lustig S. Tibial implant varus >3° does not adversely affect
+      functionally aligned cruciate‐retaining and posterior‐stabilized         outcomes or revision rates in functionally aligned image‐based
+     robotic‐assisted total knee arthroplasty. Int Orthop. 2023;47(3):           robotic total knee arthroplasty in a minimum of 2‐year follow‐up.
+     711–7.                                                   Knee Surg Sports Traumatol Arthrosc. 2025;33:2917–27.
+11.  Diquattro E, Andriollo L, Koutserimpas C, Baltzer J, Servien E,     26.  Koutserimpas  C,  Giovanoulis  V,  Saffarini M,  Bonnin M,
+      Batailler C, et al. Patellofemoral alignment safe zones in robotic‐         Hirschmann MT, Lustig S. The effects of over‐ and under‐
+     assisted TKA do not affect outcomes but do inﬂuence patellar          stufﬁng the anterior knee compartment in primary TKA: a sys-
+     resurfacing rates. Knee Surg Sports Traumatol Arthrosc. 2026;          tematic review. Knee Surg Sports Traumatol Arthrosc. 2026;
+     34(1):153–63.                                                       34(3):1002–13.
+12.  Diquattro  E,  Gregori  P,  Koutserimpas  C,  Giovanoulis  V,     27.  Koutserimpas C, Gregori P, Andriollo L, Diquattro E, Servien E,
+     Servien E, Batailler C, et al. Does patellar resurfacing matter in            Batailler C, et al. Impact of high body mass index on functionally
+     robotic‐assisted total knee arthroplasty with functional align-          aligned image‐based robotic total knee arthroplasty: compara-
+    ment principles? Knee Surg Sports Traumatol Arthrosc. 2025;          ble functional outcomes but higher mechanical failures. Journal
+     33(12):4234–43.                                                             of ISAKOS. 2025;12:100861.
+13.  Diquattro E, Prill R, Salzmann M, Traina F, Becker R. High     28.  Koutserimpas C, Gregori P, Andriollo L, Servien E, Batailler C,
+     three‐dimensional accuracy of component placement and lower          Lustig S. Comparable outcomes between cruciate‐substituting
+     limb alignment using a robotic arm‐assisted system and gap‐        and posterior‐stabilized inserts in robotic total knee arthroplasty
+     balancing instrument  in  total knee arthroplasty. Knee Surg         under the functional alignment principles. Knee Surg Sports
+     Sports Traumatol Arthrosc. 2024;32(3):685–92.                       Traumatol Arthrosc. 2025;33(7):2605–13.
+14.  Dretakis K, Koutserimpas C. Pitfalls with the MAKO robotic‐     29.  Koutserimpas C, Gregori P, Veizi E, Andriollo L, Servien E,
+     arm‐assisted total knee arthroplasty. Medicina. 2024;60(2):262.            Batailler C, et  al. Cementless versus cemented ﬁxation  in
+15.  Giovanoulis  V, Abboud  J,  Vasiliadis  AV,  Meissburger  V,         image‐based robotic total knee arthroplasty guided by func-
+     Koutserimpas C, Lustig S. Cement or press‐ﬁt? Impact of            tional knee positioning principles. SICOT‐J. 2025;11:32.
+      patellar ﬁxation technique on outcomes after primary TKA: a     30.  Koutserimpas  C,  Mazzella GG,  Andriollo  L,  Diquattro  E,
+     systematic review. Arch Orthop Trauma Surg. 2025;145(1):429.          Gregori P, Servien E, et al. Preoperative ﬂexion contracture
+16.  Gregori  P, Koutserimpas C, De Fazio  A, Descombris  S,         does not impair outcomes or early revision rates following
+     Servien E, Batailler C, et al. Functional knee positioning in pa-           robotic total knee arthroplasty with functional alignment. Knee
+      tients with valgus deformity undergoing image‐based robotic         Surg Sports Traumatol Arthrosc. 2026;34(1):183–91.
+      total knee arthroplasty: surgical technique. SICOT‐J. 2025;11:7.     31.  Koutserimpas C,  Saffarini M, Bonnin M, Hirschmann MT,
+17.  Gregori  P,  Koutserimpas  C,  Giovanoulis  V,  Batailler  C,          Lustig S. Optimizing the patellofemoral compartment in total
+     Servien E, Lustig S. Functional alignment in robotic‐assisted         knee arthroplasty: is  it time for dynamic assessment? Knee
+      total knee arthroplasty for valgus deformity achieves safe cor-         Surg Sports Traumatol Arthrosc. 2024;33(2):387–92.
+     onal alignment and excellent short‐term outcomes. Knee Surg     32.  Lee JH, Kwon SC, Hwang JH, Lee JK, Kim  JI. Functional
+     Sports Traumatol Arthrosc. 2025;33(6):2187–96.                       alignment maximises advantages of robotic arm‐assisted total
+18.  Gustke KA, Simon P. A restricted functional balancing tech-         knee arthroplasty with better patient‐reported outcomes com-
+     nique for total knee arthroplasty with a varus deformity: does a         pared to mechanical alignment. Knee Surg Sports Traumatol
+     medial  soft‐tissue  release  result  in  a  worse  outcome?          Arthrosc. 2024;32(4):896–906.
+     J Arthroplasty. 2024;39(8S1):S212–7.                             33.  MacDessi SJ, Oussedik S, Abdel MP, Victor J, Pagnano MW,
+19.  Kafelov M,  Batailler C, Shatrov  J,  Al‐Jufaili  J, Farhat  J,        Haddad FS. The language of knee alignment: updated deﬁni-
+     Servien E, et al. Functional positioning principles for image‐           tions and considerations for reporting outcomes in total knee
+    based robotic‐assisted TKA achieved a higher Forgotten Joint           arthroplasty. Bone Joint J. 2023;105–B(2):102–8.
+     Score at 1 year compared to conventional TKA with restricted     34.  Manara JR, Nixon M, Tippett B, Pretty W, Collopy D, Clark GW.
+     kinematic alignment. Knee Surg Sports Traumatol Arthrosc.       A case‐matched series comparing  functional outcomes  for
+     2023;31(12):5591–602.                                                   robotic‐assisted unicompartmental knee  arthroplasty versus
+20.  Koutserimpas C, Andriollo L, Gregori P, Servien E, Batailler C,           functionally aligned robotic‐assisted  total knee  arthroplasty.
+     Lustig S. Robotic total knee arthroplasty with functional align-        Bone Joint Open. 2024;5(12):1123–9.
+    ment yields comparable outcomes across age and gender     35.  Migliorini F, Pilone M, Schäfer L, Simeone F, Bell A, Maffulli N.
+     groups. J ISAKOS. 2025;14:100930.                                   Functional alignment in robotic‐assisted total knee arthroplasty:
+21.  Koutserimpas C, Andriollo L, Gregori P, Veizi E, Tandogan R,        a systematic review. Arch Orthop Trauma Surg. 2024;144(4):
+     Lustig S, et al. Total knee arthroplasty after anterior cruciate         1741–9.
+     ligament reconstruction with the use of image‐based robotic     36.  Moher D, Liberati A, Tetzlaff J, Altman DG. Preferred reporting
+     technology and functional alignment. SICOT‐J. 2025;11:30.             items for systematic reviews and meta‐analyses: the PRISMA
+22.  Koutserimpas  C,  Andriollo  L,  Gregori  P,  Zambianchi  F,          statement. J  Clin Epidemiol. PRISMA Group 2009;62(10):
+      Tsiridis E, Catani F, et al. Revisiting terminology: The transition         1006–12.
+     from “functional alignment” to “functional knee positioning. Knee     37.  Nixon J, Tadros BJ, Moreno‐Suarez  I, Pretty W, Collopy D,
+    Surg Sports Traumatol Arthrosc. 2025;33(6):1948–53.                  Clark G. Functionally aligned total knee arthroplasty: a lateral
+23.  Koutserimpas C, Caria C, Gregori P, Andriollo L, Servien E,          ﬂexion laxity up to 6 mm is safe! Knee Surg Sports Traumatol
+      Batailler C, et al. Functional alignment in robotic total knee ar-          Arthrosc. 2024;32(5):1317–23.
+     throplasty achieves comparable outcomes in varus and valgus     38.  Oussedik  S, Abdel MP,  Victor  J, Pagnano MW, Haddad
+    knees despite distinct intraoperative strategies: Analysis of 355         FS. Alignment in total knee arthroplasty. Bone Joint J. 2020;
+     consecutive cases. Knee Surg Sports Traumatol  Arthrosc.         102–B(3):276–9.
+     2025;33(11):3925–34.                                            39.  Shatrov J, Battelier C, Sappey‐Marinier E, Gunst S, Servien E,
+24.  Koutserimpas C, Favroul C, Batailler C, Servien E, Lustig S. Is          Lustig S. Functional alignment philosophy in  total knee ar-
+      bicortical femoral pin insertion safe for image‐based robotic           throplasty ‐ rationale and technique for the varus morphotype
+    knee arthroplasty surgery? A comparative complications anal-          using a CT based robotic platform and individualized planning.
+     ysis in 970 Consecutive Cases. J ISAKOS. 2024;10:100317.           SICOT‐J. 2022;8:11.3376      |                                                                          FUNCTIONAL ALIGNMENT IN ROBOTIC TKA
+
+
+40.  Shatrov J, Coulin B, Batailler C, Servien E, Walter B, Lustig S.         randomized  controlled   trial.  J  Arthroplasty.  2025;40(7S1):
+     Alignment philosophy inﬂuences trochlea recreation  in  total         S20–30.e2.
+    knee arthroplasty: a comparative study using image‐based     45.  Yu M, Xu Y, Wang Y, Hu M, Yang X, Zhu W, et al. Failure to restore
+     robotic technology. Int Orthop. 2023;47(2):329–41.                     normal trochlear orientation does not affect postoperative patella‐
+41.  Sterneder CM, Faschingbauer M, Haralambiev L, Kasparek MF,           related outcomes  in robotic‐assisted functional alignment  total
+     Boettner F. Why kinematic alignment makes  little sense in         knee arthroplasty. J Arthroplasty. 2025;40:3131–7.
+     valgus osteoarthritis of the knee: a narrative review. J Clin Med.
+     2024;13(5):1302.
+42.  Woelﬂe CA, Weiner TR, Sculco PK, Sarpong NO, Shah RP,
+    Cooper HJ. Surgeon‐applied stress and a ligament tensor    How to cite this article: Giovanoulis V,
+     instrument provide a similar assessment of preresection ﬂex-        Vasiliadis AV, Andriollo L, Gregori P, Dretakis K,
+     ion laxity during robotic total knee arthroplasty. Arthroplast
+                                                      Koutserimpas C, et al. Functional alignment in     Today. 2024;28:101450.
+43.  Yang H‐Y, Seon J‐K, Yim J‐H, Lee D‐H, Song E‐K. Functional       robotic total knee arthroplasty provides
+     alignment achieved a more balanced knee after robotic arm‐       favourable outcomes and minimal early revisions:
+     assisted total knee arthroplasty than modiﬁed kinematic align-      a systematic review and meta‐analysis. Knee
+     ment. J Clin Med. 2025;14(3):820.                         Surg Sports Traumatol Arthrosc. 2026;
+44.  Young SW, Tay ML, Kawaguchi K, van Rooyen R, Walker ML,
+                                                      34:3362–76. https://doi.org/10.1002/ksa.70226     Farrington WJ, et  al. The John N. Insall Award: functional
+     versus mechanical alignment  in  total knee  arthroplasty: a

@@ -1,0 +1,844 @@
+                                                          Journal of Advanced Research 87 (2026) 1011–1026
+
+
+                                            Contents lists available at ScienceDirect
+
+                        Journal of Advanc ed Research
+
+
+                               journal homepag e: www.elsevier.com/locate/jare
+
+
+
+Integrated multi-omics unravels solanesol’s multi-organ protection
+mechanisms against insulin resistance in type 2 diabetic mice
+
+                  a,1                   b,1            b,1                  a                      a                  c,⁎
+Wenji Zhang     , Wenli Cheng     , Jiaqi Fu     , Ruidong Zeng  , Zhangying Wang  , Jingbo Zhou     ,
+              c,⁎                      b,⁎
+Yibo Chen     , Wenjuan Zhang
+
+a Key Laboratory of Crop Genetic Improvement of Guangdong Province, Crops Research Institute, Guangdong Academy of Agricultural Sciences, Guangzhou 510640, China
+b Department of Public Health and Preventive Medicine, School of Medicine, Jinan University, Guangzhou, Guangdong 510632, China
+c Rice Research Institute, Guangdong Academy of Agricultural Sciences / Guangdong Key Laboratory of New Technology in Rice Breeding / Guangdong Laboratory for Lingnan Modern
+Agriculture, Guangzhou 510640, China
+
+
+
+h i g h l i g h t s               g r a p h i c a l a b s t r a c t
+
+
+• Solanesol alleviates type 2 diabetes
+ symptoms and complications.
+• It reduces blood glucose, lipid, and
+  uric acid levels effectively.
+• Anti-inﬂammatory effects are shown
+  in liver, pancreas, and kidneys.
+• Liver protection is achieved by
+  reducing mitochondrial oxidative
+  stress.
+• It modulates lipid metabolism and
+  improves the gut microenvironment.
+
+
+
+
+
+a r t i c l e    i n f o              a b s t r a c t
+
+
+Article history:                                     Introduction: Integrated multi-omics analysis has revolutionized the investigation of plant-derived com-
+Received 22 July 2025                       pounds for type 2 diabetes mellitus (T2DM). Solanesol, a bioactive constituent from Solanaceae plants,
+Revised 30 October 2025                          exhibits high oral bioavailability and translational potential for multi-target therapeutics.
+Accepted 19 December 2025
+                                                   Objectives: This study aimed to elucidate the multi-target mechanisms and multi-organ protective effects
+Available online 26 December 2025
+                                                  of solanesol in T2DM management through integrated multi-omics approaches, to bridge the gap
+                                       between phytochemical discovery and clinical translation.
+Keywords:                                            Methods: In Leprdb/db murine models (8–13 weeks), solanesol (1–15 mg/kg/day, i.g.) was compared with
+Solanesol
+                                         metformin (200 mg/kg/day). Serum biochemical parameters were quantiﬁed using ELISA/colorimetric
+Type 2 diabetes mellitus
+Lipid/redox homeostasis                           assays. Quantitative pathology analysis was performed on H&E/PAS/Masson-stained sections for assess-
+Gut microbiota-metabolite                   ment of hepatic steatosis and glycogenesis. Mitochondrial respiratory chain complexes (I-V) expression
+
+
+
+
+    Abbreviations: 4D-LFQ, 4-Dimensional Label-Free Quantiﬁcation; Abca1, ATP Binding Cassette Subfamily A Member 1; Acaca, Acetyl-CoA Carboxylase Alpha; Acly, ATP
+Citrate Lyase; ALB, albumin; ALT, alanine aminotransferase; Apoa4, Apolipoprotein A4; AST, aspartate aminotransferase; DEGs, differentially expressed genes; DM, diabetes
+mellitus; Fabp5, Fatty Acid Binding Protein 5; Fasn, Fatty Acid Synthase; GSP, glycosylated serum protein; GTT, glucose tolerance test; H&E, hematoxylin and eosin; HDL-C,
+high-density lipoprotein cholesterol; HOMA-IR, homeostasis model assessment of insulin resistance; IL-1b, Interleukin-1 Beta; INS, insulin; ITT, insulin tolerance test; LCSFAs,
+long-chain saturated fatty acids; LCUFAs, long-chain unsaturated fatty acids; LDL-C, low-density lipoprotein cholesterol; MCFAs, medium-chain fatty acids; NAS, NAFLD
+activity score; NEFA, non-esteriﬁed fatty acids; OTUs, operational taxonomic units; OXPHOS, oxidative phosphorylation; PAS, periodic acid schiff; PCA, principal component
+analysis; PCoA, principal coordinates analysis; PLS-DA, partial least squares discriminant analysis; PPI, protein-protein interaction; SCFA, short-chain fatty acid; T2DM, type 2
+diabetes mellitus; TC,  total cholesterol; TG,  triglyceride; UA, uric acid; UHPLC-Q LC-MS/MS, Ultra-High Performance Liquid Chromatography-Quadrupole-Liquid
+Chromatography-Tandem Mass Spectrometry.
+ ⁎ Corresponding authors.
+
+    E-mail addresses: zhoujingbo@gdaas.cn (J. Zhou), chenyibo@gdaas.cn (Y. Chen), public_health2021@126.com, zhangwj11@jnu.edu.cn (W. Zhang).
+  1 Contributed equally to the article.
+
+
+https://doi.org/10.1016/j.jare.2025.12.025
+2090-1232/© 2025 The Author(s). Published by Elsevier B.V. on behalf of Cairo University.
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+                                       and activities were validated by qRT-PCR and ELISA assay, respectively. Multi-omics proﬁling included
+                                            gut microbiota sequencing (16S rRNA), fecal metabolomics/lipidomics (UHPLC-Q LC-MS/MS), and hepatic
+                                           transcriptome/proteome analysis (RNA-seq, 4-Dimensional Label-Free Quantiﬁcation (4D-LFQ)). Long-/
+                                           medium-/short-chain fatty acids were detected by GC–MS.
+                                                     Results: Solanesol improved glucose tolerance, insulin sensitivity, and reduced serum lipids, hepatic glu-
+                                              coneogenesis, uric  acid, white adipose mass, pancreatic/hepatic inﬂammation, and renal ﬁbrosis.
+                                                Mechanistically,  solanesol:  1)  enriched  beneﬁcial  gut  microbiota  (Alistipes,  Anaerotruncus, and
+                                                    Parasutterella) and increased levels of long-chain unsaturated fatty acids; 2) rebalanced the dysfunctional
+                                            mitochondrial oxidative phosphorylation microenvironment by modulating the expression and the activ-
+                                                         ities of respiratory chain Complexes I-V; 3) modulated hepatic lipid metabolism by inhibiting de novo lipo
+                                              genesis via the Acly-Acaca-Fasn pathway, promoting cholesterol efﬂux and fatty acid oxidation through
+                                           Abca1/Fabp5, and attenuating inﬂammation via Lpl-PPARd downregulation.
+                                                 Conclusion: Solanesol demonstrates multi-organ protective effects through gut microbiota-metabolite
+                                                 crosstalk and hepatic lipid/redox homeostasis regulation. Its multi-target efﬁcacy and oral bioavailability
+                                                position it as a novel, clinically translatable candidate for T2DM management.
+                                © 2025 The Author(s). Published by Elsevier B.V. on behalf of Cairo University. This is an open access
+                                                                                      article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+
+Introduction                                                       vation and macrophage inﬂammation in adipose tissue in vivo
+                                                                             [19]. Nevertheless, no evidence has been reported on its efﬁcacy
+   Diabetes mellitus (DM), a multifactorial metabolic disorder dri-     in treating T2DM, highlighting both the novelty and signiﬁcance
+ven by genetic-environmental interplay, has reached pandemic     of our current study.
+proportions globally [1,2]. In 2021, 10.5 % of adults aged 20–79      Our study addresses these gaps through comprehensive phar-
+(536.6 million) were affected, with projections surging to 12.2 %    macodynamic evaluation in Leprdb/db mice, a progressive T2DM
+(783.2 million) by 2045. China is one of the fastest growing coun-    model. We demonstrate that solanesol (5 mg/kg/day, 8–13 weeks,
+tries in the world, and also the country with the largest number of       i.g.) achieves glycemic control comparable to metformin (200 mg/
+diabetes patients, with 140 million diabetes patients in 2021, an    kg/day) in improving insulin resistance (HOMA-IR: 84.8 % vs
+increase of about 71.5 % in a decade [3]. Type 2 diabetes (T2DM),    81.8 %), while conferring multi-organ beneﬁts. Comprehensive
+constituting  90–95  %  of  cases,  triggers  systemic  vascular    multi-omics analyses and histopathological evaluations demon-
+complications-cardiovascular mortality, renal failure, retinopathy,     strate that solanesol exerts multi-organ therapeutic effects in
+and neuropathy-imposing a projected $1 trillion healthcare burden   T2DM by resolving systemic inﬂammation, restoring mitochon-
+by 2045 [4]. The disease’s complexity arises from multi-organ dys-     drial homeostasis, reprogramming lipid metabolism, and remodel-
+regulation involving hepatic gluconeogenesis, pancreatic b -cell     ing gut microbial ecology, positioning solanesol as a novel multi-
+dysfunction, intestinal microbiota imbalance, and skeletal muscle     target therapeutic agent for T2DM and its comorbidities. These
+insulin resistance [5], necessitating holistic therapeutic strategies    ﬁndings identify solanesol as a promising natural lead compound
+targeting these interconnected pathways.                               for developing next-generation phytopharmaceuticals targeting
+   Natural products have reemerged as promising candidates for    T2DM.
+multi-target diabetes management. Over 1/3 of the 1,881 new
+drugs of FDA-approved drugs (1981–2019) originate from natural    Materials and methods
+scaffolds,  including metformin-derived from  Galega  ofﬁcinalis
+guanidine compounds. Ginsenosides, betulinic acid, and asiati-    Animals and t reatment
+coside demonstrate glycemic control via AMPK activation and
+oxidative stress mitigation due to their structural speciﬁcity and        Six C57BL/6J and thirty db/db mice (speciﬁc pathogen-free,
+relatively    little   toxicity   [6–8].   Solanesol   (C45H74O),   a    male, 7 weeks old) (Beijing, SCXK 2019–0008) were purchased
+tetrasesquiterpenoid with nine trans-conjugated double bonds,    from Beijing Huafukang Biotechnology Co., Ltd. (Beijing, China).
+exhibits lipid antioxidant properties and strong free radical scav-    These mice were housed in a 12/12-h light and dark cycle at a con-
+enging capacity.  It  is abundant in tobacco, potatoes, tomatoes     stant temperature (25 °C ± 2°C) and provided with a normal diet
+and other solanesol plant stems and leaves, with its content in    and free water. After 7 days of adaptive feeding, six C57BL/6J mice
+tobacco reaching up to 4 % of the dry weight [9,10]. It serves as a    were divided into the control group and thirty db/db mice were
+key intermediate  in the synthesis  of ubiquinone compounds    randomly divided into 5 groups (Model group, Metformin group,
+including coenzyme Q10, vitamin K2, and the anticancer synergist     Solanesol-L group, Solanesol-M group, Solanesol-H group) accord-
+N-solanesyl-N [11]; however, studies focusing on its direct phar-     ing to body weight (n = 6 per group). Carboxymethyl cellulose
+macological activities have been limited. A body of research has    (CMC)  is an  anionic  water-soluble biopolymer  that showed
+documented its neuroprotective effects in animal models of cere-    promising characteristics as drug delivery, especially in oral [20].
+bral hemorrhage, autism spectrum disorder, Huntington’s disease,    The control and model groups were administered with 0.5 %
+and bipolar disorder models-characterized by mitochondrial func-    CMC-Na. The Metformin group was administrated with 0.5 %
+tional restoration [12–15]. Relevant to the present study, the   CMC-Na and 200 mg/kg metformin. The Solanesol-L/M/H group
+reports [16,17] show that solanesol has detoxiﬁcation effects on    was given 0.5 % CMC-Na and different concentrations of Solanesol
+alcohol-induced liver injury cells and high-sugar induced liver cell     (1 mg/kg, 5 mg/kg, 15 mg/kg), respectively. All mice were orally
+models, mainly by improving oxidative stress balance and mito-    gavaged once daily for 45 days. Glucose tolerance test (GTT) was
+chondrial function. However, prior in vitro studies using contami-    performed at the end of 3 and 5 weeks. Insulin tolerance test
+nated LO2  hepatocytes  (HeLa-admixed)  necessitate  rigorous     (ITT) was performed at the end of 4 and 6 weeks. The weights of
+in vivo validation of its mechanisms [18]. A recent study further    the mice were recorded  daily. Food and water intake were
+demonstrated that solanesol alleviates NLRP3 inﬂammasome acti-    recorded weekly on a per-cage basis (with six mice per cage),
+
+
+                                                                  1012W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+excluding the two-day periods immediately before and after the    by PCR System (GeneAmp 9700, Applied Biosystems, USA). The
+GTT and ITT. Fecal samples were collected within 24 h before the    sample using FastPfu DNA Polymerase (AP221-02, TransGen Bio-
+end of the experiment. After all experiments, the mice were fasted     tech, Beijing, China) was ampliﬁed in a reaction volume of 20 lL
+for 12 h and then euthanized for blood and other tissue collection.     including 4 lL 5 × FastPfu buffer, 2 lL 2.5 mM dNTPs, 0.8 lL each
+The whole blood samples were from retro-orbital blood collection    primer (5 lM), 0.4 lL Fast Pfu polymerase, 0.2 lL BSA, 10 ng of
+and then separated by centrifugation to obtain serum. Liver, kid-    template DNA and ddH2O. Amplicons were pooled in equimolar
+ney, white fat (inguinal white adipose tissue, epididymal white    amounts and paired-end sequenced on an Illumina Novaseq
+adipose tissue, retroperitoneal white adipose tissue) and brown    PE300 sequencing platform (Illumina, San Diego, USA) performed
+fat  (interscapular brown adipose  tissue) were separated and     at Shanghai Majorbio Bio-pharm Biotechnology Co., Ltd. (Shanghai,
+weighed. A part of the liver and left kidney was stored in 4 %     China). Raw data was quality-ﬁltered by fastp (Version 0.19.6) and
+paraformaldehyde for subsequent stain. The rest of the samples    merged by FLASH (Version 1.2.11). PICRUSt predicted the func-
+were stored at −80 °C for subsequent biochemical experiments.       tional composition of microbial communities. Wilcoxon’s  test
+                                                      was used for each group compared with the model group in a-
+GTT & ITT                                                               diversity indexes as well as abundances of species and metabolites.
+
+
+   After fasting for 16 h, 2 g/kg 50 % glucose was injected intraperi-    Non-targeted metabolomics of fecal
+toneally to test glucose tolerance. After fasting for 6 h, human insu-
+lin  0.75 U/kg was  injected  intraperitoneally  to  test  insulin      A 50 mg fecal sample mixed with 400 lL of extraction reagent
+tolerance. Blood glucose levels were measured before, 30 min,    (methanol: water = 4:1, v/v) containing 0.02 mg/mL internal stan-
+60 min and 120 min after injection. Blood glucose was detected    dard (L-2-chlorophenylalanine), ground for 6 min (−10 °C, 50 Hz),
+by Sinocare GA-3 blood glucose meter in mice from the tail vein.    low-temperature ultrasonic waved for 30 min with (5 °C, 40 kHz),
+The area under the curve (AUC) was calculated by blood glucose      left for 30 min (−20 °C) and followed by centrifuging at 4 °C for
+and injection time.                                         15 min (4 °C, 13000g). The supernatant was transferred to the
+                                                                         injection vial for LC-MS/MS analysis. The LC-MS/MS analysis was
+Biochemical analysis                                             conducted on a Thermo UHPLC-Q Exactive HF-X system equipped
+                                                              with an ACQUITY UPLC HSS T3 column (100 mm × 2.1 mm i.d.,
+   The biochemical indicators in serum were measured using     1.8 lm; Waters, USA). The mobile phases consisted of 0.1 % formic
+reagent kits of total cholesterol (TC) (A111-1–1), triglyceride (TG)     acid in water: acetonitrile (95:5, v/v) (solvent A) and 0.1 % formic
+(A110-1–1), high-density lipoprotein cholesterol (HDL-C) (A112-     acid in acetonitrile: isopropanol: water (47.5:47.5:5, v/v/v) (sol-
+1–1), low-density  lipoprotein  cholesterol (LDL-C) (A113-1–1),    vent B). The loading quantity of samples was 3 lL and the column
+non-esteriﬁed fatty acids (NEFA) (A042-2–1), alanine aminotrans-    temperature was 40℃. The pretreatment of LC/MS raw data was
+ferase (ALT) (C009-2–1), aspartate aminotransferase (AST) (C010-    performed by Progenesis QI software (Waters, USA). Internal stan-
+2–1), albumin (ALB) (A028-2–1), uric acid (UA) (C012-2–1) and    dard peaks and any known false positive peaks were removed from
+urea assay kit (BUN) (C013-2–1) from Nanjing Jiancheng Bioengi-    the data matrix. Compounds were mainly identiﬁed by databases,
+neering Institute Co., Ltd. (Nanjing, China). The TC and TG levels   HMDB (https://www.hmdb.ca/) and Metlin (https://metlin.scripps.
+in the liver were detected using the same reagent kit as serum.     edu/).
+The mouse glycosylated serum protein (GSP) (MM-44373 M1)
+and mouse insulin (INS) (MM-0579 M1) ELISA Kit from Jiangsu     Fatty acid analysis
+Meimian Industrial Co., Ltd. (Jiangsu, China).
+                                                                   Long-chain fatty acids (LCFAs) were analyzed as follows. A stan-
+Histopathological analysis                                        dard mixture of 51 fatty acids was serially diluted in n-hexane to
+                                                                  generate a calibration curve (1–2000 lg/mL). Fecal samples were
+   The ﬁxed liver and kidney tissues were embedded in parafﬁn.    homogenized in chloroform–methanol (2:1) with glass beads, son-
+Sections with a thickness of 5 lm were obtained and stained using     icated, and centrifuged. The supernatant was derivatized with 1 %
+a hematoxylin and eosin (H&E) staining kit (C0105S) from Shang-    H2SO4 in methanol at 80 °C for 30  min. After cooling, fatty acid
+hai Beyotime Biotechnology Co., Ltd. (Shanghai, China) as well as    methyl esters were extracted with n-hexane, washed with ice-
+a periodic acid schiff (PAS) stain kit (G1280) and a modiﬁed Mas-     cold water, and dried over anhydrous Na2SO4. The extract was
+son’s trichrome stain kit (G1346) from Beijing Solarbio Science &    spiked with methyl salicylate (internal standard) and analyzed
+Technology Co., Ltd. (Beijing, China). All sections were observed    by GC–MS (Thermo Trace 1300/ISQ 7000) using a TG-FAME column
+under a motorized multifunctional upright ﬂuorescence micro-    and the following temperature program: 80 °C (1 min), to 160 °C
+scope (DM6000B, Leica, Germany). The proportion of stain area     at 20 °C/min (1.5 min), to 196 °C at 3 °C/min (8.5 min), to 250 °C at
+was measured by ImageJ2 (version 2.9.0). The histologic features    20 °C/min (3  min). Helium ﬂow was 0.63 mL/min; injector, ion
+were assessed with the NASH clinical research network scoring     source, and transfer line temperatures were 250 °C, 300 °C, and
+system[21]. The NAFLD activity score (NAS) was calculated as the    280 °C, respectively. EI ionization was used at 70 eV in SIM mode.
+unweighted sum of the scores for steatosis (0–3), lobular inﬂam-       Short-chain fatty acids (SCFAs) and medium-chain fatty acid
+mation (0–3), and ballooning (0–2).                            (MCFA) were extracted from feces with water by ball milling and
+                                                                       ultrasonication on ice. After centrifugation, the supernatant was
+16S rRNA sequencing of fecal                                         acidiﬁed with 50 % H2SO4 and extracted with MTBE containing
+                                                          an internal standard. The organic phase was analyzed using a SHI-
+   Total microbial genomic DNA was extracted from fecal samples   MADZU GC2030-QP2020 NX gas chromatography-mass spectrom-
+using the E.Z.N.A.® soil DNA Kit (Omega Bio-tek, USA). The quality     eter equipped with a HP-FFAP column. Injection was in split mode
+and concentration of DNA were determined by agarose gel elec-     (5:1) at 220 °C; helium ﬂow was 1.2 mL/min. The oven program
+trophoresis and a NanoDrop2000 spectrophotometer (Thermo Sci-    was: 50 °C (1 min), to 150 °C at 50 °C/min (1 min), to 170 °C at
+entiﬁc, USA). The hypervariable region V3-V4 of the bacterial 16S    10 °C/min, to 225 °C at 25 °C/min (1  min), to 240 °C at 40 °C/
+rRNA gene was ampliﬁed with primer pairs 338F (5′-ACTCCTACGG    min (1 min). The transfer line, quad, and ion source temperatures
+GAGGCAGCAG-3′) and 806R (5′-GGACTACHVGGGTWTCTAAT-3′)    were 240 °C, 150 °C, and 240 °C, respectively. EI-MS detection was
+
+                                                                  1013W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+performed at 70 eV in Scan/SIM mode (m/z 33–150) with the m/z       Proteomic data were performed using protti packages for data
+range of 33–150 after a solvent delay of 3.75 min.                    processing, statistical analysis, and abundance calculation [25].
+                                                          To ensure robustness in downstream analyses, missingness was
+Mitochondrial respiratory chain complexes (complex I-IV) activity        categorized using the assign_missingness function in protti, which
+assay                                                                 distinguishes between missing at random (MAR) and missing not
+                                                                         at random (MNAR) based on predeﬁned completeness thresholds.
+   This study measured mitochondrial complex I–IV levels in liver    Missing values were imputed using the impute function in protti.
+tissue  using  commercial  ELISA  kits (MM-44745  M1, MM-    Imputed log2-transformed intensities were then subjected to dif-
+44757 M1, MM-44750 M1, MM-47091 M1, Jiangsu Meimian     ferential abundance analysis using a two-sample t-test via the cal-
+Industrial Co., Ltd.). Tissue samples were homogenized in cold    culate_diff_abundance  function.  Proteins  were  classiﬁed  as
+PBS with  protease  inhibitors  (1:9, w/v) and  centrifuged  at     signiﬁcantly differentially abundant based on a log2 fold change
+5000 × g for 10 min at 4 °C. The supernatant was diluted 5-fold     (log2FC) threshold of 1 and a p-value cutoff of 0.05. Pathway
+for analysis. Standards or samples (50 lL) were added to the plate    enrichment analysis was performed by Metascape [26], results
+along with HRP-conjugated detection antibody (100 lL) and incu-    were ﬁltered by absolute p-value < 0.05, and FDR value < 0.05.
+bated at 37 °C for 60 min. After washing, color was developed using    Gene Set Enrichment Analysis (GSEA) was performed by GSEA soft-
+substrates A and B (37 °C, 15 min), stopped with stop solution, and    ware with threshold of NES value > 1, p-value < 0.05, and FDR
+OD450 was measured. Concentrations were determined from stan-    value < 0.05 [27].
+dard curves and multiplied by the dilution factor.
+                                                             qRT-PCR
+Transcriptome sequencing
+                                                                    Hepatic RNA extraction was performed using TRIzol reagent
+   Total RNA was extracted from the hepatic tissue using MJZol     (Invitrogen) with standardized protocols. Brieﬂy, 30–50 mg frozen
+total RNA extraction kit (Majorbio, China). Then RNA quality was     liver tissues were homogenized in 1 mL TRIzol, followed by chloro-
+quantiﬁed and determined by NanoDrop2000 spectrophotometer    form phase separation and isopropanol precipitation. RNA pellets
+(Thermo Scientiﬁc, USA) and 5300 Bioanalyser (Agilent Technolo-    were washed with 75 % ethanol and dissolved in RNase-free water.
+gies). The RNA sequencing  is based on the Illumina Novaseq   RNA  integrity was  veriﬁed  by  agarose  gel  electrophoresis
+6000 sequencing platform. RNA puriﬁcation, reverse transcription,    (RIN > 8.0) and quantiﬁed using NanoDrop 2000 (Thermo Fisher).
+library construction and sequencing were performed at Shanghai       For cDNA synthesis, 1 lg total RNA was reverse-transcribed
+Majorbio Bio-pharm Biotechnology  Co.,  Ltd. (Shanghai, China)    using PrimeScript RT Master Mix (Takara) in a 20 lL reaction
+according to the manufacturer’s instructions (Illumina, San Diego,    (37 °C/15 min, 85 °C/5 s). cDNA was stored at −80 °C until use. Pri-
+CA). The quality check of RNA sequencing was carried out using    mers for target genes and reference gene Actb were designed via
+MultiQC [22]. RNA reads were aligned to mouse reference genome    PrimerBank  and  validated  using  NCBI  Primer-BLAST,  with
+using HISAT2 [23] followed by counting RNA reads by  fea-    sequences synthesized by IGE Biotechnology (Guangzhou).
+tureCounts [24], one of programs in Subread package. Genes with       Ndufa5  F: ATGGCGGGCTTGCTGAAAA; R: GCTGCATGTTTAGG
+zero read counts for all samples were removed. In terms of bioanal-    AAAGTGCTT;
+ysis, PCoA was based on the unweighted Unifrac distance. Pareto       Cox6b1 F: ACTACCTGGACTTCCACCG; R: ACCCATGACACGGGA
+was used to scale the data before PLS-DA. PLS-DA model-derived    CAGA.
+variable important in projection (VIP) scores > 1.0 and P < 0.05 in       Ndufb4 F: CTTGATTCGCTGGACCTATGC; R: GGAGTGGGCCTGA
+Wilcoxon’s test were used as criteria for differentially expressed    AATTAGGA.
+metabolites. P < 0.05 was used to deﬁne differentially expressed       Uqcrb  F:  GGCCGATCTGCTGTTTCAG;  R:  CATCTCGCATTAAC
+genes (DEGs) in DESeq2 software. The KEGG database was used    CCCAGTT.
+for pathway enrichment analysis.                                    Atp5h F: GCTGGGCGTAAACTTGCTCTA; R: CAGACAGACTAGCCA
+                                                        ACCTGG.
+Proteomic proﬁling                                                     Actb  F: GGCTGTATTCCCCTCCATCG; R: CCAGTTGGTAACAATG
+                                                             CCATGT).
+   Liver proteomic analyses were performed by Biotree Biotech       Acly F: AGGAAGTGCCACCTCCAACAGT; R: CGCTCATCACAGAT
+Co., Ltd using state-of-the-art 4D label-free quantiﬁcation (4D-    GCTGGTCA.
+LFQ) workﬂows. Tissue proteins were extracted with urea lysis       Acaca F: GTTCTGTTGGACAACGCCTTCAC; R: GGAGTCACAGAAGC
+buffer and quantiﬁed via BCA assay. Sequential reduction and alky-    AGCCCATT.
+lation were performed with 5 mM dithiothreitol (30 min, 55°C) and       Abca1 F: GGAGCCTTTGTGGAACTCTTCC; R: CGCTCTCTTCAGCCA
+15 mM iodoacetamide (30 min, dark), respectively. Proteins were    CTTTGAG.
+digested with trypsin (1:100 w/w, 37 °C, 16 h) and then remove       Fabp5 F: GACGACTGTGTTCTCTTGTAACC; R: TGTTATCGTGCTCTC
+sodium deoxycholate. Peptides were desalted and puriﬁed using    CTTCCCG.
+C18 solid-phase extraction cartridges (Waters).                      Apoa4 F: CAGAAGACGGATGTCACTCAGC; R: AGCTGTACGACAA
+   Approximately 200 ng of peptides were separated on a nanoE-    AGGGCACCA.
+lute2 UPLC system (Bruker) using a 75 lm × 15 cm PePSep C18 col-       Fasn  F: CACAGTGCTCAAAGGACATGCC;  R: CACCAGGTGTAG
+umn (1.9 lm particles, Bruker) at 300 nL/min. The 60-min gradient    TGCCTTCCTC.
+comprised: 2 % B (0–0 min), 5–22 % B (0–45 min), 22–37 % B (45–       PPARd F: GGACCAGAACACACGCTTCCTT; R: CCGACATTCCATGTT
+50 min), 37–80 % B (50–55 min), and 80 % B (55–60 min), where    GAGGCTG.
+mobile phase A was 0.1 % formic acid/water and B was 0.1 % formic        Lpl F: GCGTAGCAGGAAGTCTGACCAA; R: AGCGTCATCAGGAGA
+acid/acetonitrile. MS data were acquired on a timsTOF Pro2 mass    AAGGCGA.
+spectrometer (Bruker) operated in DDA-PASEF mode (m/z 100–        Quantitative PCR was conducted using TB Green Premix Ex Taq
+1700). PASEF MS/MS scans utilized collision energy ramping from       II (Takara) on a CFX96 system (Bio-Rad). Each 25 lL reaction con-
+20 eV (1/K0 = 0.6 Vs/cm2) to 59 eV (1/K0 = 1.6 Vs/cm2), optimizing     tained 0.4 lM primers and < 100 ng cDNA template. Thermal
+fragmentation efﬁciency across ion mobility ranges.                   cycling included: initial denaturation at 95°C/30 s, 40 cycles of
+                                                        95 °C/5 s and 60°C/30 s, followed by melt curve analysis (65-
+
+                                                                  1014W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+95°C, 0.5°C increments). Gene expression was normalized to Actb    26.2 ± 0.5, p = 0.003), and elevated HOMA-IR (0.30 ± 0.01 vs
+and calculated using the 2−DDCt method.                            0.20  ±  0.01,  p  <  0.001).  Solanesol  demonstrated  dose-
+                                                              independent glucose-lowering efﬁcacy, with  all dosage groups
+Statistical analyses                                                  achieving GSP reductions comparable to metformin (74.8–78.4 %
+                                                                         of model levels, p < 0.001). Notably, while insulin levels remained
+   Phenotypic characteristics were statistically analyzed and visu-    unchanged  across groups  (p >  0.05), HOMA-IR  signiﬁcantly
+alization by GraphPad Prism 9 (Version 9.4.0). One-way ANOVA    decreased in both metformin (81.8 % of model, p < 0.01) and
+and Dunnett’s test were used for comparisons among groups and     solanesol-treated mice (84.8 % across doses, p < 0.01), indicating
+pairwise in weight change, feed intake, water intake, AUC of GTT    improved insulin sensitivity without b-cell overstimulation- a dis-
+and ITT, organ coefﬁcient, serum and liver biochemical indices,     tinct advantage over sulfonylureas in avoiding hypoglycemia risk.
+and PAS staining proportion. Kruskal-Wallis test and Dunnett’s test      The db/db mice developed profound dyslipidemia, exhibiting
+were used for comparisons among groups and pairwise in NAS. All     2.2-fold, 1.6-fold, 1.6-fold, 3.3-fold, and 1.3-fold elevated total
+data are presented as the means ± SD. P < 0.05 was considered as     cholesterol  (TC),  triglycerides  (TG),  non-esteriﬁed  fatty  acids
+signiﬁcant.                                                         (NEFA), 3.3-fold increased LDL-C and HDL-C (all p < 0.01) compared
+                                                                      to controls. High-dose solanesol outperformed metformin in lipid-
+Results                                                         lowering efﬁcacy, reducing LDL-C to 34.6 % (vs metformin’s 62.3 %,
+                                                       p < 0.0001) and TG to 50.6 % (vs 69.0 %, p < 0.01) of model levels,
+Solanesol ameliorates diabetic metabolic symptoms                    while dose-dependently normalizing TC (56.9–65.3 % of model),
+                                                                   suggesting multi-targeted lipid homeostasis restoration of solane-
+   During the oral administration of solanesol to 8 ∼ 13-week-old     sol distinct from conventional therapies (Fig. 1N-R). These observa-
+db/db mice, both the metformin and solanesol groups exhibited a     tion  of improved  dietary  behavior and  biochemical  proﬁles
+downward trend in body weight (Fig. 1A). White adipose tissue    suggests that solanesol have a positive modulatory effect on
+mass decreased signiﬁcantly in the metformin group (White fat    T2DM-related metabolic disturbances.
+coefﬁcient: 83.1 %, P < 0.05) and the medium- and high-dose sola-
+nesol group (White fat coefﬁcient: 81.4 % and 82.7 %, P < 0.05)     Solanesol attenuates hepatic steatosis and dysfunction
+(Fig. 1B). Brown adipose tissue was signiﬁcantly increased in the
+model group and signiﬁcantly decreased in each treatment group       Both gross morphology −showing enlarged, yellowish-pink liv-
+of metformin and  solanesol (Brown adipose  tissue:  64.4  %,     ers with thickened edges and a signiﬁcantly elevated hepatoso-
+P < 0.001; 66.3 %, 69.3 % and 57.9 %, P < 0.01) (Fig. 1C). The db/    matic index (5.8 % vs 4.8 %, p < 0.01) revealed severe hepatic
+db mice manifested classic leptin resistance phenotypes, exhibiting     steatosis in model mice. Solanesol treatment at medium- and
+hyperphagia 38.6 g/day (1.8-fold of control group, p < 0.0001) and    high-dose displayed near-normal hepatic architecture and reduced
+polydipsia 65 mL/day (2.6-fold of control group, p < 0.0001). Met-    the liver index to 87.3 % and 83.1 % of the model levels, respectively
+formin treatment restored these aberrations by reducing food     (p < 0.05; Fig. 2A, B). Histologically, H&E staining conﬁrmed pro-
+intake to 76.8 % of model levels (p < 0.0001) and water consump-    nounced macrovesicular steatosis in model mice with disrupted
+tion to 54.7 % (p < 0.0001). Intriguingly, solanesol displayed non-     lobular structure, which was ameliorated by both metformin and
+canonical pathways beyond leptin signaling: medium-dose inter-     solanesol  intervention. PAS  staining demonstrated  solanesol’s
+vention selectively suppressed feeding behavior (84.1 % of model    unique  capacity  to  restore  hepatic  glycogen  storage,  with
+group, p < 0.01) without affecting water intake (Fig. 1D-E).         medium- and  high-dose  groups  showing  2.9- and  3.1-fold
+   Longitudinal metabolic assessments revealed progressive dete-     increases in PAS-positive areas versus model (11.3 % and 12.1 %
+rioration of glucose homeostasis in db/db mice. At week 3, model    vs 3.9 %, p < 0.01), outperforming metformin’s non-signiﬁcant
+group exhibited a 3.1-fold elevation in GTT AUC versus controls     effect (Fig. 2B). Masson staining conﬁrmed the absence of ﬁbrosis
+(p < 0.0001), which further escalated to 3.0-fold by week 5     across all groups, supporting the hepatoprotective proﬁle and lack
+(p <  0.0001).  Therapeutic  interventions demonstrated  time-     of toxicity of solanesol even at high concentrations.
+dependent efﬁcacy: metformin and high-dose solanesol signiﬁ-        Lipid proﬁling (Fig. 2C) revealed profound hepatic lipid dysreg-
+cantly reduced GTT AUC to 77.6 % and 78.7 % of model levels     ulation in model mice: NEFA (4.5-fold  ), TC (1.4-fold), and TG (9.1-
+respectively at week 5 (both p < 0.05; Fig. 1F-G). Insulin resistance     fold  , all p < 0.05). Medium-dose solanesol preferentially reduced
+manifested earlier, with model mice showing 3.8-fold higher ITT   TG by 59.4 %, while high-dose treatment lowered TC to 71.4 % of
+AUC than controls at week 4 (p < 0.0001), persisting at 3.5-fold    model  level. Both solanesol doses and metformin comparably
+by week. Both metformin and medium-dose solanesol exhibited    attenuated NEFA accumulation (77.8 % and 72.2 % of model,
+sustained  insulin-sensitizing   effects,  reducing  ITT  AUC  to     respectively, p < 0.05). These ﬁndings systematically indicate sola-
+67.3 %/70.2 % of model levels at week 4 (p < 0.001), and further     nesol’s  multi-target  hepatoprotective  effects  against T2DM-
+improving to 66.3 %/60.9 % by week 6 (p < 0.001; Fig. 1H-I). Nota-     associated steatosis through lipid homeostasis restoration and
+bly, solanesol displayed differential dose–response patterns: glu-    metabolic reprogramming.
+cose tolerance improved dose-dependently (high-dose efﬁcacy at      The db/db mice exhibited marked liver dysfunction, with serum
+week 5), while insulin sensitivity peaked with medium-dose inter-    ALT/AST  levels elevated 5.3-fold and 2.0-fold versus controls
+vention (60.9 % reduction vs model at week 6), suggesting distinct     (p <  0.001), accompanied by  1.2-fold hypoalbuminemia ALB
+mechanism prioritization −b-cell function enhancement versus     (p < 0.05). Medium-dose solanesol demonstrated superior hepato-
+peripheral insulin signaling optimization. Weekly measurements     protection, normalizing ALT to 57.1 % of model levels and AST to
+of fasting blood glucose levels over the ﬁrst four weeks revealed     52.7,  correspond  to  metformin’s  effects  (ALT:  40.2  %,  AST:
+a signiﬁcant downward trend in the treatment groups (Fig. 1J). Post    53.2 %). Intriguingly, solanesol speciﬁcally ameliorated albumin
+6-week intervention, comprehensive glycemic proﬁling revealed     synthesis (medium-dose ALB 77.0 % of model, p < 0.001; met-
+signiﬁcant metabolic improvements (Fig. 1K-M). The model group    formin ALB 84.4 % of model, p < 0.05) (Fig. 2C). The differential
+exhibited characteristic hyperglycemia markers: glycated serum     effects on transaminases versus albumin may suggest distinct
+protein (GSP: 227.0 ± 8.3 l mol/L vs 174.5 ± 20.3 in controls,    mechanisms   that   could   potentially   involve  both   anti-
+p <  0.001),  hyperinsulinemia  (INS:  34.0  ±  0.4 m  IU/L  vs    inﬂammatory (e.g., NF-jB inhibition) [28,29] and anabolic (e.g.,
+
+
+
+                                                                  1015W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+
+
+
+Fig. 1. Solanesol improves metabolic parameters in obese T2DM mice. (A) Body weight and body weight change. (B) White adipose tissue coefﬁcient. (WAT) weight
+coefﬁcient. (C) Brown fat coefﬁcient. (D) Food intake. (E) Water consumption. (F) Glucose tolerance test (GTT) after 3 weeks treatment. (G) Glucose tolerance test (GTT) after
+5 weeks. (H) Insulin tolerance test (ITT) after 4 weeks treatment. (I) Insulin tolerance test (ITT) after 6 weeks treatment. (J) Fasting blood glucose (FBG) levels during the ﬁrst
+four weeks. (K-M) Serum glucose index (GSP, INS, HOMA-IR). (N-R) Serum lipid parameter (TC, TG, NEFA, LDL-c, HDL-c). Data are presented as mean ± SD. Statistical
+signiﬁcance versus the model group is indicated as *p < 0.05, **p < 0.01, and ***p < 0.001, ****p < 0.0001.
+
+
+
+                                                                  1016W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+
+
+
+Fig. 2. Solanesol ameliorates hepatic function, pancreatic inﬂammation and renal injury in T2DM mice. (A) Representative liver tissue sections stained with H&E
+(hematoxylin & eosin), PAS ((Periodic Acid-Schiff)), and Masson’s trichrome. (B) Liver index (liver-to-body weight ratio), histopathological scores of H&E and PAS staining. (C)
+Hepatic lipid content (NEFA, TC, TG), Serum levels of hepatic enzymes (ALT, AST) and albumin (ALB). (D) Serum C-peptide levels and pancreatic inﬂammatory cytokines (IL-1b,
+IL-6, TNF-a, and IL-10). (E) Kidney coefﬁcient and serum renal function markers (BUN, Cr, UA), XOD activity of liver. (F) Renal histopathology (H&E, PAS, and Masson’s
+trichrome staining). Data are presented as mean ± SD. Statistical signiﬁcance versus the model group is indicated as *p < 0.05, **p < 0.01, and ***p < 0.001, ****p < 0.0001.
+
+
+
+                                                                  1017W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+mTORC1 activation) [30,31] pathways, which merits further inves-     ales (order) were more abundant in control and solanesol groups
+tigation into its potential therapeutic implications.                  than in the model group (Fig. 3G, H). At ﬁner taxonomic resolu-
+                                                                              tions, families such as Rikenellaceae, Odoribacteraceae,  Oscil-
+Solanesol confers pancreatic and renal protection in diabetes             lospiraceae, and  Sutterellaceae  (Fig.  3I-L), as well as genera
+                                                                    including Alistipes, Anaerotruncus, Parasutterella, and Longibaculum
+   The model group exhibited a 1.5-fold elevation in fasting C-      (Fig. 3M−P), were consistently enriched in control and solanesol-
+peptide levels versus controls (p < 0.05), consistent with compen-     treated mice. The increased abundance of these beneﬁcial bacterial
+satory hyperinsulinemia characteristic of insulin resistance. Nota-    groups suggests an improvement in gut health in T2DM mice.
+bly, neither solanesol nor metformin interventions signiﬁcantly
+altered circulating C-peptide (p > 0.74 vs model) or insulin concen-     Solanesol established a new balance of intestinal metabolites
+trations (p > 0.49 vs model, Fig. 1L), as evidenced by stable b-cell
+secretory proﬁles across treatment groups (Fig. 2D). This dual        Fecal metabolomic proﬁling identiﬁed 562 and 912 metabolites
+pharmacological evidence—preserved pancreatic insulin output     in positive and negative ion modes, respectively. Quality control
+coupled with improved glycemic control (GSP: 227.0 ± 8.3 l mol/    assessment revealed excellent data reliability, with relative stan-
+L vs 174.5 ± 20.3 in controls, p < 0.001, Fig. 1K) —conclusively    dard  deviation  (RSD)  values  <  0.3  and  cumulative  peak
+demonstrates that solanesol, like metformin, exerts its antidiabetic    proportions > 70 % (Fig. 4A-B). PCA demonstrated clear segregation
+effects primarily through insulin sensitization rather than b-cell   among the control, model, and solanesol groups (Fig. 4C-D). This
+stimulation. Pancreatic cytokine proﬁling revealed a striking sup-     separation was further conﬁrmed by PLS-DA (VIP > 1.0, p < 0.05
+pression of IL-1b by solanesol, with low, medium, high doses     in Wilcoxon test), indicating signiﬁcant intergroup metabolic dif-
+reducing this key mediator by 42.3 %, 40.0, and 37.6 %, respectively     ferences (Fig. 4E-F).
+(all p < 0.0001), outperforming metformin’s 30.2 % reduction. In       Comparative  analysis  identiﬁed 243 upregulated and 204
+contrast, TNF-a, IL-6, and IL-10 levels remained unaltered, pin-    downregulated metabolites in the model group verse controls.
+pointing IL-1b as the speciﬁc therapeutic node, and suggesting pro-    Whereas, 99 metabolites were upregulated and 154 were down-
+tection occurs via an IL-1b-dependent anti-inﬂammatory pathway    regulated in the mid-dose solanesol group relative to the model
+(Fig. 2D).                                                     group (Fig. 4G). Metabolite set enrichment analysis of the 97
+   The db/db mice exhibited early metabolic nephropathy charac-    model-upregulated metabolites (consistently low in control and
+terized by reduced renal index (0.8 % vs 1.4 % in controls, D = -42.     solanesol groups) identiﬁed signiﬁcant involvement in primary
+9 %, p < 0.0001) and suppressed blood urea nitrogen (blood urea    and secondary bile acid biosynthesis, arginine biosynthesis, taurine
+nitrogen [BUN]: 3.5 ± 0.2 vs 5.7 ± 0.58 mmol/L, p < 0.0001).    and hypotaurine metabolism, sulfur metabolism, and steroid hor-
+Medium/high-dose solanesol unexpectedly elevated BUN to 120–   mone biosynthesis (Fig. 4H). Key altered metabolites in these path-
+130 % of model levels (p < 0.05), suggesting compensatory activa-    ways  included  Taurine,  Taurocholic  Acid,  N2-Acetylornithine,
+tion of hepatic ureagenesis. There was no difference in creatinine     Ornithine, Glycocholic  acid, Androstenedione, 7a-Hydroxydehy
+(Cr) among the groups. Crucially, solanesol uniquely attenuated    droepiandrosterone, and  S-sulfanylglutathione  (Fig.  4I).  Con-
+hyperuricemia (serum uric acid: 65.4–70.5 % of model, p < 0.001)     versely, the 43 model-downregulated metabolites (restored by
+without XOD modulation in liver. These data suggest that its mech-     solanesol) were enriched in a-linolenic acid metabolism, oxidative
+anism may involve the reprogramming of renal urate transporters    phosphorylation, and benzoxazinoid biosynthesis (Fig. 4J), with
+(Fig. 2E). Histopathological examination of kidney sections indi-    notable changes in metabolites included 17-Hydroxylinolenic acid,
+cated only minor lesions, such as mild segmental and focal sclero-    2,4-Dihydroxy-2H-1,4-benzoxazin-3(4H)-one,       9(S)-HpOTrE,
+sis  in  the model  group  (PAS  staining),  with no  signs  of    Ubiquinone-1,  (9Z,11E,13S,15Z)-13-Hydroxyoctadeca-9,11,15-tri
+inﬂammation, ﬁbrosis, or typical diabetic nephropathy. No signiﬁ-    enoic acid, and (2′E,4′Z,7′Z,8E)-Colnelenic acid (Fig. 4K).
+cant pathological changes were observed in the kidneys of met-        Fecal metabolomics revealed  distinct long-chain  fatty acid
+formin and solanesol-treated mice (Fig. 2F), These ﬁndings thus    (LCFA) proﬁles among the control, model, and mid-dose solanesol
+suggest a renal protective effect of solanesol even at low concen-     groups, as conﬁrmed by PCA and PCoA (Fig. 4L-M). Total LCFA con-
+trations, while also indicating an absence of nephrotoxicity even     tent was signiﬁcantly lower in the model group (1791.86 lg/g)
+at the higher administered dose in our experiment..                 than in the control (2434.00 lg/g) and solanesol (2617.25 lg/g)
+                                                                    groups, corresponding to increases of 35.84 % and 46.06 %, respec-
+Solanesol restructures gut microbiota composition                          tively. These shifts were reﬂected in both long-chain saturated
+                                                                  (LCSFAs) and unsaturated fatty acids (LCUFAs): Compared to the
+  A total of 1.48 million high-quality sequences were obtained,    model group, LCSFA levels were 23.74 % higher in controls and
+with an average of 82,420 ± 16,294 sequences per sample. Micro-    54.95 % higher in the solanesol group, while LCUFA levels increased
+bial sequencing data were clustered into operational taxonomic    by 45.62 % and 38.88 %, respectively (Fig. 4N). Notably, solanesol
+units (OTUs). The Pan-OTU and Core-OTU curves demonstrated    administration signiﬁcantly elevated the abundances of multiple
+microbial community  stability within groups as sample  size     saturated  species-including  tridecanoate  (C13:0),  myristate
+increased (Fig. 3A-B). Principal coordinates analysis (PCoA) and     (C14:0), pentadecanoate (C15:0), palmitate (C16:0), and stearate
+partial least squares discriminant analysis (PLS-DA) revealed sig-     (C18:0),  as  well  as unsaturated forms such  as  palmitoleate
+niﬁcant differences in fecal microbiome composition among the     (C16:1),   palmitelaidate    (C16:1t),   10-trans-heptadecenoate
+control, model, and mid-dose solanesol groups (P = 0.002) (Fig. 3-     (C17:1T),  elaidate  (C18:1N12T),  linolelaidate  (C18:2N6T),  c-
+C-D).                                                                  linolenate (C18:3N6), 11–14-17-eicosatrienoate (C20:3N3), and
+   Bacterial community structure differed across taxonomic levels    homo-c-linolenate (C20:3N6) (Fig. 4O). Further analysis revealed
+among groups. The microbiota was predominantly composed of    an interesting pattern: short-chain fatty acids (SCFAs, C2-C5) were
+Firmicutes and Bacteroidetes at the phylum level (>83 % total),    decreased in the model group and showed a further reduction after
+with  increases  in  Firmicutes and  decreases  in  Bacteroidetes     solanesol treatment (Supplemental  Fig. 1A). This may suggest
+observed in both model and solanesol groups compared to controls    enhanced intestinal absorption of SCFAs, resulting in lower fecal
+(Fig. 3E). Similar shifts were seen at the class level, where Bacilli     excretion [32,33]. In contrast, medium-chain fatty acids (MCFAs,
+increased while Bacteroidia and Clostridia decreased in these    C6-C10) were elevated in model mice but trended toward normal-
+groups (Fig. 3F). Notably, b-Proteobacteria (class) and Burkholderi-     ization following solanesol intervention (Supplemental Fig. 1B).
+
+                                                                  1018W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+
+
+
+Fig. 3. Solanesol modulates fecal microbiota composition in db/db mice. (A) Pan-microbiome OTU (Operational Taxonomic Unit) analysis. (B) Core microbiome OTU analysis.
+(C) PCoA (Principal Coordinates Analysis) at OTU level. (D) PLS-DA (Partial Least Squares Discriminant Analysis) at OTU level. (E) Phylum-level taxonomic distribution of gut
+microbiota. (F) Class-level taxonomic distribution. (G) Relative abundance of b-Proteobacteria at class level. (H) Differential microbiota at order level. (I-L) Differential
+microbiota at family level. (M−P) Differential microbiota at genus level. All data were analyzed and visualized using the Majorbio I-Sanger Cloud Platform (www.i-sanger.
+com).
+
+
+
+                                                                  1019W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+
+
+
+Fig. 4. Solanesol restructures the intestinal metabolome in db/db mice. (A-B) Relative standard deviation (RSD) assessment of metabolite data stability in positive (A) and
+negative (B) ion modes (dashed line: pre-processing; solid line: post-processing; Raw data shown as single solid line). (C-D) Principal component analysis (PCA) of
+metabolites detected in positive (C) and negative (D) ion modes. (E-F) Partial least squares-discriminant analysis (PLS-DA) of intra- and inter-group metabolite separation. (G)
+Statistical analysis of differential metabolites. (H) KEGG pathway enrichment of 97 solanesol-downregulated differential metabolites. (I) Signiﬁcantly downregulated
+metabolite markers affected by solanesol. (J) KEGG pathway enrichment of 43 solanesol-upregulated differential metabolites. (K) Signiﬁcantly upregulated metabolite
+markers affected by solanesol. (L-M) PCA (L) and PCoA (M) analyses of long-chain fatty acid (LCFA) detection data. (N) Abundance analysis of long-chain fatty acids (LCFAs),
+long-chain saturated fatty acids (LCSFAs), and long-chain unsaturated fatty acids (LCUFAs). (O) Quantitative detection of LCFAs. All data were analyzed and visualized using
+the Majorbio I-Sanger Cloud Platform (www.i-sanger.com).                   1020W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+Together with broader metabolomic data, these results indicate    eated a central lipid regulatory axis involving Abca1, Apoa4, and
+that solanesol exerts a distinctive regulatory inﬂuence over intesti-    Fabp5, interconnected with Acly-Acaca (Fig. 6E). Subsequent qPCR
+nal fatty acid metabolism, ultimately reestablishing microbial-host     analysis of eight network-derived genes demonstrated that sola-
+metabolic balance and supporting systemic protection through    nesol concurrently suppressed de novo lipogenesis (DNL) genes
+gut-organ axes.                                                           (Acly, Acaca, Fasn) and enhanced lipid-binding/transport genes
+                                                                    (Fabp5, Abca1), the latter being associated with a subsequent
+Integrated multi-omic proﬁling of the murine hepatic transcriptome     downregulation of apolipoprotein gene Apoa4. Collectively, the
+and proteome                                                          altered expression of these genes contributed to reduced free
+                                                                            fatty acids (FFA) levels. This decrease consequently reversed the
+   High-depth RNA sequencing of hepatic tissues from the control,    high expression of PPARD observed in the model group, ulti-
+model, and mid-dose solanesol groups generated 82.63 Gb of high-    mately mitigating hepatic inﬂammation (Fig. 6F).
+quality data (6.13 Gb/sample, Q30 ≥94.61 %), meeting stringent
+thresholds for downstream analyses. PCA showed clear segregation
+                                                                Discussion
+(Fig. 5A), with differential expression analysis revealing 1,857
+upregulated and 1,639 downregulated genes in the diabetic model
+                                                                        This study established solanesol as a phytochemical with anti-
+versus controls. This dysregulation was markedly modulated by
+                                                                        diabetic efﬁcacy at remarkably low doses (1 ∼ 15 mg/kg/day) in
+solanesol treatment, which resulted in 1,933 upregulated and
+                                                             db/db mice. Following a 6-week intervention, solanesol elicited
+1,698  downregulated DEGs compared  to  the model  group
+                                                                 metabolic improvements comparable  to those achieved with
+(Fig.  5B).  Functional  annotation  revealed  that  solanesol-
+                                                                 high-dose metformin (200 mg/kg/day). Importantly, at a dosage
+downregulated DEGs were enriched in metabolic pathways (e.g.,
+                                                                         of 5 mg/kg/day, solanesol showed superior efﬁcacy in ameliorating
+oxidative phosphorylation [OXPHOS];  cholesterol metabolism;
+                                                               hyperglycemia (assessed by  ITT), hyperlipidemia (reﬂected in
+PPAR signaling) and disease-associated processes  (e.g., NAFLD,
+                                                              white adipose tissue, TC, and LDL levels), hyperuricemia (UA), hep-
+T2DM, diabetic cardiomyopathy) (Fig. 5C). Upregulated DEGs were
+                                                                              atic steatosis (TG content, NAS score, AST, and ALB levels), and pan-
+predominantly associated with immune-inﬂammatory pathways,                                                                           creatic inﬂammation (IL-1b −dependent). Furthermore, solanesol
+including B/T-cell receptor signaling, Th-cell differentiation, and                                                                 preserved b-cell mass without stimulating insulin secretion, high-
+cytokine cascades (e.g., IL-17, Toll-like receptor, NOD/RIG-I-like
+                                                                          lighting its unique non-secretagogue proﬁle. Notably, solanesol
+receptors, TNF, MAPK, FoxO) (Fig. 5D). Protein-protein interaction                                                                   conferred concurrent anti-hyperuricemia activity (DUA = -44.6 %
+(PPI) network analysis of 593 core DEGs using Cytoscape identiﬁed
+                                                                                vs. model) in the T2DM context, suggesting potential in addressing
+53 high-conﬁdence hub nodes (degree ≥20) (Fig. 5E), with top-
+                                                               a clinical challenge relevant to the 17 %–22 % of diabetic patients
+ranked genes (Cox5b, Uqcrq, Uqcr11, Atp5h, Ndufa8, Cox6b1, Ndu-
+                                                              with comorbid gout  [36], outperforming metformin’s neutral
+fa5, Atp5j2 and Ndufb3) predominantly associated with mitochon-    (DUA=+8.2 %) or potentially detrimental uric acid proﬁle.  Its
+drial respiratory chain complexes  I,  III, IV, and V. Notably, 31
+                                                           XOD-independent mechanism may circumvent  hepatotoxicity
+OXPHOS-related DEGs exhibited marked overexpression in dia-
+                                                                            risks with conventional urate-lowering drugs. Moreover, its favor-
+betic models but were normalized by solanesol treatment. This
+                                                                    able renal safety proﬁle positions solanesol as a promising candi-
+regulatory speciﬁcity was absent in complex II (Sdha-d) (Fig. 5F).
+                                                                 date  for managing  diabetes with  hyperuricemia,  particularly
+qRT-PCR  validation  of  representative genes (Ndufa5, Ndufb4,
+                                                         where renal protection is crucial. These outcomes were achieved
+Cox6b1,  Atp5h,  Uqcrb) conﬁrmed  the  transcriptomic  trends
+                                                                         at 1/40 the clinical equivalent metformin dose, highlighting the
+(Fig. 5G). However, the observed upregulation of these DEGs may
+                                                           compound’s considerable pharmacological potency and  safety
+reﬂect an ineffective compensatory or stress response, as ELISA
+                                                                  advantage.
+assays indicated reduced enzymatic activity in the model group
+                                                                           Integrative transcriptomic-proteomic analyses delineated sola-
+(Fig. 5H). This impairment in electron transport chain function
+                                                                          nesol’s hepatic protection mechanism: (i) suppression of de novo
+likely contributes to diminished ATP synthesis and elevated ROS
+                                                                      lipogenesis through Acly/Acaca/Fasn inhibition; (ii) enhancement
+production, further aggravating insulin resistance and liver injury                                                                         of  lipid  clearance  via  Fabp5-driven  b-oxidation and Abca1-
+− a self-perpetuating pathological cycle. In contrast, solanesol
+                                                            mediated cholesterol efﬂux;  (iii) mitochondrial optimization by
+administration effectively reversed these alterations, demonstrat-
+                                                              modulating electron respiratory chain complexes  Ⅰ, Ⅱ, Ⅲ, IV, V
+ing its ability to restore mitochondrial integrity and disrupt this
+                                                         and normalizing OXPHOS activity; (iv) attenuation of inﬂammation
+detrimental feedback loop. These ﬁndings suggest that the amelio-                                                              through Lpl-Ppard inhibition. Emerging evidence positions hepatic
+ration of mitochondrial dysfunction by solanesol may involve a
+                                                                 mitochondrial OXPHOS as a pivotal therapeutic target in early-
+sophisticated regulatory network, potentially encompassing the
+                                                                    stage diabetes management. Across multiple diabetic models—in-
+stability of complex subunits, their assembly efﬁciency, post-
+                                                                   cluding  streptozotocin-induced,  db/db,  and  high-fat  diet-fed
+translational modiﬁcations, and cofactor availability [34,35].
+                                                                 mice-hepatic Complex I/II-dependent OXPHOS activity exhibits a
+   Proteomic analysis revealed signiﬁcant intergroup separation
+                                                                 biphasic trajectory: marked elevation during early disease progres-
+by PCA (Fig. 6A). Global analysis identiﬁed 5,972 quantiﬁable pro-
+                                                                     sion followed by late-phase decline [37]. Unlike metformin’s singu-
+teins, with 217 and 242 differentially up- and down-regulated
+                                                                                lar inhibition of Complex  I [38], solanesol exerts a coordinated
+expressed  proteins  (DEPs)  in mid-dose  solanesol-treated  vs.
+                                                             modulation patten of both the activities and expression levels of
+model  groups,  respectively  (p  adj  <  0.05,  |log2FC|  >  1.5)
+                                                                      electron transport chain complexes (I, Ⅱ, III, IV, and V; e.g., Ndufa5,
+(Fig. 6B). Functional annotation revealed signiﬁcant enrichment
+                                                               Ndufb4, Cox6b1, Atp5h, Uqcrb), thereby effectively rebalancing
+in two core processes: lipid metabolic pathways (including lipid
+                                                                      pathological OXPHOS disturbance to improve mitochondrial dys-
+localization, steroid and long-chain fatty acid metabolism, and
+                                                                        function. This multi-complex intervention achieves superior mito-
+transport) and oxidative stress responses (encompassing peroxi-
+                                                                    chondrial  redox  balance  at  1/40  that  of  metformin,  while
+some organization, mitochondrial gene expression, PPAR signal-
+                                                                circumventing compensatory metabolic adaptations commonly
+ing, and biological oxidations) (Fig. 6C). Multi-omics integration
+                                                               observed with single-target agents. It suggests that solanesol has
+of transcriptomic and proteomic datasets identiﬁed six core regu-
+                                                               a unique capacity to restore bioenergetic homeostasis without
+lators (Apoa4, Acaca, Acly, Fasn, Abca1, Fabp5), in terms of lipid
+                                                                     requiring structural modiﬁcations or advanced delivery systems
+metabolism, transport, localization, with consistent expression
+                                           −a critical advantage for clinical translation.
+trends across all platforms (Fig. 6D). PPI network analysis delin-
+
+                                                                  1021W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+
+
+
+Fig. 5. Hepatic transcriptomic proﬁling and validation of solanesol-mediated metabolic regulation. (A) Principal component analysis (PCA) demonstrating robust intergroup
+segregation among control, diabetic model, and solanesol-treated cohorts (n = 4/group). (B) Quantifying differentially expressed genes (DEGs) (|log2FC|>1, FDR < 0.05). (C-D)
+KEGG pathway enrichment of intersecting DEGs: C: Model-up & solanesol-down genes；D: Model-down & solanesol-up genes. Color gradients indicate pathway
+classiﬁcations. (E) Protein-protein interaction (PPI) network of core DEGs (53 nodes with degree ≥ 20), highlighting mitochondrial respiratory chain hubs. (F) Heatmap of
+OXPHOS-related DEGs showing overexpression in model (Complexes I/III/IV/V) and normalization by solanesol, excluding Complex II (Sdha-d). (G) qRT-PCR validation of
+representative OXPHOS genes corroborating transcriptomic trends. (H) ELISA demonstrates solanesol’s restoration of mitochondrial complex activities. Data are presented as
+mean ± SD. Statistical signiﬁcance versus the model group is indicated as *p < 0.05, **p < 0.01, and ***p < 0.001, ****p < 0.0001.
+
+                                                                  1022W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+
+
+
+Fig. 6. Integrated transcriptome (n = 4/group) and proteome proﬁling (n = 3/group). (A) Principal component analysis (PCA) demonstrating robust intergroup segregation
+among control, diabetic model, and solanesol-treated cohorts. (B) Hepatic proteomic different expressed proteins (|log2FC|>1, p value < 0.05). (C) Functional enrichment of
+DEPs. (D) Consensus lipid regulators (Acly, Acaca, Fasn, Apoa4, Abca1, Fabp5, PPARd, Lpl) showing concordant expression trends across transcriptomic and proteomic
+platforms. (E) PPI network of solanesol-targeted lipid nodes. (F) qRT-PCR validation of representative solanesol-targeted lipid node corroborating transcriptomic trends. Data
+are presented as mean ± SD. Statistical signiﬁcance versus the model group is indicated as *p < 0.05, **p < 0.01, and ***p < 0.001, ****p < 0.0001.
+
+
+
+                                                                  1023W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+   The present study conﬁrms the Acly-Acaca-Fasn pathway as a     solanesol’s neuroprotective  effects via enhanced brain-derived
+key mechanism underlying solanesol’s amelioration of hepatic    neurotrophic factor (BDNF) signaling [12–15], positioning solane-
+steatosis in T2DM [39,40]. Acly, a pivotal enzyme catalyzing citrate     sol as a potential paradigm-shifting therapeutic agent bridging
+conversion to acetyl-CoA and oxaloacetate, drives hepatic de novo    metabolic and neurodegenerative disorders. In summary, solanesol
+lipogenesis and cholesterol synthesis. Solanesol administration    does not merely correct individual metabolic parameters; it sys-
+signiﬁcantly suppressed Acly expression in diabetic mice, thereby     tematically restores overall homeostasis along the gut-liver-brain
+attenuating hepatic steatosis and ballooning degeneration. This     axis [48]. By simultaneously modulating microbial composition
+inhibition extended to acetyl-CoA carboxylase (Acaca)-the rate-    and the fatty acid proﬁle across all chain lengths, it promotes a
+limiting enzyme for malonyl-CoA production-and Fasn, effectively     healthier gut microenvironment that translates into multi-organ
+blocking the Acly-Acaca-Fasn lipogenic cascade. Notably, Acly sup-     protection. This broad-spectrum, systems-level action underscores
+pression correlated with reduced hepatic stellate cell activation     solanesol’s unique potential as a therapeutic strategy for T2DM and
+and ﬁbrotic marker, highlighting solanesol’s anti-ﬁbrotic potential      its comorbidities. Nevertheless, long-term studies are urgently
+[39,40]. Concomitantly, solanesol upregulated Abca1, promoting    needed to elucidate the dynamics of fatty acid ﬂuxes, metabolic
+cholesterol efﬂux and suppressed VLDL assemble. Beyond lipid reg-     turnover, and response heterogeneity.
+ulation, Abca1 activation triggered JAK2-STAT3 signaling in macro-      Beyond the BDNF-related pathway, solanesol’s neuroprotective
+phages,  inhibiting  NF-jB-driven  cytokine  release.  This  dual     potential may also be mediated through enhanced mitochondrial
+metabolic-immune modulation was also observed in pancreatic     cofactor biosynthesis. Notably, solanesol signiﬁcantly elevated
+islets and skeletal muscle, positioning solanesol as a novel Abca1    ubiquinone-1 (CoQ1) levels in T2DM mice; CoQ1 is a mitochon-
+agonist for systemic metabolic regulation [41,42]. Furthermore,     drial electron transport chain mediator and precursor to CoQ10.
+solanesol uniquely upregulated Fabp5, a lipid chaperone facilitat-     This aligns with  its demonstrated neuroprotective efﬁcacy in
+ing mitochondrial/peroxisomal  b-oxidation.  This enhancement     bipolar disorder models, where solanesol activated Sirt-1 signal-
+promoted fatty acid ﬂux toward energy production, thereby reduc-     ing, restored mitochondrial membrane potential, and reduced
+ing lipotoxicity and improving insulin sensitivity. Fecal metabolo-    neuronal  apoptosis  [15].  Crucially,  solanesol  achieved  these
+mics corroborated this mechanism, showing elevated long-chain     effects at low doses (5 mg/kg/day) −40-fold lower than met-
+fatty acid, suggesting Fabp5-mediated lipid mobilization [43]. We    formin (200 mg/kg/day) in mice. Conventional CoQ10 supplemen-
+propose that the coordinated upregulation of Abca1 and Fabp5     tation exhibits critical pharmacological shortcomings. Its extreme
+reduces intracellular lipid content, subsequently diminishing the    hydrophobicity results in lower oral bioavailability (≤5%) [49–51],
+cellular demand for Apoa4 and Lpl. This collective reduction in free     necessitating paradoxically  fail to improve glycemic control or
+fatty acids alleviates hepatocyte lipid stress, leading to downregu-     lipid proﬁles in diabetic patients, as evidenced by systematic
+lation of abnormally elevated PPARd. These mechanistic changes    review and meta-analysis of 7 trials (n = 356) [52]. These ﬁndings
+may represent one potential pathway contributing to the attenua-    redeﬁne solanesol from a CoQ10 synthesis intermediate [11] to a
+tion of hepatic inﬂammation, or alternatively, may constitute sec-    potent  standalone  therapeutic  agent.  Its  capacity  to  bypass
+ondary responses following the amelioration of hepatic steatosis.    CoQ10′s  pharmacokinetic  limitations  while  eliciting  broader
+Collectively, these ﬁndings establish that solanesol intervention     metabolic-neurological beneﬁts suggests a novel ‘‘precursor-to-t
+induces a novel gene expression proﬁle conducive to metabolic     herapeutic” repositioning strategy. Solanesol is expected to be a
+homeostasis in fatty liver disease.                                       cost-effective alternative to high-dose CoQ10 supplements. Future
+  A key and intriguing ﬁnding of this study is that solanesol exerts     studies will compare solanesol’s efﬁcacy against synthetic CoQ10
+multi-layered and sophisticated regulatory  effects on the gut     in diabetic neuropathy models and elucidate its role in modulat-
+ecosystem and its systemic impacts. Firstly, solanesol intervention     ing CoQ enzyme cascades.
+signiﬁcantly remodeled the gut microbiota, characterized by the       While this study establishes solanesol’s early-phase therapeutic
+enrichment of beneﬁcial taxa including key SCFA producers Alis-    efﬁcacy in T2DM model over 8 ∼ 13 weeks, the relatively short
+tipes and Anaerotruncus [44], as well as Odoribacteraceae and Para-     intervention period and modest sample size (n = 6 per group) —
+sutterella, which are associated with bile acid metabolism and    though consistent with common practices in preclinical studies
+PPAR signaling activation [45,46]. This microbial shift was accom-    and sufﬁcient to detect signiﬁcant treatment effects-may have lim-
+panied by a comprehensive recalibration of host fatty acid metabo-     ited statistical power for capturing more subtle trends such as the
+lism. Fatty acid quantiﬁcation revealed a chain-length-dependent    body weight reduction observed with metformin [53]. Future stud-
+regulatory pattern for solanesol: on one hand, it further reduced     ies employing larger sample sizes, diverse disease models, and
+the levels of SCFAs in feces (C2-C5, Supplemental Fig. 1A), poten-    extended intervention periods (≥6 months) will be essential to val-
+tially indicating enhanced intestinal absorption and systemic uti-     idate solanesol’s chronic protective potential against diabetic com-
+lization of these beneﬁcial fatty acids [32,33]; on the other hand,     plications   (e.g., retinopathy,  nephropathy,  neuropathy)  and
+it decreased MCFAs and normalized the levels of LCFAs (Fig. 4O),    strengthen the generalizability of these ﬁndings. Mechanistically,
+suggesting that solanesol not only enhances the bioactivity of    deeper interrogation of tissue-speciﬁc signaling networks is war-
+SCFAs but also corrects the diabetic dysregulation of MCFAs and     ranted, including spatiotemporal expression proﬁling of mitochon-
+LCFAs, thereby suppressing harmful lipid accumulation and ame-     drial respiratory chain complexes in hepatic tissue, single-cell
+liorating the inﬂammatory milieu [47]. This gut-centric regulation     resolution analysis of b-cell-immune crosstalk, and spatial tran-
+holds signiﬁcant systemic implications. For instance, via the gut-     scriptomics of renal urate transporter niches. Furthermore, clinical
+liver axis, enhanced SCFA absorption may improve gut barrier     translation will require additional steps such as large-cohort eval-
+function and reduce systemic inﬂammation, thereby alleviating     uations, systematic safety assessments, and long-term efﬁcacy
+hepatic inﬂammatory stress and insulin resistance − effects that     studies.  Nevertheless,  the  observed  multi-organ  protection-
+likely underlie solanesol’s marked hepatoprotective and glucose-    reﬂected by reductions in hepatic steatosis (;59 %), pancreatic IL-
+lowering actions. Furthermore, involvement of the gut-brain axis    1b (;42 %), and renal uric acid (;45 %) −along with intestinal meta-
+is suggested by the elevated levels of anti-inﬂammatory long-     bolic reprogramming capacity, suggests that solanesol may repre-
+chain unsaturated fatty acids, particularly within the a-linolenic    sent  a  novel  natural  compound  with  the  potential  to
+acid pathway (palmitoleate [C16:1], c-linolenate [C18:3N6], and    simultaneously  address  multiple  metabolic  disturbances  in
+eicosatrienoate [C20:3N]). These lipidomic shifts, especially the    T2DM, offering a promising alternative to conventional single-
+increase in c-linolenate (C18:3N6), provide further evidence for     target therapies.
+
+                                                                  1024W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+Conclusion                                                    References
+
+   Integrated multi-omics analyses reveal solanesol as a multi-       [1] The L. Diabetes: a dynamic disease. Lancet 2017;389(10085):2163.
+                                                                                               [2] Pearson ER. Type 2 diabetes: a multifaceted disease. Diabetologia 2019;62
+target  phytotherapeutic  agent  that  coordinately  ameliorates          (7):1107–12.
+T2DM pathophysiology through: (1) Hepatic metabolic repro-       [3] Sun H, Saeedi P, Karuranga S, Pinkepank M, Ogurtsova K, Duncan BB, et al. IDF
+gramming via Acly/Acaca/Fasn-mediated lipogenesis suppression,          diabetes  atlas:  global,  regional  and  country-level  diabetes  prevalence
+                                                                                        estimates  for 2021 and  projections  for 2045.  Diabetes Res  Clin  Pract
+Fabp5/Abca1/Apoa4/Lpl-driven b-oxidation, cholesterol efﬂux and         2022;183:109119.
+PPARd inhibition; Mitochondrial optimization of electron trans-       [4] Schmidt AM.  Highlighting  diabetes  mellitus:  the  epidemic  continues.
+port chain complexes  I, Ⅱ,  III, IV, and V. (2) Pancreatic IL-1b           Arterioscler Thromb Vasc Biol 2018;38(1):e1–8.
+                                                                                               [5] Galicia-Garcia U, Benito-Vicente A, Jebari S, Larrea-Sebal A, Siddiqi H, Uribe KB,inﬂammasome  inhibition  without  b-cell  overstimulation;  (3)
+                                                                                                 et al. Pathophysiology of type 2 diabetes mellitus. Int J Mol Sci 2020;21(17).
+Renal urate transporter remodeling and inﬂammation inhibition;       [6] Panigrahy SK, Bhatt R, Kumar A. Targeting type II diabetes with plant terpenes:
+(4) Gut microbiota restructuring with a-linolenic acid metabo-          the new and promising antidiabetic therapeutics. Biologia 2021;76(1):241–54.
+lism lipid enrichment. Systems pharmacology validates its supe-       [7] Shehadeh MB, Suaifan G, Abu-Odeh AM. Plants secondary metabolites as blood
+                                                                                       glucose-lowering molecules. Molecules 2021;26(14).
+rior  network  proximity  to  metabolic  syndrome  targets  vs       [8] Newman DJ, Cragg GM. Natural products as sources of new drugs over the
+metformin (5 mg/kg/day vs 200 mg/kg/day.  i.g.), positioning  it          nearly four decades from 01/1981 to 09/2019. J Nat Prod 2020;83(3):770–803.
+as a ﬁrst-in-class natural modulator of the ‘‘metabolic quartet”       [9] Yan N, Liu Y, Liu L, Du Y, Liu X, Zhang H, et al. Bioactivities and medicinal value
+                                                                                                 of solanesol and its accumulation, extraction technology, and determination
+−dysglycemia,  dyslipidemia, hyperuricemia, and multi-organ         methods. Biomolecules 2019;9(8):334.
+inﬂammation.                                                                      [10] Yan N, Liu Y, Zhang H, Du Y, Liu X, Zhang Z. Solanesol biosynthesis in plants.
+                                                                                    Molecules 2017;22(4):510.
+                                                                                       [11] Ma Y, Wei G, Dong Z, Wang Z, Zhai X, Liu Y, et al. Solanesol: a promising
+                                                                                           natural product. Front Pharmacol 2025;16–2025.
+Ethics statement                                                                 [12] Mehan S, Monga V, Rani M, Dudi R, Ghimire K. Neuroprotective effect of
+                                                                                            solanesol against 3-nitropropionic acid-induced Huntington’s disease-like
+   This animal experiment has been approved by the Guangzhou           behavioral, biochemical, and cellular alterations: restoration of coenzyme-
+                                                                               Q10-mediated  mitochondrial  dysfunction.  Indian   J  Pharmacol  2018;50
+Miles  Animal   Ethical  and  Welfare  Committee  (IACUC-
+                                                                                         (6):309–19.
+MIS20230035) according to the Guide for the Care and Use of Lab-      [13] Sharma  R, Rahi  S, Mehan  S. Neuroprotective  potential  of  solanesol  in
+oratory Animals of the National Institutes of Health.                            intracerebroventricular  propionic  acid  induced  experimental  model  of
+                                                                                      autism: insights from behavioral and biochemical evidence. Toxicol Rep
+                                                                                  2019;6:1164–75.
+                                                                                       [14] Rajdev K, Siddiqui EM, Jadaun KS, Mehan S. Neuroprotective potential of
+CRediT authorship contribution statement                                     solanesol  in  a  combined  model  of  intracerebral  and  intraventricular
+                                                                             hemorrhage in rats. IBRO Rep 2020;8:101–14.
+  Wenji Zhang: Conceptualization, Data curation, Formal analy-      [15] Rajkhowa B, Mehan S, Sethi P, Prajapati A, Suri M, Kumar S, et al. Activating
+                                                                                       SIRT-1 signalling with the mitochondrial-CoQ10 activator solanesol improves
+sis, Investigation, Methodology, Project administration, Resources,          neurobehavioral and neurochemical defects in ouabain-induced experimental
+Supervision, Validation, Visualization, Writing – original  draft,         model of bipolar disorder. Pharmaceuticals (Basel, Switzerland) 2022;15.
+Writing – review & editing. Wenli Cheng: Writing – original draft,      [16] Yao X, Bai Q, Yan D, Li G, Lu C, Xu H. Solanesol protects human hepatic L02 cells
+                                                                              from ethanol-induced oxidative injury via upregulation of HO-1 and Hsp70.
+Validation, Software, Investigation. Jiaqi Fu: Data curation, Investi-           Toxicol In Vitro 2015;29(3):600–8.
+gation, Methodology. Ruidong Zeng: Data curation, Methodology.      [17] Liu Y, Lin M, Mu X, Qin L, Deng J, Liu Y, et al. Protective effect of solanesol in
+Zhangying Wang: Conceptualization, Supervision, Project admin-          glucose-induced hepatocyte injury: Mechanistic insights on oxidative stress
+istration, Resources. Jingbo Zhou: Software, Supervision. Yibo         and mitochondrial preservation. Chem Biol Interact 2023;383:110676.
+                                                                                       [18] Shao T, Chen YL. Stop using the misidentiﬁed cell line LO2 as a human
+Chen:  Conceptualization,  Supervision, Data  curation, Funding           hepatocyte. J Hepatol 2023.
+acquisition. Wenjuan Zhang: Conceptualization, Data curation,      [19] Wu X, Chen H, Tian Y, Wang H, Hou H, Hu Q, et al. Amelioration of obesity-
+Formal analysis, Funding acquisition, Investigation, Methodology,           associated  disorders  using  solanesol  with  the  mitigation  of  NLRP3
+                                                                      inﬂammasome activation and macrophage inﬂammation in adipose tissue.
+Project administration, Resources, Software, Supervision, Valida-         Food Funct 2025.
+tion, Visualization.                                                                [20] Javanbakht  S, Shaabani  A. Carboxymethyl  cellulose-based  oral  delivery
+                                                                                        systems. Int J Biol Macromol 2019;133:21–9.
+                                                                                       [21] Kleiner DE, Brunt EM, Van Natta M, Behling C, Contos MJ, Cummings OW, et al.
+Declaration of competing interest                                            Design and validation of a histological scoring system for nonalcoholic fatty
+                                                                                                         liver disease. Hepatology 2005;41(6):1313–21.
+   The authors declare that they have no known competing ﬁnan-      [22] Ewels P, Magnusson M, Lundin S, Käller M. MultiQC: summarize analysis
+                                                                                                  results for multiple tools and samples in a single report. Bioinformatics
+cial interests or personal relationships that could have appeared          2016;32(19):3047–8.
+to inﬂuence the work reported in this paper.                                 [23] Kim D, Langmead B, Salzberg SL. HISAT: a fast spliced aligner with low
+                                                                   memory requirements. Nat Methods 2015;12(4):357–60.
+                                                                                       [24] Liao Y, Smyth GK, Shi W. featureCounts: an efﬁcient general purpose program
+Acknowledgements                                                                         for assigning sequence reads to genomic features. Bioinformatics 2014;30
+                                                                                         (7):923–30.
+                                                                                       [25] Quast J-P, Schuster D, Picotti P. protti: an R package for comprehensive data
+   This work was supported by the Natural Science Foundation of                                                                                              analysis  of  peptide-  and  protein-centric  bottom-up  proteomics  data.
+Guangdong    Province     of    China    (2023A1515010353,          Bioinform Adv 2022;2(1):vbab041.
+2025A1515012372); the earmarked fund of the China Agriculture      [26] Zhou  Y, Zhou  B, Pache  L, Chang M, Khodabakhshi AH, Tanaseichuk O.
+Research System (CARS-10, sweet potato); Special fund for scien-         Metascape  provides  a  biologist-oriented  resource  for  the  analysis  of
+                                                                                          systems-level datasets. Nat Commun 2019;10(1):1523.
+tiﬁc innovation strategy-construction of high-level Academy of      [27] Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA,
+Agriculture  Sciences  (R2022PY-QY004,  R2023PY-JG008);  The           et  al. Gene  set enrichment  analysis: a knowledge-based approach  for
+Science and Technology Plan  Project  of Guangdong Province           interpreting genome-wide expression proﬁles. Proc Natl Acad Sci 2005;102
+                                                                                     (43):15545–50.
+(2023B1212060038).                                                             [28] Wu X, Chen H, Tian Y, Wang H, Hou H, Hu Q, et al. Amelioration of obesity-
+                                                                                           associated  disorders  using  solanesol  with  the  mitigation  of  NLRP3
+                                                                      inﬂammasome activation and macrophage inﬂammation in adipose tissue.
+Appendix A. Supplementary data                                          Food Funct 2025;16(5):1903–18.
+                                                                                       [29] Yadav  P, Singh SK, Weiskirchen R, Navik U. Sclareol mitigates steatosis,
+   Supplementary data to this article can be found online at         inﬂammation, and ﬁbrosis through the regulation of AMPK/SREBP1/NF-jB/
+                                                                               TGF-b pathways in metabolic dysfunction-associated steatohepatitis. Biomed
+https://doi.org/10.1016/j.jare.2025.12.025.
+                                                                                Pharmacother 2025;191:118512.
+
+
+
+                                                                  1025W. Zhang, W. Cheng, J. Fu et al.                                                                                             Journal of Advanced Research 87 (2026) 1011–1026
+
+
+[30] Zhang T, Wang R, Wang Z, Wang X, Wang F, Ding  J. Structural basis for           insulin-glucose  homeostasis, inﬂammation and  obesity.  Diabetes Metab
+     ragulator functioning as a scaffold in membrane-anchoring of Rag GTPases and          Syndr: Clin Res Rev 2019;13(2):1529–34.
+    mTORC1. Nat Commun 2017;8(1):1394.                                           [43] Shibue K, Yamane S, Harada N, Hamasaki A, Suzuki K, Joo E, et al. Fatty acid-
+[31] Yoon MS. The role of mammalian target of rapamycin (mTOR) in insulin          binding protein 5 regulates diet-induced obesity via GIP secretion from
+     signaling. Nutrients 2017;9(11).                                                    enteroendocrine K cells in response to fat ingestion. Am J Physiol-Endocrinol
+[32] Blaak EE, Canfora EE, Theis S, Frost G, Groen AK, Mithieux G, et al. Short chain         Metab 2015;308(7):E583–91.
+      fatty acids in human gut and metabolic health. Benef Microbes 2020;11      [44] Chen H-C, Liu Y-W, Chang K-C, Wu Y-W, Chen Y-M, Chao Y-K, et al. Gut
+     (5):411–55.                                                                        butyrate-producers confer post-infarction cardiac protection. Nat Commun
+[33] Canfora EE, Jocken JW, Blaak EE. Short-chain fatty acids in control of body          2023;14(1):7249.
+    weight and insulin sensitivity. Nat Rev Endocrinol 2015;11(10):577–91.           [45] Ju T, Kong JY, Stothard P, Willing BP. Deﬁning the role of Parasutterella, a
+[34] García-Ruiz I, Solís-Muñoz P, Fernández-Moreira D, Grau M, Colina F, Muñoz-           previously uncharacterized member of the core gut microbiota. ISME  J
+    Yagüe T, et al. High-fat diet decreases activity of the oxidative phosphorylation          2019;13(6):1520–34.
+    complexes and causes nonalcoholic steatohepatitis in mice. Dis Model Mech      [46] Li J, Xu J, Guo X, Xu H, Huang C, Nie Y, et al. Odoribacter splanchnicus—a next-
+     2014;7(11):1287–96.                                                               generation probiotic candidate. Microorganisms 2025;13(4):815.
+[35] Chen L, Zhou M, Li H, Liu D, Liao P, Zong Y, et al. Mitochondrial heterogeneity in      [47] Kim M, Friesen L, Park J, Kim HM, Kim CH. Microbial metabolites, short-chain
+     diseases. Signal Transduct Target Ther 2023;8(1):311.                                     fatty acids, restrain tissue bacterial load, chronic inﬂammation, and associated
+[36] Rasmussen C, Larsen JW, Holm PCW, Nielsen GL. Gout: an overlooked disease          cancer in the colon of mice. Eur J Immunol 2018;48(7):1235–47.
+     in patients with diabetes? A Danish prospective cohort Study with 2 years of      [48] Agirman G, Hsiao EY. SnapShot: the microbiota-gut-brain axis. Cell 2021;184
+     follow-up. Clin Diabetes 2025;43(2):282–90.                                         (9):2524–2524.e1.
+[37] Alimujiang M, Yu M, Yin   J. 1879-P: The  liver mitochondrial oxidative      [49] Mantle D, Lopez-Lluch G, Hargreaves IP. Coenzyme Q10 Metabolism: a review
+     phosphorylation   increases   in   diabetic   mice.   Diabetes   2019,  68           of unresolved issues. Int J Mol Sci [Online] 2023.
+     (Supplement_1).                                                                  [50] Mantle D, Dybring A. Bioavailability of coenzyme Q(10): an overview of the
+[38] Damanhouri ZA, Alkreathy HM, Alharbi FA, Abualhamail H, Ahmad MS. A          absorption process and subsequent metabolism. Antioxidants (Basel) 2020;9
+     review of the impact of pharmacogenetics and metabolomics on the efﬁcacy of             (5).
+    metformin in type 2 diabetes. Int J Med Sci 2023;20(1):142.                       [51] Renke G, Pereira MB, Renke A. Coenzyme Q10 for diabetes and cardiovascular
+[39] Morrow MR, Batchuluun  B, Wu  J, Ahmadi  E, Leroux JM, Mohammadi-           disease: useful or useless? Curr Diabetes Rev 2023;19(4):67–72.
+     Shemirani  P, et  al. Inhibition of ATP-citrate lyase improves NASH,  liver      [52] Zozina VI, Covantev S, Goroshko OA, Krasnykh LM, Kukes VG. Coenzyme Q10 in
+     ﬁbrosis, and dyslipidemia. Cell Metab 2022;34(6):919–936.e8.                         cardiovascular and metabolic diseases: current state of the problem. Curr
+[40] Feng X, Zhang L, Xu S, Shen AZ. ATP-citrate lyase (ACLY) in lipid metabolism           Cardiol Rev 2018;14(3):164–74.
+    and atherosclerosis: an updated review. Prog Lipid Res 2020;77:101006.           [53] Zhang W, Xu JH, Yu T, Chen QK. Effects of berberine and metformin on
+[41] Chen L, Zhao ZW, Zeng PH, Zhou YJ, Yin WJ. Molecular mechanisms for ABCA1-            intestinal inﬂammation and gut microbiome composition in db/db mice.
+    mediated cholesterol efﬂux. Cell Cycle 2022;21(11):1121–39.                     Biomed Pharmacother 2019;118:109131.
+[42] Babashamsi MM, Koukhaloo SZ, Halalkhor S, Salimi A, Babashamsi M. ABCA1
+    and metabolic syndrome; a review of the ABCA1 role in HDL-VLDL production,
+
+
+
+
+
+                                                                  1026

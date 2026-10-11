@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC12843178",
+  "version": 1,
+  "pmid": 41598186,
+  "doi": "10.3390/life16010030",
+  "mid": null,
+  "title": "Short-Term Effects of Capacitive and Resistive Electric Transfer Therapy and Static Splinting in the Management of Trigger Finger: A Non-Randomized Clinical Study",
+  "citation": "Life (Basel). 2025 Dec 25;16(1):30. doi: 10.3390/life16010030",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC12843178.1/PMC12843178.1.txt?md5=4c244e6278392074b5a89ee52a9f73c3",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12843178.1/PMC12843178.1.pdf?md5=992da1edb2d5b434fc29c8727026b82b",
+  "xml_url": "s3://pmc-oa-opendata/PMC12843178.1/PMC12843178.1.xml?md5=efa6426f8023d13321db654800d0efe3",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12843178.1/life-16-00030-g001.jpg?md5=b6ebc68f8c3bc866d9a331a2cda55605",
+    "s3://pmc-oa-opendata/PMC12843178.1/life-16-00030-g002.jpg?md5=31f3fdfa6f34bd52ab97c335b718aec4",
+    "s3://pmc-oa-opendata/PMC12843178.1/life-16-00030-g003.jpg?md5=d692fbb0079b4ab02fcefcc43d092bd3",
+    "s3://pmc-oa-opendata/PMC12843178.1/life-16-00030-g004.jpg?md5=ff5e3111a8a99afaf0b1b68bcd127f62",
+    "s3://pmc-oa-opendata/PMC12843178.1/life-16-00030-g005.jpg?md5=b5a8868baa361f6f60251fcaf262401f",
+    "s3://pmc-oa-opendata/PMC12843178.1/life-16-00030-s001.zip?md5=3691695e206f176ceb873ea76ac6537c"
+  ]
+}

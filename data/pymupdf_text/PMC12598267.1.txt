@@ -1,0 +1,1041 @@
+Received: 12 January 2025     Accepted: 19 August 2025
+
+DOI: 10.1002/tpg2.70116
+
+                                                                                                The Plant Genome
+O R I G I N A L A R T I C L E
+
+
+Decoding drought tolerance from a genomic approach in Castanea
+sativa Mill
+
+
+A. Perez-Rial1        P. Castro1    A. Solla2     M. A. Martín1      J. V. Die1
+
+
+
+1Department of Genetics-ETSIAM,
+Universidad de Córdoba, Córdoba, Spain       Abstract
+2Faculty of Forestry, Institute for Dehesa       Climate change, marked by prolonged periods of extreme summer drought coupled
+Research (INDEHESA), Universidad de        with heat, presents a significant challenge for chestnut forests. Genomic insight into
+Extremadura, Plasencia, Spain
+                                     drought tolerance in Castanea sativa is essential for enhancing the adaptation of this
+Correspondence                          species to climate change. However, progress in this area has been hindered by the
+J. V. Die, Department of Genetics-ETSIAM,      lack of a genome reference. To address this limitation, we developed a comprehensive
+Universidad de Córdoba, Campus de
+Rabanales, 14071 Córdoba, Spain.            drought tolerance gene atlas by leveraging publicly available databases and the high
+Email: jose.die@uco.es                  homology between the Quercus and Castanea genera. Candidate genes were identi-
+
+                                          fied through a mapping approach using short-read sequence databases and validated
+Assigned to Associate Editor Awais Khan.
+                                         via Sanger sequencing. Our method enabled the successful reconstruction of cod-
+Funding information                      ing sequences and the identification of genetic variability in C. sativa. Two genes
+Ministerio de Ciencia, Innovación y
+                                    encoding an oleosin-like protein and a two-component response regulator exhib-
+Universidades, Grant/Award Numbers:
+FPU22/02101, RYC2019-904 028188-I;          ited significant sequence differences, suggesting their involvement in adaptive stress
+Consejería de Conocimiento, Investigación       responses. These genes emerge as promising targets for future research and poten-
+y Universidad, Junta de Andalucía,
+                                                    tial genetic markers for drought tolerance. The resulting gene atlas provides valuableGrant/Award Number: ProyExcel_00351
+                                          insights into drought tolerance and supports the development of molecular markers
+                                            for more targeted and effective conservation and breeding strategies.
+
+
+                                     Plain Language Summary
+
+                                     Chestnut trees, essential for Mediterranean ecosystems, face challenges from increas-
+
+                                       ing droughts and heatwaves. This study identifies key genes that may help chestnut
+                                            trees adapt to these stresses. By comparing chestnut DNA sequences with related
+
+                                  oak species, we found genes involved in stress responses. These genes could guide
+                                         future breeding efforts to develop drought-tolerant chestnut varieties, ensuring their
+
+                                         survival and ecological contributions in a changing climate.
+
+
+
+
+
+Abbreviations: CDS, coding sequence; EST-SSRs, expressed sequence tag-derived simple sequence repeats; GO, gene ontology; NCBI, national center for
+biotechnology information; PCR, polymerase chain reaction.
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided the original
+work is properly cited.
+© 2025 The Author(s). The Plant Genome published by Wiley Periodicals LLC on behalf of Crop Science Society of America.
+
+
+Plant Genome. 2025;18:e70116.                                                                                               wileyonlinelibrary.com/journal/tpg2     1 of 18
+https://doi.org/10.1002/tpg2.701162 of 18      The Plant Genome                                                                                    PEREZ-RIAL ET AL.
+
+1   INTRODUCTION
+
+                                                     Core Ideas
+Climate change is driving significant shifts in the structure
+                                   ∙A gene atlas for drought tolerance in Castaneaand functioning of forests worldwide (Heilmayr et al., 2023).
+                                                                         sativa was developed using genomic and compar-Current climate scenarios consist of an increased frequency,
+                                                                           ative tools.duration, and intensity of drought episodes, largely driven by
+                                      ∙We reconstructed a number of coding sequencesrising temperatures and altered precipitation patterns (Cook
+                                                            and identified genetic tags for gene variability.et al., 2020; Kovats et al., 2014; Trenberth, 2011). These sce-
+                                                        ∙Candidate genes CG8 and CG16 show signifi-narios and their interactions with forest pests and diseases
+                                                                     cant variability, potentially linked to adaptive stressare contributing to widespread decline of trees in many for-
+                                                                      responses.est ecosystems (DeSoto et al., 2020; Kramer et al., 2010;
+                                              ∙Our approach provides a framework for study-McDowell et al., 2020).
+                                                                    ing genetic diversity in species lacking reference  Genetic adaptation is one of the mechanisms that can con-
+                                                             genomes.tribute to tree populations’ ability to persist under changing
+climatic conditions, alongside phenotypic plasticity, migra-
+tion  to  suitable environments, or combinations of these
+responses (Alberto et al., 2013; Fady et al., 2016). However,
+the emergence of unprecedented combinations of precipita-    climate stress (Camisón et al., 2019, 2021; Ciordia et al.,
+tion and temperature, often exceeding the historical ranges of    2012; Fernandes et al., 2022). Consequently, identifying can-
+many species, poses one of the most critical challenges (Burke     didate genes associated with drought tolerance in C. sativa
+et al., 2018; Williams & Jackson, 2007). Such excesses could    would be of high interest.
+increase species vulnerability as trees face extreme conditions      Research into the genetic basis of drought tolerance in C.
+exceeding the limits of their genetic tolerance (Harris et al.,     sativa is an important avenue to investigate its ability to adapt
+2018; Pacifici et al., 2015). In this context, rapid warming     in the face of changing climate conditions. Historically, the
+may surpass the adaptive capacity of numerous tree species     lack of genomic sequences has hindered the development of
+(Heilmayr et al., 2023).                                           specific genetic markers and limited the analysis of candi-
+  The   European   chestnut   (Castanea   sativa   Mill.,    date genes related to stress response. Most available expressed
+2x = 2n = 24) is the only chestnut species native to the    sequence tag-derived simple sequence repeats (EST-SSRs)
+Mediterranean basin. This region, which includes southern    markers are derived from Quercus species, which have been
+Europe, North Africa, and parts of the Near East, is recog-    more extensively studied and exhibit high genetic synteny
+nized as one of the world’s major biodiversity hotspots and    with Castanea (Alcaide et al., 2019; Castellana et al., 2021;
+is considered a priority for conservation (Medail & Quezel,    Dorado et al., 2022; Martín et al., 2017; Staton et al., 2020).
+1999; Myers et al., 2000). In this context, chestnuts provide    Consequently, much of the molecular research on chestnut
+significant ecological and economic value, thriving in natu-    adaptation has relied on Quercus-based resources rather than
+ral, semi-natural, and managed ecosystems. As a member of     species-specific genomic tools, highlighting the need for more
+the Fagaceae family, which also includes Quercus (oaks) and     targeted genomic resources to advance our understanding of
+Fagus (beeches) genera, Castanea sativa contributes to the    chestnut adaptation.
+biodiversity of Mediterranean forests, with its populations       Recently, significant advances have been made with the
+exhibiting high genetic  diversity (Mattioni  et  al., 2017;     release of genome sequences of Asian chestnut species,
+Pereira-Lorenzo et al., 2019).                                such as Castanea mollissima Blume and Castanea crenata
+  The Mediterranean region is particularly vulnerable to cli-     Sieb. et Zucc., which offer invaluable resources for compar-
+mate change, with ongoing environmental shifts imposing     ative genomics. Several C. mollissima varieties have been
+strong selective pressure on its forest, including on its popula-    sequenced, with genome sizes ranging from 671.99 to 785.5
+tions of European chestnut (Freitas et al., 2021; Pérez-Girón   Mb (Hu et al., 2022; Qiao et al., 2024; Staton et al., 2020;
+et al., 2020). While C. sativa is adapted to a wide range of    Sun et al., 2020; Wang et al., 2020; Xing et al., 2019). Simi-
+climates and local environmental conditions, particularly in      larly, two pseudo-chromosome-level assemblies from recent
+terms of precipitation and temperature, it remains highly sus-     studies reported genome sizes of 683.8 and 718.3 Mb for
+ceptible to severe drought (Alcaide et al., 2019; Castellana    C. crenata (Shirasawa et al., 2021; Wang et al., 2022). This
+et al., 2021; Dorado et al., 2022; Martin et al., 2010; Míguez-     variation in genome size is consistent with intraspecific dif-
+Soto & Fernández-López, 2015; Míguez-Soto et al., 2019).    ferences among chestnut cultivars and may reflect underlying
+This vulnerability is evidenced by reductions in growth rate,     structural variation, highlighting the need for comprehen-
+leaf conductance, photosynthetic activity, and fine root vital-     sive genomic resources across diverse genotypes (Hu et al.,
+ity under drought conditions, underscoring its sensitivity to    2022). In addition, significant progress has been made in thePEREZ-RIAL ET AL.                                                                         The Plant Genome             3 of 18
+
+
+publication and annotation of the American chestnut (Cas-     et al., 2019). Quercus genes were selected based on the fol-
+tanea dentata (Marshall) Borkh.) genome (C. dentata v1.1;    lowing criteria: 80 genes with the highest expression levels in
+https://phytozome-next.jgi.doe.gov/info/Cdentata_v1).         Q. robur (a drought-susceptible species) and 80 genes with the
+  At the onset of this study, no genome assemblies for C.    highest expression levels in Q. ilex (a highly drought-tolerant
+sativa were published. In the nucleotide database of GenBank     species). Additionally, 167 genes exhibiting expression pat-
+at NCBI (National Center for Biotechnology Information),     terns that correspond with the drought tolerance gradient
+only ∼950 sequences were available, with about 65% being    observed across the Quercus species were included. After
+mRNA fragments from expressed sequence tag libraries. To    removing duplicates and keeping only one isoform per gene,
+address this gap, we developed a method leveraging publicly    a final set of 223 unique genes was obtained (Table S1).
+available databases to create a comprehensive atlas of candi-     Protein sequences were retrieved from NCBI using the ref-
+date genes for drought tolerance based on the high homology    seqR package (v.1.1.4) (Die, 2024) in R (v.4.2.0) (R Core
+between the Quercus and Castanea genera. Candidate gene    Team, 2022). Functional annotation was performed using the
+sequences were identified using a mapping approach based    gene ontology (GO) tool Blast2GO (Conesa & Götz, 2008),
+on short-read sequence databases of C. sativa and validated    implemented in the OmicsBox platform (v.3.0.27), to assign
+through Sanger sequencing of genotypes from the Iberian   GO terms to each gene. The following settings were applied:
+Peninsula. The recent release of the first chromosome-level   BLASTp against the NCBI RefSeq protein database, E-value
+genome assembly of C. sativa (Bianco et al., 2024) provided      filter ≤10−6, HSP (highest scoring pair) length cutoff of 33,
+an excellent opportunity to validate our approach.           maximum of 10 BLAST hits per sequence, and an annota-
+  By integrating our data with the recently published Euro-     tion cutoff of 50. To further enhance annotation, InterProScan
+pean chestnut genome data, we performed a comparative     results were merged with GO terms, and GOSlim plant-
+analysis of coding regions, assessed genetic variability, and     specific terms were assigned. Finally, genes with GO terms
+identified potential genetic markers associated with drought    “response to stimuli,” “response to stress,” “signal transduc-
+tolerance. This  atlas will pave the way for the detailed     tion,” and “transcription factor” were selected as candidates
+characterization of candidate genes and provide a valu-     for identifying homologous genes in the Castanea genus.
+able knowledge base that could be integrated into breeding
+programs aiming to search drought-tolerant chestnuts.
+                                                    2.3     Identification of homologous genes in
+                                                 the Castanea genus
+2   MATERIALS AND METHODS
+                                                  Homologs were first identified in the closely related Asian
+2.1    Plant material                                    species C. mollissima and C. crenata using the NCBI’s
+                                           BLASTp tool (Altschul et al., 1990). Protein sequences of
+The two genotypes used in this study (Sur and Torito) were     the candidate genes were used as queries against the protein
+selected within the chestnut breeding program conducted by    databases of C. mollissima cultivar N11-1 (Wang et  al.,
+Universidad de Extremadura (Faculty of Forestry in Plasen-    2020) and C. crenata (Shirasawa et  al., 2021), available
+cia, Spain) because of their high tolerance to drought and     in the Castanea Genome Database (http://castaneadb.net/).
+heat stress, and resistance to Phytophthora cinnamomi (Solla   To ensure accurate  identification, a  reciprocal BLASTp
+et  al., 2024). Sur originated from Paterna del Río (tree    search between the two Castanea species was performed.
+18, code p11), Almería, southern Spain (37˚01′54.0″ N,     Full-length nucleotide sequences of the homologous genes
+2˚57′15.5″ W), and Torito originated from Valle de Mata-    were aligned using Geneious Prime (v.2024.0) with default
+moros (tree 1, code s/id), Badajoz, western Spain (38˚22′28.5″    parameters to generate consensus sequences for each gene.
+N, 6˚48′00.1″ W) (Solla et al., 2024). Their assignment as    Sequence homology was assessed based on identity  (i.e.,
+“pure” C. sativa and the absence of exotic C. crenata and C.     the percentage of pairwise residues that are identical in the
+mollissima germplasm were verified with 13 simple sequence    alignment) and coverage (i.e., the proportion of the largest
+repeat markers, following Alcaide et al. (2022).                sequence covered by the smallest one) across the annotated
+                                                          coding sequence (CDS).
+
+2.2    Candidate genes selection and
+annotation                                         2.4    Construction of C. sativa in silico
+                                               sequences through short-read mapping
+Comprehensive identification of drought tolerance candidate
+genes was achieved using selected genes from an RNA-Seq    The consensus sequences obtained from the Asian species
+collection, which represents the most complete Quercus spp.    were used to retrieve short reads from C. sativa from the
+transcriptional profile under drought stress to date (Madritsch   NCBI sequence read archive (SRA database) SRX140876704 of 18      The Plant Genome                                                                                    PEREZ-RIAL ET AL.
+
+
+(Bioproject Accession PRJNA804196; Sandercock  et  al.,    merase kit (Promega). PCR reactions were performed in a
+2022). This database was generated from DNA extracted     total volume of 20 μL, containing 20 ng of genomic DNA,
+from the leaves of an individual tree in Portugal. These reads    0.65 μM of each primer, 0.2 mM of dNTPs, 2.5 mM of MgCl2,
+were mapped to the query sequences using Geneious Prime   1X Colorless GoTaq Flexi Buffer, and 0.04 U/μL of GoTaq
+(v.2024.0) with default parameters, low sensitivity, and no   DNA Polymerase. The amplification conditions were an ini-
+maximum read limit (Perez-Rial et al., 2024). The reliability      tial heat activation at 95˚C for 15 min, followed by 28 cycles
+of the mapping process was assessed based on the anno-     consisting of 45 s of denaturation at 95˚C, 75 s of annealing
+tated CDSs of C. mollissima and C. crenata, by using (1)     at 60˚C, and 45 s of extension at 72˚C.
+mapping identity (i.e., percentage of columns in the align-
+ment where all sequences are identical), (2) mapping coverage
+(i.e., proportion of the query sequence covered by one or    2.7   PCR product purification, Sanger
+more reads), and (3) average number of reads mapped to   sequencing, and CDS reconstruction
+each site. To confidently call a base in the C. sativa in silico
+sequence, a threshold of 65% mapping identity was applied,   To confirm successful amplification, PCR products were
+and a minimum of two reads per site was required. Posi-     verified by agarose gel electrophoresis (Figure 1). Products
+tions with fewer than two reads were designated as “N.” For    showing a single clear band were cleaned with Exo-CIP Rapid
+this study, sequences with mapping identity and/or cover-   PCR Cleanup (New England Biolabs) according to the man-
+age values below 85% were considered to exhibit substantial     ufacturer’s instructions. If multiple bands were present, the
+variability based on observed results.                              target band was excised and purified using the Zymoclean Gel
+                                     DNA Recovery Kit (Zymo Research). Sanger sequencing was
+                                                         performed by STABVIDA.
+2.5    Primer design for Sanger sequencing        The sequencing results were analyzed using Geneious
+                                                      Prime (v.2024.0) software. The resulting reads were aligned
+To validate the in silico CDS, Sanger sequencing was per-     to the in silico sequence of C. sativa to reconstruct the
+formed on half of the candidate genes. This subset was   CDS and generate a reference sequence for the two chest-
+selected to confirm the accuracy of the in silico predic-    nut genotypes. Regions with a base-calling error probability
+tions,  as our primary goal was  to  obtain coding gene     greater than 2% were trimmed  to ensure accuracy and
+sequences. Primers were designed by using Geneious Prime     reliability.
+(v.2024.0), based on a consensus sequence derived from
+aligning sequences of C. mollissima-N11, C. crenata, and
+the inferred sequence of C. sativa. Primers were targeted to    2.8     Identification of the candidate genes in
+the most conserved regions flanking each CDS. When dis-   the new C. sativa reference genome
+crepancies between the annotated CDS of C. mollissima and
+C. crenata were observed, primers were designed based on    During the reconstruction of the gene sequences, the first C.
+the regions with longer annotated CDS (Figure S1). The     sativa genome from the Italian cultivar ‘Marrone di Chiusa
+primers were designed with the following criteria: polymerase    Pesio’ was published (Bianco et al., 2024). The assembly was
+chain reaction (PCR) amplicon lengths of 300–850 bp (prefer-    performed in two haplotypes, each corresponding to one of
+ably around 750 bp), Tm of 60 ± 3˚C, primer lengths of     the phased chromosome sets of the same diploid individual,
+19–23 nucleotides, and guanine–cytosine content of 40%–    providing insight into allelic variation within  its genome.
+80%.  If a single primer pair could not cover the entire    Taking advantage of this significant achievement, the CDS
+CDS, additional primer pairs were designed with approxi-    obtained for each candidate gene was used as a query in
+mately 100 bp overlaps between amplicons. A total of 51   BLASTn against the CDS of haplotypes 1 and 2 to identify the
+primer pairs were designed, ensuring comprehensive cover-    homologous genes. The available CDS sequences obtained
+age of the 45 putative CDS regions of the selected genes    through different methodologies, including in silico recon-
+(Table S2).                                                        struction (short-read mapping), Sanger sequencing (when
+                                                                      available), and the C. sativa reference genome, were aligned
+                                                                   to assess pairwise identity and detect variable regions. A 90%
+2.6   DNA extraction and PCR amplification     pairwise identity threshold was applied to consider sequences
+                                                               as highly conserved. Since these CDSs may serve as genetic
+Genomic DNA was extracted from 18 to 20 mg of lyophilized    markers  for drought  tolerance  in C.  sativa,  they were
+leaves of Sur and Torito genotypes according to the DNeasy    screened to identify potential microsatellite markers using
+Plant Mini Kit protocol (Qiagen). PCR amplifications were     the default parameters of the Microsatellite Repeats Finder
+performed for each genotype using the GoTaq DNA Poly-    program   (http://insilico.ehu.es/mini_tools/microsatellites/).PEREZ-RIAL ET AL.                                                                         The Plant Genome             5 of 18
+
+
+
+
+
+F I G U R E 1   Amplification of the five primer pairs designed for Sanger sequencing of the “heat shock protein 83” locus (CG14) in two different
+genotypes of Castanea sativa (Sur and Torito). The band size of the molecular weight marker (M) is expressed in bp.
+
+
+TA B L E 1  Summary of the methodological pipeline used for candidate gene identification and validation in Castanea sativa.
+
+  Step (section)    Description
+
+ 1 (2.2)            Selection of drought-responsive genes from Quercus RNA-Seq data (Madritsch et al., 2019).
+
+ 2 (2.2)             Filtering of genes based on GO terms related to stress, signaling, and transcription regulation.
+
+ 3 (2.3)             Identification of homologs in C. mollissima and C. crenata via reciprocal BLASTp and generation of consensus sequence.
+
+ 4 (2.4)            In silico CDS reconstruction using C. sativa short-read data (SRA: SRX14087670).
+
+ 5 (2.5)           Primer design based on aligned Castanea sequences for Sanger sequencing.
+
+ 6 (2.6 and 2.7)  PCR amplification and Sanger sequencing in two C. sativa genotypes.
+
+ 7 (2.7)            Validation of the in silico CDS reconstruction approach.
+
+ 8 (2.8)          Comparison with the C. sativa reference genome and detection of sequence variation and microsatellites.
+
+Abbreviations: CDS, coding sequence; GO, gene ontology; PCR, polymerase chain reaction.
+
+
+
+Finally, the identified microsatellite regions were examined      The 26  candidate genes were  subjected  to BLASTp
+for variability within the CDS sequences obtained in our    searches on NCBI to identify homologs in the genomes of
+study.                                                    C. mollissima and C. crenata. The results were validated
+ A concise summary of the key methodological  steps    through reciprocal BLASTp analysis (Table 3). Homolo-
+involved in candidate gene identification, sequence recon-    gous genes for CG5, CG9, and CG15 were identified in
+struction, and validation is provided in Table 1.                 only one of the Asian Castanea species. For the remain-
+                                                              ing 23  genes,  alignments  yielded  consensus  sequences
+                                                           with an average identity of 98.8% (ranging from 96.5%
+3   RESULTS
+                                                                   to 99.95%) and a coverage of 89.6% (ranging from 49%
+                                                                   to 100%). Notably, CG12 corresponds to three consecu-
+3.1    Candidate genes selection and
+                                                                       tive genes in C. crenata (Ccr1.0Dg1284.1, Ccr1.0Dg1285.1,
+identification in Asian Castanea
+                                                        Ccr1.0Dg1286.1) and matches a single gene in C. mollissima
+                                               (GWHTANWH024811). Overall, the results indicate a high
+A total of 26 candidate genes were selected based on their
+                                                                     level of conservation of CDS genes between the two Asian
+annotation by GO terms. Three genes were identified as
+                                                        Castanea species.
+“transcription factors,” three were classified as “signal trans-
+duction” genes, and the remaining 20 were annotated with
+terms related to “response to stimulus,” “response to stress”    3.2    Short-read mapping and Sanger
+or both (Table 2). The process used to obtain the CDS of these   sequencing in C. sativa
+candidate genes, potentially associated with drought tolerance
+in C. sativa, and to identify genetic variations is summarized    The reads from C. sativa for each gene were mapped to the
+in Figure 2.                                               query sequences used to derive the in silico putative CDS of6 of 18      The Plant Genome                                                                                    PEREZ-RIAL ET AL.
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        (Continues)                                  Transcription  factor                                          x
+                Signal    transduction       x      x
+
+
+
+     to
+                     Response   stimulus x  x     x        x  x   x   x  x   x      x   x
+
+                        stress                     Response to x  x     x      x x  x   x      x   x      x   x
+                                                                         P:GO:0009607;                          P:GO:0009607;                                                                 P:GO:0009987;     F:GO:0016787;                          F:GO:0000166;                        F:GO:0005488        P:GO:0009607;                          P:GO:0009628;     C:GO:0005622;                          P:GO:0009058;     F:GO:0003824;                          P:GO:0042221;                          P:GO:0009987;     F:GO:0016787;                          P:GO:0009628;     F:GO:0003677;    C:GO:0016020        C:GO:0005634                          P:GO:0009987;     F:GO:0016787;                          P:GO:0009607;
+                                                                         P:GO:0009605;                          P:GO:0009605;    F:GO:0005488        F:GO:0005515                          P:GO:0009628;     F:GO:0005515;    C:GO:0005886        P:GO:0036211;    C:GO:0005886        F:GO:0003824;        P:GO:0009605;    F:GO:0005515        P:GO:0006950;     P:GO:0009987;                          P:GO:0006950;     P:GO:0042221;                          P:GO:0009987;    C:GO:0016020        P:GO:0009628;     F:GO:0005515;    C:GO:0005886        P:GO:0006950;     F:GO:0000166;     C:GO:0005634;        F:GO:0003700;                          P:GO:0009628;     F:GO:0005515;    C:GO:0005886        P:GO:0009605;     annotation.
+  (GO)     ID
+                    terms    ontology     GO         P:GO:0006950;    F:GO:0000166        P:GO:0006950;     F:GO:0003824;        P:GO:0007165;                          P:GO:0006950;     F:GO:0000166;     C:GO:0005829;        P:GO:0007165;     F:GO:0016301;        P:GO:0006950;        P:GO:0006950;     F:GO:0000166;        P:GO:0000003;     P:GO:0009791;    C:GO:0016020        P:GO:0006629;     P:GO:0009987;    F:GO:0005488        P:GO:0006810;     F:GO:0005215;        P:GO:0006950;     F:GO:0000166;     C:GO:0005829;        P:GO:0006259;     P:GO:0016043;     F:GO:0016787;        F:GO:0003677;                          P:GO:0006950;     F:GO:0000166;     C:GO:0005829;        P:GO:0006950;    F:GO:0000166
+
+
+
+                                           2  gene
+  their                                                                                                         kinase                                                                        X3                                                                                                    LOV1                                                                                                                                      helicase                    factor                                                                                                                                                                                                                                                                                                                                                                                                      isoform  with                                                                                            protein             48                                                1-like                                            protein                     83
+                                                        2                                                        resistance                                   protein                                                   receptor                          disease                        X1               DNA                                                                                                           resistance                                                                                                                                                                               protein  genes                             P450                                                                                                       cognate                                                                                                                                                               cognate                                                                           protein                                 protein                                                                                                                                                                                                                                                                                                                                                                                             disease                                        disease                                                                                                                                                                                             inactive            5-like                                                                                                            DETOXIFICATION  isoform                         KU70                          transcription                                                               At1g58602                                                                                                                                            peroxidase                                                                         shock                                                                                                                  shock                                                      shock    candidate 26                            Description     Probable  protein      Cytochrome     CYP82D47-like          Uncharacterized    LOC115982017   Heat  80-like                              Wall-associated  2-like     Putative     Putative     susceptibility     Oleosin                                                         Alpha-dioxygenase                       Protein  16-like   Heat  80-like                          ATP-dependent  subunit        WRKY    WRKY24-like   Heat                           Probable   RPP8-like
+    selected
+ the
+ of                    [Quercus     ID  suber]       POE45809.1                    POE54072.1                    POE84274.1                    POE91933.1                                  POE93777.1                    POF19195.1         XP_021828467.1                            XP_023765886.1                                               XP_023874372.1                                               XP_023875502.1                            XP_023879721.1                                               XP_023881819.1                                               XP_023888322.1                            XP_023890186.1                                               XP_023891506.1     Description
+
+
+
+2
+
+E
+L                        Candidate
+B     ID gene  CG1      CG2      CG3      CG4          CG5      CG6  CG7      CG8          CG9             CG10        CG11             CG12             CG13        CG14             CG15 TAPEREZ-RIAL ET AL.                                                                         The Plant Genome             7 of 18
+
+                                                                                                                                         Transcription  factor x   x
+                                                               Signal    transduction              x
+
+
+
+                     to
+                                                                                     Response   stimulus        x  x     x  x  x  x   x  x
+
+                                                                        stress                                                                                     Response to           x     x  x  x  x   x  x
+                                                                                                                                                                                C:GO:0005634;                                            C:GO:0005634;                          P:GO:0042221;                          P:GO:0009607;                          F:GO:0000166;                          P:GO:0009416;                          P:GO:0009416;                          F:GO:0005515;                          P:GO:0009605;     F:GO:0004518;                          P:GO:0009607;                          P:GO:0009607;
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          category.
+                                                                                                                                                                                                                                 that
+                                                                                                                                                                                                                                 with                                                                                                                                                                                F:GO:0003700;                                            F:GO:0003700;                          P:GO:0009987;    C:GO:0005737        P:GO:0009605;                          P:GO:0036211;    C:GO:0005737        P:GO:0006950;    C:GO:0005622        P:GO:0006950;    C:GO:0005622        P:GO:0009607;                          P:GO:0006950;     F:GO:0003723;    C:GO:0005737        P:GO:0009605;                          P:GO:0009605;
+                        ID                                                                                                                                                                                                                                                                                                                                                                                                                                associated
+                                                            terms                                                                                   is                        GO         F:GO:0003677;    C:GO:0016020                          F:GO:0003677;    C:GO:0016020        P:GO:0008152;     F:GO:0016740;        P:GO:0006950;    F:GO:0000166        P:GO:0007165;     F:GO:0016301;        P:GO:0006259;     F:GO:0005515;        P:GO:0006259;     F:GO:0005515;        P:GO:0006950;    C:GO:0016020        P:GO:0006139;     P:GO:0009607;     F:GO:0005515;        P:GO:0006950;    F:GO:0000166        P:GO:0006950;    F:GO:0005515                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  annotation
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  functional                                                                                                                                                                  kinase              protein              protein
+                                                         X2                                                                                                         isoform        TCP9      3                                    6            5-like        2       gene’s                                                                                                             response                                                                                              resistance                                                                                                                                                                                        resistance                    resistance                                                                                                                                                                                                                                               scaffold                scaffold                                                     the                                                                                                            factor                                                                                                                                                                                                      isoform                                                                                                                                                                                 protein                                                                                                                                                                                                                                 that                                                                                                                                                                                                                                                            protein                                                                           protein                                                                                                                                      ARR2-like                                                       glutathione              disease                                                                                                                                disease              disease                                                                                                                                                                                                                                                                                                                                                              argonaute                   RGA3
+                                                                                                                                                                                                                           homolog              homolog                                                                                                                                                  indicates                                                                                                                                   Description         Two-component   regulator X1        Transcription                Probable     S-transferase     Putative    RPP13-like                Serine/threonine-protein    SRK2A-like        UV-stimulated A        UV-stimulated A     MLO-like              Protein                           Putative  protein     Probable   RPP8-like
+                                                                                                                                                                                                                                                                                                                                                 column
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                  specific
+
+                                                        a
+                                                                                  [Quercus                                                                                                                                                                                                                        under                     ID  suber]         XP_023903646.1                                               XP_023908969.1                            XP_023909438.1                            XP_023911981.1                            XP_023915745.1                            XP_023917730.1                            XP_023919090.1                            XP_023919293.1                            XP_023924075.1                                               XP_023929726.1                            XP_023929862.1           cell                                                                                            (Continued)                                                                                                                                                                                                                                    given
+
+                                                        a
+        2                                                                                           in
+        E                                                                                                                                         “x”
+        L                                                                                               Candidate                                                                                      An
+        B                     ID gene  CG16             CG17        CG18        CG19        CG20        CG21        CG22        CG23        CG24             CG25        CG26                 TA                                                                                                                                                                                                                                  Note:8 of 18      The Plant Genome                                                                                    PEREZ-RIAL ET AL.
+
+
+   223 genes selected from Madritsch et al. 2019
+
+                                              Response to Stress
+                  Func onal    Blast2GO   Response to External S mulus
+                  annota on                   Signal Transduc on
+                                                       Transcrip on Factor
+
+   26 candidate genes related to drought tolerance
+                   Search for                                                  Design primers for C. sa va CDS
+                              BLASTp                  homologs
+
+         C. crenata                 C. mollissima
+                         BLASTp                                              var N11-1
+                                                                                                                             Geneious Prime
+
+       Gene ID               Gene ID
+
+                                                                 Sequencing PCR products by Sanger method
+             Alignment sequences in Geneious Prime
+
+                   Consensus
+               SRX14087670                                                          C. sa va CDS reconstruc on
+                               BLASTn
+           C. Sa va SRA database
+
+       Obtain C. sa va short sequence reads
+
+
+
+
+                                               SRA
+                                                  NCBI
+
+
+                                                                                                                             Geneious Prime
+
+
+              Map to
+                                Geneious Prime
+                 consensus
+                                                                   Valida on of the in silico CDS
+                In silico CDS in C. sa va
+
+
+                                                      BLASTn against the new
+                                                                        C. sa va genome
+
+
+
+                           Iden ﬁca on of the candidate homolog genes in C. sa va genome
+
+                                                          Alignment CDS of C. sa va
+
+
+                                       Detec on of variable regions in CDS
+
+
+F I G U R E 2   Workflow for obtaining the coding sequence (CDS) of candidate genes related to drought tolerance in Castanea sativa. The process
+began with the selection of 26 candidate genes (Madritsch et al., 2019) which were subjected to BLASTp searches to identify homologs in the
+Castanea mollissima and Castanea crenata genomes. The results were validated through reciprocal BLASTp. The consensus sequence, obtained by
+aligning sequences from both Castanea species, was then used to query the NCBI sequence read archive (SRA) database (SRX14087670) to obtain
+short-reads from C. sativa. The reads were mapped to generate the putative coding sequences. Primers were designed based on a new consensus
+sequence derived from aligning the sequences of C. mollissima-N11, C. crenata, and the inferred C. sativa sequences, flanking the annotated CDS
+regions. Polymerase chain reaction (PCR) products were sequenced and aligned to validate the putative CDS. Finally, the CDS sequences were used
+in BLASTn searches to identify homologous genes in the C. sativa genome assembly and detect variable regions, facilitating the discovery of
+potential genetic markers.PEREZ-RIAL ET AL.                                                                         The Plant Genome             9 of 18
+
+
+TA B L E 3   Identified genes in Castanea crenata and Castanea mollissima, results of coding sequence (CDS) alignments and results of mapping
+with short-read sequences (from SRX14087670 Castanea sativa database).
+
+                                                Alignment Castanea
+                                    CDS                Short-read sequences mapped to Castanea consensus
+ ID      ID (C. crenata)    ID (C. mollissima)       Id. (%)    Cov. (%)   Id. (%)    Cov. (%)  Number of short-reads (mean ± SD)
+ CG1      Ccr1.0Ag1556.1   GWHTANWH005259    99.8      49         99.4      100        9.3 ± 4.7
+
+ CG2      Ccr1.0Lg4137.1   GWHTANWH033450    96.5      99         97.7      100       14.1 ± 11.0
+
+ CG3      Ccr1.0Cg2558.1   GWHTANWH017466    99.5      100       98.6      99         10.3 ± 3.4
+
+ CG4      Ccr1.0Eg4723.1   GWHTANWH008338    99.95     100       99.4      100       10.0 ± 4.4
+  CG5a,b    –             GWHTANWH012906    –        –          99.2      75         8.7 ± 2.9
+
+ CG6      Ccr1.0Ag1260.1   GWHTANWH005352    99.3      100       94.8      100       24.3 ± 10.1
+
+ CG7      Ccr00g1756.1    GWHTANWH006379    99.2      100       96.0      99         11.9 ± 5.6
+ CG8b     Ccr1.0Dg4334.1   GWHTANWH026118    98.6      100       79.4      81         19.2 ± 15.0
+ CG9a     Ccr1.0Ag7092.1    –                    –        –          98.0      100       17.9 ± 8.5
+
+ CG10     Ccr1.0Hg4955.1   GWHTANWH024021    98.4      86         97.5      97         26.5 ± 15.2
+
+ CG11     Ccr1.0Fg0329.1   GWHTANWH021658    99.4      100       99.2      100        8.4 ± 4.5
+ CG12       c             GWHTANWH024811    97.4      72         98.1      100      30 ± 33.0
+
+ CG13     Ccr1.0Hg3066.1   GWHTANWH022813    99.0      91         99.0      100       10.6 ± 4.3
+
+ CG14     Ccr1.0Jg3185.1   GWHTANWH011982    99.9      96         99.3      100       10.1 ± 4.3
+ CG15a    –             GWHTANWH006369    –        –          98.0      93         9.0 ± 4.2
+ CG16b    Ccr1.0Eg0631.1   GWHTANWH006516    97.8      83         99.1      83         29.1 ± 18.8
+
+ CG17     Ccr1.0Fg5431.1   GWHTANWH019191    98.5      100       98.9      99         8.0 ± 3.5
+
+ CG18     Ccr1.0Bg2126.1   GWHTANWH027503    99.7      99         96.9      100       15.6 ± 6.0
+
+ CG19     Ccr1.0Ag1554.1   GWHTANWH005261    99.7      87         98.9      100        7.5 ± 3.7
+
+ CG20     Ccr1.0Dg1757.1   GWHTANWH024996    97.6      93         99.5      97         7.7 ± 5.7
+
+ CG21     Ccr1.0Gg1654.1   GWHTANWH010553    99.1      99         98.0      100       17.2 ± 6.7
+
+ CG22     Ccr1.0Bg4790.1   GWHTANWH028767    98.6      99         98.0      100       17.4 ± 6.8
+
+ CG23     Ccr1.0Ig0407.1   GWHTANWH029277    97.1      94         98.4      100       12.2 ± 6.1
+
+ CG24     Ccr1.0Hg4160.1   GWHTANWH023384    99.4      79         97.6      100       10.2 ± 4.4
+
+ CG25     Ccr1.0Eg6269.1   GWHTANWH009140    99.1      80         93.8      91         13.5 ± 6.3
+
+ CG26     Ccr00g2515.1    GWHTANWH006355    99.3      55         98.1      100       11.5 ± 5.5
+
+Abbreviations: Id., Identity; Cov., coverage.
+aGenes found in one Asian chestnut species only.
+bGenes with mapping identity and/or coverage <85%.
+cThree consecutive genes are identified as homologous in C. crenata: Ccr1.0Dg1284.1, Ccr1.0Dg1285.1, and Ccr1.0Dg1286.1.
+
+
+the candidate genes (Data S1), with an average mapping iden-    band sizes were inconsistent between genotypes (Figure 3).
+tity of 97% (ranging from 79.4% to 99.5%) and an average    The theoretical band sizes were 706 bp for the CG16_3
+mapping coverage of 97% (ranging from 74.5% to 100%) rel-    primer product (CG16_3_700) and 728 bp for the CG16_4
+ative to the annotated CDS. On average, 14.2 ± 7.9 short-read    primer product (CG16_4_720), consistent with predictions
+sequences were mapped per coverage position (Table 3). Only     for Asian chestnut species. However, additional higher bands
+three genes (CG5, CG8, and CG16) showed less than 85%    were observed in Sur, that  is, approximately 1300 bp for
+mapping coverage for the CDS. While CG8 and CG16 showed     the CG16_3 primer (CG16_3_1300) and 1050 bp for the
+high identity and coverage across Asian chestnut species, CG5   CG16_4 primer (CG16_4_1050). In contrast, the Torito geno-
+was found exclusively in C. mollissima.                        type showed only one band for each primer, CG16_3_1300
+  Half of the 26 candidate genes were sequenced by using the    and CG16_4_720. For CG8, the PCR product sizes were
+Sanger method to validate the in silico predictions. Band sizes     shorter than expected for both primer pairs used, that  is,
+were consistent with theoretical predictions in both C. sativa    360 and 500 bp, compared to the expected sizes of 638 and
+genotypes, with notable exceptions for CG16 and CG8, which    798 bp for CG8_1 and CG8_2, respectively. The results of
+showed substantial deviations (Table S3). Specifically, CG16     short-read mapping revealed coverage values below 85% for10 of 18      The Plant Genome                                                                                   PEREZ-RIAL ET AL.
+
+
+
+
+
+F I G U R E 3   Amplification of the four primer pairs designed for Sanger sequencing of the “two-component response regulator ARR2-like”
+locus (CG16) in two different genotypes of Castanea sativa (Sur and Torito). The band size of the molecular weight marker (M) is expressed in bp.
+There are differences in the band size depending on the genotype for products CG16_3 and CG16_4.
+
+
+both CG16 and CG8 (83% and 81%, respectively). Together,     secutive genes in the C. sativa haplotypes, which showed
+the observed deviations in PCR product sizes and reduced     differences in exon arrangement. Specifically, haplotype 1
+coverage suggest significant variability in these two genes    included 6 + 9 exons, while haplotype 2 had 8 + 6. For
+within C. sativa. The remaining 11 Sanger-sequenced genes    CG25, no annotated gene was found in haplotype 2, and
+were successfully reconstructed (Supporting information S2).     the region only moderately aligned with CG25 from haplo-
+The difference between expected (in silico) and observed    type 1 and the CDS obtained through mapping in our study.
+(sequenced) PCR product sizes averaged 46 ± 18 bp, likely    Additional minor discrepancies in exon structural annotation
+attributable to minor technical sequencing inaccuracies at the    were also observed for CG6, CG15, and CG19 between the
+PCR product ends. The high identity (average 98.9%) and cov-    two C. sativa haplotypes. For example, CG15 was annotated
+erage (average 98.3%) observed between the sequenced CDS    with three exons in haplotype 1 and as two separate genes
+and those obtained from short-read mapping validate the in    (2 + 1 exons) in haplotype 2, while still maintaining over
+silico approach, demonstrating the effectiveness of using short   90% identity.
+reads for reconstructing CDSs (Table S4).                       Notable differences between C. sativa haplotypes were
+                                                                 also observed for the two genes that previously presented
+                                                                 inconsistencies in mapping and PCR amplification: CG8
+3.3    Candidate genes identification in the C.     (“oleosin 5-like”) and CG16 (“two-component response regu-
+sativa reference genome and CDS variation           lator ARR2-like”). The candidate gene CG8, located on chro-
+analysis                                       mosome 4, showed differences in annotated CDS between
+                                                               haplotypes, containing three exons totaling 420 bp in haplo-
+The obtained CDSs were used as queries in BLASTn searches    type 1 and two exons totaling 477 bp in haplotype 2. Two
+to identify homologous genes in the two available haplotype    primer pairs were designed to sequence the CDS of CG8,
+databases for C. sativa Marrone di Chiusa Pesio. The genes    with expected product sizes of 638 bp for primer CG8_1 and
+identified for each C. sativa haplotype are listed in Table 4.    798 bp for CG8_2, closely matching those observed in Asian
+The in silico putative CDS derived from short-read mapping    Castanea species (638 and 796 bp). Using the updated C.
+and the available Sanger-sequenced CDS, where applicable,     sativa genome, the expected sizes for primer CG8_2 were
+were aligned with the annotated CDS of homologous genes    388 bp for haplotype 1 and 335 bp for haplotype 2, while the
+from each haplotype to assess pairwise identity (Table 4).    expected size for CG8_1 remained close to the initial estimate
+For most genes, pairwise identity exceeded 90%, except for    (∼635 bp). For both CG8_1 and CG8_2 primers, PCR prod-
+CG10 (81.2%) and CG25 (62.6%). CG10, a “protein detox-     ucts for the Sur and Torito genotypes were around 320 bp. The
+ification 16-like” homolog, exhibited notable differences in    reduction in size for primer CG8_2 was attributed to the dele-
+exon annotation. In C. crenata and C. mollissima-N11, a     tion of a high-repetition region containing an oleosin domain
+single accession ID appeared to correspond to two con-    (Figure S2).PEREZ-RIAL ET AL.                                                                        The Plant Genome             11 of 18
+
+
+TA B L E 4   Homologous candidate genes in the recent Castanea sativa genomes (haplotype 1 and haplotype 2). The identity reflects the
+annotated coding sequence (CDS)’s conservation by aligning the available CDS sequences.
+
+ Candidate gene     Haplotype 1                                  Haplotype 2
+
+                                      Number of
+                                             exon//CDS length                          Number of exon//  Pairwise
+           ID    ID (Chromosome: position)   (bp)             ID (Chromosome: position)   CDS length (bp)    identity (%)
+
+ Sanger—   CG1   CSH1-1g01369 (Chr1:         1//2793            CSH2-1g01373 (Chr1:          1//2793            98.8
+  sequenced           15,140,226–15,143,018)                           15,119,306–15,122,098)
+  genes     CG2   CSH1-12g57748 (Chr12:       2//1569            CSH2-12g58251 (Chr12:        2//1569            98.8
+                      47,269,210–47,271,600)                           47,241,233–47,243,623)
+
+          CG4   CSH1-5g25874 (Chr5:         3//2124            CSH2-5g25953 (Chr5:          3//2124            99.9
+                      63,079,355–63,082,359)                           60,999,498–61,002,535)
+
+          CG6   CSH1-1g01227 (Chr1:         5//1086            CSH2-1g01217 (Chr1:          4//1149            95.6
+                      13,450,314–13,447,853)                           13,431,942–13,429,481)
+          CG8   CSH1-4g20534 (Chr4:         3//420             CSH2-4g20663 (Chr4:           2//477                   a
+                      44,130,329–44,129,737)                           44,596,266–44,595,702)
+
+          CG11  CSH1-6g27580 (Chr6:         3//2118            CSH2-6g27692 (Chr6:          3//2118            99.6
+                      2,524,536–2,527,560)                              2,522,320–2,525,346)
+
+          CG13  CSH1-8g39109 (Chr8:         5//1806            CSH2-8g39319 (Chr8:          5//1806            99.7
+                      31,517,648–31,514,575)                           31,465,007–31,461,934)
+
+          CG14  CSH1-10g47573 (Chr10:       4//2118            CSH2-10g47831 (Chr10:        4//2118            99.9
+                      29,133,821–29,130,805)                           29,114,331–29,111,307)
+          CG16  CSH1-5g21915 (Chr5:         5//1491             Region not present            –                          a
+                      10,200,654–10,205,612)
+
+          CG17  CSH1-6g32035 (Chr6:         1//1068            CSH2-6g32171 (Chr6:          1//1068            97.9
+                      54,756,437–54,755,370)                           54,726,860–54,725,793)
+
+          CG18  CSH1-2g09662 (Chr2:         2//672             CSH2-2g09736 (Chr2:           2//672              99.8
+                      23,291,148–23,289,649)                           23,255,225–23,253,726)
+
+          CG20  CSH1-4g18507 (Chr4:         9//1071            CSH2-4g18593 (Chr4:          9//1071            96.4
+                      18,085,656–18,080,212)                           18,585,041–18,579,554)
+
+          CG21  CSH1-7g34131 (Chr7:         2//1983            CSH2-7g34233 (Chr7:          2//1983            99.0
+                      18,498,020–18,495,644)                           17,905,811–17,903,435)
+
+ Not      CG3   CSH1-3g14646 (Chr3:         6//1941            CSH2-3g14708 (Chr3:          6//1935            99.1
+ Sanger—            28,904,075–28,911,978)                           28,866,360–28,874,280)
+  sequenced
+  genes
+
+          CG5   CSH1-10g45707 (Chr10:       3//1743            CSH2-10g45935 (Chr10:        3//1743            98.5
+                      8,483,673–8,479,812)                              8,475,807–8,471,944)
+
+          CG7   CSH1-5g21540 (Chr5:         1//3075            CSH2-5g21588 (Chr5:          1//3075            98.8
+                      4,830,043–4,833,747)                              3,909,161–3,905,457)
+
+          CG9   CSH1-1g05829 (Chr1:         10//1917           CSH2-1g05896 (Chr1:         10 // 1917          99.0
+                      69,068,940–69,074,774)                           68,964,896–68,970,779)
+
+          CG10  CSH1-8g40987 (Chr8:         6//1137;           CSH2-8g41169 (Chr8:           8//1281;            81.2
+                      53,968,987–53,975,108);       9//1671              53,692,202–53,698,382);        6//1398
+                   CSH1-8g40988 (Chr8:                         CSH2-8g41170 (Chr8:
+                      53,978,948–53,986,632)                           53,704,391–53,709,030)
+
+          CG12  CSH1-4g18184 (Chr4:         19//1887           CSH2-4g18265 (Chr4:          19//1887           94.6
+                      13,265,074–13,242,681)                           13,768,649–13,746,264)
+
+          CG15  CSH1-5g21515 (Chr5:         3//3696            CSH2-5g21620 (Chr1:           2//2676;            96.2
+                      4,344,466–4,340,525)                               4,394,638–4,397,534);          1//315
+                                                             CSH2-5g21621 (Chr1:
+                                                                        4,397,853–4,398,167)
+
+          CG19  CSH1-1g01367 (Chr1:         2//2775            CSH2-1g01371 (Chr1:          3//2751            92.9
+                      15,129,445–15,126,553)                           15,108,651–15,105,751)
+
+                                                                                                                                (Continues)12 of 18      The Plant Genome                                                                                   PEREZ-RIAL ET AL.
+
+
+TA B L E 4   (Continued)
+
+ Candidate gene     Haplotype 1                                  Haplotype 2
+
+           ID    ID (Chromosome: position)  Number of        ID (Chromosome: position)   Number of exon//  Pairwise
+                                             exon//CDS length                       CDS length (bp)    identity (%)
+                                                   (bp)
+
+          CG22  CSH1-2g12012               2//1956            CSH2-2g12107 (Chr2:          2//1956            98.9
+                      (Chr2:51,644,520–                                51,567,670–51,570,282)
+                      51,647,132)
+
+          CG23  CSH1-9g41543 (Chr9:         15//1713           CSH2-9g41735 (Chr9:          15//1713           98.9
+                      4,009,725–4,016,104)                              3,999,705–4,006,110)
+
+          CG24  CSH1-8g40067 (Chr8:         21//3024           CSH2-8g40255 (Chr8:          21//3003           98.9
+                      43,569,471–43,577,027)                           43,497,426–43,504,942)
+
+          CG25  CSH1-5g27331 (Chr5:         4//3021             Unannotated gene (Chr5:       –                  62.6
+                      81,402,617–81,398,690)                           79,295,580–79,299,393)
+
+          CG26  CSH1-5g21441 (Chr5:         2//3594            CSH2-5g21555 (Chr5:          2//3495            94.6
+                      3,499,521–3,495,607)                              15,140,226–15,143,018)
+
+aRegion with high differences between the two haplotypes from the genome assembly and the two genotypes used in this study.
+
+
+
+
+
+               524,900  1,049,800 1,574,700 2,099,600 2,624,500 3,149,400 3,674,300 4,199,200 4,724,100 524,900  5,773,900 6,298,800 6,823,700 7,348,600 7,873,500 8,398,400 8,923,300 9,448,200 9,973,100 1,048,000 11,022,900
+
+
+
+
+
+               524,900  1,049,800 1,574,700 2,099,600 2,624,500 3,149,400 3,674,300 4,199,200 4,724,100  524,900 5,773,900 6,298,800 6,823,700 7,348,600 7,873,500 8,398,400 8,923,300 9,448,200 9,973,100
+
+
+
+F I G U R E 4  Genome variation in a region of chromosome 5 between haplotype 1 (CSH1-chr5: 1–11,455,420) and haplotype 2 (CSH2-chr5:
+1–10,171,000) assemblies of Castanea sativa. Blue blocks represent aligned regions. There are two consecutive inversions (orange blocks), one
+located from approximately 3.7–5 Mb (CSH1-chr5: 3,795,373–5,046,405 and CSH2-chr5: 3,693,006–5,080,743) and the other from 5.2 to 6.4 Mb
+(CSH1-chr5: 5,255,881–6,414,969 and CSH2-chr5: 5,155,099–6,423,723). There is a deletion in haplotype 2 corresponding to the region of the
+haplotype 1 chr5, circa 9.9–11.2 Mb. Chromosome alignment performed with Act Artemis (v.18.2.0) using identity ≥90% and alignment score
+≥10,500.
+
+
+
+  We  identified  structural rearrangements among haplo-    was present in haplotype 1, but absent in haplotype 2 due
+types on chromosome 5, including a major deletion and     to this deletion. This region spanned approximately 1.3 Mb
+two consecutive inversions (Figure 4). The candidate gene    and contained 86 genes (CSH1-chr5: 9,909,454–11,184,824).
+CG16 was located in this region on chromosome 5 that    Using a reciprocal BLASTn approach, only one gene fromPEREZ-RIAL ET AL.                                                                        The Plant Genome             13 of 18
+
+
+this area in haplotype 1 (CSH1-5g21888) was identified as   TA B L E 5   Expressed sequence tag-derived simple sequence
+having a homolog in haplotype 2 (CSH2-5g21842; Iden-     repeat (EST-SSR) with variability among the available coding sequence
+tity = 97.8%, Coverage = 100%, E-value = 0). The remaining     (CDS).
+85 genes in this region were deleted in haplotype 2. Addi-     Gene ID           CDS position          Sequence
+tionally, two consecutive inversions were identified near the                                                  CG3                  281                 (ACA)n
+major deletion. The first inversion spanned approximately
+                                                                                     297                 (CGA)n
+3.7–5 Mb (CSH1-chr5: 3,795,373–5,046,405 and CSH2-
+                                                                                     430               (AAAGAG)n
+chr5: 3,693,006–5,080,743), while the second extended from
+                                                     CG10                 1513                  (AT)n
+about 5.2 to 6.4 Mb (CSH1-chr5: 5,255,881–6,414,969 and
+                                                     CG13                 676                 (AAC)n
+CSH2-chr5: 5,155,099–6,423,723). The chromosome 5 in the
+                                                                                     1723                (CAA)ngenome of the Italian C. sativa cultivar (Bianco et al., 2024)
+showed the largest size differences within haplotypes, with     CG15                 128                  (AA)n
+haplotype 1 measuring 81.89 Mb and haplotype 2 measuring                           1754                (GAA)n
+79.79 Mb, a difference of over 2 Mb.                        CG17                 617                 (CAG)n
+   Interestingly, CG16 also exhibited different band sizes                           628                 (CAA)n
+between the Sur and Torito genotypes amplified with CG16_3     CG24                 202                 (GGA)n
+and CG16_4 primer pairs (Figure 3). For haplotype 1, the     CG25                 1959              (GAGGAA)n
+expected band sizes were approximately 1300 bp with primer                           2000                (AAG)n
+CG16_3 (CG16_3_1300) and 1055 bp with primer CG16_4                                                                                     2411                (AGA)n
+(CG16_4_1050). These sizes aligned with the higher bands
+                                                     CG26                 85                   (ATC)n
+observed in Sur (CG16_3_1300 and CG16_4_1050), as well
+as the band CG16_3_1300 detected in Torito (Figure 3).
+Using the recently sequenced C. sativa genome, we ruled
+out nonspecific amplifications, confirming that these primers    candidate genes and identified genetic variability within C.
+specifically targeted CG16. These results suggest that the     sativa, proving a valuable foundation for future research on
+Sur genotype  is  heterozygous  for  this  gene,  with one    drought adaptation in this species. Using the transcriptome
+allele resembling those of Asian chestnuts (CG16_3_700     profile of genes conferring drought tolerance in oak species
+and CG16_4_720) and the other corresponding to haplo-    as a starting point, we employed a comparative genomics
+type 1 (CG16_3_1300 and CG16_4_1050). In contrast, the    approach to pinpoint the homologous sequences that may
+Torito genotype appeared homozygous yet  distinct from     underlie drought tolerance in C. sativa. Mapping short reads
+Sur, showing CG16_3_1300 and CG16_4_720 bands. The    from C. sativa to candidate genes proved to be an effec-
+CG16_4_720 band is consistent with Asian species, while     tive strategy, supported by the high percentages of identity
+CG16_3_1300 is aligned with Sur and haplotype 1. Notably,    and coverage, both ∼97% (Table 3; Supporting information
+the CG16_4_1050 band in Sur and haplotype 1 included addi-     S1). Compared to our previous approach (Perez-Rial et al.,
+tional sequences containing repetitive motifs compared to the    2024), this updated method significantly improved the met-
+Asian alleles (Figure S3). However, unlike CG8, this region     rics; that is, mapping identity increased from 87% to 97%,
+did not include a conserved domain. In addition to the sig-    mapping coverage from 80% to 97%, and the number of
+nificant differences detected in CG8 and CG16, the CDS     short-read sequences mapped rose from 9.7 to 14.2. Leverag-
+alignment revealed other variable regions that could serve as    ing annotated information from Asian chestnut to determine
+novel EST-SSR markers (Table 5 and Table S5), particularly   CDSs enhanced the accuracy of the annotation predictions,
+for CG10 and CG25, which exhibited lower conservation in    improving the overall reliability of gene prediction. This
+C. sativa, as indicated by their pairwise identity below 90% in    enabled more precise comparisons at the CDS level. The
+the CDS alignment conducted in our study.                       effectiveness of this approach was further confirmed by com-
+                                                             paring short-read mapping results with sequences generated
+                                                      by Sanger sequencing (Table S4). Additionally, comparisons
+4   DISCUSSION                                   with genome assembly data, when available, demonstrated
+                                                           a high degree of identity between the sequences obtained
+Climate change is intensifying drought events, posing a sig-    by using our method and the genome assembly (Table 4),
+nificant threat to forest ecosystems and highlighting the urgent     highlighting the potential of this approach to be used by
+need to identify adaptive traits in tree species. In this study, we     researchers dealing with limited genomic resources.
+explored the genetic basis of drought tolerance in C. sativa     Our findings corroborate the highly conserved genomic
+by integrating comparative genomics with experimental val-     architecture among species within the Fagaceae family, as
+idation. Our approach successfully reconstructed CDSs of    previously reported (Staton et  al., 2020), and extend this14 of 18      The Plant Genome                                                                                   PEREZ-RIAL ET AL.
+
+
+conservation to the CDS level. However, we identified cer-    We detected large polymorphisms in CG8 (Figure S1) and
+tain candidate genes with lower conservation, suggesting their   CG16 (Figure S2), which may have significant implications
+potential role in explaining variations in drought tolerance    on the structure and function of the resulting proteins. These
+across and within species (Alcaide et al., 2022; Hamanishi    polymorphisms were notable for their potential to be easily
+et al., 2010; Madritsch et al., 2019). As these genes could be    detected by agarose gel electrophoresis due to the extensive
+key players in adaptive responses to environmental stress, they     variation observed in the CDS of these genes. CG8 encodes
+require further investigation. Notable differences were iden-    an oleosin 5-like protein, which belongs to a family of small,
+tified in certain genes between the assembled haplotypes of     structural hydrophobic proteins found on plant lipid droplets
+the Italian C. sativa Marrone di Chiusa Pesio cultivar (Bianco    (Cao, 2015; Shao et al., 2019; Yuan et al., 2021). Oleosins
+et al., 2024), particularly CG16, a gene located within a 1.3    have been shown to prevent the fusion of storage organelles
+Mb region exclusive to haplotype 1 (Table 4; Figure 4). While    during dehydration, thereby contributing to freezing tolerance
+this fact could stem from an assembly error of haplotype 2,    (Dong et al., 2024; Shimada et al., 2018). Their functional
+significant variation was also observed when this gene was     role in response to abiotic stresses, including drought, sug-
+amplified in Iberian genotypes (e.g., Sur and Torito; Figure 3).     gests a complex and finely tuned regulation of stress signaling
+  Despite the overall genome conservation in Fagaceae, the    pathways within this gene family (Kim & Hyun, 2024; W.
+presence or absence of specific genes and differences in anno-    Zhang et al., 2023). Moreover, oleosins have been proposed
+tation should be expected. Genomic diversity within species     to support membrane integrity and osmotic adjustment under
+often exceeds what a single reference genome can capture    water deficit conditions (Shao et al., 2019). Variability in the
+(Bayer et al., 2020; Hu et al., 2022). Early pangenome stud-    oleosin gene family is common among terrestrial plants, with
+ies in plants showed that 15%–40% of the gene content varies     species-specific duplications often driving functional diver-
+between individuals, with gene presence or absence linked    gence, positive selection, and rapid evolution (Liu et al., 2012;
+to stress tolerance and environmental adaptation. In Popu-   Zou et al., 2022). Given the well-documented dynamic roles
+lus, recent pangenome research estimated that 0.63%–1.42%    of this gene family, the variability observed in CG8 may
+of genes were hemizygous (i.e., present in only one of the     reflect an adaptive mechanism linked to environmental stress,
+two homologous chromosomes) across 10 species (Shi et al.,    including drought tolerance.
+2024). Similar patterns have been observed in Fagaceae,     CG16 was located in a region absent in haplotype 2 of
+where haplotype-resolved genome analyses reveal substantial    C. sativa Marrone di Chiusa Pesio cultivar (Figure 4). PCR
+variation (Larson et al., 2025; Luo et al., 2024). For instance,     amplification of this gene revealed notable heterozygosity in
+in C. mollissima Hongli-1, over 600 annotated genes differ     Sur, which had one allele similar to Asian chestnut species
+between haplotypes (Qiao et al., 2024).                    (CG16_3_700 and CG16_4_720) and another allele resem-
+  We also detected two large consecutive inversions of 1.2    bling haplotype 1 of C. sativa Marrone di Chiusa Pesio
+and 1.3 Mb on chromosome 5 of C. sativa, close to the exclu-     cultivar (CG16_3_1300 and CG16_4_1050). In Torito, CG16
+sive region of haplotype 1 that harbors CG16 (Figure 4).    appeared to be homozygous for distinct alleles (a mixed pat-
+Large structural variants of this type are rare among Fagaceae     tern, CG16_3_1300 and CG16_4_720). CG16 was identified
+species with haplotype-resolved genomes. In Quercus alba,    as “two-component response regulator ARR2-like”, belong-
+only two inversions larger than 1 Mb have been identified on    ing to the type-B plant response regulators (RRs, called ARRs
+chromosomes 3 and 9 (Larson et al., 2025), while in C. mollis-     in Arabidopsis thaliana), transcription factors that play a cen-
+sima Hongli-1, 47 inversions were detected, spanning a total      tral role in activating cytokinin (CK)-responsive genes that
+of 2.31 Mb in haplotype A and 2.17 Mb in haplotype B (Qiao     regulate growth, development, and stress responses (Argueso
+et al., 2024). Structural variations have been linked to pheno-     et al., 2010; Hai et al., 2020; Mason et al., 2005; Nguyen
+typic differences in woody plants such as Theobroma cacao     et al., 2016). In A. thaliana, several type-B ARRs have been
+(Hämälä et al., 2021) and Prunus persica (Guo et al., 2020),    shown to negatively regulate drought responses, with loss-
+where a 1.67 Mb inversion was associated with fruit shape.     of-function mutants exhibiting enhanced tolerance (Nguyen
+Chromosomal inversions, by suppressing recombination, can     et al., 2016). Cytokinin signaling is closely integrated with
+function as supergenes that maintain favorable combinations   ABA pathways, contributing to drought adaptation through
+of adaptive alleles, playing a key role in local adaptation and    hormonal cross-talk (Hai et al., 2020). It will be important for
+evolutionary divergence (Kollar et al., 2025). Additionally,     future studies to determine whether the variability observed
+GO enrichment analysis in the haplotype-resolved genome of     in CG16 affects cytokinin-responsive regulation, potentially
+Quercus glauca (Luo et al., 2024) suggested that many struc-    influencing the C. sativa response to water deficit. We also
+tural variations are involved in responses to abiotic and biotic     identified variability in other candidate genes that could serve
+stimuli. Therefore, the two consecutive inversions detected on    as genetic markers in C. sativa. For instance, CG10 and CG25,
+chromosome 5 represent a relevant structural variation that    associated with the response to stress and stimulus (Table 2),
+should be further investigated.                                  exhibited a high level of CDS variability with less thanPEREZ-RIAL ET AL.                                                                        The Plant Genome             15 of 18
+
+
+90% identity in C. sativa (Table 4). In addition, we detected    developing markers in plant species lacking complete genome
+single sequence repeats in two other candidate genes func-     references.
+tionally annotated as transcription factors, CG13 (“WRKY      Given the increasing challenges climate change poses to
+transcription factor WRKY24-like”) and CG17 (“transcrip-     forest ecosystems, identifying adaptive traits in tree species
+tion factor TCP9”). Both genes belong to families involved in      is more urgent than ever. The recognition of forestry’s role in
+response to stress and environmental changes, participating    climate strategies underscores the importance of integrating
+in multiple biological pathways (Danisman, 2016; Li et al.,     genetic approaches into conservation and breeding programs.
+2024; Wu et al., 2024; Z. Zhang et al., 2023). Their poten-   By providing genetic insights into drought tolerance, our
+tial as molecular markers for stress tolerance should also be    study contributes to the ongoing efforts aimed at enhanc-
+emphasized.                                                  ing the resilience of C. sativa under changing environmental
+  The sampling of two genotypes may constrain the conclu-     conditions.
+sions regarding the broader genetic variability of the species.
+                                  AU T H O R C O N T R I B U T I O N SNonetheless, Sur and Torito were deliberately selected based
+                                                      A. Perez-Rial: Formal analysis; investigation; methodol-on their documented drought tolerance within the chestnut
+                                                           ogy;  writing—original  draft.  P.  Castro:  Conceptualiza-breeding program. Although the study focused on these two
+                                                                        tion; methodology; resources; writing—review and editing.genotypes, we were still able to detect polymorphisms across
+                                                      A. Solla: Resources; writing—review and editing. M. A.several candidate genes, indicating the presence of intraspe-
+                                                       Martín: Conceptualization; methodology; resources; super-cific genetic variation potentially associated with drought
+                                                                   vision; writing—review and editing. J. V. Die: Concep-adaptation. Ongoing research includes the resequencing of
+                                                                      tualization; funding  acquisition; methodology;  resources;additional drought-tolerant and susceptible genotypes, along
+                                                                supervision; writing—review and editing.with qPCR-based gene expression analysis to assess whether
+the observed variability correlates with differential expres-
+                                 AC K N OW L E D G M E N T S
+sion under drought conditions. These efforts aim to clarify the
+                                                          Research supported by ProyExcel_00351 (Proyectos de Inves-
+functional significance of the identified candidate genes and
+                                                                 tigación de Excelencia, Junta de Andalucía). A. Perez-Rial
+evaluate their potential as molecular markers. Such markers
+                                                                               is a FPU Fellow funded by the Spanish Ministry of Sci-
+could support the selection and deployment of drought-
+                                                               ence, Innovation and Universities through the National Pro-
+tolerant genotypes adapted to Mediterranean environments,
+                                                   gram FPU “Formación de Profesorado Universitario” (Ref.
+where climate change is expected to exacerbate water scarcity.
+                                                       FPU22/02101). J. V. Die is a Ramón y Cajal research fellow
+                                                            supported by MCIN/AEI/10.13039/501100011033  project
+5   CONCLUSION                                     (Ref. RYC2019-904 028188-I).
+                                                         Funding for open access charge: Universidad de Córdoba /
+                                      CBUAThe methodology used in this study successfully identified
+candidate genes for drought tolerance in C. sativa, providing
+                                    C O N F L I C T O F  I N T E R E S T S TAT E M E N Tvaluable insights into the genetic basis of adaptive responses
+                                                   The authors declare no conflicts of interest.to environmental stress. Despite the high genetic conserva-
+tion observed within Fagaceae, particularly in Castanea, the
+                                DATA AVA I L A B I L I T Y S TAT E M E N T
+analysis of sequences obtained from different approaches
+                                                   The sequences generated in this study are provided as FASTA
+and databases has revealed notable differences with potential
+                                                                            files in the Supporting Information. The Sanger-sequenced
+application as genetic markers for screening chestnut trees for
+                                                          genes have been submitted to the GenBank database and
+drought tolerance. In particular, CG8, an oleosin-like protein,
+                                                                are accessible under the accession numbers PQ766573 –
+and CG16, a two-component response regulator, showed sig-
+                                                    PQ766583.
+nificant differences in the CDS, which is of interest for further
+study as they may play a critical role in adaptive responses to  O RC I D
+environmental stress.                                        A. Perez-Rial   https://orcid.org/0000-0002-4539-9006
+  Overall, our approach—including short-read mapping cou-    A. Solla   https://orcid.org/0000-0002-2596-1612
+pled with Sanger sequencing—has proven effective in recon-
+structing CDSs and detecting gene variability in C. sativa.   R E F E R E N C E S
+The high level of identity observed between the method-                                                                          Alberto, F.  J., Aitken, S. N., Alía, R., González-Martínez, S. C.,
+ology we followed and the sequences obtained from the       Hänninen, H., Kremer, A., Lefèvre, F., Lenormand, T., Yeaman,
+genome assembly opens prospects for researchers with lim-          S., Whetten, R., & Savolainen, O. (2013). Potential for evolution-
+ited genomic data. Our approach not only highlighted genes        ary responses to climate change—Evidence from tree populations.
+potentially associated with drought tolerance, but also estab-       Global Change Biology, 19(6), 1645–1661. https://doi.org/10.1111/
+lished a reliable framework for studying genetic diversity and       gcb.1218116 of 18      The Plant Genome                                                                                   PEREZ-RIAL ET AL.
+
+
+Alcaide, F., Solla, A., Cuenca, B., & Martín, M. Á. (2022). Molecular        the CMIP6 forcing scenarios. Earth’s Future, 8(6), e2019EF001461.
+   evidence of introgression of Asian germplasm into a natural Cas-        https://doi.org/10.1029/2019EF001461
+   tanea sativa forest in Spain. Forestry, 95(1), 95–104. https://doi.org/     Danisman, S. (2016). TCP transcription factors at the interface between
+   10.1093/forestry/cpab030                                              environmental challenges and the plant’s growth responses. Frontiers
+Alcaide, F., Solla, A., Mattioni, C., Castellana, S., & Martín, M. Á.         in Plant Science, 7, 1930. https://doi.org/10.3389/fpls.2016.01930
+   (2019). Adaptive diversity and drought tolerance in Castanea sativa     DeSoto, L., Cailleret, M., Sterck, F., Jansen, S., Kramer, K., Robert, E.
+   assessed through EST-SSR genic markers. Forestry, 92(3), 287–296.      M. R., Aakala, T., Amoroso, M. M., Bigler, C., Camarero, J. J., Čufar,
+   https://doi.org/10.1093/forestry/cpz007                                     K., Gea-Izquierdo, G., Gillner, S., Haavik, L. J., Hereş, A.-M., Kane,
+Altschul, S. F., Gish, W., Miller, W., Myers, E. W., & Lipman, D.           J. M., Kharuk, V. I., Kitzberger, T., Klein, T., ... Martínez-Vilalta, J.
+    J. (1990). Basic local alignment search tool. Journal of Molecular        (2020). Low growth resilience to drought is related to future mortality
+   Biology, 215(3), 403–410. https://doi.org/10.1016/S0022-2836(05)         risk in trees. Nature Communications, 11(1), Article 545. https://doi.
+  80360-2                                                            org/10.1038/s41467-020-14300-5
+Argueso, C. T., Raines, T., & Kieber, J. J. (2010). Cytokinin signaling and     Die,  J. V. (2024). refseqR: An R package for common computa-
+   transcriptional networks. Current Opinion in Plant Biology, 13(5),         tional operations with records on RefSeq collection. Bioinformatics
+   533–539. https://doi.org/10.1016/j.pbi.2010.08.006                       Advances, 4(1), vbae122. https://doi.org/10.1093/bioadv/vbae122
+Bayer, P. E., Golicz, A. A., Scheben, A., Batley, J., & Edwards, D. (2020).    Dong, Y., Cui, Y., Wang, Y., Luan, S., Liu, X., Yang, Q., Liu, W., Li,
+   Plant pan-genomes are the new reference. Nature Plants, 6(8), 914–        X., Wang, N., Wang, F., Gu, L., & Xue, P. (2024). Identification of
+   920. https://doi.org/10.1038/s41477-020-0733-0                            the oleosin genes and functional analysis of CeOle4 gene in Cype-
+Bianco, L., Fontana, P., Marchesini, A., Torre, S., Moser, M., Piazza,        rus esculentus L. Horticulturae, 10(9), 945. https://doi.org/10.3390/
+   S., Alessandri, S., Pavese, V., Pollegioni, P., Vernesi, C., Malnoy,        horticulturae10090945
+   M., Torello Marinoni, D., Murolo, S., Dondini, L., Mattioni, C.,     Dorado, F. J., Solla, A., Alcaide, F., & Martín, M. Á. (2022). Assessing
+   Botta, R., Sebastiani, F., Micheletti, D., & Palmieri, L. (2024). The        heat stress tolerance in Castanea sativa. Forestry, 95(5), 667–677.
+  de novo, chromosome-level genome assembly of the sweet chestnut        https://doi.org/10.1093/forestry/cpac021
+   (Castanea sativa Mill.) Cv. Marrone Di Chiusa Pesio. BMC Genomic     Fady, B., Cottrell,  J., Ackzell, L., Alía, R., Muys, B., Prada, A., &
+   Data,   25(1),   Article  64.  https://doi.org/10.1186/s12863-024-        González-Martínez, S. C. (2016). Forests and global change: What
+  01245-7                                                           can genetics contribute to the major forest management and pol-
+Burke, K. D., Williams, J. W., Chandler, M. A., Haywood, A. M., Lunt,        icy challenges of the twenty-first century? Regional Environmental
+  D. J., & Otto-Bliesner, B. L. (2018). Pliocene and Eocene provide       Change, 16(4), 927–939. https://doi.org/10.1007/s10113-015-0843-
+   best analogs for near-future climates. Proceedings of the National       9
+  Academy of Sciences of the United States of America, 115(52),     Fernandes, P., Colavolpe, M. B., Serrazina, S., & Costa, R. L. (2022).
+  13288–13293. https://doi.org/10.1073/pnas.1809600115                 European and American chestnuts: An overview of the main threats
+Camisón, Á., Ángela Martín, M., Dorado, F. J., Moreno, G., & Solla, A.       and control efforts. Frontiers in Plant Science, 13, 951844. https://
+   (2019). Changes in carbohydrates induced by drought and waterlog-        doi.org/10.3389/fpls.2022.951844
+   ging in Castanea sativa. Trees, 34, 579–591. https://doi.org/10.1007/      Freitas, T. R., Santos, J. A., Silva, A. P., & Fraga, H. (2021). Influence
+  s00468-019-01939-x                                                      of climate change on chestnut trees: A review. Plants, 10(7), 1463.
+Camisón, Á., Martín, M. Á., Flors, V., Sánchez-Bel, P., Pinto, G., Vivas,        https://doi.org/10.3390/plants10071463
+   M., Rolo, V., & Solla, A. (2021). Exploring the use of scions and    Guo, J., Cao, K., Deng, C., Li, Y., Zhu, G., Fang, W., Chen, C., Wang,
+   rootstocks from xeric areas to improve drought tolerance in Castanea        X., Wu, J., Guan, L., Wu, S., Guo, W., Yao, J.-L., Fei, Z., & Wang, L.
+   sativa Miller. Environmental and Experimental Botany, 187, 104467.        (2020). An integrated peach genome structural variation map uncov-
+   https://doi.org/10.1016/j.envexpbot.2021.104467                             ers genes associated with fruit traits. Genome Biology, 21(1), Article
+Cao, H. (2015). Genome-wide analysis of oleosin gene family in 22 tree        258. https://doi.org/10.1186/s13059-020-02169-y
+   species: An accelerator for metabolic engineering of biofuel crops     Hai, N. N., Chuong, N. N., Tu, N. H. C., Kisiala, A., Hoang, X. L.
+  and agrigenomics industrial applications? Omics : A Journal of Inte-         T., & Thao, N. P. (2020). Role and regulation of cytokinins in plant
+   grative Biology, 19(9), 521–541. https://doi.org/10.1089/omi.2015.        response to drought stress. Plants, 9(4), 422. https://doi.org/10.3390/
+  0073                                                                plants9040422
+Castellana,  S., Martin, M. Á.,  Solla, A., Alcaide,  F.,  Villani,  F.,     Hämälä, T., Wafula, E. K., Guiltinan, M. J., Ralph, P. E., dePamphilis,
+   Cherubini, M., Neale, D., & Mattioni, C. (2021). Signatures of local       C. W., & Tiffin, P. (2021). Genomic structural variants constrain and
+   adaptation to climate in natural populations of sweet chestnut (Cas-          facilitate adaptation in natural populations of Theobroma cacao, the
+   tanea sativa Mill.) from southern Europe. Annals of Forest Science,        chocolate tree. Proceedings of the National Academy of Sciences of
+   78(2), Article 27. https://doi.org/10.1007/s13595-021-01027-6              the United States of America, 118(35), e2102914118. https://doi.org/
+Ciordia, M., Feito, I., Pereira-Lorenzo, S., Fernández, A., & Majada, J.       10.1073/pnas.2102914118
+   (2012). Adaptive diversity in Castanea sativa Mill. half-sib proge-     Hamanishi, E. T., Raj, S., Wilkins, O., Thomas, B. R., Mansfield, S.
+   nies in response to drought stress. Environmental and Experimental        D., Plant, A. L., & Campbell, M. M. (2010). Intraspecific varia-
+   Botany, 78, 56–63. https://doi.org/10.1016/j.envexpbot.2011.12.018          tion in the Populus balsamifera drought transcriptome. Plant, Cell
+Conesa, A., & Götz, S. (2008). Blast2GO: A comprehensive suite for    & Environment, 33(10), 1742–1755. https://doi.org/10.1111/j.1365-
+   functional analysis in plant genomics. International Journal of Plant       3040.2010.02179.x
+  Genomics, 2008, 619832. https://doi.org/10.1155/2008/619832           Harris, R. M. B., Beaumont, L. J., Vance, T. R., Tozer, C. R., Remenyi,
+Cook, B. I., Mankin, J. S., Marvel, K., Williams, A. P., Smerdon, J. E., &        T. A., Perkins-Kirkpatrick, S. E., Mitchell, P.  J., Nicotra, A. B.,
+   Anchukaitis, K. J. (2020). Twenty-first century drought projections in       McGregor, S., Andrew, N. R., Letnic, M., Kearney, M. R., Wernberg,PEREZ-RIAL ET AL.                                                                        The Plant Genome             17 of 18
+
+
+   T., Hutley, L. B., Chambers, L. E., Fletcher, M. S., Keatley, M. R.,     Martin, M. A., Mattioni, C., Cherubini, M., Taurchini, D., & Villani,
+  Woodward, C. A., Williamson, G., ... Bowman, D. M. J. S. (2018).         F. (2010). Genetic diversity in European chestnut populations by
+   Biological responses to the press and pulse of climate trends and       means of genomic and genic microsatellite markers. Tree Genetics &
+   extreme events. Nature Climate Change, 8(7), 579–587. https://doi.       Genomes, 6(5), 735–744. https://doi.org/10.1007/s11295-010-0287-
+   org/10.1038/s41558-018-0187-9                                   9
+Heilmayr, R., Dudney, J., & Moore, F. C. (2023). Drought sensitivity in     Martín, M. A., Mattioni, C., Cherubini, M., Villani, F., & Martín, L. M.
+   mesic forests heightens their vulnerability to climate change. Science,        (2017). A comparative study of European chestnut varieties in relation
+   382(6675), 1171–1177. https://doi.org/10.1126/science.adi1071              to adaptive markers. Agroforestry Systems, 91(1), 97–109. https://doi.
+Hu, G., Cheng, L., Cheng, Y., Mao, W., Qiao, Y., & Lan, Y. (2022). Pan-       org/10.1007/s10457-016-9911-5
+  genome analysis of three main Chinese chestnut varieties. Frontiers in    Mason, M. G., Mathews, D. E., Argyros, D. A., Maxwell, B. B., Kieber,
+   Plant Science, 13, 916550. https://doi.org/10.3389/fpls.2022.916550           J. J., Alonso, J. M., Ecker, J. R., & Schaller, G. E. (2005). Multiple
+Kim, E., & Hyun, T. K. (2024). Genome-wide identification of oleosin       type-B response regulators mediate cytokinin signal transduction in
+   family and expression analysis in response to abiotic stresses in        Arabidopsis. The Plant Cell, 17(11), 3007–3018. https://doi.org/10.
+   balloon flower (Platycodon grandiflorus). Journal of Plant Biotech-       1105/tpc.105.035451
+   nology, 51, 71–76. https://doi.org/10.5010/JPB.2024.51.008.071          Mattioni, C., Martin, M. A., Chiocchini, F., Cherubini, M., Gaudet, M.,
+Kollar, L. M., Stanley, L. E., Kenchanmane Raju, S. K., Lowry, D.        Pollegioni, P., Velichkov,  I., Jarman, R., Chambers, F. M., Paule,
+   B., & Niederhuth, C. E. (2025). The evolution of locally adaptive         L., Damian, V. L., Crainic, G. C., & Villani, F. (2017). Landscape
+  chromosome inversions in Mimulus guttatus. Molecular Ecology.        genetics structure of European sweet chestnut (Castanea sativa Mill):
+   https://doi.org/10.1111/mec.17708                                          Indications for conservation priorities. Tree Genetics & Genomes,
+Kovats, R. S., Valentini, R., Bouwer, L. M., Georgopoulou, E., Jacob,        13(2), Article 39. https://doi.org/10.1007/s11295-017-1123-2
+   D., Martin, E., Rounsevell, M., & Soussana, J. F. (2014). Europe.    McDowell, N. G., Allen, C. D., Anderson-Teixeira, K., Aukema, B. H.,
+   In V. R. Barros, C. B. Field, D. J. Dokken, M. D. Mastrandrea, &       Bond-Lamberty, B., Chini, L., Clark, J. S., Dietze, M., Grossiord,
+  K. J. Mach (Eds.), Climate change 2014: Impacts, adaptation and         C., Hanbury-Brown, A., Hurtt, G. C., Jackson, R. B., Johnson, D. J.,
+   vulnerability: Working group II contribution to the IPCC fifth assess-       Kueppers, L., Lichstein, J. W., Ogle, K., Poulter, B., Pugh, T. A. M.,
+  ment report of the integovernmental panel on climate change (pp.         Seidl, R., ... Xu, C. (2020). Pervasive shifts in forest dynamics in
+   1267–1326). Cambridge University Press. https://doi.org/10.1017/        a changing world. Science, 368(6494), eaaz9463. https://doi.org/10.
+  CBO9781107415386.003                                               1126/science.aaz9463
+Kramer, K., Degen, B., Buschbom, J., Hickler, T., Thuiller, W., Sykes,     Medail, F., & Quezel, P. (1999). Biodiversity hotspots in the mediter-
+  M. T., & de Winter, W. (2010). Modelling exploration of the future of        ranean  basin:  Setting  global  conservation  priorities. Conserva-
+  European beech (Fagus sylvatica L.) under climate change—Range,         tion Biology, 13(6), 1510–1513. https://doi.org/10.1046/j.1523-1739.
+   abundance, genetic diversity and adaptive response. Forest Ecol-       1999.98467.x
+  ogy and Management, 259(11), 2213–2222. https://doi.org/10.1016/     Míguez-Soto, B., Fernández-Cruz, J., & Fernández-López, J. (2019).
+   j.foreco.2009.12.023                                                  Mediterranean and Northern Iberian gene pools of wild Castanea
+Larson,  D.  A.,  Staton, M.  E.,  Kapoor,  B.,  Islam-Faridi,  N.,        sativa Mill. are two differentiated ecotypes originated under natural
+   Zhebentyayeva,  T., Fan,  S., Stork,  J., Thomas, A., Ahmed, A.        divergent selection. PLoS One, 14(2), e0211315. https://doi.org/10.
+   S., Stanton, E. C., Houston, A., Schlarbaum, S. E., Hahn, M. W.,        1371/journal.pone.0211315
+   Carlson, J. E., Abbott, A. G., DeBolt, S., & Nelson, C. D. (2025). A     Míguez-Soto, B., & Fernández-López, J. (2015). Variation in adaptive
+   haplotype-resolved reference genome of Quercus alba sheds light          traits among and within Spanish and European populations of Cas-
+  on the evolutionary history of oaks. The New Phytologist, 246(1),        tanea sativa: Selection of trees for timber production. New Forests,
+   331–348. https://doi.org/10.1111/nph.20463                                 46(1), 23–50. https://doi.org/10.1007/s11056-014-9445-5
+Li, S., Khoso, M. A., Wu, J., Yu, B., Wagan, S., & Liu, L. (2024).     Myers, N., Mittermeier, R. A., Mittermeier, C. G., da Fonseca, G. A.,
+   Exploring the mechanisms of WRKY transcription factors and regu-    & Kent, J. (2000). Biodiversity hotspots for conservation priorities.
+   lated pathways in response to abiotic stress. Plant Stress, 12, 100429.        Nature, 403(6772), 853–858. https://doi.org/10.1038/35002501
+   https://doi.org/10.1016/j.stress.2024.100429                         Nguyen, K. H., Ha, C. V., Nishiyama, R., Watanabe, Y., Leyva-González,
+Liu, Q., Sun, Y., Su, W., Yang, J., Liu, X., Wang, Y., Wang, F., Li,      M. A., Fujita, Y., Tran, U. T., Li, W., Tanaka, M., Seki, M., Schaller,
+   H., & Li, X. (2012). Species-specific size expansion and molecu-       G. E., Herrera-Estrella, L., & Tran, L. S. (2016). Arabidopsis type
+   lar evolution of the oleosins in angiosperms. Gene, 509(2), 247–257.     B cytokinin response regulators ARR1, ARR10, and ARR12 nega-
+   https://doi.org/10.1016/j.gene.2012.08.014                                     tively regulate plant responses to drought. Proceedings of the National
+Luo, C.-S., Li, T.-T., Jiang, X.-L., Song, Y., Fan, T.-T., Shen, X.-      Academy of Sciences of the United States of America, 113(11),
+   B., Yi, R., Ao, X.-P., Xu, G.-B., & Deng, M. (2024). High-quality       3090–3095. https://doi.org/10.1073/pnas.1600399113
+   haplotype-resolved genome assembly for ring-cup oak (Quercus      Pacifici, M., Foden, W. B., Visconti, P., Watson, J. E. M., Butchart, S.
+   glauca) provides insight into oaks demographic dynamics. Molecu-       H. M., Kovacs, K. M., Scheffers, B. R., Hole, D. G., Martin, T. G.,
+   lar Ecology Resources, 24(3), e13914. https://doi.org/10.1111/1755-       Akçakaya, H. R., Corlett, R. T., Huntley, B., Bickford, D., Carr, J.
+  0998.13914                                                                A., Hoffmann, A. A., Midgley, G. F., Pearce-Kelly, P., Pearson, R.
+Madritsch, S., Wischnitzki, E., Kotrade, P., Ashoub, A., Burg, A., Fluch,        G., Williams, S. E., ... Rondinini, C. (2015). Assessing species vul-
+   S., Brüggemann, W., & Sehr, E. M. (2019). Elucidating drought stress         nerability to climate change. Nature Climate Change, 5(3), 215–224.
+   tolerance in European oaks through cross-species transcriptomics.        https://doi.org/10.1038/nclimate2448
+  G3 Genes|Genomes|Genetics, 9(10), 3181–3199. https://doi.org/10.     Pereira-Lorenzo, S., Ramos-Cabrer, A. M., Barreneche, T., Mattioni,
+   1534/g3.119.400456                                                          C., Villani, F., Díaz-Hernández, B., Martín, L. M., Robles-Loma, A.,18 of 18      The Plant Genome                                                                                   PEREZ-RIAL ET AL.
+
+
+   Cáceres, Y., & Martín, A. (2019). Instant domestication process of     Sun, Y., Lu, Z., Zhu, X., & Ma, H. (2020). Genomic basis of homoploid
+  European chestnut cultivars. The Annals of Applied Biology, 174(1),        hybrid speciation within chestnut trees. Nature Communications,
+   74–85. https://doi.org/10.1111/aab.12474                                   11(1), Article 3375. https://doi.org/10.1038/s41467-020-17111-w
+Pérez-Girón, J. C., Álvarez-Álvarez, P., Díaz-Varela, E. R., & Mendes     Trenberth, K. E. (2011). Changes in precipitation with climate change.
+   Lopes, D. M. (2020). Influence of climate variations on primary pro-       Climate Research, 47(1), 123–138. https://doi.org/10.3354/cr00953
+   duction indicators and on the resilience of forest ecosystems in a future    Wang, J., Hong, P., Qiao, Q., Zhu, D., Zhang, L., Lin, K., Sun, S.,
+   scenario of climate change: Application to sweet chestnut agroforestry         Jiang, S., Shen, B., Zhang, S., & Liu, Q. (2022). Chromosome-level
+   systems in the Iberian Peninsula. Ecological Indicators, 113, 106199.      genome assembly provides new insights into Japanese chestnut (Cas-
+   https://doi.org/10.1016/j.ecolind.2020.106199                            tanea crenata) genomes. Frontiers in Plant Science, 13, 1049253.
+Perez-Rial, A., Castro, P., Martín, M. Á., & Die, J. V. (2024). Genomic        https://doi.org/10.3389/fpls.2022.1049253
+   approaches to dissect drought tolerance in Castanea sativa. Acta Hor-    Wang,  J., Tian, S., Sun, X., Cheng, X., Duan, N., Tao,  J., & Shen,
+   ticulturae, 1400, 89–94. https://doi.org/10.17660/ActaHortic.2024.       G. (2020). Construction of pseudomolecules for the Chinese chest-
+   1400.10                                                                 nut (Castanea mollissima) genome. G3 Genes|Genomes|Genetics,
+Qiao, Q., Zhu, D., Sun, S., Hong, P., Li, X., Yu, T., Zhang, L., Liu,        10(10), 3565–3574. https://doi.org/10.1534/g3.120.401532
+   W., Gao, Y., Wang, J., & Liu, Q. (2024). Chromosome-level genome     Williams, J. W., & Jackson, S. T. (2007). Novel climates, no-analog
+   assembly of the red mutant of Chinese chestnut (Castanea mollis-       communities, and ecological surprises. Frontiers in Ecology and the
+   sima) provides new insights into anthocyanin accumulation. Scientia       Environment, 5(9), 475–482. https://doi.org/10.1890/070037
+   Horticulturae, 338, 113683. https://doi.org/10.1016/j.scienta.2024.    Wu, W., Yang, J., Yu, N., Li, R., Yuan, Z., Shi, J., & Chen, J. (2024).
+  113683                                                                Evolution of the WRKY family in angiosperms and functional diver-
+R Core Team. (2022). R: A language and environment for statistical         sity under environmental stress. International Journal of Molecular
+   computing. R Foundation for Statistical Computing. https://www.R-        Sciences, 25(6), 3551. https://doi.org/10.3390/ijms25063551
+   project.org/                                                        Xing, Y., Liu, Y., Zhang, Q., Nie, X., Sun, Y., Zhang, Z., Li, H.,
+Sandercock, A. M., Westbrook, J. W., Zhang, Q., Johnson, H. A., Saielli,       Fang, K., Wang, G., Huang, H., Bisseling, T., Cao, Q., & Qin,
+   T. M., Scrivani, J. A., Fitzsimmons, S. F., Collins, K., Perkins, M. T.,        L. (2019). Hybrid de novo genome assembly of Chinese chestnut
+   Craddock, J. H., Schmutz, J., Grimwood, J., & Holliday, J. A. (2022).       (Castanea mollissima). GigaScience, 8(9), giz112. https://doi.org/10.
+   Frozen in time: Rangewide genomic diversity, structure, and demo-        1093/gigascience/giz112
+   graphic history of relict American chestnut populations. Molecular     Yuan, Y., Cao, X., Zhang, H., Liu, C., Zhang, Y., Song, X.-L., & Gai,
+   Ecology, 31(18), 4640–4655. https://doi.org/10.1111/mec.16629            S. (2021). Genome-wide identification and analysis of Oleosin gene
+Shao, Q., Liu, X., Su, T., Ma, C., & Wang, P. (2019). New insights into        family in four cotton species and its involvement in oil accumulation
+   the role of seed oil body proteins in metabolism and plant develop-       and germination. BMC Plant Biology, 21(1), Article 569. https://doi.
+   ment. Frontiers in Plant Science, 10, 1568. https://doi.org/10.3389/       org/10.1186/s12870-021-03358-y
+   fpls.2019.01568                                                  Zhang, W., Xiong, T., Ye, F., Chen, J.-H., Chen, Y.-R., Cao, J.-J., Feng,
+Shi, T., Zhang, X., Hou, Y., Jia, C., Dan, X., Zhang, Y., Jiang, Y., Lai, Q.,        Z.-G., & Zhang, Z.-B. (2023). The lineage-specific evolution of the
+   Feng, J., Feng, J., Ma, T., Wu, J., Liu, S., Zhang, L., Long, Z., Chen,        oleosin family in Theaceae. Gene, 868, 147385. https://doi.org/10.
+   L., Street, N. R., Ingvarsson, P. K., Liu, J., ... Wang, J. (2024). The        1016/j.gene.2023.147385
+  super-pangenome of Populus unveils genomic facets for its adaptation     Zhang, Z., Zhao, Y., Chen, Y., Li, Y., Pan, L., Wang, S., Wang, P., & Fan,
+  and diversification in widespread forest trees. Molecular Plant, 17(5),        S. (2023). Overexpression of TCP9-like gene enhances salt tolerance
+   725–746. https://doi.org/10.1016/j.molp.2024.03.009                         in transgenic soybean. PLoS One, 18(7), e0288985. https://doi.org/10.
+Shimada, T. L., Hayashi, M., & Hara-Nishimura, I. (2018). Membrane        1371/journal.pone.0288985
+  dynamics and multiple functions of oil bodies in seeds and leaves.     Zou, Z., Zhao, Y., & Zhang, L. (2022). Genomic insights into lineage-
+   Plant Physiology, 176(1), 199–207. https://doi.org/10.1104/pp.17.         specific evolution of the oleosin family in Euphorbiaceae. BMC
+  01522                                                            Genomics, 23(1), Article 178. https://doi.org/10.1186/s12864-022-
+Shirasawa, K., Nishio, S., Terakami, S., Botta, R., Marinoni, D. T., &       08412-z
+   Isobe, S. (2021). Chromosome-level genome assembly of Japanese
+   chestnut (Castanea crenata Sieb. et Zucc.) reveals conserved chro-
+  mosomal segments in woody rosids. DNA Research, 28(5), dsab016.                                               S U P P O R T I N G  I N F O R M AT I O N
+   https://doi.org/10.1093/dnares/dsab016
+                                                              Additional supporting information can be found online in the
+Solla, A., Dorado, F. J., González, R., Giraldo-Chaves, L. B., Cubera, E.,
+                                                           Supporting Information section at the end of this article.   Rocha, G., Martín, C., Martín, E., Cuenca, B., del Pozo, J. L., Pérez,
+   F., & Martín, M. Á. (2024). Chestnut trees (Castanea sativa Mill.) for
+   climate change. Acta Horticulturae, 1400, 273–282. https://doi.org/
+   10.17660/ActaHortic.2024.1400.32
+Staton, M., Addo-Quaye, C., Cannon, N., Yu, J., Zhebentyayeva, T.,     How to cite this article: Perez-Rial, A., Castro, P.,
+   Huff, M., Islam-Faridi, N., Fan, S., Georgi, L. L., Nelson, C. D.,        Solla, A., Martín, M. A., & Die, J. V. (2025).
+   Bellis, E., Fitzsimmons, S., Henry, N., Drautz-Moses, D., Noorai, R.      Decoding drought tolerance from a genomic approach
+   E., Ficklin, S., Saski, C., Mandal, M., Wagner, T. K., ... Carlson, J.        in Castanea sativa Mill. The Plant Genome, 18,
+   E. (2020). A reference genome assembly and adaptive trait analysis       e70116. https://doi.org/10.1002/tpg2.70116
+   of Castanea mollissima ‘Vanuxem,’ a source of resistance to chest-
+   nut blight in restoration breeding. Tree Genetics & Genomes, 16(4),
+   Article 57. https://doi.org/10.1007/s11295-020-01454-y

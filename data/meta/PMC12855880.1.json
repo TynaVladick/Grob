@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12855880",
+  "version": 1,
+  "pmid": 41454159,
+  "doi": "10.1038/s41746-025-02281-y",
+  "mid": null,
+  "title": "Artificial intelligence-based personalized treatment strategies for unresectable hepatocellular carcinoma: integrating HSP90α for prognosis and survival prediction",
+  "citation": "NPJ Digit Med. 2025 Dec 27;9:94. doi: 10.1038/s41746-025-02281-y",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12855880.1/PMC12855880.1.pdf?md5=f482a49c5004485af2cd8746c2408560",
+  "xml_url": "s3://pmc-oa-opendata/PMC12855880.1/PMC12855880.1.xml?md5=9ec3d09d389f5f378e117ee9e0e08cfe",
+  "text_url": "s3://pmc-oa-opendata/PMC12855880.1/PMC12855880.1.txt?md5=c2bacd61e027d585cbf24a02ee819232",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_Fig1_HTML.jpg?md5=459c0447daa40c7de832c071c2a4248a",
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_Fig2_HTML.jpg?md5=1c59f7f703500473134e9d7b71adfaaf",
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_Fig3_HTML.jpg?md5=67c9718b1ba5d25db96a2c86ad939bb6",
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_Fig4_HTML.jpg?md5=cf69f43cd3c9fc4e80aabf0fb0964a1f",
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_Fig5_HTML.jpg?md5=d55e4d686374ff1ec12ee2427963e7b9",
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_Fig6_HTML.jpg?md5=140fd98afc3a5d5a898e1ba5102f23db",
+    "s3://pmc-oa-opendata/PMC12855880.1/41746_2025_2281_MOESM1_ESM.pdf?md5=a7b71083145439628c61508f19fccaa9"
+  ]
+}

@@ -1,0 +1,32 @@
+{
+  "pmcid": "PMC13502457",
+  "version": 1,
+  "pmid": 41358677,
+  "doi": "10.1002/ksa.70228",
+  "mid": null,
+  "title": "Periprosthetic joint infection risk is comparable between unicompartmental knee arthroplasty to total knee arthroplasty conversion and primary total knee arthroplasty: A systematic review and meta‐analysis",
+  "citation": "Knee Surg Sports Traumatol Arthrosc. 2025 Dec 8;34(9):3314–21. doi: 10.1002/ksa.70228",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC13502457.1/PMC13502457.1.txt?md5=58dc250bf59086e8d4a194b6276e0994",
+  "xml_url": "s3://pmc-oa-opendata/PMC13502457.1/PMC13502457.1.xml?md5=c5be0d9aefe0dbf0732b44960c15ec4c",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13502457.1/PMC13502457.1.pdf?md5=ec98d5e8e1300b544fcdd8f1b931bdc2",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-g001.webp?md5=e5684f16198de88d1fe20ca0f3d855ce",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-g002.webp?md5=4e4854cf16b5e98585faa4a607b638ce",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-g003.webp?md5=2948a05883c0fd97e7eb32f0468e6f01",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-g004.webp?md5=13236b71858b4ea3fdc04d1cfc19da9c",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s001.docx?md5=80c4ec8c2b32651334e7709232d378a8",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s002.docx?md5=dea32fe0de64e05beef8002858cdb4b6",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s003.xlsx?md5=1341c6d56fdfa6d631fe522514f2ab6b",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s004.docx?md5=e4bcf956120daee2fe92c24a033b8776",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s005.docx?md5=0c50d7e133b51b806b2f9a094c133f7b",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s006.docx?md5=386ed810df332a3c51eb5b3be7a7f07a",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s007.docx?md5=46729051009a8be94784933e9c9c6c14",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s008.docx?md5=154ac0b23c77368dc57b26a8dc766d97",
+    "s3://pmc-oa-opendata/PMC13502457.1/KSA-34-3314-s009.docx?md5=7056e10869880cceb87691be0423ac2c"
+  ]
+}

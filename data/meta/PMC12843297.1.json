@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC12843297",
+  "version": 1,
+  "pmid": 41598190,
+  "doi": "10.3390/life16010034",
+  "mid": null,
+  "title": "Ruptured Posterior Cerebral Artery Dissecting Aneurysm After Trauma: A Case Report and Literature Review",
+  "citation": "Life (Basel). 2025 Dec 25;16(1):34. doi: 10.3390/life16010034",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12843297.1/PMC12843297.1.pdf?md5=8782085ab45b855c28c4cb349daa14f0",
+  "xml_url": "s3://pmc-oa-opendata/PMC12843297.1/PMC12843297.1.xml?md5=a460cab1e913593140b598f79d9ce9e7",
+  "text_url": "s3://pmc-oa-opendata/PMC12843297.1/PMC12843297.1.txt?md5=4919d9bc873a250044e739878366ed61",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12843297.1/life-16-00034-g001.jpg?md5=f031bf3e2094adb19394b1770bc55056",
+    "s3://pmc-oa-opendata/PMC12843297.1/life-16-00034-g002.jpg?md5=f62be74520b2175a54c4790368230d5c",
+    "s3://pmc-oa-opendata/PMC12843297.1/life-16-00034-g003.jpg?md5=6846fc53d98e1161bb6ac79978327bfb",
+    "s3://pmc-oa-opendata/PMC12843297.1/life-16-00034-g004.jpg?md5=11904f0723b1ea68f57ed72e45351ee7"
+  ]
+}

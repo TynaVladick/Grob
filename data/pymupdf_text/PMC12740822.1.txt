@@ -1,0 +1,82 @@
+DOI: 10.1002/alz70857_104595
+
+C L I N I C A L M A N I F E S TAT I O N S
+
+POSTER PRESENTATION
+
+NEUROPSYCHIATRY AND BEHAVIORAL NEUROLOGY
+
+Pulse pressure is associated with Alzheimer’s disease
+pathology and cognitive decline
+
+
+Joon Hyung Jung1    Nayeong Kong2     Seunghoon Lee3
+
+
+
+
+1Chungbuk National University Hospital,
+                                  AbstractCheongju, Korea, Republic of (South)
+2Department of Psychiatry, Keimyung           Background: Aging is accompanied by vascular changes, notably arterial stiffness,
+University Hospital, Daegu, Korea, Republic of     which is reflected by pulse pressure (PP). Elevated PP has been linked to cardiovascular
+(South)
+                                  and cerebrovascular diseases, as well as cognitive decline and dementia. However,
+3Myongji hospital, Hanyang University College
+of Medicine, Goyang, Korea, Republic of              its specific role in Alzheimer’s disease (AD) development and progression remains
+(South)                                 underexplored. This study investigates the association between baseline PP and key
+
+                          AD biomarkers—amyloid-beta (Aβ) and tau deposition—and cognitive decline.Correspondence
+Joon Hyung Jung, Chungbuk National          Method: This study utilized data from 1,690 cognitively unimpaired older adults
+University Hospital, Cheongju, Korea, Republic
+                                           participating in the Anti-Amyloid Treatment in Asymptomatic Alzheimer’s (A4) andof (South).
+Email: jhjung313@gmail.com                   Longitudinal Evaluation of Amyloid Risk and Neurodegeneration (LEARN) studies.
+
+                                    Biomarkers were assessed using positron emission tomography (PET) imaging for Aβ
+
+                                  and tau (n = 411) deposition. Cognitive function was evaluated using the Preclinical
+
+                                     Alzheimer Cognitive Composite (PACC). Cross-sectional analyses were conducted to
+
+                                   examine associations, with linear regression adjusted for age, sex, education, and
+
+                            APOE4 status.
+
+                                         Result: We revealed that elevated PP was significantly associated with increased
+
+                                          global and inferior temporal tau deposition (standardized β = 0.11, p =  0.020;
+
+                                       standardized β = 0.12, p = 0.012). Moreover, elevated PP was also associated with
+
+                                       higher Aβ deposition (standardized β = 0.06, p =  0.011) and with lower PACC
+
+                                        (standardized β = -0.05, p = 0.034). APOE4 status moderated the relationship between
+
+                              PP and tau deposition; in APOE4 carriers, higher PP was strongly associated with tau
+
+                                       accumulation, while no significant relationship was observed in non-carriers.
+
+                                       Conclusion: These findings underscore the importance of arterial stiffness as a
+
+                                        contributor to AD pathology and lower cognition, particularly in individuals with
+
+                                        genetic susceptibility. By revealing how PP interacts with APOE4 to influence tau
+
+                                          deposition, this study emphasizes the need for targeted interventions addressing
+
+                                        vascular health to mitigate AD progression. Future research should further explore
+
+                                  mechanisms linking vascular health and AD biomarkers to refine preventative
+
+                                             strategies.
+
+
+
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2025 The Alzheimer’s Association. Alzheimer’s & Dementia published by Wiley Periodicals LLC on behalf of Alzheimer’s Association.
+
+
+Alzheimer’s Dement. 2025;21(Suppl. 3):e104595.                                                                        wileyonlinelibrary.com/journal/alz    1 of 1
+https://doi.org/10.1002/alz70857_104595

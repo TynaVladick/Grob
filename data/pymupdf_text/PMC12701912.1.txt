@@ -1,0 +1,571 @@
+1362201research-article2025                                                      JDRXXX10.1177/00220345251362201Journal of Dental ResearchCausal inference between Social Adversity and Multimorbidity Including Oral Conditions
+
+
+         Research Reports: Clinical
+
+                                                                                                                                                  Journal of Dental Research
+                                                                                                                                     2026, Vol. 105(1) 103­–111
+                                                                                © The Author(s) 2025       Social Adversity Is Causally Linked
+
+                                                                                                                                                       Article reuse guidelines:      to Multimorbidity Including
+                                                                                                                                          sagepub.com/journals-permissions
+                                                                                                                                                             https://doi.org/10.1177/00220345251362201DOI: 10.1177/00220345251362201      Oral Conditions                                                                          journals.sagepub.com/home/jdr
+
+
+        A.O. Esemezie1,2, D.J. Lizotte2,3, G. Tsakos4    , and
+        N. Gomaa1,2
+
+
+
+            Abstract
+           The fundamental cause theory posits social factors as causes of disease as they encompass access to important resources such as
+             knowledge, wealth, and social networks. While these social factors have been consistently associated with oral and systemic diseases,
+                causality remains unestablished. Here, we estimated the causal effect of social adversity, comprising low economic and social capital,
+            on the development of (1) oral conditions (OC) and (2) multimorbidity including oral conditions (MIOC) in a cohort of middle-aged
+             and older adults over a 7-y period and assessed whether effects varied by age or gender. We analyzed 2 waves from the Canadian
+               Longitudinal Study on Aging (CLSA) (2011 and 2018). Social adversity comprised low economic (income) and social capital (community
+                participation, social relationships). OC was defined as having 1 or more of poor self-reported oral health, lack of functional dentition
+             (<20 natural teeth), or edentulism. Participants with an OC at baseline were excluded. MIOC was defined as having 2 or more chronic
+               diseases and an OC. Logistic marginal structural models with inverse probability weighting estimated the causal odds ratio (OR) of
+              developing both outcomes, controlling for sociodemographic and behavioral factors. In a total of 23,366 participants, 14% experienced
+                social adversity at baseline, with a prevalence of 17% OC and 7% MIOC at follow-up. Social adversity significantly increased the odds
+               of developing OC (OR = 1.9, 95% confidence interval [CI] 1.7, 2.2) and MIOC (OR = 1.7, 95% CI 1.5, 2.0) at follow-up. The observed
+                effects were strongest in the middle-aged group, with similar odds observed in both men and women. Our findings indicate that social
+             and economic capital are causally linked to the development of OC and MIOC over time. We suggest that policies for healthy aging
+              should prioritize action on social and living conditions.
+
+
+           Keywords: aging, noncommunicable diseases, oral health, social capital, socioeconomic factors, causality
+
+
+         Introduction                                       compromised immunity, polypharmacy-induced xerostomia,
+                                                                           inadequate oral hygiene due to physical or cognitive decline,
+           The proportion of older adults in Canada and globally is pro­                                                                                 affected nutrition, and stress can all exacerbate these oral–
+              jected to increase in the coming decades, along with a conse­                                                                          systemic disease connections around aging (Wu et al. 2023).
+             quent rise in the burden of noncommunicable chronic diseases,                                                                   However, traditional clinical interventions that target such bio­
+              including oral diseases and multimorbidity (World Health                                                                                    logical and behavioral factors are arguably ineffective and
+             Organization 2015). This demographic shift has led to global                                                                              unsustainable in preventing oral diseases and related chronic
+                initiatives such as the United Nations–World Health Organi­                                                                              conditions (Gomaa et al. 2019; McGrath et al. 2009). Notably,
+              zation Collaborative on Healthy Aging to prompt investiga­                                                                                    social adversity including lower income and education, poor
+               tions and action for optimizing the aging process beyond mere                                                                                    social networks and social participation, and limited access to
+              longevity to chronic disease prevention to support functional­
+                ity and intrinsic capacity (World Health Organization 2020).
+                                                                                                 1Dentistry, Schulich School of Medicine & Dentistry, Western
+             Oral diseases are the most prevalent chronic conditions glob­                                                                                                  University, London, ON, Canada
+                ally; thus, understanding their determinants has also been     2Epidemiology & Biostatistics, Schulich School of Medicine & Dentistry,
+            emphasized for the optimization of healthy aging (Colombo    Western University, London, Ontario, Canada
+            and Wu 2023; Rock et al. 2025).                                3Computer Science, Faculty of Science, Western University, London,
+                Oral and systemic diseases share common determinants,     Canada
+             with interconnected pathways that interact over the life course     4Epidemiology & Public Health, University College London, London, UK
+            and that can become amplified with age (Weintraub et al.   A supplemental appendix to this article is available online.
+             2023). For example, while oral diseases are associated with                                                                        Corresponding Author:
+               diabetes, cardiovascular diseases, respiratory infections, and                                                                             N. Gomaa, Schulich School of Medicine & Dentistry, Western
+              multimorbidity, through inflammatory pathways, among oth­      University, 0071-1511 Richmond St., London, ON N6A 5C1, Canada.
+               ers (Bitencourt et  al. 2023), age-related changes including      Email: noha.gomaa@schulich.uwo.ca104                                                                                             Journal of Dental Research 105(1)
+
+
+                                                           impact of social adversity can differentially affect age groups.
+                                                As well, although men reportedly have worse oral health,
+                                              women typically experience greater social inequalities than
+                                               men do and have been consistently shown to be more vulnera­
+                                                                  ble to their health impacts due to intersecting social and eco­
+                                                      nomic roles across the life course (Limo et al. 2024). We
+                                                                   therefore further examined whether any causal effects varied
+                                                      by age and gender.
+
+                                     Methods
+                                             Data Source and Study Population
+
+                                         We used data from 2 waves of the Comprehensive Cohort of
+                                                                  the Canadian Longitudinal Study on Aging (CLSA): baseline
+Figure 1.  Participant flow diagram demonstrating the analytical sample.     (2011–2015) and second follow-up (2018–2021). The CLSA is
+                                                            a longitudinal study of participants aged 45 to 85 y at the time
+                                                                of recruitment sampled from  all 10 Canadian provinces,
+oral health care around retirement can also aggravate the risk to    excluding Indigenous people living on reserves, institutional­
+health in older age (Aida et al. 2022). These key aspects of     ized individuals, and full-time members of the Canadian mili­
+social adversity have been theorized as causes of disease by     tary (Raina et al. 2019). We excluded participants who reported
+Link and Phelan’s fundamental cause theory, which posits    an OC or had missing data on either OC status or social adver­
+modifiable factors such as economic (income, wealth, and     sity at baseline (n = 6,731). Our analytical sample comprised
+access to resources) and social capital (resources embedded in    23,366 participants (Fig. 1).
+social networks) (Bourdieu 1986) to be at the root of health by
+influencing one’s exposure to risks, related aggravating or pro­   Outcome Variables
+tective mechanisms, and their access to enabling or disabling
+factors (Link and Phelan 1995). The theory suggests that while    Oral health and chronic disease outcomes were self-reported at
+the behavioral and biological mechanisms underlying disease     the second CLSA follow-up. OC was defined as the presence
+and morbidity evolve, resources continue to affect health by     of at least 1 of the following: poor self-reported oral health
+allowing individuals greater access to resources, thus position­    (SROH), lack of functional dentition (<20 natural teeth) (WHO
+ing them to avoid health risks and adapt to adverse changes.    Expert Committee 1992), or edentulism. This allowed us to
+Consequently,  addressing  deficiencies  in  such  resources     capture various aspects of oral health. MIOC was defined as
+through tackling the fundamental social conditions that put     the presence of at least 2 chronic diseases (multimorbidity) and
+individuals at “the risk of risks of disease” in the first place is    an OC. Following the Public Health Agency of Canada defini­
+crucial for prevention. Arguably, interventions that target only     tion, we operationalized multimorbidity as having 2 or more of
+disease-specific downstream factors are likely to have limited     cardiovascular disease, cancer, arthritis, respiratory disease,
+impact on reducing health inequalities and may even widen the    neurologic  disease,  diabetes, and mental  health  disorders
+social gap in health.                                            (Roberts et al. 2015).
+   Despite the robust epidemiological evidence linking eco­
+nomic and social capital to oral and systemic health outcomes,   Exposure Variable
+causality has not yet been established (Schuch et al. 2023).
+Traditional association studies provide valuable insights but    Social adversity was a composite variable of low economic
+are unable to disentangle the complex relationships between     capital and low social capital. Low economic capital was
+these social factors and health outcomes, thereby limiting their    defined as having a household income of less than $50,000
+ability to conclusively inform interventions. This is due to    per annum (Statistics Canada 2019). Social capital, which
+unmeasured confounding, possibility of reverse causality, and     refers to social resources that are available to an individual
+lack of temporality (Listl et al. 2022). Causal inference model­    and their community through social relationships (Bourdieu
+ing has been suggested to overcome these limitations by    1986), was categorized into structural (measure of social
+accounting for time-varying confounding to better approxi­     activity and networks) and cognitive social capital (measure
+mate causal effects (Hernán and Robins 2023).                   of social support and cohesion) (Moore and Kawachi 2017).
+   Thus, the objective of this study was to estimate the total     Structural social capital was measured using a Likert-type
+causal effect of social adversity, defined as lower economic     scale ranging from 1 to 4 from the social participation module
+and social capital, on the development of oral conditions (OC)    assessing the frequency of community-related activity: 1
+and multimorbidity including oral conditions (MIOC) over     (yearly), 2 (monthly), 3 (weekly), and 4 (daily). Cognitive
+time, in a cohort of middle-aged and older Canadians. The     social capital was calculated from the 19 questions on theCausal inference between Social Adversity and Multimorbidity Including Oral Conditions                              105
+
+
+
+
+
+Figure 2.  Directed acyclic graph (DAG) for the exposure–outcome relationship constructed using DAGitty 3.1. Data for the exposure (social
+adversity) were assessed at baseline and at follow-up 2. Baseline confounding variables are indicated with a red node.
+
+
+Medical Outcomes Study–Social Support Survey, which     adversity was modeled as a time-varying exposure, measured
+measures perceived support across 4 domains and generates a     at both baseline and follow-up, while employment status was
+0 to 100 overall score, with higher values indicating greater    modeled as a time-varying confounder. Other covariates were
+support (Sherbourne and Stewart 1991). Participants were     treated as fixed based on baseline values. Stabilized weights
+categorized as having low social capital if they had lower     for each participant were calculated as the ratio of the marginal
+scores for structural (0 to 2) or cognitive (<82.5) social capi­     probability of experiencing social adversity at each time point
+tal (Hensel and Gomaa 2023).                                  (numerator) to the conditional probability of experiencing
+                                                                     social adversity given both baseline and time-varying covari­
+                                                                     ates (denominator) of that time point. These probabilities were
+Confounding Variables                                                               estimated using logistic regression models. To reduce the bias
+These were selected a priori based on theory and literature     arising from attrition and loss to follow-up, stabilized censor­
+(Fig. 2). Variables initially identified as confounders included    ing weights were calculated using a logistic model. Stabilized
+age, gender, race/ethnicity, level of education, employment sta­    time point–specific treatment weights and censoring weights
+tus, and the presence of chronic disease, to account for preexist­    were then multiplied to generate an overall final weight for
+ing health status and minimize bias from baseline morbidity.    each participant, creating a pseudo-population without covari­
+Smoking and alcohol consumption lie on the causal pathway     ate imbalance. With this pseudo-population, the causal odds
+between social adversity and health outcomes. While control­     ratio (OR) could then be estimated by fitting a weighted logis­
+ling for mediators may lead to overestimation bias (Schisterman      tic MSM. To explore subgroup differences, we stratified our
+et al. 2009), we additionally adjusted for these behaviors to test     analysis by age group and gender. Missing data were handled
+for their effect on the observed causal estimates.                by generating 20 imputations using the multivariate imputation
+                                                      by chained equations (mice) package in R. All statistical analy­
+                                                                  ses were conducted using R statistical software (version 4.4.2).
+Statistical Analysis
+To assess the causal effects of social adversity on each of OC     Sensitivity Analysis
+and MIOC at follow-up, we fitted a logistic marginal structural
+model (MSM). Using inverse probability weighting (IPW),    E-values  assess how strongly an unmeasured confounder
+stabilized treatment weights were constructed to account for    would need to be associated with both exposure and outcome
+time-varying exposures, confounding and censoring. Social     to explain the observed effects (VanderWeele and Ding 2017).106                                                                                             Journal of Dental Research 105(1)
+
+
+In addition, to assess the influence of selection bias due to cen­     baseline, 31% had an OC at follow-up. Of those with an OC in
+soring (e.g., mortality, loss to follow-up), we compared the     this group, 35% reported poor SROH, 73% lacked functional
+baseline characteristics of participants in the second follow-up     dentition, and 6% were edentulous. In addition, 14% of partici­
+to those who did not participate in the second follow-up in our    pants exposed to social adversity reported having MIOC at
+sample. To further examine the sensitivity of the MIOC vari­     follow-up.
+able, we used an alternate threshold of having 1 or more
+chronic conditions with an OC. Lastly, we explored the inde­
+                                                   Causal Effect of Social Adversity on Developingpendent effects of economic and social capital by disaggregat­
+ing these exposures and examining their separate effects on OC  OC and MIOC
+and MIOC.                                            IPW and weighted MSM showed that participants who had
+                                                              experienced social adversity at baseline had twice the odds of
+Ethical Considerations and Reporting Guidelines          developing an OC (OR = 1.9, 95% CI 1.7, 2.2) and MIOC
+                                                                   (OR = 1.7, 95% CI 1.5, 2.0) over the 7-y period compared with
+This project received approvals from the Human Research     those who did not experience social adversity. These results
+Ethics Board, Western University (project ID 120939) and the    were  consistent  in crude and adjusted models (Table  2).
+CLSA for data access (application ID 2401024) and conforms    Adjusting for smoking status and alcohol use by incorporating
+to the STROBE guidelines (Appendix).                           these variables into the inverse probability weights resulted in
+                                                                        slightly attenuated effect estimates for OC (OR = 1.7, 95% CI
+                                                                        1.5, 2.0) and MIOC (OR = 1.6, 95% CI 1.4, 1.8), indicating that
+Results                                                   while these behaviors may account for part of the association, a
+Characteristics of the Study Population                      substantial effect on both outcomes persists. Experiencing low
+                                                        economic capital alone (without low social capital) increased
+Among the total of 23,366 participants, 14% (n = 3,304) had     the odds for both OC (OR = 1.8, 95% CI 1.6, 2.0) and MIOC
+experienced social adversity at baseline (Table 1). Among     (OR = 1.6, 95% CI 1.5, 1.9). Low cognitive social capital was
+these, 61% were women, 94% were of White race/ethnicity,     also associated with increased odds for OC (OR = 1.3, 95% CI
+24% were older than 75 y, 70% were retired, and 75% reported     1.2, 1.4) and MIOC (OR = 1.2, 95% CI 1.0, 1.4), with similar
+being diagnosed with at least 1 chronic condition. At the 7-y     effects observed for low structural social capital.
+follow-up, 17% of the total sample had an OC and 7% had      Age- and gender-stratified MSM revealed that social adver­
+MIOC. Among those who were exposed to social adversity at     sity affected the development of OC and MIOC at follow-up
+
+
+
+Table 1.  Characteristics of Study Participants Stratified by Baseline Exposure to Social Adversity.
+
+                                                                                         Full Sample       Social Adversity   No Social Adversity
+                                                                             (N = 23,366)          (n = 3,304)             (n = 20,062)         P Valuea
+
+Baseline characteristics
+   Gender, n (%)
+      Men                                                           111,657 (50)         1,281 (39)           10,376 (52)          <0.001
+      Women                                                         11,709 (50)         2,023 (61)            9,686 (48)
+   Racial/ethnic background, n (%)
+      White                                                           22,440 (96)         3,108 (94)           19,332 (96)          <0.001
+      Non-Whiteb                                                   926 (4)           196 (6)             730 (4)
+  Age group at baseline, n (%)
+      45–54                                                             6,435 (28)          494 (15)            5,941 (30)          <0.001
+      55–64                                                             8,030 (34)         1,014 (31)            7,016 (35)
+      65–74                                                             5,511 (24)          993 (30)            4,518 (23)
+      75–85                                                             3,390 (15)          803 (24)            2,587 (13)
+   Education level attained at baseline, n (%)
+       Postsecondary degree/diploma                                     18,836 (81)         2,206 (67)           16,630 (83)          <0.001
+      Some postsecondary education                                      1,661 (7)           338 (10)            1,323 (7)
+       Secondary school graduation, no postsecondary education              1,991 (9)           419 (13)            1,572 (8)
+       Less than secondary school graduation                              851 (3)           331 (10)            520 (2)
+       Missing                                                         27              10                 17                           
+  Employment status at baseline, n (%)
+      Employed                                                        10,040 (43)          759 (23)            9,281 (46)          <0.001
+      Unemployed                                                   983 (4)           240 (7)             743 (4)
+       Retired                                                          12,339 (53)         2,304 (70)           10,035 (50)
+       Missing                                                          4               1                  3                           
+
+                                                                                                                                                     (continued)Causal inference between Social Adversity and Multimorbidity Including Oral Conditions                              107
+
+
+Table 1.  (continued)
+
+                                                                                         Full Sample       Social Adversity   No Social Adversity
+                                                                             (N = 23,366)          (n = 3,304)             (n = 20,062)         P Valuea
+
+   Baseline, annual household income, n (%)
+       <$20,000                                                     848 (4)           643 (19)            205 (1)           <0.001
+       $20,000–$49,999                                                   4,619 (20)         2,661 (81)            1,958 (10)
+       $50,000–$99,999                                                   8,488 (36)      —                8,488 (42)
+       $100,000–$149,999                                                 4,950 (21)      —                4,950 (25)
+       ≥$150,000                                                         4,461 (19)        —-                4,461 (22)
+  Low cognitive social capital, n (%)
+      Yes                                                                9,154 (39)         2,996 (92)            6,158 (31)          <0.001
+      No                                                              14,135 (61)          262 (8)            13,873 (69)
+       Missing                                                         77              46                 31                           
+  Low structural social capital, n (%)
+      Yes                                                                3,106 (13)          870 (26)            2,236 (11)          <0.001
+      No                                                              20,259 (87)         2,433 (74)           17,826 (89)
+       Missing                                                          1               1                  0                           
+   Presence of a chronic condition at baseline, n (%)
+      Yes                                                             14,931 (64)         2,467 (75)           12,464 (62)          <0.001
+      No                                                                8,435 (36)          837 (25)            7,598 (38)
+   Prevalence of chronic conditions at baseline, n (%)
+       Arthritis (including osteoarthritis and rheumatoid arthritis)             6,253 (27)         1,103 (33)            5,150 (26)                  -
+       Anxiety and/or mood disorders                                      4,656 (20)          976 (30)            3,680 (18)
+       Diabetes                                                           3,781 (16)          713 (22)            3,068 (15)
+       Respiratory disease (asthma and/or chronic obstructive                3,738 (16)          630 (19)            3,108 (15)
+           pulmonary disease)
+      Cancer                                                            3,438 (15)          532 (16)            2,906 (14)
+       Cardiovascular disease (heart disease and/or stroke)                   2,617 (11)          506 (15)            2,111 (11)
+       Neurologic disease (Alzheimer’s disease or related dementias)           36 (0)             6 (0)              30 (0)
+   Presence of multimorbidity at baseline, n (%)
+      Yes                                                                6,739 (29)         1,308 (40)            5,431 (27)          <0.001
+      No                                                              16,627 (71)         1,996 (60)           14,631 (73)
+Follow-up characteristics
+   Social adversity at follow-up, n (%)
+      Yes                                                                2,669 (14)         1,463 (64)            1,206 (7)           <0.001
+      No                                                              16,368 (86)          840 (36)           15,528 (93)
+       Missing                                                             4,329             1,001                3,328                           
+  Employment status at follow-up, n (%)
+      Employed                                                          8,030 (38)          632 (23)            7,398 (41)          <0.001
+      Unemployed                                                   936 (5)           133 (5)             803 (4)
+       Retired                                                          11,894 (57)         1,948 (72)            9,946 (55)
+       Missing                                                             2,506             591                1,915                           
+   Presence of OC at follow-up, n (%)
+      Yes                                                                3,417 (17)          807 (31)            2,610 (15)          <0.001
+      Poor SROH alone                                              752 (22)          172 (21)            580 (22)
+      Poor SROH and edentulism                                       25 (0)            11 (1)              14 (0)
+      Poor SROH and lack of functional dentition                         331 (10)          102 (13)            229 (9)
+       Lack of functional dentition alone                                    2,145 (63)          482 (60)            1,663 (64)
+       Edentulism alone                                               164 (5)            40 (5)             124 (5)
+      No                                                              17,008 (83)         1,805 (69)           15,203 (85)
+       Missing                                                             2,941             692                2,249                           
+   Presence of MIOC at follow-up, n (%)
+      Yes                                                                1,387 (7)           367 (14)            1,020 (6)           <0.001
+      No                                                              19,038 (93)         2,245 (86)           16,793 (94)                     
+       Missing                                                             2,941             692                2,249                           
+
+MIOC, multimorbidity inclusive of oral conditions; OC, oral conditions; SROH, self-reported oral health.
+aP values were based on the chi-square test between exposure groups.
+bAmong participants categorized as “non-White” (n = 926), the most commonly reported racial/cultural backgrounds were those identifying with
+multiple origins (38%), South Asian (22%), Chinese (16%) and Black (17%). Other groups including Arab, Korean, Southeast Asian, Latin American, and
+others each represented less than 10% of the non-White category. Due to small subgroup sizes, these were not analyzed separately.108                                                                                             Journal of Dental Research 105(1)
+
+
+Table 2.  Results of Crude and Weighted Marginal Structural Models (MSM) Showing Estimates of the Causal Relationship between Social Adversity
+and the Development of Oral Conditions (OC) and Multimorbidity Inclusive of Oral Conditions (MIOC) at Follow-up.
+
+                                                 OC                         MIOC
+
+                                                  OR (95% CI)                  OR (95% CI)
+
+Social adversity (low economic and social capital)
+  Crude effecta                                                                       2.6 (2.2, 2.9)                                 2.4 (2.1, 2.7)
+   Total effectb                                                                        1.9 (1.7, 2.2)                                 1.7 (1.5, 2.0)
+   Total effectc                                                                         1.7 (1.5, 2.0)                                 1.6 (1.4, 1.8)
+Low economic capital
+  Crude effecta                                                                       2.6 (2.3, 2.9)                                 2.5 (2.2, 2.8)
+   Total effectb                                                                        1.8 (1.6, 2.0)                                 1.6 (1.5, 1.9)
+   Total effectc                                                                         1.6 (1.4, 1.8)                                 1.5 (1.3, 1.7)
+Low cognitive social capital
+  Crude effecta                                                                       1.5 (1.3, 1.6)                                 1.4 (1.3, 1.6)
+   Total effectb                                                                        1.3 (1.2, 1.4)                                 1.2 (1.0, 1.4)
+   Total effectc                                                                         1.2 (1.1, 1.4)                                 1.2 (1.0, 1.3)
+Low structural social capital
+  Crude effecta                                                                       1.3 (1.1, 1.4)                                 1.2 (1.1, 1.4)
+   Total effectb                                                                        1.2 (1.1, 1.4)                                 1.2 (1.1, 1.4)
+   Total effectc                                                                         1.2 (1.0, 1.3)                                 1.1 (1.0, 1.3)
+
+CI, confidence interval; OR, odds ratio.
+aCrude unadjusted effect.
+bMSM with inverse probability weighting to adjust for age, gender, race/ethnicity, employment status at baseline and follow-up, education level, and
+baseline presence of chronic conditions. The weights account for exposure at both baseline and follow-up as well as potential censoring.
+cMSM with inverse probability weighting to adjust for age, gender, race/ethnicity, employment status at baseline and follow-up, education level, baseline
+presence of chronic conditions, smoking status, and alcohol use. The weights account for exposure at both baseline and follow-up as well as potential
+censoring.
+
+
+
+Table 3.  Results of Age- and Gender-Stratified Marginal Structural        were of less magnitude in the older age group. Sex-stratified
+Models (MSM) Showing Estimates of the Causal Relationship between      models demonstrated significant effects of social adversity on
+Social Adversity and the Development of Oral Conditions (OC) and
+Multimorbidity Inclusive of Oral Conditions (MIOC) at Follow-up.           the development of OC and MIOC at follow-up in both gen­
+                                                                      ders, with a similar magnitude of effects observed in both men
+                          Oral Condition          MIOC        and women for OC and MIOC.
+                  OR (95% CI)        OR (95% CI)
+Age stratifieda                                               Results of Sensitivity Analysis
+  45 to 54 y                   2.2 (1.6, 3.0)              2.0 (1.4, 3.0)
+  55 to 64 y                   2.0 (1.7, 2.5)              1.8 (1.4, 2.3)     The comparison of baseline characteristics showed that older
+  65 to 74 y                   1.8 (1.5, 2.1)              1.6 (1.3, 2.0)       participants, particularly those aged 65 to 85 y, were less
+  75+ y                       1.4 (1.2, 1.8)              1.3 (1.0, 1.7)       likely to participate in the second follow-up, suggesting
+Gender stratifieda                                                   greater loss to follow-up in older age groups. Nonparticipants
+  Men                         1.9 (1.6, 2.2)              1.7 (1.4, 2.1)      also included a higher proportion of individuals with social
+  Women                     1.9 (1.6, 2.2)              1.8 (1.5, 2.1)
+                                                                adversity and chronic conditions (Appendix Table S1). The
+CI, confidence interval; OR, odds ratio.                              E-values for the total causal effect of social adversity on hav­
+aMSM with inverse probability weighting to adjust for age, gender, race/      ing an OC and MIOC were 2.1 and 2.8, respectively, suggest­
+ethnicity, employment status at baseline and follow-up, education level,      ing that a moderate amount of unmeasured confounding is
+and baseline presence of chronic conditions. The weights account for
+exposure to social adversity at both baseline and follow-up as well as        required to fully explain the observed effects (Appendix
+potential censoring.                                             Table S2). For the age-stratified analysis, the E-values for
+                                                          having an OC and MIOC among individuals aged 45 to 54 y
+                                                       and 55 to 64 y were all >2, indicating moderately robust esti­
+                                                             mates. Similarly, when stratified by gender, the causal effects
+across age groups and in both men and women (Table 3). The
+                                                                    for developing the outcomes remained robust, with E-values
+greatest effect magnitude was observed among individuals
+                                                   >2 for both men and women. When using an alternate defini­
+aged 45 to 54 y, with the odds of developing OC (OR = 2.2,
+                                                                    tion for MIOC, its prevalence increased to 12%; however, the
+95% CI 1.6, 3.0) being higher than for MIOC (OR = 2.0, 95%
+                                                               causal effect of social adversity on developing MIOC at fol­
+CI 1.4, 3.0) in this age group. The effects of social adversity
+                                                        low-up remained relatively similar (OR = 1.8, 95% CI 1.6,
+                                                                   2.1) (Appendix Table S3).Causal inference between Social Adversity and Multimorbidity Including Oral Conditions                              109
+
+Discussion                                                     social adversity were women (61%). While our study does not
+                                                               explore the specific mechanisms underlying these inequalities,
+We demonstrate a causal relationship between social adversity                                                            our results are consistent with previous Canadian findings
+and the development of OC and MIOC in a cohort of middle-                                                       showing both men and women living in social adversity to be
+aged and older adults. Using 2 waves of CLSA and applying                                                                          at risk of poor oral health (Canadian Academy of Health
+causal inference models, our results showed that those experi­                                                             Sciences 2014; Limo et al. 2024).
+encing social adversity had twice the odds of developing these
+outcomes  over  a  7-y  period,  adjusted  for  confounders.
+Stratification by age revealed the effect of social adversity to    Strengths and Limitations
+be strongest in the middle-aged group (45–54 y). Our estimates
+                                     A key strength of our study  is the application of causal
+represent the average effect of the observed combination of
+                                                                inference models. Assessing the causal impacts of social
+low economic capital and low social capital as they naturally
+                                                           exposures is often neither ethical nor feasible, making it chal­
+co-occurred in the study population rather than the effect of a
+                                                             lenging to establish causal effects through traditional methods
+specific, well-defined intervention.
+                                                               (Brocklehurst et al. 2019). Another strength is the use of a
+  Our findings are consistent with previous research on the
+                                                                        large, population-based longitudinal cohort study and the
+common risk factors for oral and systemic diseases (Sheiham
+                                                                  inclusion of OC into the overall multimorbidity definition. Our
+and Watt 2000). While prior studies investigated the impact
+                                                              study is not without limitations. While MSMs can estimate
+of early-life adversity on later health outcomes, our analysis
+                                                                causal effects, this relies on several assumptions, including
+focused on social adversity experienced in mid to late adult­
+                                                                  consistency. Consistency can be particularly challenging with
+hood. For instance, a study using MSMs found that early-
+                                                       complex exposures (Kaufman 2019) such as social adversity,
+life socioeconomic status was significantly associated with
+                                                       which combines low economic and low social capital. Different
+developing coronary heart disease, diabetes, and stroke in
+                                                                   interventions targeting these components may produce varying
+adulthood,  although  these  effects were  attenuated  after
+                                                                       effects on oral and systemic health. However, additional analy­
+adjusting for adult socioeconomic status (Nandi et al. 2012).
+                                                                  ses examining each component separately showed that low
+Another study demonstrated that lower income had a causal
+                                                       income had the strongest association with outcomes, with
+effect on  experiencing  preventable  hospitalizations  and
+                                                                       structural and cognitive social capital also contributing signifi­
+comorbidities (Cho et al. 2019). More recently, Mirza et al.
+                                                                       cantly, although with a smaller effect size. This suggests that
+(2024) showed the relationship between social disadvantage
+                                                                  the composite exposure captures key dimensions of social
+and multimorbidity to significantly increase when including
+                                                                  adversity in this population.
+those with OC.
+                                                                  Despite using IPW to balance for known confounders, the
+  The observed causal effects between social adversity and
+                                                                         possibility of unmeasured confounders could not be ruled out,
+OC and MIOC may be mediated by an individual’s behaviors,
+                                                                   possibly violating the exchangeability assumption (Hernán and
+access to resources, and biopsychosocial factors, all of which
+                                                          Robins 2023). In addition, reliance on self-reported data may
+may be further amplified by aging (Gomaa 2022). In strati­
+                                                                  introduce measurement bias. However, self-reported oral health
+fied analyses, we found the effect of social adversity to be
+                                                           measures have been validated and are widely employed in epide­
+consistent across all age categories but most pronounced in
+                                                                 miological studies (Matsui et al. 2016). Although the CLSA was
+middle-aged adults (45–54 y), with reduced effects in indi­
+                                                               broadly inclusive of community-dwelling adults aged 45 y and
+viduals aged 75 y and older. This was consistent with a previ­
+                                                                          older, the CLSA sample consisted predominantly of well-edu­
+ous study that examined multimorbidity across age groups
+                                                                      cated, White participants. Consequently, despite the significant
+(St Sauver et al. 2015) showing that while the incidence of
+                                                                          effect we observed between social adversity and oral/systemic
+multimorbidity increased in older age, the absolute number of
+                                                                    health outcomes in this sample, it may still be an underestimation
+people with incident multimorbidity was substantially higher
+                                                                  of what would be observed in more socioeconomically and
+in the middle-aged groups. Similar to previous studies, this
+                                                                         racially/ethnically diverse populations (Fleming et al. 2023).
+emphasizes the importance of early intervention to mitigate
+                                                                 Future research building on this work can incorporate more
+the cumulative effects in later life (Hensel et al. 2025), espe­
+                                                        nuanced longitudinal assessments of oral health trajectories.
+cially that poor oral health can also lead to reduced social
+                                                       While our study assessed incident OC, this approach does not
+participation, possibly exacerbating social adversity (Cooray
+                                                            account for the complexity of oral health dynamics (i.e., recov­
+et al. 2023).
+                                                               ery or deterioration), as the use of composite and primarily cat­
+  We also found the magnitude of the effect of social adver­
+                                                                   egorical variables in the current study limited the feasibility of
+sity to be similar between men and women. Previous CLSA
+                                                         modeling  graded  associations.  Capturing  such  variations
+studies have reported that women had a higher prevalence of
+                                                      would require more frequent measurement points and the utili­
+multimorbidity across 4 different definitions compared with
+                                                                  zation of continuous or count-based oral health measures such
+men (Im et al. 2022). Women also generally have better oral
+                                                                as probing depths or the number of decayed teeth. Such inves­
+health and oral health behaviors including regular dental visits,
+                                                                      tigations could provide deeper insight into how social adver­
+preventive care, and healthier lifestyles than men do (Su et al.
+                                                                          sity shapes oral health across the life course and potentially
+2022). However, in our study, most individuals experiencing
+                                                              help identify windows for intervention.110                                                                                             Journal of Dental Research 105(1)
+
+Public Health Policy Implications                              funds. This research was made possible using the data/biospeci­
+                                                      mens collected by the CLSA. Funding for the CLSA is provided by
+Chronic diseases remain highly prevalent worldwide with a     the Government of Canada through the CIHR under grant reference
+substantial individual and societal burden (GBD 2019 Risk   LSA 94473 and the Canada Foundation for Innovation, as well as
+Factors Collaborators 2020). These are projected to increase in     the following provinces: Newfoundland, Nova Scotia, Quebec,
+the coming decades due to the global aging population. Our     Ontario, Manitoba, Alberta, and British Columbia. This research
+findings are in alignment with Link and Phelan’s fundamental     has been conducted using the CLSA Baseline Comprehensive data­
+cause theory, which posited social adversity as causes of disease     set version 7.1 and Follow-up 2 Comprehensive dataset version
+and called for upstream policies that targeted these social fac­     2.0, under application ID 2401024. The CLSA is led by Drs.
+tors for effective disease prevention (Link and Phelan 1995).    Parminder Raina, Christina Wolfson, and Susan Kirkland.
+Public health policies that aim to improve social and economic
+capital such as improving financial security and enhancing   ORCID iDs
+social support systems are important for mitigating the burden                                                          G. Tsakos    https://orcid.org/0000-0002-5086-235X
+of chronic diseases in aging populations. Implementing life    N. Gomaa    https://orcid.org/0000-0002-7351-9036
+course interventions early on may help prevent the accumula­
+tion of risk factors that lead to adverse outcomes in middle-age   Data Availability
+and later life.
+                                                            Data are available from the Canadian Longitudinal Study on
+                                                         Aging (www.clsa-elcv.ca) for researchers who meet the criteria
+Conclusion                                                       for access to deidentified CLSA data.
+
+Social adversity, including low social and economic capital,
+                                                 Referenceshas a causal effect on the development and the accumulation of
+chronic diseases over time. While these effects are observed     Aida J, Takeuchi K, Furuta M, Ito K, Kabasawa Y, Tsakos G. 2022. Burden                                                                                     of oral diseases and access to oral care in an ageing society. Int Dent J.
+across the board, they are particularly pronounced in middle-         72(4S):S5–S11.
+aged adults. With the growing burden of chronic diseases in      Bitencourt FV, Nascimento GG, Costa SA, Andersen A, Sandbæk A, Leite
+                                                            FRM. 2023. Co-occurrence of periodontitis and diabetes-related complica­
+Canada and globally and the rise in calls for prioritizing aging                                                                                                 tions. J Dent Res. 102(10):1088–1097.
+populations on national and international fronts, upstream     Bourdieu P. 1986. The forms of capital. In: Richardson JG, editor. Handbook
+interventions that tackle the social determinants of health and          of theory and research for the sociology of education. New York (NY):
+                                                                        Greenwood. p. 241–258.
+that improve social and living conditions will be key for      Brocklehurst PR, Baker SR, Listl S, Peres MA, Tsakos G, Rycroft-Malone J.
+healthy aging.                                                               2019. How should we evaluate and use evidence to improve population oral
+                                                                                      health? Dent Clin North Am. 63(1):145–156.
+                                                                        Canadian Academy of Health Sciences. 2014. Improving access to oral health
+Author Contributions                                                     care for vulnerable people living in Canada. Ottawa (Canada): Canadian
+                                                                 Academy of Health Sciences [accessed 2025 Jul 11]. https://cahs-acss.ca/
+A.O. Esemezie, contributed to conception, design, data acquisi­                                                                       wp-content/uploads/2015/07/Access_to_Oral_Care_FINAL_REPORT_
+tion, analysis, and interpretation, drafted and critically revised the         EN.pdf.
+manuscript; D.J. Lizotte, G. Tsakos, contributed to data interpreta­    Cho HE, Wang L, Chen J-S, Liu M, Kuo C-F, Chung KC. 2019. Investigating
+tion, critically revised the manuscript; N. Gomaa, contributed to          the causal effect of socioeconomic status on quality of care under a univer­
+                                                                                                sal health insurance system—a marginal structural model approach. BMC
+conception, design, data acquisition and interpretation, drafted and         Health Serv Res. 19(1):987. doi:10.1186/s12913-019-4793-7
+critically revised the manuscript. All authors gave final approval     Colombo AP, Wu B. 2023. Aging and oral health: biological and sociobehav­
+and agree to be accountable for all aspects of the work.                         ioral perspectives. J Dent Res. 102(8):841–843.
+                                                                     Cooray U, Tsakos G, Heilmann A, Watt RG, Takeuchi K, Kondo K, Osaka K,
+                                                                         Aida J. 2023. Impact of teeth on social participation: modified treatment
+Acknowledgments                                                          policy approach. J Dent Res. 102(8):887–894.
+                                                                       Fleming E, Bastos JL, Jamieson L, Celeste RK, Raskin SE, Gomaa N, McGrath
+The opinions expressed in this article are the authors’ own and do         C, Tiwari T. 2023. Conceptualizing inequities and oppression in oral health
+not necessarily reflect the views of the Canadian Longitudinal          research. Community Dent Oral Epidemiol. 51(1):28–35.
+                                                GBD 2019 Risk Factors Collaborators. 2020. Global burden of 87 risk factorsStudy on Aging.                                                                                            in 204 countries and territories, 1990-2019: a systematic analysis for the
+                                                                              Global Burden of Disease Study 2019. Lancet. 396(10258):1223–1249.
+Declaration of Conflicting Interests                     Gomaa N. 2022. Social epigenomics: conceptualizations and considerations for
+                                                                                            oral health. J Dent Res. 101(11):1299–1306.
+The authors declared no potential conflicts of interest with respect to    Gomaa N, Tenenbaum H, Glogauer M, Quiñonez C. 2019. The biology of social
+the research, authorship, and/or publication of this article.                      adversity applied to oral health. J Dent Res. 98(13):1442–1449.                                                                         Hensel ALJ, Gomaa N. 2023. Social and economic capital as effect modifiers
+                                                                                     of the association between psychosocial stress and oral health. PLoS One.
+Funding                                                                     18(5):e0286006. doi10.1371/journal.pone.0286006
+                                                                         Hensel ALJ, Nicholson K, Anderson K, Gomaa N. 2025. Adverse childhood
+The authors disclosed receipt of the following financial support for         experiences and the co-occurrence of poor oral health and multimorbidity:
+the research, authorship, and/or publication of this article: A.O.          findings from the Canadian Longitudinal Study on Aging. Community Dent
+                                                                                Oral Epidemiol. 53(3):307–315.
+Esemezie was supported by a Canada Graduate Scholarship during                                                                     Hernán M, Robins JM. 2023. Causal inference: what if. 1st ed. Boca Raton
+the completion of  this work. N. Gomaa  is supported by the         (FL): Taylor and Francis.
+Canadian Institutes of Health Research (CIHR) CLSA catalyst    Im JHB, Rodrigues R, Anderson KK, Wilk P, Stranges S, Nicholson K.
+                                                                               2022. Examining the prevalence and correlates of multimorbidity amongCausal inference between Social Adversity and Multimorbidity Including Oral Conditions                              111
+
+
+   community-dwelling  older  adults:  cross-sectional  evidence from  the     Rock LD, Akade G, Al-Waeli H, Allin S, Altabtbaei K, Ameli N, Bassim C,
+   Canadian Longitudinal Study on Aging (CLSA) first-follow-up data. Age        Bedos C, Benbow P, Bhagirath AY, et al. 2025. Canada’s first National
+    Ageing. 51(8):afac165. doi:10.1093/ageing/afac165                              Oral Health Research Strategy (2024-2030). J Dent Res. 104(2):113–118.
+Kaufman JS. 2019. Commentary: causal inference for social exposures. Annu     Schisterman EF, Cole SR, Platt RW. 2009. Overadjustment bias and unneces­
+   Rev Public Health. 40:7–21.                                                      sary adjustment in epidemiologic studies. Epidemiology. 20(4):488–495.
+Limo L, Nicholson K, Stranges S, Gomaa NA. 2024. Age and sex differences in the     Schuch HS, Nascimento GG, Demarco FF, Haag DG. 2023. Causal inference
+    association of dental visits with inadequate oral health and multimorbidity:          in dentistry: time to move forward. Community Dent Oral Epidemiol.
+    findings from the Canadian Longitudinal Study on Aging (CLSA). BMC         51(1):62–66.
+    Public Health. 24(1):2968. doi:10.1186/s12889-024-20412-0                Sheiham A, Watt RG. 2000. The common risk factor approach: a rational
+Link BG, Phelan J. 1995. Social conditions as fundamental causes of disease.          basis for promoting oral health. Community Dent Oral Epidemiol. 28(6):
+    J Health Soc Behav. Extra Issue:80–94.                                      399–406.
+Listl S, Matsuyama Y, Jürges H. 2022. Causal inference: onward and upward!     Sherbourne CD, Stewart AL. 1991. The MOS social support survey. Soc Sci
+    J Dent Res. 101(8):877–879.                                           Med. 32(6):705–714.
+Matsui D, Yamamoto T, Nishigaki M, Miyatani F, Watanabe I, Koyama T,      St Sauver JL, Boyd CM, Grossardt BR, Bobo WV, Finney Rutten LJ, Roger
+   Ozaki E, Kuriyama N, Kanamura N, Watanabe Y. 2016. Validity of self-        VL, Ebbert JO, Therneau TM, Yawn BP, Rocca WA. 2015. Risk of
+    reported number of teeth and oral health variables. BMC Oral Health.         developing multimorbidity across all ages in an historical cohort study:
+    17(1):17. doi:10.1186/s12903-016-0248-2                                          differences by sex and ethnicity. BMJ Open. 5(2):e006413. doi:10.1136/
+McGrath C, Zhang W, Lo EC. 2009. A review of the effectiveness of oral        bmjopen-2014-006413
+    health  promotion  activities among  elderly  people.  Gerodontology.       Statistics Canada. 2019. Low income measure (LIM) thresholds by income
+    26(2):85–96.                                                                  source and household size. Ottawa: Government of Canada [accessed 2025
+Mirza A, Watt RG, Heilmann A, Stennett M, Singh A. 2024. Social disadvan­       Mar 17]. doi:10.25318/1110023201-eng
+    tage and multimorbidity including oral conditions in the United States.     Su S, Lipsky MS, Licari FW, Hung M. 2022. Comparing oral health behaviours
+    J Dent Res. 103(5):477–483.                                                      of men and women in the United States. J Dent. 122:104157. doi:10.1016/
+Moore S, Kawachi I. 2017. Twenty years of social capital and health research: a         j.jdent.2022.104157
+    glossary. J Epidemiol Community Health. 71(5):513–517.                  VanderWeele TJ, Ding P. 2017. Sensitivity analysis in observational research:
+Nandi A, Glymour MM, Kawachi I, VanderWeele TJ. 2012. Using marginal          introducing the E-value. Ann Intern Med. 167(4):268–274.
+    structural models to estimate the direct effect of adverse childhood social     Weintraub JA, Kaeberlein M, Perissinotto C, Atchison KA, Chen X, D’Souza
+    conditions on onset of heart disease, diabetes, and stroke. Epidemiology.       RN, Feine JS, Ghezzi EM, Kirkwood KL, Ryder M, et al. 2023. Geroscience:
+    23(2):223–232.                                                               aging and oral health research. Adv Dent Res. 31(1):2–15.
+Raina P, Wolfson C, Kirkland S, Griffith LE, Balion C, Cossette B, Dionne     World Health Organization. 2015. World report on ageing and health. Geneva
+     I, Hofer S, Hogan D, van den Heuvel ER, et al. 2019. Cohort profile:          (Switzerland): World Health Organization [accessed 2025 Mar 23]. https://
+    the Canadian Longitudinal Study on Aging (CLSA). Int J Epidemiol.          iris.who.int/handle/10665/186463.
+    48(6):1752–1753j.                                                 World Health Organization. 2020. UN Decade of Health Ageing: plan of action.
+Recent advances in oral health. Report of a WHO Expert Committee. 1992.        Geneva (Switzerland): World Health Organization [accessed 2025 Mar 18].
+   World Health Organization technical report series, 826, 1–37.                       https://www.who.int/initiatives/decade-of-healthy-ageing.
+Roberts KC, Rao DP, Bennett TL, Loukine L, Jayaraman GC. 2015. Prevalence   Wu B, Luo H, Tan C, Qi X, Sloan FA, Kamer AR, Schwartz MD, Martinez M,
+   and patterns of chronic disease multimorbidity and associated determinants        Plassman BL. 2023. Diabetes, edentulism, and cognitive decline: a 12-year
+    in Canada. Health Promot Chronic Dis Prev Can. 35(6):87–94.                     prospective analysis. J Dent Res. 102(8):879–886.

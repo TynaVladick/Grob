@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC12844019",
+  "version": 1,
+  "pmid": 41597570,
+  "doi": "10.3390/microorganisms14010050",
+  "mid": null,
+  "title": "The Human Virome in Health and Its Remodeling During HIV Infection and Antiretroviral Therapy: A Narrative Review",
+  "citation": "Microorganisms. 2025 Dec 25;14(1):50. doi: 10.3390/microorganisms14010050",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12844019.1/PMC12844019.1.pdf?md5=77c68099332652c769180e096efcd2c6",
+  "xml_url": "s3://pmc-oa-opendata/PMC12844019.1/PMC12844019.1.xml?md5=5fe97d5d17052b46224c46b82168b279",
+  "text_url": "s3://pmc-oa-opendata/PMC12844019.1/PMC12844019.1.txt?md5=8cab2370b58611cf52fe04491199f1fc",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12844019.1/microorganisms-14-00050-g001.jpg?md5=f9ece1e94a77f38f207ce542a5b289e4",
+    "s3://pmc-oa-opendata/PMC12844019.1/microorganisms-14-00050-g002.jpg?md5=64a6fff2e820dcc0a821a3f868bcd8df",
+    "s3://pmc-oa-opendata/PMC12844019.1/microorganisms-14-00050-g003.jpg?md5=0e40a069c7cc3a231e07523e943637c7"
+  ]
+}

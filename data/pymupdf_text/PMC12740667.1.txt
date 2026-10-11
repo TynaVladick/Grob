@@ -1,0 +1,101 @@
+DOI: 10.1002/alz70857_106130
+
+C L I N I C A L M A N I F E S TAT I O N S
+
+POSTER PRESENTATION
+
+NEUROPSYCHIATRY AND BEHAVIORAL NEUROLOGY
+
+The Impact of Depressive Symptoms on Emotional Sensitivity
+in Early-Stage Alzheimer’s Disease: Implications for Social and
+Emotional Well-Being
+
+
+Bailey L Ortiz1,2     Angelina M Quagletti1,3     Liberty Hebron1,3    Bruce L. Miller1,4,5
+Joel H Kramer5,6,7     Gil D. Rabinovici4,5,8,9,10     Katherine P Rankin11,12
+
+
+
+
+1Memory and Aging Center, Weill Institute for
+Neurosciences, University of California, San       Abstract
+Francisco, San Francisco, CA, USA             Background: Emotion sensitivity, including emotion reading and real-life empathy, may
+2Palo Alto University, Palo Alto, CA, USA
+                                     bealteredinAlzheimer’sdisease(AD),withsomeindividualsexperiencingimpairments
+3Palo Alto University, 94304, CA, USA
+                                       while others show heightened sensitivity. Depression, common in early AD, may
+4Global Brain Health Institute, University of
+                                         influence empathy and social cognition, yet the impact of depression on emotionCalifornia, San Francisco, San Francisco, CA,
+USA                                         sensitivity remains unclear. Clarifying these relationships could inform interventions
+5UCSF Alzheimer’s Disease Research Center,       to support social and emotional well-being in early AD.
+San Francisco, CA, USA
+                                  Method: 252 older adults with early-stage AD (Clinical Dementia Rating 0.5–1;
+6Memory and Aging Center, UCSF Weill
+Institute for Neurosciences, University of       52% female) self-reported depressive symptoms using the Geriatric Depression
+California, San Francisco, San Francisco, CA,        Scale (GDS) across five subscales (Dysphoria, Hopelessness, Worry, Withdrawal,
+USA
+                                       Cognitive Concern), and underwent emotion comprehension testing with the Dynamic
+7Global Brain Health Institute, University of
+California San Francisco, San Francisco, CA,        Affect Recognition Test (DART) and The Awareness of Social Interference Test
+USA                                    (TASIT) Emotion Evaluation Test (EET). Informants described participants’ empathic
+8Memory and Aging Center, Weill Institute for
+                                        functioning using the Interpersonal Reactivity Index (IRI), measuring Perspective-
+Neurosciences, University of California, San
+Francisco (UCSF), San Francisco, CA, USA          Taking, Fantasy, Empathic Concern, and Personal Distress. Univariate and multivariate
+
+9Molecular Biophysics and Integrated            regression models examined associations between depressive symptoms and emotion
+Bioimaging Division, Lawrence Berkeley
+                                               sensitivity, adjusting for age, sex, and education.National Laboratory, Berkeley, CA, USA
+10Department of Radiology and Biomedical        Result:  Regression  modeling  showed  that  negative mood  (Dysphoria  and
+Imaging, University of California San Francisco,     Hopelessness) hindered emotional connection and cognitive empathy (Empathic
+San Francisco, CA, USA
+                                     Concern: β=-0.65, p <0.05; β=-0.84, p <0.05; Perspective-Taking: β=-0.87, p <0.001;
+11Memory and Aging Center, Weill Institute
+for Neurosciences, University of California San      β=-1.39, p <0.05). Greater Withdrawal predicted lower empathic Perspective-Taking
+Francisco, San Francisco, CA, USA                (β=-0.62, p <0.05), suggesting social disengagement impairs considering others’
+12Global Brain Health Institute (GBHI),
+                                        viewpoints. Worry and Cognitive Concern predicted greater Emotion Comprehension
+University of California San Francisco, San
+Francisco, CA, USA                          (β=0.40, p <0.05; β=0.26, p <0.05) but lower Empathic Concern (β=-1.34, p <0.001;
+
+                                        β=-0.54, p <0.05), showing that patients with these mood states more accurately
+Correspondence
+Bailey L Ortiz, Memory and Aging Center,
+Weill Institute for Neurosciences, University
+
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2025 The Alzheimer’s Association. Alzheimer’s & Dementia published by Wiley Periodicals LLC on behalf of Alzheimer’s Association.
+
+
+Alzheimer’s Dement. 2025;21(Suppl. 3):e106130.                                                                        wileyonlinelibrary.com/journal/alz    1 of 2
+https://doi.org/10.1002/alz70857_1061302 of 2                                                                                                      CLINICAL MANIFESTATIONS
+
+
+
+of California, San Francisco, San Francisco, CA,
+USA.                                        identify others emotional expressions while still struggling to engage empathically.
+Email: bortiz@paloaltou.edu
+                                                Finally, individuals with greater Hopelessness  felt more overwhelmed in social
+
+                                          interactions (Personal Distress: β=1.23, p <0.05).
+
+                                       Conclusion: Depression significantly impacts both emotion reading and real-life
+
+                                  empathy in AD, including empathic concern and perspective-taking. Negative mood
+
+                                        (dysphoria and hopelessness) hindered emotional connection despite having no
+
+                                           effect on emotion reading. Increased mental rumination (worry and concerns about
+
+                                          cognition) was linked to reduced empathic engagement, despite heightened emotion
+
+                                   comprehension skills. These complex relationships underscore the importance of
+
+                                           identifying the specific nature of depressive symptoms when evaluating individuals
+
+                                      with early-stage AD, to better implement targeted interventions that preserve social
+
+                                  engagement and emotional well-being.

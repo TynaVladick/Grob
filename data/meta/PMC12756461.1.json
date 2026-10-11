@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC12756461",
+  "version": 1,
+  "pmid": 41487525,
+  "doi": "10.3389/fphar.2025.1718032",
+  "mid": null,
+  "title": "Pharmacokinetics and safety of the antitumor drug everolimus in healthy Chinese subjects: a single-dose, open-label, randomized, two-sequence, two-period crossover, phase I bioequivalence study",
+  "citation": "Front Pharmacol. 2025 Dec 18;16:1718032. doi: 10.3389/fphar.2025.1718032",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12756461.1/PMC12756461.1.pdf?md5=0f24b631982a453244e69ceb59ad080c",
+  "text_url": "s3://pmc-oa-opendata/PMC12756461.1/PMC12756461.1.txt?md5=394701699ca42a36139219fc7797264f",
+  "xml_url": "s3://pmc-oa-opendata/PMC12756461.1/PMC12756461.1.xml?md5=deeaf521f021ae5375ca12baf2e2d8ab",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12756461.1/fphar-16-1718032-g001.jpg?md5=8461d02ea8ed11977985290b71588bfd",
+    "s3://pmc-oa-opendata/PMC12756461.1/fphar-16-1718032-g002.jpg?md5=05a362f897b82e8f76e73ca94ed05532",
+    "s3://pmc-oa-opendata/PMC12756461.1/fphar-16-1718032-g003.jpg?md5=ce3672385877ec8c1bbeb6bf085179fe"
+  ]
+}

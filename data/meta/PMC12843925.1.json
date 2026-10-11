@@ -1,0 +1,20 @@
+{
+  "pmcid": "PMC12843925",
+  "version": 1,
+  "pmid": 41597580,
+  "doi": "10.3390/microorganisms14010061",
+  "mid": null,
+  "title": "Vector-Borne Infections in Romania: From Surveillance to Prediction",
+  "citation": "Microorganisms. 2025 Dec 26;14(1):61. doi: 10.3390/microorganisms14010061",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC12843925.1/PMC12843925.1.txt?md5=80eafb200d0f72598b0e0f0fd4bd215e",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12843925.1/PMC12843925.1.pdf?md5=965d5fb5a26efc8c2a08757a500154c9",
+  "xml_url": "s3://pmc-oa-opendata/PMC12843925.1/PMC12843925.1.xml?md5=6bdaa4f1769f95bdc400a6bb7aed4572",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12843925.1/microorganisms-14-00061-g001.jpg?md5=076ff430ef2f329f5f627cdb3c89bcee"
+  ]
+}

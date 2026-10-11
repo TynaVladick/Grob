@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC13221552",
+  "version": 1,
+  "pmid": 41196513,
+  "doi": "10.1007/s12264-025-01534-w",
+  "mid": null,
+  "title": "Oligodendrocyte Egr2 Mediates the Beneficial Effect of Resocialization on the Social Ability of Socially Isolated Mice",
+  "citation": "Neurosci Bull. 2025 Nov 6;42(6):1261–78. doi: 10.1007/s12264-025-01534-w",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC13221552.1/PMC13221552.1.xml?md5=778b8e8214232c804f9d9b9d6c39880b",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13221552.1/PMC13221552.1.pdf?md5=d11c5f809e929588f990b29290d01668",
+  "text_url": "s3://pmc-oa-opendata/PMC13221552.1/PMC13221552.1.txt?md5=62fd367e037ad395f3ed58d9932b632c",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13221552.1/12264_2025_1534_Fig1_HTML.jpg?md5=4d72b5f220d4fafc3a787ac56a606494",
+    "s3://pmc-oa-opendata/PMC13221552.1/12264_2025_1534_Fig2_HTML.jpg?md5=9a850e1db23af485255210fff40aa547",
+    "s3://pmc-oa-opendata/PMC13221552.1/12264_2025_1534_Fig3_HTML.jpg?md5=b9c227c97ae72eeac821ac61c92fe748",
+    "s3://pmc-oa-opendata/PMC13221552.1/12264_2025_1534_Fig4_HTML.jpg?md5=28a7a3e8d978fdedb02b6bab3b9d5985",
+    "s3://pmc-oa-opendata/PMC13221552.1/12264_2025_1534_Fig5_HTML.jpg?md5=099019f12f65bdd59a2cb196c109d9bf",
+    "s3://pmc-oa-opendata/PMC13221552.1/12264_2025_1534_MOESM1_ESM.pdf?md5=44b591b87023e59675fe379ee67b4141"
+  ]
+}

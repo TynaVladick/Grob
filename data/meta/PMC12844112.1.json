@@ -1,0 +1,20 @@
+{
+  "pmcid": "PMC12844112",
+  "version": 1,
+  "pmid": 41597569,
+  "doi": "10.3390/microorganisms14010048",
+  "mid": null,
+  "title": "Long-Term Surveillance of Chlamydia psittaci and West Nile Virus in Wild Birds from Central Spain (2013–2022)",
+  "citation": "Microorganisms. 2025 Dec 25;14(1):48. doi: 10.3390/microorganisms14010048",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12844112.1/PMC12844112.1.pdf?md5=553b2e5ba4622e7c4a0a221d1da84beb",
+  "text_url": "s3://pmc-oa-opendata/PMC12844112.1/PMC12844112.1.txt?md5=d17067ae5aab108b18766251def2b668",
+  "xml_url": "s3://pmc-oa-opendata/PMC12844112.1/PMC12844112.1.xml?md5=0c246abad724ba7c96ea30983b768c00",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12844112.1/microorganisms-14-00048-s001.zip?md5=1e7c1fc5ff49b44537232ff65a2091eb"
+  ]
+}

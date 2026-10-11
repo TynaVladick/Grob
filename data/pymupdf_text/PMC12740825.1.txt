@@ -1,0 +1,89 @@
+DOI: 10.1002/alz70857_105703
+
+C L I N I C A L M A N I F E S TAT I O N S
+
+POSTER PRESENTATION
+
+NEUROPSYCHIATRY AND BEHAVIORAL NEUROLOGY
+
+Factors Associated with Atypical Cognitive Trajectories in
+Older Adults with Down Syndrome
+
+
+Diana K. Valencia1    Wayne Silverman1     Sigan L Hartley2     Shahid Zaman3
+Adam Brickman4     Florence Lai5    Mark Mapstone1    Sharon J. Krinsky-McHale6
+Jordan P. Harp7     Patrick J. Lao8      Ira T. Lott1     H. Diana Rosas9
+Benjamin L Handen10     Bradley T Christian11    Beau Ances12     Frederick A. Schmitt13
+     Christy L. Hom1
+
+
+
+
+1University of California, Irvine, Irvine, CA,
+USA                               Abstract
+2Waisman Center, University of               Background: 90% of adults with Down syndrome (DS) will develop Alzheimer’s
+Wisconsin-Madison, Madison, WI, USA          dementia (AD) in their lifetime, the majority within 3 years of symptom onset.
+3University of Cambridge, Cambridge, United
+                                   However, clinicians need to be confident that declines are not temporary or due to
+Kingdom
+                                         treatable causes before diagnosing prodromal AD. The present study investigates the4Columbia University, New York, NY, USA
+5Harvard/Massachusetts General Hospital,        medical, psychiatric, and life factors associated with atypical cognitive decline in DS,
+Boston, MA, USA                         a population with genetic risk for AD. We aim to identify factors that contribute to
+6New York State Institute for Basic Research      temporary or non-progressing cognitive decline over a three-year period.
+in Developmental Disabilities, Staten Island,
+NY, USA                            Method: Thirty-eight adults with DS (ages 43 to 62) from the Alzheimer Biomarker
+7University of Kentucky / Sanders-Brown        Consortium in Down Syndrome (ABC-DS) were classified as having prodromal AD
+Center on Aging, Lexington, KY, USA            (MCI-DS) at one or more time points. AD clinical status was determined through a
+8Taub Institute for Research on Alzheimer’s
+                                     consensus process using only clinical and cognitive data. There were three trajectories
+Disease and the Aging Brain, New York, NY,
+USA                                 based upon longitudinal data: (1) progressors (MCI-DS to dementia), (2) reverters
+
+9Massachusetts General Hospital, Harvard       (MCI-DS to cognitively stable), or (3) non-progressors (MCI-DS for 3 time points).
+Medical School, Boston, MA, USA
+                                      Comorbidities and life stressors were collected through study partner interviews.
+10University of Pittsburgh, Pittsburgh, PA, USA
+                                        Baseline amyloid PET scans and plasma AD biomarkers are used in the present study.
+11Department of Medical Physics, University
+of Wisconsin, Madison, WI, USA                 Result:  Using  chi-square and  Kruskal-Wallis  tests,  non-progressors  (n =  6,
+12Washington University, St. Louis, MO, USA       Mage = 48.67) were younger (p = .032), had lower centiloid values (p = .002) and had
+
+13Sanders-Brown Center on Aging Spinal Cord      higher prevalence of seizure disorder (p = < .001), hearing impairment (p = < .001),
+& Brain Injury Research Center, University of
+                                  and a friend move away (p = .027) than progressors (n = 26, Mage = 52.88). Reverters
+Kentucky, Lexington, KY, USA
+                                            (n = 6, Mage = 49.17) had a higher incidence of psychotic disorder (p = .028) compared
+Correspondence                           to non-progressors and progressors. Both atypical groups had lower incidence of
+Diana K. Valencia, University of California,
+Irvine, Irvine, CA, USA.
+Email: dkvalen1@hs.uci.edu
+
+
+
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2025 The Alzheimer’s Association. Alzheimer’s & Dementia published by Wiley Periodicals LLC on behalf of Alzheimer’s Association.
+
+
+Alzheimer’s Dement. 2025;21(Suppl. 3):e105703.                                                                        wileyonlinelibrary.com/journal/alz    1 of 2
+https://doi.org/10.1002/alz70857_1057032 of 2                                                                                                      CLINICAL MANIFESTATIONS
+
+
+
+                             COVID infection (p = .046), but still had high amyloid load (M=30.50CL and 48.02CL,
+
+                                            respectively).
+
+                                       Conclusion: In our sample of adults with DS and MCI-DS, 31.6% did not progress to
+
+                                    dementia despite having high levels of amyloid PET. Those whose decline plateaued
+
+                                  had more medical conditions and life stressors. Those with temporary decline had more
+
+                                          psychiatric problems. Primary care physicians need to understand which reversible or
+
+                                         treatable factors are most likely to lead to a misdiagnosis of prodromal AD and address
+
+                                them accordingly.
