@@ -1,0 +1,546 @@
+Yazaki et al. BMC Cardiovascular Disorders     (2026) 26:70                 BMC Cardiovascular Disorders
+https://doi.org/10.1186/s12872-025-05429-6
+
+
+RESEARCH                                          Open Access
+
+The impact of heart failure and bleeding
+risk on clinical outcomes in patients after
+percutaneous coronary intervention
+
+Yoshiyuki Yazaki1,2, Yoshihisa Nakagawa3, Ken Kozuma4, Raisuke Iijima1, Anna Tsutsui5, Yoshitaka Murakami5,
+Masayuki Fukuzawa6, Satoru Abe6, Go Kato6, Hidehiko Hara1 and Masato Nakamura1,7*
+
+
+ Abstract
+ Background  In recent years, revascularization for ischaemic heart failure (HF) has received increasing attention, and
+ percutaneous coronary intervention (PCI) has been positioned as a high-risk procedure. However, the risk of major
+ bleeding and major adverse cardiac and cerebrovascular events (MACCE) after PCI for patients with ischaemic HF has
+ not been adequately evaluated.
+ Methods  HF patients were selected from the PENDULUM (Platelet rEactivity in patieNts with DrUg eLUting stent and
+ balancing risk of bleeding and ischaemic event) registry to compare the efficacy and safety of PCI in HF and non-HF
+  patients. In addition, the impact of high bleeding risk (HBR) defined as BARC 3 and 5 was evaluated in these patients.
+  Results  A total of 6266 patients were included; 16% (n = 1006) had a history of HF at enrolment. Patients with HF
+ showed a higher MACCE rate than those without HF (18.4% versus 7.7%; adjusted hazard ratio [HR] = 1.59, 95%CI,
+  1.30–1.93; p < 0.001) and a significant difference in major bleeding (9.3% versus 3.3%; adjusted HR = 1.74, 95%CI,
+  1.30–2.33; p < 0.001). HBR was significantly more associated with the MACCE and major bleeding rates than non-HBR,
+  regardless of HF status (adjusted HR = 2.93, 95% CI: 2.33–3.69, p < 0.001, p for interaction = 0.913, adjusted HR = 2.67,
+ 95% CI: 1.89–3.76, p < 0.001, p for interaction = 0.465, respectively).
+ Conclusions  After contemporary PCI, HF and HBR were independently associated with a higher risk of MACCE and
+  bleeding. HF patients after PCI require more careful management to improve prognosis, particularly with HBR factors.
+ Keywords  Heart failure, Percutaneous coronary intervention, Major bleeding, Major adverse cardiac and
+  cerebrovascular events, High bleeding risk
+
+
+
+
+
+*Correspondence:
+Masato Nakamura
+masato@oha.toho-u.ac.jp
+
+Full list of author information is available at the end of the article
+
+
+                            © The Author(s) 2025. Open Access This article is licensed under a Creative Commons Attribution 4.0 International License, which permits use,
+                                                   sharing, adaptation, distribution and reproduction in any medium or format, as long as you give appropriate credit to the original author(s) and
+                                            the source, provide a link to the Creative Commons licence, and indicate if changes were made. The images or other third party material in this
+                                                         article are included in the article’s Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included
+                                                    in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or exceeds the permitted use, you will
+                                      need to obtain permission directly from the copyright holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​n​s​.​o​r​g​/​l​i​c​e​n​s​e​s​/​b​y​/​4​.​0​/.Yazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 2 of 10
+
+
+
+
+ Graphical Abstract
+
+
+
+
+
+Introduction                                               of revascularization for ischaemic heart failure remains
+In recent years, cardiovascular events after percutane­   debatable, the use of PCI in HF patients with reduced
+ous coronary intervention (PCI) have been decreasing   ejection  fraction  has  increased  markedly, and such
+as a result of technological advances and the introduc­   patients are widely recognized as a high-risk group for
+tion of optimal medical treatment [1, 2]. However, with   cardiovascular events [12, 13]. In addition, although not
+regard to medical management after PCI, a causal rela­   included as a risk factor in ARC-HBR, HF patients may
+tionship between bleeding complications and subsequent   have a higher bleeding risk due to their many comorbidi­
+increased cardiovascular mortality has been suggested,    ties and medications [5, 6]. Thus, post-PCI management
+and strategies to prevent bleeding events are attracting   of patients with HF has similar considerations to those
+attention [3, 4]. Therefore, the Academic Research Con­    of patients with HBR and should be considered thought­
+sortium – high bleeding risk (ARC-HBR) has strongly    fully. However, whether the presence of HBR has any
+advocated  for general bleeding  risk assessment  after   prognostic impact on bleeding events or cardiovascular
+PCI [5, 6]. Indeed, the PENDULUM (Platelet rEactivity   events in the high-risk group after PCI in patients with
+in patieNts with DrUg eLUting stent and balancing risk  HF is unclear. Therefore, the purpose of this study was to
+of bleeding and ischaemic event) registry, a prospective,   evaluate the impact of HBR on cardiovascular and bleed­
+multicentre study of Japanese patients who underwent   ing events in HF patients after PCI as a post hoc anal­
+PCI, demonstrated that HBR patients who met the ARC-    ysis of the PENDULUM registry [7, 8]. In addition, the
+HBR criteria developed significantly more major bleed­   presence of HF was also evaluated for its effect on the
+ing [7, 8]. In addition, a post hoc analysis of this registry   relationship between HBR and the incidence of cardio­
+study reported that HBR patients had a 2.8-fold higher   vascular and bleeding events.
+rate  of  thrombotic/ischaemic  events  than non-HBR
+patients [9]. These findings suggest that the management  Methods
+of HBR patients is complex, balancing bleeding and isch­   Study population and design
+aemic events.                                                  Full inclusion and exclusion criteria for the PENDU­
+  Coronary artery disease is one of the most common  LUM registry have been reported previously [7]. In brief,
+comorbidities of heart failure (HF), and ischaemic heart   patients aged 20 years and older at the time of informed
+failure is associated with a high incidence of cardiovascu­   consent, indicated for PCI with a second-generation
+lar events and a poor prognosis [10, 11]. Though the role   drug-eluting stent, and administered antiplatelet drugsYazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 3 of 10
+
+
+
+were enrolled. HF was defined as a history of HF at   Because HBR was included in this model, variables used
+enrolment, and the diagnosis was made by the attend­    for HBR evaluation were not included. Thus, the follow­
+ing physician based on congestive symptoms and labora­   ing clinically relevant factors were selected to adjust for
+tory findings. Baseline left ventricular ejection fraction   confounding: sex, diabetes mellitus, ACS/non-ACS, and
+was recorded when available, but it was not an inclusion   presence of PAD for MACCE; and sex, ACS/non-ACS,
+requirement for the PENDULUM registry. For the post   and presence of PAD for major bleeding events.
+hoc criterion analysis, enrolled patients were previously      All statistical analyses were performed using SAS, ver­
+stratified into HBR and non-HBR groups according to   sion 9.4 (SAS Institute, Cary, NC, USA). All tests were
+ARC-HBR  criteria  [8]. In this study, platelet reactiv­   two-sided, and P = 0.05 was considered significant.
+ity was assessed using P2Y12 reaction unit (PRU) values
+between 12 and 48 h after PCI, and patients were divided   Results
+into two groups, the high platelet reactivity (HPR) and    Patient characteristics
+the non-HPR groups, with 208 as the cut-off value [14].   A total of 6266 patients were included in this post hoc
+                                                              study, of whom 1006 had a history of HF (755 in the HBR
+Clinical outcomes                                     group and 251 in the non-HBR group). Demographi­
+The primary endpoints were major adverse cardiac and    cally, patients with HF were significantly more likely to
+cerebrovascular events (MACCE; the standard clinical   be older and have diabetes mellitus, hypertension, a his­
+definition comprising all-cause death, non-fatal myocar­   tory of myocardial infarction, PAD, and atrial fibrillation
+dial infarction (MI), non-fatal stroke, and stent thrombo­   (Table 1). Concerning laboratory values, patients with HF
+sis) and major bleeding, as defined by BARC (Bleeding   were significantly more likely to have lower haemoglobin,
+Academic Research Consortium) type 3 or 5 bleeding   estimated glomerular filtration rates, and left ventricular
+after the index PCI [15]. The secondary endpoints were   ejection fraction than those without HF (Table 1).
+the individual components of MACCE.
+                                                            Association of HF with outcomes
+Statistical analysis                                  The risk of MACCE was 2.56 times higher in patients
+Baseline characteristics are described by frequencies and   with than in those without HF (Fig. 1A). Cardiac death,
+percentages for categorical variables and mean and stan­   noncardiac death, and nonfatal stroke contributed sig­
+dard deviation (SD) values for continuous variables. Fish­    nificantly to the higher MACCE rate in HF patients than
+er’s exact test was used for the comparison of categorical    in non-HF patients. However, there were no significant
+variables, and Student’s t-test was used to compare con­    differences in stent thrombosis and nonfatal MI (Table
+tinuous  variables. Cumulative incidence  rates among     2.). After adjustment, HF was still an independent risk
+comparison groups were calculated, and Kaplan-Meier    factor for MACCE, with an adjusted HR of 1.59. Other
+curves and Cox proportional hazards models were used    identified risk factors for MACCE were male, elderly, low
+for the group comparison.                            body weight, diabetes mellitus, acute coronary syndrome,
+ Two types of multivariate Cox proportional hazards   PAD, history of stroke, low estimated glomerular filtra­
+models were used to estimate hazard ratios (HRs) with   tion rate, and low haemoglobin level (Table 3).
+95% confidence intervals (CIs). In the first Cox model,
+factors associated with MACCE and major bleeding   Effect on outcomes with HBR status by with or
+events in patients with or without HF were examined.   without HF
+To adjust for confounders, the following clinically rel­   For this analysis, HF and non-HF patients were further
+evant factors were selected as in previous study [3, 7]  :    stratified into HBR and non-HBR groups (Supplemen­
+sex, age, body weight, diabetes mellitus, ACS (acute coro­   tary Table 1). In common with both HF and non-HF
+nary syndrome)/non-ACS, presence of peripheral arte­   groups, HBR patients were older, underweight, and had
+rial disease (PAD), chronic kidney disease, anaemia, and   more comorbidities such as hypertension, PAD, malig­
+history of stroke or cerebral haemorrhage for MACCE;   nancy, haemodialysis, history of stroke, atrial fibrillation,
+and sex, body weight, ACS/non-ACS, presence of PAD,   and more multi-vessel disease than non-HBR patients
+chronic kidney disease, anaemia, malignant tumour, and   (Supplementary Table 1). In addition, smoking was rather
+anticoagulation at discharge for major bleeding events.   infrequent, and the rate of ACS was low in HBR patients
+In the second Cox model, the relationship between HF/   (Supplementary Table 1).
+HBR and outcomes was assessed by HRs with 95% CIs    The results showed that the incidence of MACCE was
+based on multivariate Cox proportional hazards models.   about 3.2-fold higher in HBR patients with HF and about
+In the model, factors associated with MACCE and major    2.8-fold higher in those without HF than in non-HBR
+bleeding events in patients with or without HF and HBR,   patients (Fig. 2A). The rate of MACCE in HF patients
+and the interaction of HF and HBR, were examined.   without HBR was lower than that of non-HF patientsYazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 4 of 10
+
+
+
+
+Table 1  Baseline characteristics of patients with and without heart failure
+                                                   Total                HF                   Non-HF                P value
+                                                      (n = 6,266)                  (n = 1,006)                  (n = 5,260)
+Age (y), mean (SD)                                   70.0 (10.7)                   72.8 (11.1)                   69.5 (10.6)                   < 0.001
+≥75 y                                             2,325 (37.1)               497 (49.4)                  1,828 (34.8)                  < 0.001
+Body weight (kg), mean (SD)                         63.9 (12.6)                   61.4 (13.2)                   64.4 (12.4)                   < 0.001
+≤50 kg                                      794 (12.7)                189 (18.8)                605 (11.5)                   < 0.001
+Body mass index (kg/m2), mean (SD)                24.21 (3.62)                 23.72 (3.96)                 24.31 (3.54)                  < 0.001
+Hypertension                                      5,188 (82.8)               895 (89.0)                  4,293 (81.6)                  < 0.001
+Hyperlipidaemia                                   4,926 (78.6)               762 (75.7)                  4,164 (79.2)                 0.017
+Diabetes mellitus                                  2,771 (44.2)               567 (56.4)                  2,204 (41.9)                  < 0.001
+Current cigarette smoking                          1,327 (21.2)               181 (18.0)                  1,146 (21.8)                 0.007
+Peripheral arterial disease                       438 (7.0)                 106 (10.5)                332 (6.3)                    < 0.001
+Atrial fibrillation                               539 (8.6)                 192 (19.1)                347 (6.6)                    < 0.001
+Malignancy                                   389 (6.2)                 78 (7.8)                  311 (5.9)                   0.032
+Previous MI                                        1,575 (25.1)               394 (39.2)                  1,181 (22.5)                  < 0.001
+Previous PCI                                       2,566 (41.0)               470 (46.7)                  2,096 (39.8)                  < 0.001
+Previous CABG                                265 (4.2)                 85 (8.4)                  180 (3.4)                    < 0.001
+History of ischaemic stroke                      657 (10.5)                153 (15.2)                504 (9.6)                    < 0.001
+History of cerebral haemorrhage                  124 (2.0)                 25 (2.5)                  99 (1.9)                     0.216
+History of renal insufficiency                        1,114 (17.8)               346 (34.4)                768 (14.6)                   < 0.001
+Clinical presentation
+  ACS                                             2,015 (32.2)               261 (25.9)                  1,754 (33.3)                  < 0.001
+   Unstable angina                             790 (12.6)                83 (8.3)                  707 (13.4)                  0.003
+   Non-STEMI                                 323 (5.2)                 59 (5.9)                  264 (5.0)                            -
+   STEMI                                     908 (14.5)                119 (11.8)                789 (15.0)                          -
+  Hb (g/dL), Mean (SD)                             13.30 (2.04)                 12.43 (2.47)                 13.46 (1.90)                  < 0.001
+   Hb: <11 g/dL (both)                          727 (11.6)                250 (24.9)                477 (9.1)                    < 0.001
+   eGFR (mL/min/1.73 m2), Mean (SD)                61.25 (27.61)                50.36 (33.37)                63.34 (25.84)                < 0.001
+   eGFR: <60 mL/min/1.73 m2                       2,690 (42.9)               631 (62.7)                  2,059 (39.1)                  < 0.001
+Angiographic features                                                                                                                                                                -
+No. of diseased vessels                                                                                                                                                               -
+   1                                               3,165 (50.5)               419 (41.7)                  2,746 (52.2)                  < 0.001
+   2                                               1,864 (29.7)               316 (31.4)                  1,548 (29.4)                        -
+   3                                               1,151 (18.4)               256 (25.4)                895 (17.0)                          -
+   Left main disease                            349 (5.6)                 92 (9.1)                  257 (4.9)                            -
+   LVEF (%), mean, Mean (SD)*                       56.73 (12.94)                46.18 (15.00)                58.80 (11.41)                < 0.001
+  ≤40%                                     241 (12.7)                119 (38.0)                122 (7.7)                    < 0.001
+Procedural data
+Puncture site
+   Radial access only                                4,374 (69.8)               570 (56.7)                  3,804 (72.3)                  < 0.001
+   Femoral access                                  1,631 (26.0)               365 (36.3)                  1,266 (24.1)                        -
+   Brachial access                              269 (4.3)                 74 (7.4)                  195 (3.7)                            -
+   Radial access                                    4,517 (72.1)               594 (59.0)                  3,923 (74.6)                        -
+   Imaging guided                                 5,918 (94.4)               946 (94.0)                  4,972 (94.5)                 0.548
+   PCI for chronic total occlusion                  428 (6.8)                 78 (7.8)                  350 (6.7)                   0.219
+Medical status at discharge
+   Aspirin                                          6,148 (98.1)               968 (96.2)                  5,180 (98.5)                  < 0.001
+   P2Y12 inhibitor                                  6,209 (99.1)               986 (98.0)                  5,223 (99.3)                  < 0.001
+   Prasugrel                                        3,924 (62.6)               538 (53.5)                  3,386 (64.4)                  < 0.001
+   Clopidogrel                                     2,223 (35.5)               435 (43.2)                  1,788 (34.0)                  < 0.001
+  OAC                                      621 (9.9)                 223 (22.2)                398 (7.6)                    < 0.001
+   Proton pump inhibitor                           5,302 (84.6)               858 (85.3)                  4,444 (84.5)                 0.536
+   NSAIDs                                    334 (5.3)                 55 (5.5)                  279 (5.3)                   0.818
+   Steroids                                    249 (4.0)                 47 (4.7)                  202 (3.8)                   0.218Yazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 5 of 10
+
+
+
+
+Table 1  (continued)
+
+                                                   Total                HF                   Non-HF                P value
+                                                      (n = 6,266)                  (n = 1,006)                  (n = 5,260)
+   Antihyperlipidemic agent                        5,406 (86.3)               812 (80.7)                  4,594 (87.3)                  < 0.001
+Modified ARC-HBR
+  HBR patients                                    3,192 (50.9)               755 (75.0)                  2,437 (46.3)                  < 0.001
+   Complex PCI                                    1,279 (20.4)               259 (25.7)                  1,020 (19.4)                  < 0.001
+   High platelet reactivity (PRU > 208)                2,229 (35.6)               448 (44.5)                  1,781 (33.9)                  < 0.001
+Data are presented as mean (standard deviation) or n (%) values
+ACS Acute coronary syndrome, AF Atrial fibrillation, ARC-HBR Academic Research Consortium for High Bleeding Risk, CABG Coronary artery bypass, eGFR estimated
+glomerular filtration rate, Hb Haemoglobin, HFHeart failure, LVEF Left ventricular ejection fraction, MI Myocardial infarction, NSAIDs Non-steroidal anti-inflammatory
+drugs, OAC Oral anticoagulant, PCI Percutaneous coronary intervention, PRU P2Y12 Reaction Units, STEMI ST-elevation myocardial infarction
+*LVEF assessed at baseline is restricted to 1902 participants
+
+
+
+
+
+Fig. 1  Cumulative incidence of (A) major adverse cardiac and cerebrovascular events (MACCE; the standard clinical definition comprising all-cause death,
+non-fatal MI, non-fatal stroke, and stent thrombosis) and (B) major bleeding after percutaneous coronary intervention by with or without heart failure. CI,
+confidence interval; HF, heart failure; HR, hazard ratio
+
+with HBR. The components of MACCE with and without   associated with prognosis and should be considered in
+HBR are shown in the supplementary tables (Supplemen­   management.
+tary Tables 2, 3).                                        There were significantly more MACCE (2.56 folds) and
+  Major bleeding was also about 2.3 to 2.4 times more   major bleeding events (3.02 folds) in HF patients after
+common  in HBR  patients compared with non-HBR   PCI. Furthermore, even after adjustment, HF was a risk
+patients, irrespective of HF (Fig. 2B).                         factor for both MACCE and major bleeding. The Ameri­
+  Table 4 shows the outcomes of the Cox proportional   can College of Cardiology/American Heart Association
+hazards models analyses. There was no evidence of inter­   guidelines also reported that a history of congestive HF
+actions with HBR status by the prevalence of HF for    is a high-risk condition for cardiovascular events [16].
+MACCE and major bleeding (HR 0.97. 95%CI 0.55–1.70,  HF creates a hypercoagulable state that is associated with
+p for interaction = 0.913, HR 1.31, 95% CI 0.64–2.70, p for   adverse events, including stroke, systemic embolism, and
+interaction 0.456 respectively).                             mortality [17–20]. Interestingly, in the present study,
+                                             HPR, suggesting ineffectiveness of antiplatelet agents,
+Discussion                                       was observed more frequently in HF patients. This may
+The present study showed that (1) after PCI, HF patients   be due to the elevated levels of pro-thrombotic and pro-
+are at significantly higher risk of MACCE and major   inflammatory cytokines observed in patients with HF.
+bleeding  events,  (2) HBR  is  associated with higher   Thus, inadequate antiplatelet action may be the cause of
+MACCE and major bleeding irrespective of HF and non-   the higher MACCE rate in HF patients. All other iden­
+HF patients, and (3) both HF and HBR are independent    tified risk factors for MACCE in this study were consis­
+determinants of MACCE and major bleeding. There­   tent with previous reports and well-known factors [8,
+fore, this study suggests that each was independently    21, 22]. The majority of the identified factors were com­
+                                                     ponents of the ARC-HBR in which consensus agreementYazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 6 of 10
+
+
+
+Table 2  Cumulative incidence of MACCE, major bleeding, and     whereas many HF patients overseas are obese. Indeed, in
+their components                                          the present study, the HF group had significantly lower
+           Event rate, n (%)                                 weight than the non-HF group. In addition, the HF group           HF(n=1006) Non-HF(n=5260)    HR                                        (95%   P
+                                                     CI)(Ref:                                                        value    had significantly lower Hb and more frequent anaemia
+                                        Non-HF)           than the non-HF group.
+MACCE [a]   185 (18.4)    403 (7.7)              2.556 (2.147  <.001    HF increased the risk of MACCE and major bleeding,
+                                                                      - 3.042)            and HBR increased the risk of MACCE and major bleed­
+All-cause    154 (15.3)    249 (4.7)              3.450 (2.822  <.001     ing regardless of HF. Since the present study found no
+death                                                              - 4.217)              interaction in the relationship between HF and HBR for
+Cardiac     43 (4.3)      21 (0.4)               11.313      <.001   MACCE and major bleeding, HF and HBR are likely to be
+death                                              (6.714              independently related to prognosis. The wide confidence                                                                      - 19.064)
+                                                               intervals indicate limited power for the interaction analy­Non-cardi­  111 (11.0)    228 (4.3)              2.720 (2.168  <.001
+ac death                                                          - 3.413)                ses; nonsignificant results should not be taken as evi­
+Non-fatal    20 (2.0)      81 (1.5)               1.352 (0.829  0.227     dence of equivalence. Conclusions on the independence
+myocardial                                                       - 2.206)               of HF and HBR effects remain tentative, and larger stud­
+infarction                                                            ies are needed to confirm potential effect modification.
+Non-fatal    31 (3.1)      93 (1.8)               1.846 (1.230  0.003   A previous study reported that patients with bleeding
+stroke                                                              - 2.772)             events after PCI had significantly higher rates of cardio­
+Stent       3 (0.3)       22 (0.4)               0.740 (0.222  0.625     vascular events [26, 27]. In addition, there is a report that
+thrombosis                                                      - 2.472)             bleeding events in acute decompensated HF were associ­Major           94 (9.3)      175 (3.3)              3.021                                                          (2.351  <.001     ated with HF re-hospitalization [28]. In this study, manybleeding                                                                      - 3.882)
+[b]                                                          patient characteristics overlapped between HBR and HF,
+BARC Bleeding Academic Research Consortium, CI Confidence interval, HF Heart   suggesting that the observed association between bleed­
+failure, HR Hazard ratio, MACCE Major adverse cardiac and cerebrovascular   ing and cardiovascular events may reflect shared under­
+events, MI Myocardial infarction                                      lying mechanisms. However, this interpretation remains[a] Includes all-cause death, non-fatal myocardial infarction, non-fatal stroke,
+and stent thrombosis                                              speculative, as no temporal analyses were conducted
+[b] BARC 3 and 5                                                to formally support a causal or sequential relationship.
+                                                The plausible mechanisms of bleeding events with sub­
+                                                      sequent mortality include  activation  of the coagula­
+was achieved. Further, HF was suggested to be an inde­   tion cascade, increased prothrombotic cytokine levels,
+pendent factor for major bleeding [22]. Previous studies   hypovolemia, anaemia, reflex tachycardia, transfusion of
+reported incidence rates of bleeding events ranging from   blood products, and cessation of antiplatelet and antico­
+8.0% to 12.9% in patients undergoing PCI with HF. [23,   agulant therapies [26]. In particular, as a potential mech­
+24] The incidence rate of major bleeding events in HF   anism underlying bleeding-induced inflammation and
+patients after PCI was 9.3% in the present study, which   prothrombotic states, it has been demonstrated that the
+was consistent with the results of previous studies. Thus,   hemostatic process following bleeding can trigger inflam­
+the risk of major bleeding after PCI for patients with HF   mation, which in turn serves as a potent prothrombotic
+is likely to be extremely high, because ARC defined HBR   stimulus by activating platelets and the coagulation cas­
+as an annual major bleeding event rate > 4%. The asso­   cade [29].
+ciation between the pathophysiology of HF and bleed­
+ing has been mentioned to involve low cardiac output    Clinical implications
+and increased central venous pressure due to congestive   In the present study, HF patients had more atrial fibrilla­
+heart failure causing abnormal intestinal function, which   tion and anticoagulants than non-HF patients, resulting
+induces bleeding from the mucosa of the gastrointesti­    in high rates of bleeding, as well as a high percentage of
+nal tract [25]. In addition, heart failure patients after PCI   patients with low EF and undergoing complex PCI and a
+needed to receive antiplatelet therapy, further increasing   high risk of cardiovascular thrombotic events.
+the risk of bleeding, including gastrointestinal bleeding     That the P2Y12-infibitor monotherapy reduced bleed­
+[24]. Another explanation is that HF frequently coexists   ing events without increasing ischemic events in patients
+with many features included in the HBR criteria and is   undergoing complex PCI was reported [30]. In this study,
+similarly associated with multiple comorbidities, con­   nearly all patients were discharged on dual antiplatelet
+comitant medications, and a higher rate of hospital read­   therapy, suggesting that subsequent transition to P2Y12
+missions, etc. In Japan, the impact of HF may be more    inhibitor monotherapy may contribute to improved clini­
+pronounced than in other countries. It has been reported    cal outcomes.
+that many HF patients in Japan are underweight and frail,Yazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 7 of 10
+
+
+
+
+Table 3  Multivariate adjusted hazard ratios of MACCE and Major bleeding
+                                n              Events, n (%)           Unadjusted HR    P      Adjusted HR (95%  P
+                                                                 (95% CI)           value  CI)                 value
+MACCE
+   HF: yes vs. no                             1,006 vs. 5,260  185 (18.4%) vs. 403 (7.7%)  2.513 (2.085 - 3.028)  <.001  1.586 (1.301 - 1.933)  <.001
+   Sex: female vs. male                      1,357 vs. 4,909  127 (9.4%) vs. 461 (9.4%)   0.978 (0.793 - 1.205)   0.831   0.660 (0.522 - 0.835)  <.001
+   Age: ≥75 vs. <75 y                        2,325 vs. 3,941  294 (12.6%) vs. 294 (7.5%)  1.688 (1.423 - 2.004)  <.001  1.222 (1.014 - 1.474)   0.035
+   Weight: ≤50 vs. >50 kg                 794 vs. 5,325   130 (16.4%) vs. 443 (8.3%)  2.061 (1.680 - 2.528)  <.001  1.766 (1.393 - 2.239)  <.001
+   Diabetes: yes vs. no                       2,771 vs. 3,495  324 (11.7%) vs. 264 (7.6%)  1.540 (1.297 - 1.829)  <.001  1.285 (1.075 - 1.537)   0.006
+   ACS: yes vs. no                           2,015 vs. 4,251  203 (10.1%) vs. 385 (9.1%)  1.170 (0.978 - 1.399)   0.085   1.355 (1.131 - 1.624)  <.001
+   Peripheral arterial disease: yes vs. no      438 vs. 5,828   94 (21.5%) vs. 494 (8.5%)   2.545 (2.003 - 3.233)  <.001  1.435 (1.112 - 1.853)   0.006
+   History of cerebral infarction or haemor­   619 vs. 5,433   93 (15.0%) vs. 465 (8.6%)   1.821 (1.442 - 2.300)  <.001  1.400 (1.104 - 1.775)   0.006
+rhage: yes vs. no
+   CKD: eGFR≥30-<60 vs. ≥60 mL/min/1.73   2,093 vs. 3,431  198 (9.5%) vs. 217 (6.3%)   1.546 (1.263 - 1.892)  <.001  1.233 (0.998 - 1.524)  <.001
+m2
+   CKD: eGFR <30 vs. ≥60 mL/min/1.73 m2   597 vs. 3,431   161 (27.0%) vs. 217 (6.3%)  4.904 (3.957 - 6.076)          2.470 (1.905 - 3.204)
+   Anaemia: Hb≥11-<13 (M)≥11-<12 (F) vs.   1,412 vs. 3,947  169 (12.0%) vs. 237 (6.0%)  2.123 (1.730 - 2.604)  <.001  1.521 (1.223 - 1.891)  <.001
+≥13 (M)/≥12 g/dL (F)
+   Anaemia: Hb <11 (both) vs. ≥13 (M)/≥12   727 vs. 3,947   154 (21.2%) vs. 237 (6.0%)  3.973 (3.223 - 4.898)          1.916 (1.484 - 2.473)
+g/dL (F)
+Major Bleeding
+   HF: yes vs. no                             1,006 vs. 5,260  94 (9.3%) vs. 175 (3.3%)     2.938 (2.242 - 3.849)  <.001  1.739 (1.300 - 2.325)  <.001
+   Sex: female vs. male                      1,357 vs. 4,909  61 (4.5%) vs. 208 (4.2%)     1.111 (0.822 - 1.502)   0.494   0.723 (0.514 - 1.016)   0.062
+   Weight: ≤50 vs. >50 kg                 794 vs. 5,325   62 (7.8%) vs. 200 (3.8%)     2.395 (1.787 - 3.210)  <.001  2.090 (1.494 - 2.922)  <.001
+   Anaemia: Hb ≥11-<13 (M)/≥11-<12 (F) vs.  1,412 vs. 3,947  68 (4.8%) vs. 119 (3.0%)     1.610 (1.176 - 2.206)  <.001  1.170 (0.845 - 1.619)   0.002
+≥13 (M)/≥12 g/dL (F)
+   Anaemia: Hb <11 (both) vs. ≥13 (M)/≥12   727 vs. 3,947   71 (9.8%) vs. 119 (3.0%)     3.650 (2.694 - 4.946)          1.903 (1.332 - 2.719)
+g/dL (F)
+   ACS: yes vs. no                           2,015 vs. 4,251  88 (4.4%) vs. 181 (4.3%)     1.153 (0.884 - 1.505)   0.294   1.391 (1.061 - 1.824)   0.017
+   Peripheral arterial disease: yes vs. no      438 vs. 5,828   39 (8.9%) vs. 230 (3.9%)     2.483 (1.734 - 3.555)  <.001  1.597 (1.093 - 2.333)   0.016
+   Malignant tumour: yes vs. no            389 vs. 5,877   27 (6.9%) vs. 242 (4.1%)     2.074 (1.380 - 3.116)  <.001  1.699 (1.124 - 2.568)   0.012
+   Anticoagulation at discharge: yes vs. no    621 vs. 5,645   65 (10.5%) vs. 204 (3.6%)   3.179 (2.372 - 4.260)  <.001  2.628 (1.939 - 3.563)  <.001
+   CKD: eGFR ≥30-<60 vs. ≥60 mL/min/1.73   2,093 vs. 3,431  105 (5.0%) vs. 98 (2.9%)     1.811 (1.355 - 2.420)  <.001  1.413 (1.045 - 1.910)  <.001
+m2
+   CKD: eGFR <30 vs. ≥60 mL/min/1.73 m2   597 vs. 3,431   62 (10.4%) vs. 98 (2.9%)     4.037 (2.877 - 5.667)          2.119 (1.422 - 3.158)
+ACS Acute coronary syndrome, CI Confidence interval, CKD Chronic kidney disease, eGFR estimated glomerular filtration rate, F Female, HR Hazard ratio, M Male,
+MACCE Major adverse cardiovascular and cerebrovascular events, PCI Percutaneous coronary intervention
+
+
+
+
+
+Fig. 2  Cumulative incidence of (A) major adverse cardiac and cerebrovascular events (MACCE; the standard clinical definition comprising all-cause death,
+non-fatal MI, non-fatal stroke, and stent thrombosis) and (B) major bleeding after percutaneous coronary intervention by with or without heart failure and
+HBR. CI, confidence interval; HBR, high bleeding risk; HF, heart failure; HR, hazard ratioYazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 8 of 10
+
+
+
+Table 4  Multivariate adjusted hazard ratios of MACCE and major   were not possible with the available data. Future studies
+bleeding according to HF and HBR                              are warranted to clarify the impact of procedural strate­
+                  n       Events, n (%) HR (95% CI)  P          gies in this high-risk population.                                                       value
+MACCE [1]                                                   In summary, patients with factors of HF and HBR after
+  HF vs. Non-HF       1,006   185 (18.4%)    1.872          < 0.001    PCI should be considered more important in daily clini­
+                             vs.         vs. 403 (7.7%)  (1.524–2.300)             cal practice to improve their prognosis. In addition, we
+                       5,260                                  should pay attention to the occurrence of major bleed­
+  HBR vs. Non-HBR     3,192   447 (14.0%)    2.933          < 0.001     ing, as well as MACCE, after PCI for patients with HF.
+                             vs.         vs. 141 (4.6%)  (2.330–3.692)          Although HF is not widely recognized as a risk factor for
+                       3,074                                major bleeding, major bleeding may be a cause of subse­
+Interaction HF * HBR     -            -              0.969         0.913     quent MACCE. Therefore, such patients should be rec­                                                (0.551–1.705)
+                                                      ognized as a high-risk population, warranting long-termMajor bleeding [2]
+                                                                 risk monitoring and frequent follow-up. In addition,  HF vs. Non-HF       1,006   94 (9.3%) vs.   2.262         0.008
+                             vs.      175 (3.3%)     (1.236–4.141)            careful consideration of the optimal antithrombotic ther­
+                       5,260                                 apy for each individual patient is essential. In the future,
+  HBR vs. Non-HBR     3,192   198 (6.2%) vs.  2.666          < 0.001     larger studies aimed at reducing the risk of MACCE and
+                             vs.      71 (2.3%)      (1.891–3.758)           bleeding events in a general population of HF patients
+                       3,074                                         after PCI seem warranted.
+Interaction HF * HBR     -            -              1.309         0.465
+                                                (0.636–2.694)          Study limitations
+ACS Acute coronary syndrome, CI Confidence interval, HF Heart failure, HR
+Hazard ratio, MACCE Major adverse cardiac and cerebrovascular events, PAD   There are several limitations to the present study. This
+Peripheral arterial disease                                           analysis used data from the PENDULUM registry and
+[1] multivariable Cox proportional hazards model: adjusted with sex, DM, ACS,   was conducted in a post-hoc manner, meaning that the
+PAD                                                   absence of prespecified hypotheses and statistical mod­
+[2] multivariable Cox proportional hazards model: adjusted with sex, ACS, PAD     els entails inherent risks of multiplicity and analytical
+                                                                  bias. As such, causal inferences should be made with
+  Therefore, optimizing the balance between ischemic   caution, and the results may be subject to residual or
+and bleeding events is important for HF patients under­   unmeasured confounding. This  is particularly relevant
+going PCI, such as those included in this study, especially   because both HF and bleeding outcomes are influenced
+those with AF. Careful risk management during both the   by  various  clinical,  procedural, and  therapeutic  fac­
+peri-PCI and post-PCI phases is essential to improve out­    tors not fully captured in our data. In addition, although
+comes in AF patients undergoing PCI [31]. For example,    residual and unmeasured confounding factors could not
+procedural strategies using intracoronary imaging, the   be included in the Cox model, limiting the interpreta­
+appropriate selection of antithrombotic agents, and the   tion of our findings, the present study provides valuable
+tailoring of treatment duration are  critical consider­    insights into the outcomes of HF patients undergoing
+ations. Moreover, the safety and efficacy of direct oral   PCI. Future hypothesis-driven  investigations  in  well-
+anticoagulant monotherapy as an antithrombotic strat­   defined HF cohorts are needed to confirm these findings
+egy for patients with HF, coronary artery disease, and AF   and strengthen the evidence for clinical practice. Further,
+have been reported, suggesting that such an approach   information on the New York Heart Association func­
+may help reduce both bleeding and cardiovascular events    tional class, Brain natriuretic peptide, a presence of prior
+in the high-risk population represented in the present    hospitalization, and adverse events related with HF was
+study [32].                                                    lacking. As NT-proBNP measurements and echocardio­
+  Furthermore, HF  patients underwent complex PCI   graphic data were unavailable, misclassification between
+more frequently than non-HF patients, and consequently  HF with reduced and preserved ejection fraction can­
+the use of femoral artery access was also higher in this   not be excluded. Such nondifferential misclassification
+study. These findings suggest that access site selection   would likely bias associations toward the null, while the
+may have contributed to the increased incidence of   under-recognition of milder HF may overestimate risk
+bleeding events following PCI. The importance of select­   among identified HF patients. Although history-based
+ing an access site that minimizes periprocedural bleed­    identification is clinically straightforward, the absence of
+ing complications during PCI has been well recognized.   standardized diagnostic criteria limits the interpretation
+[33]  Procedural  characteristics  differed  substantially    of our findings. Additionally, a substantial proportion of
+between HF and non-HF groups, and only limited adjust­   important variables, including left ventricular EF, were
+ment was feasible, which may have influenced bleeding   missing in this registry. Imputation was not performed
+comparisons. Unfortunately, further stratified analyses   due to the high rate of missingness. This limitation mayYazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                          Page 9 of 10
+
+
+
+                                                            Declarations
+introduce bias and reduce the precision of the estimates,
+and therefore the results should be interpreted with cau­    Ethics approval and consent to participate
+tion. The causal relationship between HF and bleeding     This study was registered in the University Hospital Medical Information
+events was unclear. Because the PENDULUM study was    Networkrelated documents(UMIN) Clinicalfor theTrialPENDULUMRegistry (UMINregistry000020332).were approvedThe protocolby the Ethicsand
+not designed as a dedicated heart failure registry, detailed    Committee at Toho University Ohashi Medical Centre on 14 December 2015
+information regarding HF medications and treatment     (Ref 15–71) and the post hoc analysis was approved by the Ethics Committee
+trajectories was not systematically collected. As a result,     atA23039_A22037).Toho University TheFacultyinvestigationof Medicineconformson 24 Octoberwith the2022principles(Ref A24019_outlined
+our ability to assess treatment effects or derive specific     in the Declaration of Helsinki and was performed in accordance with the
+management implications is limited. The study popula­     Ethical Guidelines for Medical and Health Research Involving Human Subjects.
+tion consisted entirely of Japanese patients, who exhibit      Allregistry.patientsInformationprovidedaboutinformedthis consentpost hocwhenanalysisregisteredwas disclosedin the PENDULUMon the
+the “East Asian paradox” of lower thrombotic and higher     institutional website, and the patients were given the opportunity to opt-out.
+bleeding  risk. [34] Consequently, the thrombotic and                                                                 Consent for publication
+bleeding profiles may differ from Western populations,    Not applicable.
+limiting the generalizability of our findings. Nonetheless,
+as previously reported, the relationship between platelet    Competing interests
+function and thrombotic events observed in ADAPT-     YoshiyukiremunerationYazakiandhasresearchnothingfundingto declare.fromYoshihisaDaiichi SankyoNakagawaCo., receivedLtd. Ken Kozuma
+DES [14] appears to be consistent with that in the PEN­    received a research grant from Abbott Medical Japan LLC. and research
+DULUM study [7, 8].                                                funding from Daiichi Sankyo Co., Ltd., as well as remuneration from Boston                                                                                            Scientific Japan K.K., Abbott Medical Japan LLC., Medtronic Japan Co., Ltd.,
+                                                                       Otsuka Pharmaceutical Co., Ltd., Takeda Pharmaceutical Co., Ltd., Daiichi
+Conclusions                                                      Sankyo Co., Ltd., Amgen Inc., Novartis Pharma K.K., Nippon Boehringer
+In patients after contemporary PCI, HF and HBR were    Ingelheim Co., Ltd., Bayer Yakuhin, Ltd., Life Science Institute Co., Ltd., Mochida
+independently associated with a higher risk of MACCE    PharmaceuticalRaisuke Iijima hasCo.,receivedLtd., ZeonremunerationMedical Inc.,andandresearchNovo NordiskfundingPharmafrom DaiichiLtd.
+and bleeding. De-escalation management of antithrom­    Sankyo Co., Ltd. Yoshitaka Murakami and Anna Tsutsui have received research
+botic drugs that prevent major bleeding and reduce sub­    funding from Daiichi Sankyo Co., Ltd. Masayuki Fukuzawa, Satoru Abe, and
+sequent cardiovascular events is justified in HF and HBR   GoremunerationKato are employeesfrom Bostonof DaiichiScientificSankyoJapanCo.,K.K.,Ltd.andHidehikoAbbott HaraMedicalhas Japanreceived
+cases. Future studies should focus on validating these     LLC. Masato Nakamura has received research funding from Daiichi Sankyo Co.,
+results in a more generalized population of HF patients     Ltd. and remuneration from Daiichi Sankyo Co., Ltd. and Bayer Yakuhin, Ltd., as
+after PCI. There is also a need for prospective studies on     wellTerumoas endowmentsCorporation, fromNiproBostonCorporation,ScientificOtsukaJapanMedicalK.K., KanekaDevicesCorporation,Co., Ltd.,
+this topic.                                                           Japan Lifeline Co., Ltd., Asahi Intecc Co., Ltd., and Biotronik Japan, Inc.
+
+                                                                                    Clinical trial numberData Availability                                                                 UMIN000020332　(URL: https://www.umin.ac.jp/ctr/).
+The datasets are available from the corresponding author
+on reasonable request.                                         Author details                                                                                     1Division of Cardiovascular Medicine, Toho University Ohashi Medical
+                                                                                  Centre, 2-22-36, Ohashi, Meguro-ku, Tokyo 153-8515, Japan
+Supplementary Information                                 2Department of Cardiology, Misato Central General Hospital, Saitama,
+The online version contains supplementary material available at ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​    Japan
+g​/​1​0​.​1​1​8​6​/​s​1​2​8​7​2​-​0​2​5​-​0​5​4​2​9​-​6.                                           3Department of Cardiovascular Medicine, Shiga University of Medical
+                                                                                  Science, Otsu, Japan
+  Supplementary Material 1.                                                        4Division of Cardiology, Department of Internal Medicine, Teikyo
+                                                                                         University, Tokyo, Japan
+                                                                     5Department of Medical Statistics, School of Medicine, Toho University,
+Acknowledgements                                                           Tokyo, Japan
+The authors would like to acknowledge all the investigators who contributed      6Primary Medical Science Department, Daiichi Sankyo Co., Ltd, Tokyo,
+to the PENDULUM registry.                                                Japan
+                                                                                     7Division of Minimally Invasive Treatment in Cardiovascular Medicine,
+Authors’ contributions                                               Toho University Ohashi Medical Centre, Tokyo, Japan
+YY and MN designed the study; RI contributed to data collection; YY. MN.YW.
+KK.RI.AT.YM.MF.SA.GK. and HH contributed to data interpretation; YY. MN.YW.       Received: 18 May 2025 / Accepted: 3 December 2025
+KK.RI.AT.YM.MF.SA.GK. and HH coordinated the manuscript structure and
+ensured coherent presentation of the findings.AT and YM performed the
+statistical analysis; YY and MN wrote the main manuscript text and YY, MN,
+AT, and YM prepared all figures. All authors reviewed and approved the final
+manuscript.                                                            References
+                                                                                                         1.   Boden WE, O’Rourke RA, Teo KK, Hartigan PM, Maron DJ, Kostuk WJ, et al.
+Funding                                                                        Optimal medical therapy with or without PCI for stable coronary disease. N
+The PENDULUM registry was supported by Daiichi Sankyo Co., Ltd.                     Engl J Med. 2007;356:1503–16.
+                                                                                                         2.   Soares A, Boden WE, Hueb W, Brooks MM, Vlachos HE, O’Fee K, et al. Death
+Data availability                                                          and myocardial infarction following initial revascularization versus optimal
+The datasets are available from the corresponding author on reasonable               medical therapy in chronic coronary syndromes with myocardial ischemia:
+request.Yazaki et al. BMC Cardiovascular Disorders       (2026) 26:70                                                         Page 10 of 10
+
+
+
+
+     a systematic review and meta-analysis of contemporary randomized con­         20.  Bui AL, Horwich TB, Fonarow GC. Epidemiology and risk profile of heart
+      trolled trials. J Am Heart Assoc. 2021;10:e019114.                                                failure. Nat Rev Cardiol. 2011;8:30–41.
+3.    Iijima R, Nakamura M. Optimal revascularization strategy for acute coronary        21.  Stone GW, Witzenbichler B, Weisz G, Rinaldi MJ, Neumann FJ, Metzger DC et
+    syndromes with high bleeding risk: it is hard to please all parties. Circ J.                         al. Platelet reactivity and clinical outcomes after coronary artery implanta­
+     2021;85:1942–3.                                                                        tion of drug-eluting stents (ADAPT-DES): A prospective multicentre registry
+4.    Saito Y, Kobayashi Y. Contemporary coronary drug-eluting and coated stents:          study [published correction appears in Lancet. 2014;383:1128]. Lancet.
+     a mini-review. Cardiovasc Interv Ther. 2021;36:20–2.                                 2013;382:614–623.
+5.   Urban P, Mehran R, Colleran R, Angiolillo DJ, Byrne RA, Capodanno D, et            22.  Natsuaki M, Morimoto T, Yamaji K, Watanabe H, Yoshikawa Y, Shiomi H, et al.
+        al. <article-title update="added">Defining high bleeding risk in patients               Prediction of thrombotic and bleeding events after percutaneous coronary
+    undergoing percutaneous coronary intervention: a consensus document               intervention: CREDO-Kyoto thrombotic and bleeding risk scores. J Am Heart
+    from the Academic Research Consortium for High Bleeding Risk. Circulation.           Assoc. 2018;7:e008708.
+     2019;140:240–61.                                                                   23.  Otsuka Y, Ishii M, Ikebe S, Nakamura T, Tsujita K, Kaikita K, et al. BNP level
+6.   Urban P, Mehran R, Colleran R, Angiolillo DJ, Byrne RA, Capodanno D, et al.              predicts bleeding event in patients with heart failure after percutaneous
+     Defining high bleeding risk in patients undergoing percutaneous coronary            coronary intervention. Open Heart. 2023;10:e002489.
+     intervention: a consensus document from the Academic Research Consor­        24.  Yeh RW, Secemsky EA, Kereiakes DJ, Normand ST, Gershlick AH, Cohen DJ,
+     tium for High Bleeding Risk. Eur Heart J. 2019;40:2632–53.                              et al. Development and validation of a prediction rule for benefit and harm
+7.   Nakamura M, Kadota K, Takahashi A, Kanda J, Anzai H, Ishii Y et al. Relation­              of dual antiplatelet therapy beyond 1 year after percutaneous coronary
+     ship between platelet reactivity and ischemic and bleeding events after                intervention. JAMA. 2016;315:1735–49.
+     percutaneous coronary intervention in East Asian patients: 1-year results of        25.  Verbrugge FH, Dupont M, Steels P, Grieten L, Malbrain M, Tang WH, et al.
+     the PENDULUM registry [published correction appears in J Am Heart Assoc.          Abdominal contributions to cardiorenal dysfunction in congestive heart
+     2020;9 e014557]. J Am Heart Assoc. 2020;9:e015439.                                            failure. J Am Coll Cardiol. 2013;62:485–95.
+8.   Nakamura M, Kadota K, Nakao K, Nakagawa Y, Shite J, Yokoi H, et al. High           26.  Généreux P, Giustino G, Witzenbichler B, Weisz G, Stuckey TD, Rinaldi MJ, et al.
+     bleeding risk and clinical outcomes in East Asian patients undergoing per­             Incidence, predictors, and impact of post-discharge bleeding after percuta­
+     cutaneous coronary intervention: the PENDULUM registry. EuroIntervention.         neous coronary intervention. J Am Coll Cardiol. 2015;66:1036–45.
+     2021;16:11541 − 1162.                                                               27.   Kaikita K, Yasuda S, Akao M, Ako J, Matoba T, Nakamura M, et al. Bleeding and
+9.    Iijima R, Kadota K, Nakao K, Nakagawa Y, Shite J, Yokoi H, et al. Ischemic and           subsequent cardiovascular events and death in atrial fibrillation with stable
+     bleeding events in PENDULUM patients with high bleeding risk and high             coronary artery disease: insights from the AFIRE Trial. Circ Cardiovasc Interv.
+      platelet reactivity. Circ J. 2022;86:763–71.                                            2021;14:e010476.
+10.  Felker GM, Shaw LK, O’Connor CM. A standardized definition of ischemic           28.  Kawanami S, Egami Y, Sugae H, Ukita K, Kawamura A, Nakamura H, et al.
+     cardiomyopathy for use in clinical research. J Am Coll Cardiol. 2002;39:210–8.           Predictors of bleeding events in acute decompensated heart failure patients
+11.  Shore S, Grau-Sepulveda MV, Bhatt DL, Heidenreich PA, Eapen ZJ, Hernandez          with antithrombotic therapy: AURORA study. ESC Heart Fail. 2023;10:1114–21.
+      AF, et al. Characteristics, treatments, and outcomes of hospitalized heart           29.  Verhamme P, Hoylaerts MF. Hemostasis and inflammation: two of a kind?
+      failure patients stratified by etiologies of cardiomyopathy. JACC: Heart Failure.        Thromb J. 2009;7:15.
+     2015;3:906–16.                                                                      30.  Oliva A, Castiello DS, Franzone A, Condorelli G, Colombo A, Esposito G, et
+12.  Lopes RD, Alexander KP, Stevens SR, Reynolds HR, Stone GW, Piña IL, et al.                      al. P2Y12 inhibitors monotherapy in patients undergoing complex vs non-
+       Initial invasive versus conservative management of stable ischemic heart dis­         complex percutaneous coronary intervention: a meta-analysis of randomized
+     ease in patients with a history of heart failure or left ventricular dysfunction:                 trials. Am Heart J. 2023;255:71–81.
+     insights from the ISCHEMIA trial. Circulation. 2020;142:1725–35.                    31.   Castiello DS, Buongiorno F, Manzi L, Narciso V, Forzano I, Florimonte D, et al.
+13.  Perera D, Clayton T, O’Kane PD, Greenwood JP, Weerackody R, Ryan M, et al.            Procedural and antithrombotic therapy optimization in patients with atrial
+     Percutaneous revascularization for ischemic left ventricular dysfunction. N                 fibrillation undergoing percutaneous coronary intervention: a narrative
+     Engl J Med. 2022;387:1351–60.                                                         review. J Cardiovasc Dev Dis. 2025;12:142.
+14.  Giustino G, Redfors B, Kirtane AJ, Mehran R, Dangas GD, Witzenbichler B, et         32.  Yazaki Y, Nakamura M, Iijima R, Yasuda S, Kaikita K, Akao M, et al. Clinical
+        al. Platelet reactivity and risk of ischemic stroke after coronary drug-eluting          Outcomes of Rivaroxaban Monotherapy in Heart Failure Patients With Atrial
+     stent implantation: from the ADAPT-DES study. JACC Cardiovasc Interv.                   Fibrillation and Stable Coronary Disease: Insights From the AFIRE Trial. Circula­
+     2018;11:1277–86.                                                                               tion. 2021;144:1449-145133.
+15.  Mehran R, Rao SV, Bhatt DL, Gibson CM, Caixeta A, Eikelboom J, et al. Stan­         33.   Scalise RFM, Salito AM, Polimeni A, Garcia-Ruiz V, Virga V, Frigione P, et al.
+     dardized bleeding definitions for cardiovascular clinical trials: a consensus              Radial Artery Access for Percutaneous Cardiovascular Interventions: Contem­
+     report from the bleeding academic research consortium. Circulation.                 porary Insights and Novel Approaches. J Clin Med. 2019;8:1727.
+     2011;123:2736–47.                                                                  34.  Mak KH, Bhatt DL, Shao M, Hankey GJ, Easton JD, Fox KAA et al. Am heart J.
+16.  Heidenreich PA, Bozkurt B, Aguilar D, Allen LA, Byun JJ, Colvin MM, et al. 2022           Ethnic variation in adverse cardiovascular outcomes and bleeding complica­
+    AHA/ACC/HFSA guideline for the management of heart failure: executive               tions in the clopidogrel for high atherothrombotic risk and ischemic Stabiliza­
+    summary: a report of the American College of Cardiology/American Heart               tion, Management, and avoidance (CHARISMA) study. 2009;157:658–65.
+     Association Joint Committee on Clinical Practice Guidelines. Circulation.
+     2022;145:e876-e894.
+17.  Loh E, Sutton MS, Wun CC, Rouleau JL, Flaker GC, Gottlieb SS, et al. Ventricular   Publisher’s Note
+     dysfunction and the risk of stroke after myocardial infarction. N Engl J Med.       Springer Nature remains neutral with regard to jurisdictional claims in
+     1997;336:251–7.                                                        published maps and institutional affiliations.
+18.  Lip GY, Gibbs CR. Does heart failure confer a hypercoagulable state? Virchow’s
+      triad revisited. J Am Coll Cardiol. 1999;33:1424–6.
+19.  Lloyd-Jones DM, Larson MG, Leip EP, Beiser A, D’Agostino RB, Kannel WB, et al.
+     Lifetime risk for developing congestive heart failure: the Framingham heart
+     study. Circulation. 2002;106:3068–72.

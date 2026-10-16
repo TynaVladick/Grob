@@ -1,0 +1,888 @@
+                                                                                                         Rev. Cardiovasc. Med. 2025; 26(12): 42395
+                                                                                                   https://doi.org/10.31083/RCM42395
+
+Review
+Right Ventricular Fibrosis With Pulmonary Arterial Hypertension
+
+Xinrui Li1,†   , Peng Liu1,†   , Yongnan Li2   , Yang Liu1   , Wei Hao1   , Ping Jin1   ,
+Rongzhi Zhang1,*
+
+1Department of Anesthesiology, The Second Hospital & Clinical Medical School, Lanzhou University, 730000 Lanzhou, Gansu, China
+2Department of Cardiac Surgery, The Second Hospital & Clinical Medical School, Lanzhou University, 730000 Lanzhou, Gansu, China
+*Correspondence: ery_zhangrzery@lzu.edu.cn (Rongzhi Zhang)
+†These authors contributed equally.
+ Academic Editor: Michael Dandel
+ Submitted: 24 May 2025   Revised: 15 August 2025  Accepted: 27 August 2025   Published: 19 December 2025
+
+
+Abstract
+
+Pulmonary hypertension (PH) is a progressive disease caused by structural and functional changes in the pulmonary vasculature resulting
+from diverse etiologies. PH ultimately leads to increased right ventricular (RV) afterload, RV hypertrophy, fibrosis, and right heart
+failure (RHF). Moreover, RV fibrosis initially serves as a protective mechanism against pressure overload-induced RV dilatation, but
+eventually progresses to excessive fibrosis, which impairs cardiac function. This review explores the relationship between RV fibrosis
+and RV function in PH patients, examines the clinical relevance of this relationship, evaluates techniques for quantifying RV fibrosis,
+and presents potential therapeutic strategies aimed at preserving right heart function in PH patients.
+
+Keywords: pulmonary hypertension; right ventricular; fibrosis; clinical relevance; right heart failure
+
+
+ 1. Introduction                                             cations. In severe cases, RV hypertrophy can lead to cardiac
+                                                          arrhythmias or even sudden death.
+    Pulmonary hypertension (PH) is defined as a mean         Pathological fibrosis of the RV is closely related to
+pulmonary artery pressure (mPAP) of ≥20 mmHg at rest, as   RV function, as evidenced by the accumulation of extra-
+measured by right heart catheterization (RHC). The World     cellular matrix (ECM) and pathological changes in the col-
+Health Organization (WHO) classifies PH into five groups    lagen network [5]. RV fibrosis is a hallmark of virtually all
+based on etiology: pulmonary arterial hypertension (PAH),    cardiac diseases, and is particularly common in idiopathic
+PH secondary to left heart disease, lung disease, pulmonary    pulmonary hypertension and chronic thromboembolic pul-
+artery obstructions, and multifactorial mechanisms [1,2].    monary hypertension (CTEPH)-induced RV pressure over-
+Among these, PAH is one of the most severe subtypes of    load [6].  This reactive fibrosis initially acts as a protec-
+PH.                                                               tive mechanism against RV dilatation. However, in the long
+                                                       term it leads to ventricular stiffness, diastolic dysfunction,    The prevalence of PH is estimated to be approximately
+                                                     and right heart failure (RHF), ultimately becoming the most1% worldwide, with a higher prevalence in individuals aged
+                                            common cause of death in patients with PH. Cardiac fibrob->65 years and those with cardiopulmonary complications
+                                                                       lasts (CF), the primary collagen-producing cells, are acti-[2]. PH is also more common in women, with a female to
+                                                           vated by mechanical stress, neurohormonal stimuli, and in-male prevalence of 4.3:1 [3]. The survival of adult patients
+                                                      flammatory mediators.  Excessive ECM deposition alterswith PH depends on age, severity of disease, underlying eti-
+                                                        myocardial mechanical properties and increases ventricu-ology, and the availability of evidence-based treatments [4].
+                                                                        lar stiffness, thereby contributing to RV dysfunction [5].PH is not easily curable and is therefore associated with a
+                                                      Although the degree of RV fibrosis correlates with diseasehigh mortality rate.
+                                                                severity and prognosis, its therapeutic significance is still
+     Right ventricular (RV) function is an important deter-    under debate. Some studies have shown that RV fibrosis
+minant of survival.  Initially, the RV undergoes adaptive     is reversible after mechanical unloading and is ameliorated
+changes due to pressure overload. As the pulmonary artery    by pharmacological inhibition, but others have shown that
+pressure increases over time, maladaptive RV hypertrophy     inhibition of pro-fibrotic factors does not improve RV func-
+develops. This is manifested by reduced RV ejection frac-     tion. In this article, we review the molecular mechanisms
+tion, pathological fibrosis, elevated end-diastolic pressure,    underlying the development of RV fibrosis and its clinical
+and increased levels of brain natriuretic peptide (BNP) [2].    relevance in PH, as well as preclinical and clinical interven-
+Early clinical manifestations are dyspnea, usually accompa-     tion studies of RV fibrosis in PH.
+nied by fatigue, angina, dizziness, edema, and syncope. If
+left untreated, circulatory dysfunction is exacerbated, lead-
+ing to organ ischemia, hypoxia, and a series of other compli-
+
+
+
+
+              Copyright: © 2025 The Author(s). Published by IMR Press.
+               This is an open access article under the CC BY 4.0 license.
+
+Publisher’s Note: IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional affiliations. 2. Literature Review                            PH, can modulate collagen cross-linking and alter the type
+2.1 Normal Right Ventricle                                             I/III ratio, further impairing ventricular compliance [6].
+
+   RV function depends on the interaction between car-                                                               2.2.2 Analysis of the Myocardial Remodeling Mechanism
+diomyocytes (CM) and mesenchymal stromal cells. The
+                                                             Collagen  fiber  remodeling  and  loss  of  tissueCM is the major functional cell, while mesenchymal stro-
+                                                            anisotropy are key factors in the transition from adap-mal cells provide structural support and are involved in
+                                                                   tive to maladaptive remodeling  [3].  Beyond collagensynthesis and regulation of the ECM. CF is the major
+                                                               content,  the microarchitectural reorganization of colla-collagen-producing cell, secreting type I and type III col-
+                                                     gen  fibers—particularly  their crimping/slack  state andlagen to make up the ECM. Collagen synthesis and degra-
+                                                          reorientation—plays a pivotal role in determining myocar-dation are balanced by the actions of matrix metallopro-
+                                                                   dial mechanical behavior in both PH and heart failure withteinases (MMPs) and tissue inhibitors of metalloproteinases
+                                                           preserved ejection fraction (HFpEF) [3,10]. RV adaptation(TIMPs) [6]. The ECM supports myocardial function by
+                                                                 in PH involves myofiber and collagen fiber realignmentmaintaining myocardial segment length, supporting CM
+                                                                 to mitigate dilation. However, this can transition to mal-alignment and ventricular morphology, transmitting me-
+                                                            adaptive remodeling when the stiffness exceeds a criticalchanical forces, and promoting diastolic myocardial re-
+                                                             threshold [3].extension [6].
+                                                     The pathological transformation in PH stems from a
+2.2 ECM Changes and Fibrosis in Pathological               multilevel cascade involving firstly abnormal collagen de-
+Conditions                                                    position and increased fiber tautness which alter myocardial
+     Myocardial fibrosis is a common ECM remodeling    matrix properties.  This is followed by myofiber realign-
+process in various cardiac diseases. In patients with PH, a    ment that modifies tissue anisotropy, ultimately leading
+certain degree of pressure overload increases collagen for-     to geometric remodeling [3]. The similar microstructural
+mation, eventually leading to excessive collagen deposi-    adaptation patterns observed in both PH-RV and HFpEF-
+tion. This is accompanied by a high rate of collagen renewal     left ventricular (LV) remodeling underscore the univer-
+driven by the activation of MMPs and TIMPs, which leads     sal importance of evaluating collagen architecture, beyond
+to further imbalance in ECM homeostasis and exacerbates    simply measuring its content.
+fibrosis [7]. RV diastolic stiffness in PAH was shown to
+                                                             2.3 Triggers for RV Fibrosis in PHcoincide with increased RV contractility (Ees) and force-
+generating capacity of RV CM (active force).  This may      RV fibrosis in PH patients is influenced by multiple
+represent a compensatory response to increased afterload,     factors, including mechanical stress, neurohormonal sys-
+but excessive contraction can also impair diastolic function.    tems, ischemia, and inflammation. These factors are inter-
+The elevated diastolic pressure stiffness in the RV results     related and may act simultaneously [5]. Prolonged stress
+primarily from reduced titin protein phosphorylation, caus-    overload leads to increased fibroblast proliferation and col-
+ing an approximately 3-fold increase in myofibrillar rigid-    lagen production, dysregulation of integrin expression, re-
+ity [8]. In patients with idiopathic PAH and CTEPH, RV    lease of TGF-β to activate myofibroblasts, upregulation of
+afterload may increase by up to 5-fold, suggesting that RV    α-smooth muscle actin (α-SMA), and increased collagen
+pressure overload serves as a common triggering factor [5].    production. CM also respond to mechanical stress by pro-
+                                                        ducing TGF-β and angiotensin-II (Ang-II). Increased lev-
+2.2.1 Changes in Collagen Type                                  els of Galactose lectin-3 (Gal-3) promote TGF-β1-induced
+   PH induces significant shifts in collagen composition.    cardiac fibrosis by interacting with nicotinamide adenine
+Studies have shown that chronic pressure overload and hy-    dinucleotide phosphate oxidase 4 (NOX-4) and NOX-4-
+poxia in PH lead to increased synthesis and deposition of    derived oxidative stress.  Endothelin-1 (ET-1) can medi-
+type I collagen in both the pulmonary vasculature and RV     ate RV fibrosis and dysfunction, stimulate fibroblast pro-
+myocardium, making it a dominant marker of fibrotic re-     liferation, and promote ECM protein synthesis [7]. The
+modeling [9]. In contrast, type III collagen exhibits vari-    endothelial-to-mesenchymal transition (EndMT) is associ-
+able changes depending on the disease severity, with some    ated with myocardial fibrosis and diastolic dysfunction [7].
+reports indicating it shows a relative reduction in advanced    Aging is also associated with increased collagen production
+PH, contributing to decreased myocardial elasticity [6].       and decreased collagen degradation [11]. Moreover, gender
+    While type I and type III collagen are the most studied     is a critical variable in ventricular remodeling, with women
+in PH, emerging evidence suggests the potential involve-    showing a delayed RV functional decline in PH despite a
+ment of other collagen subtypes. Type IV collagen for in-     similar fibrosis burden, possibly due to estrogen-mediated
+stance, which is typically associated with basement mem-    attenuation of collagen cross-linking [12,13] (Fig. 1).
+branes, may also participate in vascular remodeling during         Research has shown that diffuse RV fibrosis is preva-
+PH progression. Additionally, fibrotic stimuli such as trans-     lent among patients with PAH and PH-HFpEF. The RV ex-
+forming growth factor-β (TGF-β), which is upregulated in     tracellular volume fraction (ECV) in PAH is closely asso-
+
+
+2Fig. 1. This schematic contrasts a healthy heart and PH-induced right heart failure. The normal right ventricular (RV) maintains
+thin walls with organized collagen extracellular matrix (ECM) supporting cellular homeostasis. In PH, pressure overload causes RV
+
+hypertrophy and diffuse fibrosis via excessive collagen deposition. Mechanical stress activates cardiac fibroblasts through receptors,
+driving collagen production and progressive dysfunction. TGFβR1, transforming growth factor beta receptor 1; AT1R, angiotensin II
+receptor type 1; MR, mineralocorticoid receptor; ER, estrogen receptor; ETAR, endothelin-1 receptor type A. Created with MedPeer
+(www.medpeer.cn).
+
+
+ciated with total pulmonary resistance (TPR), whereas RV    2.4 Clinical Relevance
+fibrosis in PH-HFpEF shows no significant correlation with
+                                                               2.4.1 Assessment and Detection of RV Fibrosis
+afterload.  Intrinsic myocardial abnormalities such as LV,
+left atrial (LA) and RV chamber enlargement, increased RV     2.4.1.1 Histological Examination.  Endocardial myocar-
+myocardial stiffness, and reduced strain may play a domi-     dial biopsies, surgically excised cardiac tissue, and autopsy
+nant role in the RV ECV of PH-HFpEF. Although TPR was    specimens can be used to assess RV fibrosis.  However,
+lower in the PH-HFpEF group than in the PAH group, both    these methods are all invasive and it is therefore difficult
+exhibited similar degrees of RV fibrosis [14].                   to obtain samples in the early stages of disease. Most stud-
+                                                                    ies involve patients with end-stage PAH, and small sample
+                                                                 sizes may not fully reflect fibrosis in PH patients with dif-
+                                                                 ferent etiologies and at different stages of disease [5]. His-
+
+
+                                                                                                 3tological examination can assess interstitial and perivascu-    of pressure overload. PET/CT with [18F]-FAPI-42 can thus
+lar fibrosis, but may be unable to distinguish between differ-    be used as a noninvasive tool to accurately assess RV fibro-
+ent collagen subtypes, the degree of collagen cross-linking,     sis and the development of RHF [20].
+and changes in the structural integrity of the ECM.
+                                                                2.4.1.3   Biomarkers.  Collagen   triple   helix   repeat-
+2.4.1.2 Imaging  Techniques.  Cardiac Magnetic Reso-    containing protein 1 (CTHRC1) was reported to be a
+nance (CMR) imaging is currently the gold standard and    promising biomarker associated with RV functional im-
+the main non-invasive method to assess RV fibrosis. CMR    pairment and fibrotic remodeling in PH, with particular
+provides superior spatial resolution for accurate three-    relevance for monitoring therapeutic response to balloon
+dimensional (3D) analysis of myocardial deformation.  It    pulmonary angioplasty  in CTEPH  [21].  Among  the
+is particularly valuable for detecting subtle regional func-    validated markers of ECM turnover, MMP-9 and TIMP-1
+tional abnormalities in patients with PH [1]. CMR-derived     levels show robust correlations with disease severity in
+strain parameters in CTEPH show significant correlation   PAH,  reflecting  ongoing  collagen  dysregulation  [11].
+with ECM remodeling, offering novel mechanistic insights    Advanced imaging biomarkers including ECV quantifica-
+into RV maladaptation [15]. The degree of RV fibrosis mea-     tion and T1 mapping provide early detection of fibrotic
+sured by CMR correlates with pulmonary hemodynamics,    changes, with elevated ECV and prolonged T1 relaxation
+RV function and volume, and adverse clinical outcomes    times frequently preceding measurable contractile dysfunc-
+[16]. However, cardiac fibrosis cannot be detected in the     tion, as evidenced by their dissociation from RV ejection
+early stages of heart failure (HF). Late gadolinium enhance-     fraction [5,14]. This temporal pattern suggests the above
+ment (LGE) magnetic resonance imaging (MRI) can de-    parameters may serve as sentinel markers of subclinical
+tect focal fibrosis in the region of the ventricular insertion   RV pathology.
+site, but the dynamic course of fibrosis is more difficult to         Several novel circulating proteins show diagnostic and
+ascertain. Longitudinal relaxation time (T1) mapping and    prognostic potential across the PH spectrum. An increased
+ECV measurements provide a more comprehensive picture     level of COL18A1/endostatin (ES) was observed early in
+of diffuse fibrosis, which is closely related to RV dysfunc-   RV disease progression and showed strong associations
+tion [5].                                                  with histologically confirmed fibrosis [22]. Furthermore,
+                                                                  cartilage intermediate layer protein 1 (CILP-1) appears to     Diffusion tensor imaging allows the assessment of tis-
+                                                               regulate myocardial fibrotic responses and may predict in-sue composition and structure, while enhanced computed
+                                                              cident RV dysfunction in both PH and HF populations [23].tomography (CT) scans, echocardiography, and circulat-
+                                                 The pleiotropic effects of fibroblast growth factor 23 (FGF-ing markers of collagen metabolism have also been used
+                                                         23) extend to maladaptive RV remodeling processes [24].to assess fibrosis [17].  Speckle-tracking echocardiogra-
+                                                 They are paralleled by systemic indicators such as solublephy (STE) has recently proven to be an effective method
+                                              ST2 and GDF-15 that show particular utility in stratifyingfor assessing RV function. Reduced right ventricular free
+                                                              the risk of impending RV failure [25].wall longitudinal strain (RVFWLS) is a predictor of poor
+prognosis in patients with PH, and has also been shown
+                                                                2.4.1.4 Clinically Relevant Animal Models.  Currently, the
+to correlate with the degree of RV myocardial fibrosis.
+                                                    most commonly used animal models for PH research in-
+Compared to pathological results, 3D-RVFWLS is a non-
+                                                          clude the monocrotaline (MCT)-induced model, the Sugen
+invasive method for the identification of severe myocardial
+                                                       hypoxia (SuHx)-induced model, and the pulmonary artery
+fibrosis in patients with indicators of end-stage HF [18].
+                                                       banding (PAB) model. The experimental animals used in-
+    Novel molecular imaging techniques, such as en-                                                          clude rats, mice, pigs, and sheep. While the PAB model
+hanced MRI with collagen-targeted contrast agents, or                                                                  offers valuable insights into RV targeted therapies, it does
+positron emission tomography (PET) imaging with colla-                                                           not reflect changes in pulmonary vascular resistance (PVR)
+gen type I -specific probes, are expected to overcome the                                                                        [6]. A dynamic PH with RHF model was developed in
+limitations of existing techniques [5]. To image the heart                                                            sheep. This was achieved by ligating the left pulmonary
+and lungs, a bimolecular PET-MRI imaging protocol has                                                                      artery, progressively tightening the main pulmonary artery
+been developed using a type I collagen-targeted PET probe                                                                  fascicle and implanting an RV pressure catheter, adjusting
+(68Ga-CBP8) and a lysine-targeted fibrogenesis MRI probe                                                              the rate of fascicle tightening to control the disease severity
+(Gd-1,4). This approach can assess cardiopulmonary fibro-                                                     and RV phenotype, and assessing the effects of exercise in
+sis, allow staging and early diagnosis of the disease, as well                                                           conjunction with exercise testing. The model successfully
+as monitor the response to treatment. However, its feasi-                                                        induced elevated RV pressures and ventricular remodeling
+bility and clinical value require further research [19]. Fi-                                                     and dysfunction. Moreover, it could induce varying degrees
+broblast activation protein inhibitor-42 (FAPI-42) can be                                                             of RHF and fibrosis depending on the rate of fascicle tight-
+detected by PET/CT imaging. A recent PET/CT imaging                                                         ening [26].
+study reported a higher uptake of FAPI-42 in the RV of PH
+patients, as well as a progressive increase with the duration
+
+
+4                                      Table 1. Clinical trials targeting RV fibrosis.
+
+       Intervention        Target mechanism NCT number                 Results                      Status         Phase
+
+      Eplerenone         RAAS     NCT00703352             N/A                  Completed      Phase 4
+                                   NCT03593317             N/A               Not yet recruiting    Phase 2
+      Spironolactone       RAAS
+                                   NCT03344159             N/A                     Recruiting       Phase 4
+       Sacubitril/Valsartan     ARNI     NCT04197050             N/A               Not yet recruiting    Phase 4
+      Trimetazidine         FAO      NCT03273387 No significant reduction in RV fibrosis    Completed      Phase 2/3
+       Sotatercept        BMPR2/TGF-β  NCT06658522 No significant reduction in RV fibrosis Not yet recruiting    Phase 4
+
+     RAAS, renin-angiotensin-aldosterone system; ARNI, angiotensin receptor-neprilysin inhibitor; FAO, fatty acid oxidation; BMPR,
+      bone morphogenetic protein receptor; N/A, not applicable; NCT, national clinical trial.
+
+
+                          Table 2. Preclinical trials targeting RV fibrosis (vasodilatory agents).
+
+                                                                       Main result
+             Target                Therapeutic drug    Animal model                                        Ref
+                                                 RV Function  RV Fibrosis  PVR
+
+              Prostacyclin analogs        Iloprost      SuHx rat, PAB rat       ↑            ↓                   [32]
+         sGC stimulation           Riociguat     SuHx rat, PAB rat       ↑            ↓                   [33]
+          PDE-5 inhibition           Sildenafil     SuHx rat, PAB rat       ↑            ↓                 [34,35]
+        AMPK activator         Metformin      MCT rat           ↑            ↓                   [36]
+           sGC, soluble guanylate cyclase; PDE-5, phosphodiesterase type 5; AMPK, adenosine 5′-monophosphate (AMP)-
+              activated protein kinase; MCT, monocrotaline; SuHx, sugen hypoxia; PAB, pulmonary artery banding; ↑, increased;
+           ↓, decreased; PVR, pulmonary vascular resistance.
+
+
+2.4.2 Relationship of RV Fibrosis to Prognosis                 2.4.3 Reversibility of RV Fibrosis
+   RV fibrosis is strongly associated with poor prog-      RV fibrosis is a dynamic process, with partial re-
+nosis in patients with PAH. Decreased longitudinal strain     versibility observed in preclinical models. Reversal of RV
+serves as a significant predictor of poor prognosis in PH,    hypertrophy, or “reverse remodeling” by targeted therapy,
+with the pathophysiological basis primarily involving three   may improve the prognosis of PH. In severe PH, reverse
+key mechanisms: (1) Myofiber disarray—realignment of   RV remodeling is associated with reduced PVR [28]. RV
+collagen and myofibers disrupts normal force transduc-    function has been shown to improve after pulmonary en-
+tion, substantially impairing contractile efficiency; (2) Mi-    darterectomy, although RV fibrosis persists in some areas
+crovascular dysfunction—hypoxia-induced capillary rar-     [29]. Mechanical unloading may also lead to partial rever-
+efaction exacerbates energy deficiency in longitudinally-     sal of RV fibrosis. Treatment with Iloprost can partially re-
+oriented subendocardial fibers; and (3) Ventricular-arterial    verse established RV fibrosis by inducing collagen degra-
+uncoupling—strain abnormalities directly reflect increased    dation and reducing neo-collagen synthesis [5]. A recent
+RV afterload secondary to elevated PVR, thus accelerating    study employed 3D deep tissue imaging to compare the RV
+cardiac decompensation [27]. The combined assessment    microvascular network between PAB mice and PH patients
+of strain parameters with CMR analysis may have superior     [30]. This work revealed complex microvascular remod-
+predictive value for clinical outcomes compared to conven-    eling in banded mice, with vessels stably wrapped around
+tional RV functional indices [15].                            hypertrophied CM surfaces. Of note, these changes proved
+     Fibrosis at the ventricular insertion, mainly character-     reversible upon the release of banding.  In contrast, the
+ized by increased LGE, T1, and ECV, is an important indi-    microvascular-CM contact in fibrotic regions of the ECM
+cator of poor prognosis. Increased T1 relaxation time and    remained impaired. Further investigation of the reversibil-
+ECV may serve as early markers of PH disease progression.     ity of RV fibrosis is therefore needed to optimize treatment
+They suggest an early onset of septal shift, and are thus be-     strategies.
+coming important tools in the risk assessment of PH pa-
+tients [5]. However, most existing studies are based on pa-    2.5 Treatment Strategy
+tients with end-stage PAH, and hence the prognostic value
+                                                                  In recent years, an increasing number of studies haveof these markers in the early stages of disease requires fur-
+                                                         focused on therapeutic strategies that target RV fibrosis tother investigation.
+                                                     improve RV function and prognosis. However, only a few
+                                                                     clinical trials have investigated RV fibrosis (Table 1). So-
+                                                                     tatercept, which targets the Bone Morphogenetic Protein
+                                                        Receptor Type 2 (BMPR2)/TGF-β pathway, was found to
+                                                         reduce Right Ventricular End-Diastolic Volume (RVEDV)
+
+
+                                                                                                 5        Table 3. Preclinical trials targeting RV fibrosis (inhibition of RAAS and modulation of adrenergic signaling).
+
+                                                                                 Main result
+     Target                                 Therapeutic drug           Animal model                                 Ref
+                                                           RV Function RV Fibrosis PVR
+
+   ARNi                                   Sacubitril/Valsartan      SuHx rat, PAB mice      ↑          ↓       ↓   [37,38]
+    Ang II                          ACE2              PAB mice          ↑         =              [39]
+                                             MCT rat                   =       ↓     [40]
+   MR/RAAS                             Spironolactone
+                                                     Hx mice                      ↓       ↓     [40]
+                                                               Bleomycin mice        ↑          ↓      =     [41]
+     α1A-adrenoceptor, agonism              A61603
+                                                    PAB mice          ↑         =              [42]
+     β-blockers                      Bisoprolol, Carvedilol, Metoprolol    MCT rat           ↑          ↓      =   [43–45]
+     Reduction of heart rate                     Ivabradine          SuHx, MCT, PAB rat      ↑          ↓      =     [46]
+     β3-adrenergic receptor agonists          CL316243         Hx mice, SuHx mice      ↑          ↓       ↓     [47]
+
+    Ang, angiotensin; ACE, angiotensin-converting enzyme; ↑, increased; ↓, decreased; =, no effect.
+
+
+                 Table 4. Preclinical trials targeting RV fibrosis (growth factors and metabolic modulation).
+
+                                                                                 Main result
+      Target                         Therapeutic drug            Animal model                                      Ref
+                                                           RV Function RV Fibrosis PVR
+
+      Galectin-3 inhibition          N-acetyllactosamine          PAB mice             =          ↓              [49]
+                                        Pirfenidone              SuHx rat               ↑          ↓       ↓    [50]
+    TGF-β inhibition                  Pirfenidone             PAB mice             =          ↓              [49]
+                                      Nintedanib               SuHx rat             =          ↓      =    [51]
+      Induction of BMP signaling        FK506       PAB mice, BMPR2 mutant mice      ↑          ↓              [52]
+    PDGFR inhibitor               Sorafenib, Sunitinib      MCT rat, PAB rat           ↑          ↓       ↓    [53]
+                                  Trimetazidine, Ranolazine         PAB rat               ↑          ↓              [54]
+    FAO inhibition                    Ursolic acid           MCT rat               ↑          ↓              [55]
+                                   Acetazolamide             SuHx rat               ↑          ↓       ↓    [56]
+    PPARγ activation              Pioglitazone, chrysin      MCT rat, SuHx rats           ↑          ↓       ↓   [57,58]
+
+    PDGFR, platelet-derived growth factor receptor; PPAR, peroxisome proliferator-activated receptor; FK506, tacrolimus; ↑, in-
+      creased; ↓, decreased; =, no effect.
+
+
+and RV mass, thus showing promise for reversing RV re-    collagen synthesis [6].  Blocking of the Ang Ⅱreceptor
+modeling and improving fibrosis [31] (Table 2, Ref. [32–    reduces cardiac fibrosis by attenuating EndMT [7]. An-
+36]). Most drugs reduce pressure overload by targeting the    giotensin signaling releases aldosterone, which induces ac-
+pulmonary vasculature, and preclinical trials have shown     tivation of the salt-receptor and acts as a transcription factor
+that reducing RV fibrosis directly improves RV function.     to promote expression of pro-fibrotic genes. Clinical stud-
+Preclinical therapies that target RV fibrosis are discussed     ies of the effects of RAAS inhibitors (Table 3, Ref. [37–47])
+below in the context of the molecular mechanisms that un-    on RV fibrosis have generated great interest [6].
+derlie the development of RV fibrosis.
+
+                                                               2.5.2 Adrenergic Signaling
+2.5.1 Renin-Angiotensin-Aldosterone System (RAAS)
+                                                              Abnormalities in the adrenergic signaling pathway
+    The RAAS system plays an important role in the    have also been reported in patients with PAH. In vitro ex-
+pathogenesis of PAH. Dysregulation of RAAS affects the    periments have shown that activation of the β-adrenergic
+pulmonary vasculature, and this system is also directly in-    receptor promotes fibroblastogenesis and induces fibrotic
+volved in the development of cardiac fibrosis.  Pressure    remodeling through the phosphoinositide 3-Kinase (PI3K),
+overload induces ACE production to generate Ang II. The    p38 and ERK pathways via the calcineurin-Nuclear Fac-
+pro-fibrotic effects of Ang II are associated with activa-     tor of Activated T-cell (NFAT) pathway.  Prolonged β-
+tion of TGF-β signaling, while the binding of Ang II to    adrenergic stimulation may lead to RV fibrosis [6]. The β3-
+the angiotensin type 1 receptor (AT1R) can also induce    adrenoceptor agonist CL316243 reduces RV systolic blood
+pro-fibrotic signaling independently of TGF-β. Activation    pressure to a similar extent as leucovorin and sildenafil.
+of AT1R leads to phosphorylation of Smad2 and Smad3    This agonist has been shown to reverse pulmonary vascular
+via the extracellular signal-regulated kinase (ERK)/p38    remodeling, reduce RV afterload, and decrease RV hyper-
+mitogen-activated protein kinase (p38)/c-jun N-terminal ni-    trophy and fibrosis in hypoxic models [47] (Table 3, Ref.
+nase (JNK) pathway, which promotes CF activation and    [37–47]).
+
+
+62.5.3 Growth Factor Therapy                               metabolic dysfunction has been identified as a modifiable
+                                                                   risk factor for RV failure, with aberrant fatty acid oxidation    Growth factors play a key role in the development of
+                                                 (FAO) representing a key diagnostic hallmark [61].RV fibrosis, with the TGF-β superfamily being the most
+widely studied pro-fibrotic factor. Increased levels of TGF-
+                                                                2.5.5.2 Metabolic-Targeted Therapeutic Strategies.  Ex-
+β are observed in pressure overloaded RV. The induction
+                                                             cessive protein glycosylation exacerbates RV dysfunction
+of BMP signaling may also have antifibrotic effects [6]. A
+                                                                 in preclinical PAH models via the suppression of FAO [62].
+recent study reported a novel, non-metallic nano-enzyme
+                                                        Chrysin (CH) has multi-target effects in SU5416/hypoxia-
+MMP that attenuates pulmonary vascular remodeling and
+                                                        induced PAH models.  It ameliorates cardiac fibrosis, RV
+RV fibrosis in MCT rats by inhibiting the TGF-β1 reac-
+                                                         hypertrophy and PH through the coordinated regulation of
+tive oxygen species (ROS) signaling pathway and reduc-
+                                                           mitochondrial biogenesis, energy metabolism, and gene ex-
+ing the expression of TGF-β1 and its downstream signaling
+                                                             pression [58]. Metformin is another pleiotropic agent, with
+molecules Smad/3 [48].  It has an excellent in vivo safety
+                                                        phase II trial data (NCT01884051) indicating RV func-
+profile, thus providing a new strategy for the treatment of
+                                                                   tional improvement and modulation of lipid metabolism in
+RV fibrosis.  Expression of the transcription factor Fork-
+                                        PH patients (Table 4, Ref.  [49–58]).  Mechanistic stud-
+head box O3 A (FOXO3A) in myocardial wall tissue grad-
+                                                                    ies in MCT-treated rats demonstrate its capacity to activate
+ually decreases with disease progression, whereas the ex-
+                                                         adenosine 5′-monophosphate (AMP)-activated protein ki-
+pression of BNP and collagen types I and III increase.  It
+                                                         nase (AMPK) signaling, enhance nitric oxide bioavailabil-
+has been suggested that reduced FOXO3A expression may
+                                                                                  ity, preserve contractile function, and prevent fibrotic re-
+be associated with RV dysfunction (Table 4, Ref. [49–58]),
+                                                      modeling [36].
+and is therefore a potential target for intervention in RV my-
+ocardial fibrosis [18].                                                               2.5.6 Anti-inflammatory and Antioxidant Therapy
+2.5.4 Compensation of ECM Remodeling                      2.5.6.1 Pathological Mechanisms.  The pathogenesis of
+                                       RV fibrosis induced by pressure-overload involves syner-
+     Excessive deposition and abnormal cross-linking of
+                                                                      gistic interactions between chronic inflammatory activation
+ECM are important features of RV fibrosis.  Lysyl oxi-
+                                                     and mechano-sensitive ROS generation [6,7]. Mechanical
+dase (LOX) and lysyl oxidase homolog (LOXL2) catalyze
+                                                                stretching triggers inflammatory cascades while simultane-
+collagen cross-linking, and their overexpression can ex-
+                                                          ously increasing oxidative stress, thereby creating a self-
+acerbate fibrosis.  Inhibition of LOX/LOXL2 activity re-
+                                                             perpetuating cycle that drives fibrotic progression.
+duces collagen cross-linking and attenuates RV fibrosis
+[11]. The TGFβ1-Snail Family Transcriptional Repressor
+                                                                2.5.6.2 Therapeutic Intervention.  Dihydromyricetin  re-
+1 (Snai1)-LOXL2 axis is central to the regulation of RV
+                                                        duces inflammatory responses and ameliorates fibrosis and
+fibrosis, and targeting Snai1 inhibits fibrosis, thereby im-
+                                       RV hypertrophy by inhibiting cellular pyroptosis medi-
+proving PH-RVF [59]. The non-antihypertensive metabo-
+                                                             ated by the chemokine-like factor 1 (CKLF1)/C-C motif
+lite of chlorosartan, EXP3179, reduces LOX overexpres-
+                                                    chemokine receptor 5 (CCR5) axis [63].  Lingguizhugan
+sion and increases its activity, thereby preventing collagen
+                                                           decoction [64] and notopterol from Qiang-Huo [65] may
+cross-linking [11]. Activation of the adenosine A2B recep-
+                                                     improve RV fibrosis and dysfunction by modulating multi-
+tor (A2BAR) promotes CF proliferation and myofibroblast
+                                                              ple inflammatory pathways and immune cell activities [64].
+differentiation, thus exacerbating RV remodeling, but has a
+                                                          Tripotassium hydroxycitrate hydrate reduces inflammation
+lesser effect on collagen production. Blocking A2BAR may
+                                                     and oxidative stress levels and effectively attenuates RV
+be a potential strategy for the attenuation of RV remodeling
+                                                                   fibrosis and pulmonary vascular remodeling [66]. Mela-
+and RHF [60]. Strategies that target ECM remodeling are
+                                                              tonin attenuates CM hypertrophy and mitochondrial oxida-
+still at an early stage and require further investigation.
+                                                                   tive stress and improves RV fibrosis in rats by activating the
+2.5.5 Metabolic Regulation                              Mst1-Nrf2 signaling pathway [67] (Table 5, Ref. [63–84]).
+                                                            Non-pharmacological   interventions   also  show
+2.5.5.1 Metabolic Characteristics of RV Fibrosis.  Car-
+                                                       promise in attenuating disease progression. Diet-induced
+diometabolic abnormalities, particularly the Warburg ef-
+                                                                ketosis improves RV function, inhibits NOD-like receptor
+fect of aerobic glycolysis, are a fundamental pathological
+                                                               protein 3 (NLRP3) inflammatory vesicle activation, and
+feature in the development of RV fibrosis among PH pa-
+                                                             counteracts RV fibrosis [85].  Swimming exercise has
+tients [7]. Characteristic metabolic shifts include upregu-
+                                                               also been shown to improve RV structural remodeling and
+lated glycolysis and glucose oxidation, alongside impaired
+                                                             dysfunction, thereby reducing inflammation by improving
+β-oxidation.  These alterations lead to lipotoxicity when
+                                                          systemic and RV insulin sensitivity [86].
+the fatty acid supply exceeds the mitochondrial oxidative
+capacity, with excessive mitochondrial fragmentation dis-
+rupting the fibroblast proliferation-apoptosis equilibrium
+and collectively promoting fibrotic remodeling. Systemic
+
+
+                                                                                                 7                                                                                                                                                                  TLR, no=,
+                                               Ref             [70]  [71]  [72]        [75]  [76]  [77]                         [66]  [67]  [84]                                                                                                                                [68,69]                                  [73,74]                                                       [79–81]   [82,83]                                                                                                                                                                                                                                                                                                             [63–65,78]
+                                                                                                                                                                                                                                                                                            kinase;     decreased;
+                   ↓ ↓ = ↓          ↓ =                                                  PVR                                                                                                                                                                                                                                                                                            protein ↓,
+
+
+
+
+
+                   ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓ ↓  ↓ ↓ ↓ ↓ ↓                                                                                                                                    Fibrosis                                                                                                                                                                                                                                                     increased;                                                                                         result
+                                 RV                                                 ↑,
+                                                                                    1;                                                           Main                                                                                                                                                                                                                                                                                                                                                                                                                                     mitogen-activated
+
+
+
+
+                   ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑ ↑  ↑ ↑ ↑ ↑ ↑                                                                                                                                    Function                                                                                                                   MAPK,     stimulating
+                                 RV                                                                                                                                                                 kinase;
+                                                       rat                                                                                                            mice                                                                                                                                                                antioxidant).                                       PAB                       rat                                                   macrophage
+                                                                                                                                                                                                                  Mst1,                                                                rat                                                                                                                     rat                                     and       model             mice                                                                    rat  mice                                                                             rat  rat,  mice rat      rat rat Hx rat                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       rho-associated                                                                                                                                                                                       mouse/SuHx                                                                   rat,                                                                                     SuHx                                                                               SuHx                                                                                             Animal            Hx PAB PAB  SuHx PAB MCT      MCT MCT      MCT PAB               kinase;                                                                                                              rat/Hx                                                                                                            MCT                  ROCK,                                                                                                                                        rats,
+                                                       MCT                                                                                 MCT                                                                                       2-like;                                                                                                                                                                                                                                                                                                                                                                                                                                    N-terminal                                                                                                                                                                                                                              (anti-inflammatory
+                                                                                                                                                      Dihy-                                                       c-Jun
+                                                                                                   fibrosis                                                                                                                JNK,                         RV                                                                                                                                                                              Notopterol                                                                                                                                        erythroid-derived 1;
+
+                                 X                                                                                                                                                                                                                                                            kinase
+                                                                                                                                                                                                                                                            hydrate                                                                                                               targeting                                                                                PH797804                                                                decoction,                                                factor                                                B;                                                               Compound                                              nuclear                                                                          trials
+                                                                                                                                                                                                           Nrf2,                                                                                                                                                                                                                                                                                                                                                                                                                                               tripotassium                                                                                      signal-regulating                                                                                                                                                                                                                                                                                                                                                                                                                          Lingguizhugan                                                                                                                                                acid                                                                                                                                                                                                                                                                                                                                                                                                            1,8-Cineole;                                                              drug                                                                                                   lithospermate                                                                                                                                                       alcohol/quercetin/berberberine,                                                                                                                                                                                                                                                                                                                                                                                                                                            stimulation     kinases;                                                                                                                                        Preclinical                                                                                                                                                                                                                                                                                                                                                                                           Fluvoxamine                         5.                                                            Sumtang                                                                                                                                                                     apoptosis
+                                                                                                                                                                                                  nerve     protein                                                              Table                                                                                                                                           ASK1,                                                                                                                                                                           Therapeutic                Celastrol      Sulforaphane    Protandim   Tsantan    Magnesium               E6446/Pyrrolidinedithiocarbamate    GS-444217   Nitrite    Perillyl       dromyricetinn,      Sevoflurane,    EUK-134,      hydroxycitric    Melatonin  Vagal
+                                                                                                                                                                                                                                                                                                                                                                             regulated                                                                                                                                                                                                                                                                                                                                                kappa-B;                                                                                                                                                                                                                                                                      pathway
+                                                                                                                                                                                                                                                            factor                                                                                                                                                                                       inhibition                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               extracellular                                                                                                                                                                                                                                   inhibition        NFκB                                                                                                 Mst1-Nrf2                         nuclear                                                                           of        ERK,
+                                                                                 B;                                                                                                                                AKT/ERK  Nrf2        ROCK    P38/MAPK  TLR9/                                                                                                                                                                                                                  NFκB,                                                                                                                                                                                                                                                                               inhibition                                                                                                                                                                                                                                                   kinase                                                                                                                                                                                                                                                                                                                                                                                      activation
+                                                                                                                                                                                                                                                                                                                                                                                          receptor;                                                                                                                                                                                                                                                                                            protein                                                                                                                                                                                               induction                                                                inhibition                                                                                             Target                                Anti-inflammatory;        Anti-inflammatory,  Nrf2        Anti-inflammatory;        Anti-inflammatory,        Anti-inflammatory:      ASK1/p38/JNK AKT        Anti-Inflammatory                                 Anti-Inflammatory              Anti-inflammatory/antioxidant        Anti-Inflammatory      Antioxidant,        Anti-Inflammatory   AKT,    toll-like   effect.
+
+
+
+
+8                            Table 6. Preclinical trials targeting RV fibrosis (other treatments).
+
+                                                                                   Main result
+   Target                                   Therapeutic drug            Animal model                                Ref
+                                                            RV Function RV Fibrosis PVR
+
+   Serotonin signaling antagonists          Terguride, SB204741          PAB mice          ↑          ↓              [87]
+  nAChR inhibition                     Mecamylamine             SuHx rat          ↑          ↓      =    [88]
+  ER                                         17β-estradiol        MCT rat, SuHx rat      ↑          ↓       ↓   [89,90]
+  ROCKs and STAT3 inhibition         Dehydroepiandrosterone          SuHx rat          ↑          ↓       ↓    [91]
+  SGLT2 inhibition                   Empagliflozin, Canagliflozin       MCT rat          ↑          ↓       ↓   [92,93]
+   Genetics                          H19 Gapmer         MCT rat, PAB rat      ↑          ↓      =    [94]
+                                 Umbilical cord blood mononuclear cells    PAB mice          ↑          ↓              [95]
+                                         pediatric cardiac progenitor cells       PAB rat          ↑          ↓              [96]
+   Stem cell therapy
+                                  Mesenchymal stem cells      PAB pig, SuHx rat      ↑          ↓            [97,98]
+                         Human induced pluripotent stem cells     PAB rat          ↑          ↓              [99]
+  CaSR                               NPS2143         MCT rat, Hx mouse      ↑          ↓       ↓    [100]
+   Genetics                           siRNA AP-1           MCT rat          ↑          ↓            [101]
+  HMOX1/GSH inhibition                     Ferrostatin-1           MCT rat          ↑          ↓            [102]
+
+   nAChR, nicotinic acetylcholine receptor; ER, estrogen receptor; STAT, signal transducer and activator of transcription; SGLT2, sodium-
+   glucose cotransporter 2; CaSR, Ca2+-sensing receptor; HMOX1, heme oxygenase 1; GSH, glutathione r-glutamyl cysteinyl +glycine;
+   ↑, increased; ↓, decreased; =, no effect.
+
+
+2.5.7 Other Treatments                                          position, and fibrosis in PAH rats by modulating arginine
+                                                         metabolism, increasing NO synthesis, and improving pul-    The experimental field of non-coding RNAs in the
+                                                  monary vascular remodeling [105]. Treatments involvingtreatment of RV fibrosis  is  still very limited (Table 6,
+                                                      vagus nerve stimulation [84] and noninvasive focused ul-Ref.  [87–102]).  Genes associated with the epithelial-
+                                                           trasound of the spleen [106] were shown to significantly re-mesenchymal transition and EndMT are significantly en-
+                                                      duce RV systolic blood pressure and ameliorate RV fibrosisriched in RHF [6], and stem cell administration may be an
+                                                                 in a rat model of PAH. However, it is unclear whether thisoption for targeting RV fibrosis. Human induced pluripo-
+                                                                            is a direct effect on the RV, or a secondary alteration aftertent stem cell-derived myocardium patch transplantation
+                                                                afterload reduction.improves RV function, inhibits ventricular fibrosis, and in-
+creases capillary density, thus warranting further clinical
+studies [99].                                              3. Conclusions
+                                          RV fibrosis due to PH is a complex process in which
+2.5.8 Indirect Treatments                                     the clinical significance and therapeutic strategies remain
+     Several  interventions have been shown  to  indi-     to be thoroughly elucidated. Emerging evidence suggests
+rectly reduce RV fibrosis by improving pulmonary vas-     that RV dysfunction and PH-like hemodynamics may per-
+cular remodeling.  A novel lysosomal autophagy  in-     sist in diverse clinical contexts [107]. Some patients with
+hibitor, ROC-325, was effective in preventing MCT- and    cardiopulmonary injury show characteristic symptoms such
+Sugen5416/hypoxia-induced PH, vascular remodeling, and    as fatigue and exertional palpitations, accompanied by mild
+RV hypertrophy, fibrosis and dysfunction. The mechanism   PH and significant RV systolic dysfunction.   Notably,
+may be related to inhibition of autophagy, induction of   symptom resolution often parallels RV functional recovery,
+endothelial nitric oxide synthase activity, reduction in the    suggesting a potentially reversible process. These observa-
+levels of Hypoxia-Inducible Factor 1 Alpha (HIF-1α) and     tions highlight the fact that impairment of RV pulmonary
+Hypoxia-Inducible Factor 2 Alpha (HIF-2α), and increased     circulation is a common pathological feature across multi-
+NO production [103]. Pharmacological inhibition of Ang II    ple disease states.
+signaling by diminazene reduced both PVR and RV fibro-      RV fibrosis appears to have a dual role in PAH. In the
+sis, with possible indirect cardioprotective effects [6].          early stages, it is an adaptive response of the RV to pressure
+   A novel and highly selective inhibitor of platelet-    overload and allows structural integrity to be maintained.
+derived growth factor receptor (PDGFR), WQ-C-401, was    However, as the disease progresses, excessive fibrosis leads
+shown to decrease collagen I synthesis and increase α-SMA     to RV dysfunction and ultimately to RHF. The transition
+expression in pulmonary artery smooth muscle cells, inhibit    from an adaptive to a maladaptive response is dynamic, and
+pulmonary vascular remodeling by reducing muscle forma-   some fibrosis may be reversible. Current studies have fo-
+tion and fibrosis, and attenuate RV hypertrophy in MCT    cused on the ventricular insertion site. Reduced longitudi-
+rats [104]. Salidroside reduced the mean pulmonary arte-    nal strain in the RV free wall has been shown to correlate
+rial pressure and ameliorated RV hypertrophy, collagen de-    with the degree of RV myocardial fibrosis and may serve as
+
+
+                                                                                                 9a marker of poor prognosis in patients with PH [18]. Imag-    Ethics Approval and Consent to Participate
+ing techniques, particularly T1 mapping and ECV measure-                                                       Not applicable.
+ments, are valuable in assessing RV fibrosis and may be
+important indicators for early diagnosis and prognosis [5].   Acknowledgment
+Novel molecular imaging techniques and biomarker stud-
+                                                       Not applicable.
+ies are also being refined to provide new tools for staging
+and early diagnosis of the disease, as well as for monitoring
+                                         Funding
+treatment response.
+     Chronic mechanical stress-induced CF activation and         This research received funding from the Natural Sci-
+chronic inflammation are key underlying factors in the    ence Foundation of Gansu Province [No. 23JRRA0964],
+mechanism of RV fibrosis. CF senses mechanical stress and    Cuiying  Scientific and  Technological  Innovation  Pro-
+initiates complex molecular signaling pathways that lead   gram  of  Lanzhou  University  Second  Hospital  [No.
+to ECM generation and remodeling.  Chronic inflamma-   CY2023–YB-B01],  General  Project of  Joint Research
+tion further promotes CF proliferation and activation and   Fund [25JRRA1275].
+exacerbates collagen deposition [6]. Most of the current
+preclinical trials have failed to fully distinguish the effects    Conflict of Interest
+of interventions on RV from those on PVR, posing a chal-        The authors declare no conflict of interest.
+lenge in the interpretion of results. The timing of antifi-
+brotic therapy is also critical, and a combination of non-    Declaration of AI and AI-Assisted
+invasive imaging and circulating biomarkers is needed to    Technologies in the Writing Process
+guide treatment and to monitor efficacy.  Further studies                                                          During the preparation of this work the authors used
+are needed to better elucidate the molecular mechanisms                                                  DeepSeek in order to check spell and grammar. After us-
+of RV fibrosis and to develop more effective antifibrotic                                                           ing this tool, the authors reviewed and edited the content as
+drugs. The timing of treatment needs to be optimized and                                                      needed and takes full responsibility for the content of the
+new imaging techniques and biomarkers developed in order                                                                publication.
+to better assess RV fibrosis and its relationship with clinical
+outcomes. Multidisciplinary collaboration will be essential    References
+for the advancement of RV fibrosis research.
+                                                                              [1] Working Group on Pulmonary Vascular Diseases of Chinese So-
+                                                                                  ciety of Cardiology of Chinese Medical Association, Editorial
+Limitations
+                                                                  Board of Chinese Journal of Cardiology. Chinese guidelines for
+    While this review synthesizes the current evidence           the diagnosis and treatment of pulmonary hypertension 2018.
+on RV fibrosis mechanisms and therapies, several limita-         Zhonghua Xin Xue Guan Bing Za Zhi. 2018; 46: 933–964. http
+                                                                             s://doi.org/10.3760/cma.j.issn.0253-3758.2018.12.006. (In Chi-tions should be acknowledged.  First, translational chal-
+                                                                            nese)
+lenges exist between preclinical animal models and human                                                                              [2] Humbert M, Kovacs G, Hoeper MM, Badagliacca R, Berger
+pathophysiology, particularly regarding cross-specific dif-        RMF, Brida M, et al. 2022 ESC/ERS Guidelines for the di-
+ferences in collagen metabolism and drug responses. Sec-          agnosis and treatment of pulmonary hypertension. The Euro-
+ond, long-term efficacy and safety data are lacking for many         pean Respiratory Journal. 2023; 61: 2200879. https://doi.org/
+                                                                     10.1183/13993003.00879-2022.
+investigational agents. These gaps highlight the need for                                                                              [3] Neelakantan S, Vang A, Mehdi RR, Phelan H, Nicely P, Imran T,
+standardized large-animal models, longer-term randomized            et al. Right Ventricular Stiffening and Anisotropy Alterations in
+controlled trials, and dedicated studies on personalized ther-         Pulmonary Hypertension: Mechanisms and Relations to Right
+apeutic approaches.                                                   Heart Failure. Journal of the American Heart Association. 2025;
+                                                                           14: e037126. https://doi.org/10.1161/JAHA.124.037126.
+                                                                              [4] Mocumbi A, Humbert M, Saxena A, Jing ZC, Sliwa K,
+Author Contributions                                     Thienemann  F,  et  al. Pulmonary hypertension. Nature Re-
+   XRL and PL: Conceptualization,  literature review,          views. Disease Primers. 2024; 10:  1. https://doi.org/10.1038/
+original draft preparation, and manuscript revision. YNL         s41572-023-00486-7.
+                                                                              [5] Andersen S, Nielsen-Kudsk JE, Vonk Noordegraaf A, de Man
+and RZZ: Supervision, conceptualization, critical review,                                                                       FS. Right Ventricular Fibrosis. Circulation. 2019; 139: 269–285.
+editing, and administration. YL, WH, and PJ: Contributed         https://doi.org/10.1161/CIRCULATIONAHA.118.035326.
+to manuscript editing, conceptualization, resource collec-       [6] Bekedam FT, Goumans MJ, Bogaard HJ, de Man FS, Llucià-
+tion, and technical support. All authors contributed to criti-          Valldeperas A. Molecular mechanisms and targets of right ven-
+                                                                                         tricular fibrosis in pulmonary hypertension. Pharmacology &
+cal revision of the manuscript for important intellectual con-
+                                                                             Therapeutics. 2023; 244: 108389. https://doi.org/10.1016/j.ph
+tent. All authors read and approved the final manuscript.          armthera.2023.108389.
+All authors have participated sufficiently in the work and       [7] Namazi M, Eftekhar SP, Mosaed R, Shiralizadeh Dini S,
+agreed to be accountable for all aspects of the work.                  Hazrati E. Pulmonary Hypertension and Right Ventricle: A
+                                                                           Pathophysiological Insight. Clinical Medicine Insights. Cardi-
+                                                                              ology. 2024; 18: 11795468241274744. https://doi.org/10.1177/
+                                                                  11795468241274744.
+
+
+10 [8] Rain S, Handoko ML, Trip P, Gan CTJ, Westerhof N, Stienen          a Novel Biomarker of Right Ventricular Involvement in Pul-
+     GJ, et al. Right ventricular diastolic impairment in patients with         monary Hypertension. The Canadian Journal of Cardiology.
+     pulmonary arterial hypertension. Circulation. 2013; 128: 2016–          2024; 40:  2281–2288. https://doi.org/10.1016/j.cjca.2024.04.
+     2025, 1–10. https://doi.org/10.1161/CIRCULATIONAHA.113.          016.
+     001873.                                                          [22] Ambade AS, Naranjo M, Tuhy T, Yu R, Marimoutou M, Ev-
+ [9] Peixoto PDS, Deniset-Besseau A, Schanne-Klein MC, Mosser            erett AD, et al. Collagen 18A1/Endostatin Expression in the Pro-
+     G. Quantitative assessment of collagen I liquid crystal organi-          gression of Right Ventricular Remodeling and Dysfunction in
+      zations:  role of ionic force and acidic solvent, and evidence         Pulmonary Arterial Hypertension. American Journal of Respi-
+     of new phases†. Soft Matter. 2011; 23: 11203–11210. https:           ratory Cell and Molecular Biology. 2024; 71: 343–355. https:
+     //doi.org/10.1039/c1sm06076g.                                       //doi.org/10.1165/rcmb.2024-0039OC.
+[10] Torres WM, Barlow SC, Moore A, Freeburg LA, Hoenes A,     [23] Weidenhammer A, Prausmüller S, Partsch C, Spinka G, Lucker-
+     Doviak H, et al. Changes in Myocardial Microstructure and          bauer B, Larch M, et al. CILP-1 Is a Biomarker for Back-
+     Mechanics With Progressive Left Ventricular Pressure Over-         ward Failure and Right Ventricular Dysfunction in HFrEF. Cells.
+      load. JACC. Basic to Translational Science. 2020; 5: 463–480.          2023; 12: 2832. https://doi.org/10.3390/cells12242832.
+      https://doi.org/10.1016/j.jacbts.2020.02.007.                       [24] Widmann L, Keranov S, Jafari L, Liebetrau C, Keller T, Troidl
+[11] Schimmel K, Ichimura K, Reddy S, Haddad F, Spiekerkoetter          C, et al. Fibroblast growth factor 23 as a biomarker of right
+     E. Cardiac Fibrosis in the Pressure Overloaded Left and Right           ventricular dysfunction in pulmonary hypertension. Clinical Re-
+      Ventricle as a Therapeutic Target. Frontiers in Cardiovascular          search in Cardiology:  Official Journal of the German Car-
+     Medicine. 2022; 9: 886553. https://doi.org/10.3389/fcvm.2022.          diac Society. 2023; 112: 1382–1393. https://doi.org/10.1007/
+     886553.                                                         s00392-023-02162-y.
+[12] Kazmirczak F, Thenappan T, Prins KW, Prisco SZ. Sex dif-     [25] Keranov S, Widmann L, Jafari L, Liebetrau C, Keller T, Troidl
+     ferences in right ventricular function between Groups 1 and          C, et al. GDF-15 and soluble ST2 as biomarkers of right ven-
+     3 pulmonary hypertension. Pulmonary Circulation. 2023; 13:            tricular dysfunction in pulmonary hypertension. Biomarkers in
+     e12288. https://doi.org/10.1002/pul2.12288.                           Medicine. 2022; 16:  1193–1207. https://doi.org/10.2217/bm
+[13] Chen YZ, Zhao XS, Yuan JS, Zhang Y, Liu W, Qiao SB. Sex-         m-2022-0395.
+      related differences in left ventricular remodeling and outcome     [26] Johnson CA, Jr, Cortelli M, Jr, Glomp G, Cagnolatti C, De-
+      after alcohol septal ablation in hypertrophic obstructive car-          marest CT, Ukita R, et al. A Dynamic Sheep Model to Induce
+     diomyopathy: insights from cardiovascular magnetic resonance         Pulmonary Hypertension and Right Ventricular Failure. Meth-
+     imaging. Biology of Sex Differences. 2022; 13: 37. https://doi.         ods in Molecular Biology (Clifton, N.J.). 2024; 2803: 239–258.
+     org/10.1186/s13293-022-00447-x.                                     https://doi.org/10.1007/978-1-0716-3846-0_18.
+[14] Patel RB, Li E, Benefield BC, Swat SA, Polsinelli VB, Carr JC,     [27] Christou H, Khalil RA. Mechanisms of pulmonary vascular dys-
+      et al. Diffuse right ventricular fibrosis in heart failure with pre-          function in pulmonary hypertension and implications for novel
+     served ejection fraction and pulmonary hypertension. ESC Heart           therapies. American Journal of Physiology. Heart and Circu-
+      Failure. 2020; 7: 253–263. https://doi.org/10.1002/ehf2.12565.            latory Physiology. 2022; 322: H702–H724. https://doi.org/10.
+[15]  Jafari L, Wiedenroth CB, Kriechbaum SD, Grün D, Chelladurai          1152/ajpheart.00021.2022.
+      P, Guenther S, et al. Transcriptional changes of the extracellu-     [28] Tello K, Naeije R, de Man F, Guazzi M. Pathophysiology of the
+      lar matrix in chronic thromboembolic pulmonary hypertension            right ventricle in health and disease: an update. Cardiovascular
+     govern right ventricle remodeling and recovery. Nature Cardio-          Research. 2023; 119: 1891–1904. https://doi.org/10.1093/cvr/
+     vascular Research. 2025; 4: 857–875. https://doi.org/10.1038/          cvad108.
+     s44161-025-00672-8.                                             [29] Braams NJ, Kianzad A, van Wezenbeek J, Wessels JN, Jansen
+[16] Ginting Munte FA, Elen E, Lelya O, Rudiktyo E, Prakoso R,       SMA, Andersen S, et al. Long-Term Effects of Pulmonary
+      Lilyasari O. Right ventricular fibrosis in adults with uncorrected          Endarterectomy on Right Ventricular Stiffness and Fibrosis in
+    secundum atrial septal defect and pulmonary hypertension: a         Chronic Thromboembolic Pulmonary Hypertension. Circula-
+     cardiovascular magnetic resonance study with late gadolinium            tion. Heart Failure. 2023; 16: e010336. https://doi.org/10.1161/
+     enhancement, native T1 and extracellular volume. Frontiers in        CIRCHEARTFAILURE.122.010336.
+     Cardiovascular Medicine. 2024; 11: 1395382. https://doi.org/     [30] Ichimura K, Boehm M, Andruska AM, Zhang F, Schimmel K,
+     10.3389/fcvm.2024.1395382.                                Bonham S, et al. 3D Imaging Reveals Complex Microvascu-
+[17]  Barilli M, Tavera MC, Valente S, Palazzuoli A. Structural and            lar Remodeling in the Right Ventricle in Pulmonary Hyperten-
+    Hemodynamic Changes of the Right Ventricle in PH-HFpEF.           sion. Circulation Research. 2024; 135: 60–75. https://doi.org/
+      International Journal of Molecular Sciences. 2022; 23: 4554.         10.1161/CIRCRESAHA.123.323546.
+     https://doi.org/10.3390/ijms23094554.                             [31] Waxman AB, Systrom DM, Manimaran S, de Oliveira Pena J,
+[18] Song R, Wang P, Yang L, Liu J, Chen Z, Ding Y. Association        Lu J, Rischard FP. SPECTRA Phase 2b Study: Impact of So-
+     of FOXO3A with right ventricular myocardial fibrosis and its           tatercept on Exercise Tolerance and Right Ventricular Function
+      detection by speckle-tracking echocardiography in pulmonary           in Pulmonary Arterial Hypertension. Circulation. Heart Failure.
+     hypertension. Echocardiography (Mount Kisco, N.Y.). 2023; 40:          2024; 17: e011227. https://doi.org/10.1161/CIRCHEARTFAI
+     958–968. https://doi.org/10.1111/echo.15663.                       LURE.123.011227.
+[19] Moon BF, Zhou IY, Ning Y, Chen YCI, Le Fur M, Shuvaev S, et     [32] Gomez-Arroyo J, Sakagami M, Syed AA, Farkas L, Van Tassell
+       al. Simultaneous Positron Emission Tomography and Molecular          B, Kraskauskas D, et al. Iloprost reverses established fibrosis in
+     Magnetic Resonance Imaging of Cardiopulmonary Fibrosis in a          experimental right ventricular failure. The European Respiratory
+    Mouse Model of Left Ventricular Dysfunction. Journal of the           Journal. 2015; 45: 449–462. https://doi.org/10.1183/09031936.
+     American Heart Association. 2024; 13: e034363. https://doi.or         00188013.
+     g/10.1161/JAHA.124.034363.                                     [33] Rai N, Veeroju S, Schymura Y, Janssen W, Wietelmann A, Ko-
+[20] Zeng X, Zhao R, Wu Z, Ma Z, Cen C, Gao S, et al. [18 F] -          jonazarov B, et al. Effect of Riociguat and Sildenafil on Right
+     FAPI-42 PET/CT assessment of Progressive right ventricle fi-          Heart Remodeling and Function in Pressure Overload Induced
+      brosis under pressure overload. Respiratory Research. 2023; 24:        Model of Pulmonary Arterial Banding. BioMed Research In-
+     270. https://doi.org/10.1186/s12931-023-02565-5.                         ternational. 2018; 2018: 3293584. https://doi.org/10.1155/2018/
+[21] Yokokawa T, Nishiura K, Katahira M, Sato Y, Miura S, Sato         3293584.
+     A, et al. Collagen Triple Helix Repeat-Containing Protein 1 Is
+
+
+                                                                                                   11[34] Corboz MR, Nguyen TL, Stautberg A, Cipolla D, Perkins WR,          https://doi.org/10.1165/rcmb.2019-0317OC.
+    Chapman RW. Current Overview of the Biology and Pharma-     [47] Karimi Galougahi K, Zhang Y, Kienzle V, Liu CC, Quek LE,
+     cology in Sugen/Hypoxia-Induced Pulmonary Hypertension in           Patel S, et al. β3 adrenergic agonism: A novel pathway which
+      Rats. Journal of Aerosol Medicine and Pulmonary Drug De-         improves right ventricular-pulmonary arterial hemodynamics in
+      livery. 2024; 37: 241–283. https://doi.org/10.1089/jamp.2024.         pulmonary arterial hypertension. Physiological Reports. 2023;
+     0016.                                                                   11: e15549. https://doi.org/10.14814/phy2.15549.
+[35] Borgdorff MA, Bartelds B, Dickinson MG, van Wiechen MPH,     [48] Liu R, Zhou T, Li X, Zou Q, Yu J, Ye J, et al. A Non-Metallic
+     Steendijk P, de Vroomen M, et al. Sildenafil treatment in estab-        Nanozyme Ameliorates Pulmonary Hypertension Through In-
+      lished right ventricular dysfunction improves diastolic function           hibiting ROS/TGF-β1 Signaling. Advanced Healthcare Ma-
+     and attenuates interstitial fibrosis independent from afterload.             terials. 2024;  13:  e2401909.  https://doi.org/10.1002/adhm
+     American Journal of Physiology. Heart and Circulatory Phys-          .202401909.
+      iology. 2014; 307: H361–H369. https://doi.org/10.1152/ajphea     [49] Crnkovic S, Egemnazarov B, Damico R, Marsh LM, Nagy BM,
+     rt.00843.2013.                                                Douschan P, et al. Disconnect between Fibrotic Response and
+[36] Abdelazeem H, Tu L, Thuillet R, Ottaviani M, Boulfrad A, Beck          Right Ventricular Dysfunction. American Journal of Respiratory
+      T, et al. AMPK activation by metformin protects against pul-         and Critical Care Medicine. 2019; 199: 1550–1560. https://doi.
+    monary hypertension in rats and relaxes isolated human pul-         org/10.1164/rccm.201809-1737OC.
+    monary artery. European Journal of Pharmacology. 2023; 946:     [50] Poble PB, Phan C, Quatremare T, Bordenave J, Thuillet R,
+     175579. https://doi.org/10.1016/j.ejphar.2023.175579.               Cumont A,  et  al. Therapeutic effect of pirfenidone in the
+[37] Clements RT, Vang A, Fernandez-Nicolas A, Kue NR, Mancini          sugen/hypoxia rat model of severe pulmonary hypertension.
+     TJ, Morrison AR, et al. Treatment of Pulmonary Hyperten-       FASEB Journal: Official Publication of the Federation of Amer-
+     sion With Angiotensin II Receptor Blocker and Neprilysin In-          ican Societies for Experimental Biology. 2019; 33: 3670–3679.
+      hibitor Sacubitril/Valsartan. Circulation. Heart Failure. 2019;           https://doi.org/10.1096/fj.201801659R.
+     12: e005819. https://doi.org/10.1161/CIRCHEARTFAILURE     [51] Rol N, de Raaf MA, Sun XQ, Kuiper VP, da Silva Gonçalves
+     .119.005819.                                               Bos D, Happé C, et al. Nintedanib improves cardiac fibro-
+[38] Shen M, Zheng C, Chen L, Li M, Huang X, He M, et al. LCZ696            sis but leaves pulmonary vascular remodelling unaltered in ex-
+      (sacubitril/valsartan) inhibits pulmonary hypertension induced          perimental pulmonary hypertension. Cardiovascular Research.
+      right ventricular remodeling by targeting pyruvate dehydroge-          2019; 115: 432–439. https://doi.org/10.1093/cvr/cvy186.
+     nase kinase 4. Biomedicine & Pharmacotherapy. 2023; 162:     [52] Boehm M, Tian X, Ali MK, Mao Y, Ichimura K, Zhao M, et al.
+     114569. https://doi.org/10.1016/j.biopha.2023.114569.                 Improving Right Ventricular Function by Increasing BMP Sig-
+[39] Johnson JA, West J, Maynard KB, Hemnes AR. ACE2 im-          naling with FK506. American Journal of Respiratory Cell and
+     proves right ventricular function in a pressure overload model.          Molecular Biology. 2021; 65: 272–287. https://doi.org/10.1165/
+     PloS One. 2011; 6: e20828. https://doi.org/10.1371/journal.po         rcmb.2020-0528OC.
+     ne.0020828.                                                      [53] Kojonazarov B, Sydykov A, Pullamsetti SS, Luitel H, Dahal
+[40] Preston IR, Sagliani KD, Warburton RR, Hill NS, Fanburg BL,        BK, Kosanovic D, et al. Effects of multikinase inhibitors on
+      Jaffe IZ. Mineralocorticoid receptor antagonism attenuates ex-          pressure overload-induced right ventricular remodeling. Inter-
+     perimental pulmonary hypertension. American Journal of Phys-           national Journal of Cardiology. 2013; 167: 2630–2637. https:
+      iology. Lung Cellular and Molecular Physiology. 2013; 304:           //doi.org/10.1016/j.ijcard.2012.06.129.
+     L678–L688. https://doi.org/10.1152/ajplung.00300.2012.           [54] Fang YH, Piao L, Hong Z, Toth PT, Marsboom G, Bache-Wiig
+[41] Cowley PM, Wang G, Joshi S, Swigart PM, Lovett DH, Simp-             P, et al. Therapeutic inhibition of fatty acid oxidation in right
+     son PC, et al. α1A-Subtype adrenergic agonist therapy for the           ventricular hypertrophy: exploiting Randle’s cycle. Journal of
+      failing right ventricle. American Journal of Physiology. Heart          Molecular Medicine (Berlin, Germany). 2012; 90: 31–43. https:
+     and Circulatory Physiology. 2017; 313: H1109–H1118. https:          //doi.org/10.1007/s00109-011-0804-9.
+     //doi.org/10.1152/ajpheart.00153.2017.                            [55] Gao X, Zhang Z, Li X, Wei Q, Li H, Li C, et al. Ursolic
+[42] Cowley PM, Wang G, Swigart PM, Raghunathan A, Reddy N,         Acid Improves Monocrotaline-Induced Right Ventricular Re-
+    Dulam P, et al. Reversal of right ventricular failure by chronic         modeling by Regulating Metabolism. Journal of Cardiovascular
+     α1A-subtype adrenergic agonist therapy. American Journal of          Pharmacology. 2020; 75: 545–555. https://doi.org/10.1097/FJ
+     Physiology. Heart and Circulatory Physiology. 2019;  316:         C.0000000000000815.
+    H224–H232. https://doi.org/10.1152/ajpheart.00507.2018.          [56] Spyropoulos F, Michael Z, Finander B, Vitali S, Kosmas K,
+[43] de Man FS, Handoko ML, van Ballegoij JJM, Schalij I, Bo-         Zymaris P, et al. Acetazolamide Improves Right Ventricular
+     gaards SJP, Postmus PE, et al. Bisoprolol delays progression          Function and Metabolic Gene Dysregulation in Experimental
+     towards right heart failure in experimental pulmonary hyperten-         Pulmonary Arterial Hypertension. Frontiers in Cardiovascular
+      sion. Circulation. Heart Failure. 2012; 5: 97–105. https://doi.or          Medicine. 2021; 8: 662870. https://doi.org/10.3389/fcvm.2021.
+    g/10.1161/CIRCHEARTFAILURE.111.964494.                      662870.
+[44] Okumura K, Kato H, Honjo O, Breitling S, Kuebler WM, Sun     [57] Behringer A, Trappiel M, Berghausen EM, Ten Freyhaus
+    M, et al. Carvedilol improves biventricular fibrosis and function         H, Wellnhofer E, Odenthal M,  et  al. Pioglitazone  allevi-
+      in experimental pulmonary hypertension. Journal of Molecular           ates cardiac and vascular remodelling and improves survival
+     Medicine (Berlin, Germany). 2015; 93: 663–674. https://doi.or           in monocrotaline induced pulmonary  arterial hypertension.
+     g/10.1007/s00109-015-1251-9.                                     Naunyn-Schmiedeberg’s Archives of Pharmacology. 2016; 389:
+[45] Bogaard HJ, Natarajan R, Mizuno S, Abbate A, Chang PJ,         369–379. https://doi.org/10.1007/s00210-015-1205-3.
+    Chau VQ, et al. Adrenergic receptor blockade reverses right     [58] Kobayashi T, Kim JD, Naito A, Yanagisawa A, Jujo-Sanada
+      heart remodeling and dysfunction  in pulmonary hyperten-           T, Kasuya Y, et al. Multi omics analysis of right ventricles in
+      sive rats. American Journal of Respiratory and Critical Care            rat models of pulmonary arterial hypertension: Consideration
+     Medicine. 2010; 182:  652–660. https://doi.org/10.1164/rccm          of mitochondrial biogenesis by chrysin. International Journal
+     .201003-0335OC.                                                      of Molecular Medicine. 2022; 49: 69. https://doi.org/10.3892/
+[46]  Ishii R, Okumura K, Akazawa Y, Malhi M, Ebata R, Sun M, et          ijmm.2022.5124.
+       al. Heart Rate Reduction Improves Right Ventricular Function     [59] Banerjee S, Onwunyi VRC, Hong J, Martineau S, Fishbein
+     and Fibrosis in Pulmonary Hypertension. American Journal of        GA, Bonnet SB, et al. RV-specific Targeting of Snai1 Res-
+     Respiratory Cell and Molecular Biology. 2020; 63: 843–855.
+
+
+12     cues Pulmonary Hypertension-induced Right Ventricular Fail-         Induced Pulmonary Hypertension Rats. Frontiers in Pharma-
+     ure by Inhibiting EndMT and Fibrosis via LOXL2 Mediated           cology. 2021; 11: 607384. https://doi.org/10.3389/fphar.2020.
+     Mechanism. bioRxiv. 2024. https://doi.org/10.1101/2024.04.30.         607384.
+     591766. (preprint)                                                [73] Qu C, Xu Y, Yang X, Lu X. Magnesium lithospermate B im-
+[60] Bessa-Gonçalves M, Bragança B, Martins-Dias E, Vinhas A,          proves pulmonary artery banding induced right ventricular dys-
+      Certal M, Rodrigues T, et al. Blockage of the adenosine A2B re-          function by alleviating inflammation via p38MAPK pathway.
+     ceptor prevents cardiac fibroblasts overgrowth in rats with pul-         Pulmonary Pharmacology & Therapeutics. 2020; 63: 101935.
+    monary arterial hypertension. Purinergic Signalling. 2024; 20:           https://doi.org/10.1016/j.pupt.2020.101935.
+     163–179. https://doi.org/10.1007/s11302-023-09952-z.             [74] Kojonazarov B, Novoyatleva T, Boehm M, Happe C, Sibinska
+[61] Houston BA, Brittain EL, Tedford RJ. Right Ventricular Failure.          Z, Tian X, et al. p38 MAPK Inhibition Improves Heart Func-
+    The New England Journal of Medicine. 2023; 388: 1111–1125.           tion in Pressure-Loaded Right Ventricular Hypertrophy. Amer-
+     https://doi.org/10.1056/NEJMra2207410.                                ican Journal of Respiratory Cell and Molecular Biology. 2017;
+[62] Prisco SZ, Hartweck L, Keen JL, Vogel N, Kazmirczak F, Ek-          57: 603–614. https://doi.org/10.1165/rcmb.2016-0374OC.
+     lund M, et al. Glyoxylase-1 combats dicarbonyl stress and right     [75] Yoshida K, Abe K, Ishikawa M, Saku K, Shinoda-Sakamoto M,
+      ventricular dysfunction in rodent pulmonary arterial hyperten-          Ishikawa T, et al. Inhibition of TLR9-NF-κB-mediated sterile
+      sion. Frontiers in Cardiovascular Medicine. 2022; 9: 940932.          inflammation improves pressure overload-induced right ventric-
+     https://doi.org/10.3389/fcvm.2022.940932.                                ular dysfunction in rats. Cardiovascular Research. 2019; 115:
+[63] Yan Q, Li  P, Liu S, Sun Y, Chen C, Long  J,  et  al. Di-         658–668. https://doi.org/10.1093/cvr/cvy209.
+     hydromyricetin treats pulmonary hypertension by modulating     [76] Budas GR, Boehm M, Kojonazarov B, Viswanathan G, Tian X,
+    CKLF1/CCR5 axis-induced pulmonary vascular cell pyropto-          Veeroju S, et al. ASK1 Inhibition Halts Disease Progression in
+       sis. Biomedicine & Pharmacotherapy. 2024; 180: 117614. https:           Preclinical Models of Pulmonary Arterial Hypertension. Amer-
+     //doi.org/10.1016/j.biopha.2024.117614.                                 ican Journal of Respiratory and Critical Care Medicine. 2018;
+[64] Lv J, Shi S, Fu Z, Wang Y, Duan C, Hu S, et al. Exploring          197: 373–385. https://doi.org/10.1164/rccm.201703-0502OC.
+      the inflammation-related mechanisms of Lingguizhugan decoc-     [77] Hu J, Sharifi-Sanjani M, Tofovic SP. Nitrite Prevents Right Ven-
+      tion on right ventricular remodeling secondary to pulmonary ar-            tricular Failure and Remodeling Induced by Pulmonary Artery
+       terial hypertension based on integrated strategy using UPLC-          Banding. Journal of Cardiovascular Pharmacology. 2017; 69:
+    HRMS, systems biology approach, and experimental validation.         93–100. https://doi.org/10.1097/FJC.0000000000000446.
+     Phytomedicine: International Journal of Phytotherapy and Phy-     [78] Rajabi S, Najafipour H, Jafarinejad-Farsangi S, Joukar S, Beik
+     topharmacology. 2024; 132: 155879. https://doi.org/10.1016/j.         A, Askaripour M, et al. Quercetin, Perillyl Alcohol, and Berber-
+     phymed.2024.155879.                                                   ine Ameliorate Right Ventricular Disorders in Experimental Pul-
+[65] Huang L, Li H, Huang S, Wang S, Liu Q, Luo L, et al. Notopterol         monary Arterial Hypertension: Effects on miR-204, miR-27a,
+     Attenuates Monocrotaline-Induced Pulmonary Arterial Hyper-            Fibrotic, Apoptotic, and Inflammatory Factors. Journal of Car-
+     tension in Rat. Frontiers in Cardiovascular Medicine. 2022; 9:          diovascular Pharmacology. 2021; 77: 777–786. https://doi.org/
+     859422. https://doi.org/10.3389/fcvm.2022.859422.                   10.1097/FJC.0000000000001015.
+[66] Wang S, Li H, Liu Q, Ma H, Huang L, Yu L, et al. Hydrox-     [79] Zhai W, Li Y, Luo Y, Gao W, Liu S, Han J, et al. Sevoflurane
+      ycitric Acid Tripotassium Hydrate Attenuates Monocrotaline          prevents pulmonary vascular remodeling and right ventricular
+     and Hypoxia-Induced Pulmonary Hypertension in Rats. Inter-          dysfunction in pulmonary arterial hypertension in rats. Ameri-
+      national Heart Journal. 2024; 65: 318–328. https://doi.org/10.         can Journal of Translational Research. 2021; 13: 11302–11315.
+     1536/ihj.23-350.                                                  [80] Ferraz AP, Seara FAC, Baptista EF, Barenco TS, Sottani TBB,
+[67] Chen S, Sun P, Li Y, Shen W, Wang C, Zhao P, et al. Mela-         Souza NSC, et al. BKCa Channel Activation Attenuates the
+     tonin activates the Mst1-Nrf2 signaling to alleviate cardiac hy-          Pathophysiological Progression of Monocrotaline-Induced Pul-
+     pertrophy in pulmonary arterial hypertension. European Journal         monary Arterial Hypertension in Wistar Rats. Cardiovascular
+     of Pharmacology. 2022; 933: 175262. https://doi.org/10.1016/j.         Drugs and Therapy. 2021; 35: 719–732. https://doi.org/10.1007/
+     ejphar.2022.175262.                                              s10557-020-07115-5.
+[68] Li H, Liu Q, Yue Y, Wang S, Huang S, Huang L, et al. Celas-     [81] Alves-Silva JM, Zuzarte M, Marques C, Viana S, Preguiça I,
+      trol attenuates the remodeling of pulmonary vascular and right           Baptista R, et al. 1,8-Cineole ameliorates right ventricle dys-
+      ventricular in monocrotaline-induced pulmonary arterial hyper-          function associated with pulmonary arterial hypertension by
+     tension in rats. Cardiovascular Diagnosis and Therapy. 2022; 12:           restoring connexin43 and mitochondrial homeostasis. Pharma-
+     88–102. https://doi.org/10.21037/cdt-21-360.                            cological Research. 2022; 180: 106151. https://doi.org/10.1016/
+[69] Kurosawa R, Satoh K, Nakata T, Shindo T, Kikuchi N, Satoh T,          j.phrs.2022.106151.
+      et al. Identification of Celastrol as a Novel Therapeutic Agent for     [82] Redout EM, van der Toorn A, Zuidwijk MJ, van de Kolk CWA,
+     Pulmonary Arterial Hypertension and Right Ventricular Failure         van Echteld CJA, Musters RJP, et al. Antioxidant treatment at-
+     Through Suppression of Bsg (Basigin)/CyPA (Cyclophilin A).           tenuates pulmonary arterial hypertension-induced heart failure.
+      Arteriosclerosis, Thrombosis, and Vascular Biology. 2021; 41:         American Journal of Physiology. Heart and Circulatory Physi-
+     1205–1217. https://doi.org/10.1161/ATVBAHA.120.315731.             ology. 2010; 298: H1038–H1047. https://doi.org/10.1152/ajph
+[70] Kang Y, Zhang G, Huang EC, Huang J, Cai J, Cai L, et al.          eart.00097.2009.
+     Sulforaphane prevents right ventricular injury and reduces pul-     [83] Sun Y, Wan W, Zhao X, Han X, Ye T, Chen X, et al. Chronic
+    monary vascular remodeling in pulmonary arterial hypertension.         Sigma 1 receptor activation alleviates right ventricular dys-
+     American Journal of Physiology. Heart and Circulatory Physi-          function secondary to pulmonary arterial hypertension. Bio-
+     ology. 2020; 318: H853–H866. https://doi.org/10.1152/ajpheart          engineered. 2022; 13: 10843–10856. https://doi.org/10.1080/
+     .00321.2019.                                                     21655979.2022.2065953.
+[71] Bogaard HJ, Natarajan R, Henderson SC, Long CS, Kraskauskas     [84] Yoshida K, Saku K, Jan Bogaard H, Abe K, Sunagawa K, Tsut-
+     D, Smithson L, et al. Chronic pulmonary artery pressure ele-           sui H. Vagal nerve stimulation preserves right ventricular func-
+     vation is insufficient to explain right heart failure. Circulation.           tion in a rat model of right ventricular pressure overload. Pul-
+     2009; 120: 1951–1960. https://doi.org/10.1161/CIRCULATIO         monary Circulation. 2022; 12: e12154. https://doi.org/10.1002/
+    NAHA.109.883843.                                                  pul2.12154.
+[72] Yang Z, Sun H, Su S, Nan X, Li K, Jin X, et al. Tsantan Sum-     [85] Blake M, Puchalska P, Kazmirczak F, Blake J, Moon R, Thenap-
+     tang Restored Right Ventricular Function in Chronic Hypoxia-
+
+
+                                                                                                13     pan T, et al. Ketone bodies in right ventricular failure: A unique            tional Medicine. 2016; 5: 883–892. https://doi.org/10.5966/sc
+      therapeutic opportunity. Heliyon. 2023; 9: e22227. https://doi.          tm.2015-0241.
+     org/10.1016/j.heliyon.2023.e22227.                                [97] Wehman B, Sharma S, Pietris N, Mishra R, Siddiqui OT, Bigham
+[86] Chen Z, Wang J, Qin X, Di N, Deng H, Li X. Long-term         G, et al. Mesenchymal stem cells preserve neonatal right ven-
+    swimming exercise attenuates right ventricular hypertrophy via            tricular function in a porcine model of pressure overload. Amer-
+     modulating meta-inflammation in monocrotaline-induced pul-          ican Journal of Physiology. Heart and Circulatory Physiol-
+    monary hypertensive rats. Biochemical and Biophysical Re-          ogy. 2016; 310: H1816–H1826. https://doi.org/10.1152/ajphea
+     search Communications. 2024; 733: 150710. https://doi.org/10.          rt.00955.2015.
+     1016/j.bbrc.2024.150710.                                         [98] Schmuck EG, Hacker TA, Schreier DA, Chesler NC, Wang
+[87] Janssen W, Schymura Y, Novoyatleva  T, Kojonazarov B,          Z. Beneficial effects of mesenchymal stem cell delivery via a
+    Boehm M, Wietelmann A, et al. 5-HT2B receptor antagonists          novel cardiac bioscaffold on right ventricles of pulmonary ar-
+      inhibit fibrosis and protect from RV heart failure. BioMed Re-             terial hypertensive rats. American Journal of Physiology. Heart
+     search International. 2015; 2015:  438403. https://doi.org/10.         and Circulatory Physiology. 2019; 316: H1005–H1013. https:
+     1155/2015/438403.                                                     //doi.org/10.1152/ajpheart.00091.2018.
+[88] Vang A, da Silva Gonçalves Bos D, Fernandez-Nicolas A,     [99] Watanabe T, Kawamura T, Harada A, Taira M, Yoshioka D, Shi-
+    Zhang P, Morrison AR, Mancini TJ, et al. α7 Nicotinic acetyl-        mamura K, et al. Human induced pluripotent stem cell-derived
+     choline receptor mediates right ventricular fibrosis and diastolic          cardiomyocyte patches ameliorate right ventricular function in
+     dysfunction in pulmonary hypertension. JCI Insight. 2021; 6:          a rat pressure-overloaded right ventricle model. Journal of Ar-
+     e142945. https://doi.org/10.1172/jci.insight.142945.                           tificial Organs: the Official Journal of the Japanese Society for
+[89] Wang YD, Li YD, Ding XY, Wu XP, Li C, Guo DC,  et            Artificial Organs. 2025; 28: 234–243. https://doi.org/10.1007/
+       al. 17β-estradiol preserves right ventricular function in rats         s10047-024-01479-3.
+     with pulmonary arterial hypertension:  an echocardiographic     [100] Guo Q, Huang JA, Yamamura A, Yamamura H, Zimnicka AM,
+     and histochemical study. The International Journal of Cardio-         Fernandez R, et al. Inhibition of the Ca(2+)-sensing receptor
+     vascular Imaging. 2019; 35: 441–450. https://doi.org/10.1007/          rescues pulmonary hypertension in rats and mice. Hypertension
+     s10554-018-1468-0.                                                 Research: Official Journal of the Japanese Society of Hyperten-
+[90] Lahm T, Frump AL, Albrecht ME, Fisher AJ, Cook TG, Jones           sion. 2014; 37: 116–124. https://doi.org/10.1038/hr.2013.129.
+     TJ, et al. 17β-Estradiol mediates superior adaptation of right     [101] Comarița IK, Tanko G, Anghelache IL, Georgescu A. The
+      ventricular function to acute strenuous exercise in female rats         siRNA-mediated knockdown of AP-1 restores the function of
+     with severe pulmonary hypertension. American Journal of Phys-           the pulmonary artery and the right ventricle by reducing perivas-
+      iology. Lung Cellular and Molecular Physiology. 2016; 311:           cular and interstitial fibrosis and key molecular players in car-
+     L375–L388. https://doi.org/10.1152/ajplung.00132.2016.               diopulmonary disease. Journal of Translational Medicine. 2024;
+[91] Alzoubi A, Toba M, Abe K, O’Neill KD, Rocic P, Fagan KA, et          22: 137. https://doi.org/10.1186/s12967-024-04933-1.
+       al. Dehydroepiandrosterone restores right ventricular structure     [102] Song J, Chen Y, Chen Y, Wang S, Dong Z, Liu X, et al.
+     and function in rats with severe pulmonary arterial hypertension.           Ferrostatin-1 Blunts Right Ventricular Hypertrophy and Dys-
+     American Journal of Physiology. Heart and Circulatory Physi-          function in Pulmonary Arterial Hypertension by Suppressing
+     ology. 2013; 304: H1708–H1718. https://doi.org/10.1152/ajph           the HMOX1/GSH Signaling. Journal of Cardiovascular Trans-
+     eart.00746.2012.                                                             lational Research. 2024; 17: 183–196. https://doi.org/10.1007/
+[92] Chen X, Yu X, Lian G, Tang H, Yan Y, Gao G,  et  al.         s12265-023-10423-4.
+     Canagliflozin  inhibits PASMCs  proliferation via regulating     [103] Bao C, Liang S, Han Y, Yang Z, Liu S, Sun Y, et al. The Novel
+    SGLT1/AMPK signaling and attenuates artery remodeling in         Lysosomal Autophagy Inhibitor (ROC-325) Ameliorates Exper-
+    MCT-induced pulmonary arterial hypertension. Biomedicine &          imental Pulmonary Hypertension. Hypertension (Dallas, Tex.:
+     Pharmacotherapy. 2024; 174: 116505. https://doi.org/10.1016/          1979). 2023; 80: 70–83. https://doi.org/10.1161/HYPERTENSI
+     j.biopha.2024.116505.                                        ONAHA.122.19397.
+[93] Chowdhury B, Luu AZ, Luu VZ, Kabir MG, Pan Y, Teoh H,     [104] Huang W, Zhou H, He Y, Wang A, Wang B, Chen Y, et al. A
+      et al. The SGLT2 inhibitor empagliflozin reduces mortality and          novel PDGFR inhibitor WQ-C-401 prevents pulmonary vascu-
+     prevents progression in experimental pulmonary hypertension.            lar remodeling in rats with monocrotaline-induced pulmonary
+     Biochemical and Biophysical Research Communications. 2020;            arterial hypertension. Experimental Cell Research. 2024; 441:
+     524: 50–56. https://doi.org/10.1016/j.bbrc.2020.01.015.                114154. https://doi.org/10.1016/j.yexcr.2024.114154.
+[94] Omura J, Habbout K, Shimauchi T, Wu WH, Breuils-Bonnet S,     [105] Li J, Zhang Z, Zhu C, Zheng X, Wang C, Jiang J, et al.
+     Tremblay E, et al. Identification of Long Noncoding RNA H19           Salidroside enhances NO bioavailability and modulates argi-
+     as a New Biomarker and Therapeutic Target in Right Ventricular          nine metabolism to alleviate pulmonary arterial hypertension.
+      Failure in Pulmonary Arterial Hypertension. Circulation. 2020;         European Journal of Medical Research. 2024; 29: 423. https:
+     142: 1464–1484. https://doi.org/10.1161/CIRCULATIONAHA          //doi.org/10.1186/s40001-024-02016-x.
+     .120.047626.                                                   [106] Zafeiropoulos S, Ahmed U, Bekiaridou A, Jayaprakash N,
+[95] Oommen S, Yamada S, Cantero Peral S, Campbell KA, Bru-         Mughrabi IT, Saleknezhad N, et al. Ultrasound Neuromodula-
+     insma ES, Terzic A, et al. Human umbilical cord blood-derived           tion of an Anti-Inflammatory Pathway at the Spleen Improves
+     mononuclear cells improve murine ventricular function upon          Experimental Pulmonary Hypertension. Circulation Research.
+     intramyocardial delivery in right ventricular chronic pressure          2024; 135: 41–56. https://doi.org/10.1161/CIRCRESAHA.123.
+     overload. Stem Cell Research & Therapy. 2015; 6: 50. https:         323679.
+     //doi.org/10.1186/s13287-015-0044-y.                            [107] Rossi R, Coppi F, Monopoli DE, Sgura FA, Arrotti S, Boriani
+[96] Agarwal U, Smith AW, French KM, Boopathy AV, George A,         G. Pulmonary arterial hypertension and right ventricular systolic
+     Trac D, et al. Age-Dependent Effect of Pediatric Cardiac Pro-          dysfunction in COVID-19 survivors. Cardiology Journal. 2022;
+      genitor Cells After Juvenile Heart Failure. Stem Cells Transla-          29: 163–165. https://doi.org/10.5603/CJ.a2021.0159.
+
+
+
+
+
+14

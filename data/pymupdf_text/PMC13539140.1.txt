@@ -1,0 +1,722 @@
+                                                            Journal of Advanced Research 87 (2026) 931–946
+
+
+                                            Contents lists available at ScienceDirect
+
+                        Journal of Advanc ed Research
+
+
+                               journal homepag e: www.elsevier.com/locate/jare
+
+
+
+c-Myc-PANK3-EMT axis regulates the structure and function of
+intestinal barrier in ulcerative colitis
+
+Shize Zhang a,1, Yuang Chen a,1, Nan Aa b,1 , Chen Xu a , Tao Xie a, Yi Wang a , Tian Cheng a , Mengqin Wang a,
+          b                c            d                  e              c,⁎              a,⁎                     a,⁎           a,⁎
+Hong Yu   , Xinqiang Ji  , Song Zhao   , Yaohui Wang  , Jun Xiao     , Yuan Xie     , Guangji Wang     , Jiye Aa
+
+a Key Laboratory of Drug Metabolism and Pharmacokinetics, State Key Laboratory of Natural Medicines, China Pharmaceutical University, Nanjing, PR China
+b Department of Gastroenterology, The First Afﬁliated Hospital with Nanjing Medical University, Nanjing, PR China
+c Digestive Endoscopy Center, Jiangsu Province Hospital of Chinese Medicine, Afﬁliated Hospital of Nanjing University of Chinese Medicine, Nanjing, PR China
+d Department of Gastroenterology, Jiangsu Province Hospital of Chinese Medicine, Afﬁliated Hospital of Nanjing University of Chinese Medicine, Nanjing, PR China
+e Department of Pathology, Jiangsu Province Hospital of Chinese Medicine, Afﬁliated Hospital of Nanjing University of Chinese Medicine, Nanjing, PR China
+
+
+
+h i g h l i g h t s               g r a p h i c a l a b s t r a c t
+
+• Intestinal epithelial PANK3 is down-        The c-Myc-PANK3 axis drives intestinal barrier dysfunction in ulcerative colitis by regulating down-
+ regulated in ulcerative colitis.               stream EMT-me diated epithelial damage. Thus, PANK3 represents a novel therapeutic target for UC.
+• Upregulated PANK3 reconstructs the
+ impaired intestinal epithelial barrier
+  in vitro and in vivo.
+• c-Myc represses PANK3 to drive EMT-
+ mediated intestinal barrier damage.
+• The naturally derived vitamin folic
+  acid activates PANK3 to restore the
+  intestinal barrier and alleviate colitis.
+
+
+
+
+
+a r t i c l e    i n f o              a b s t r a c t
+
+
+Article history:                                     Introduction: The repair of structural damage of the intestinal barrier is critical to rescue ulcerative colitis
+Received 13 July 2025                             (UC), but there lacks effective targets currently.
+Revised 25 October 2025                            Objectives: This study aims to explore mechanisms and identify potential targets for repairing the dam-
+Accepted 8 December 2025
+                                         aged intestinal barrier involved in UC.
+Available online 8 December 2025
+                                            Methods: Nontargeted metabolomic and transcriptomic analyses were utilized to characterize the meta-
+                                                  bolic features of DSS-induced colitis and identify potential therapeutic targets. Pantothenate kinase 3
+Keywords:
+                                        (PANK3) was  pharmacologically and  genetically  modulated  to  elucidate  its  mechanistic  role.
+Ulcerative colitis
+                                         Chromatin immunoprecipitation and dual-luciferase reporter assays were employed to identify upstream
+Intestinal barrier
+PANK3                                          regulators of PANK3, and PANK3 agonists were screened by high-throughput docking and further con-
+c-Myc                                ﬁrmed by in vitro and in vivo experiments.
+EMT                                                 Results: Metabolomic data indicated that perturbed metabolism involves pantothenate kinase. Clinical
+Folic acid                                       database, qPCR, WB, and immunohistochemical staining revealed a signiﬁcant decrease of PANK3 in both
+                                                patients and murine models of colitis. Pharmacological activation or overexpression of PANK3 restored
+                                             the integrity of the intestinal barrier in UC mice, whereas PANK3 knockdown or inhibition exacerbated
+
+
+ ⁎ Corresponding authors at: Gulou District, Tongjia Lane 24, Nanjing 210009, PR China.
+
+    E-mail addresses: cutujun@aliyun.com (J. Xiao), yuanxie@cpu.edu.cn (Y. Xie), guangjiwang@hotmail.com (G. Wang), jiyea@cpu.edu.cn (J. Aa).
+  1 These authors contributed equally to this work.
+
+
+https://doi.org/10.1016/j.jare.2025.12.007
+2090-1232/© 2025 The Authors. Published by Elsevier B.V. on behalf of Cairo University.
+This is an open access article under the CC BY license (http://creativecommons.org/licenses/by/4.0/).S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+                                                  barrier dysfunction. PANK3  is negatively regulated by upstream c-Myc, and affects downstream,
+                                                   epithelial mesenchymal transition (EMT). In general, elevated c-Myc suppressed PANK3 transcription,
+                                       promoted the EMT process and induced barrier disruption. The natural vitamin folic acid was identiﬁed
+                                              as an agonist of PANK3, which could markedly improve the intestinal barrier in DSS-induced colitis.
+                                                 Conclusion: The c-Myc-PANK3-EMT axis plays a critical role in preserving the structure and function of
+                                                   intestinal barrier. PANK3 is a potential target and folic acid is a candidate agonist of PANK3 to repair
+                                                   intestinal barrier in UC.
+                              © 2025 The Authors. Published by Elsevier B.V. on behalf of Cairo University. This is an open access article
+                                                                       under the CC BY license (http://creativecommons.org/licenses/by/4.0/).
+
+
+
+
+Introduction                                                            Therefore, based on the aforementioned background, this study
+                                                           employs a systems biology approach to comprehensively analyze
+   Inﬂammatory bowel disease (IBD), represented by Crohn’s dis-    metabolic abnormalities and their molecular mechanisms underly-
+ease (CD) and ulcerative colitis (UC), is a chronic, relapsing idio-     ing intestinal barrier dysfunction. By integrating analyses of the
+pathic  gastrointestinal inﬂammatory  disease  that  results  in     intestinal microenvironment and speciﬁc substance changes with
+severe disability [1]. The number of IBD patients has grown expo-     transcriptomic proﬁling, this research aims to uncover novel mech-
+nentially in recent decades, resulting in a substantial health care    anisms and identify potential therapeutic targets for the treatment
+burden globally [2]. Current therapeutic strategies for IBD include     of UC.
+traditional agents such as aminosalicylates, corticosteroids and
+immunosuppressants, as well as targeted therapies such as bio-    Material and methods
+logic antibodies, Janus kinase (JAK) inhibitors, and sphingosine-1-
+phosphate receptor (S1PR) modulators [3]. However, these treat-   Human samples collection
+ments often suffer from suboptimal efﬁcacy, high relapse rates,
+and unavoidable adverse effects [4,5]. The primary reasons for       Colon biopsy samples were provided from Jiangsu Province
+the present clinical dilemma in IBD management are that the key     Hospital and Jiangsu Province Hospital of Chinese Medicine, com-
+pathogenic mechanisms have not been elucidated and that there     prising a total of 10 participants (4 healthy controls, 3 ulcerative
+is a lack of therapeutic targets. The pathogenesis of IBD involves      colitis patients, and 3 Crohn’s disease patients). Written informed
+a complex interplay of immune system dysfunction, intestinal    consent was obtained from all clinic participants prior to sample
+microbe disorders, intestinal barrier disruption and genetic sus-     collection. This study was approved by Institutional Review Board
+ceptibility  [6,7]. Among these  factors, the immune-mediated     of Jiangsu Province Hospital (2023-SR-980) and Jiangsu Province
+inﬂammatory response is considered the fundamental mechanism     Hospital of Chinese Medicine (2022NL-069–02), respectively.
+of IBD. However, the efﬁcacy of both antibodies against proinﬂam-
+matory cytokines such as TNF-a, IL-12/23, and IL-17 and small-      Cell culture and stimulation conditions
+molecule drugs that inhibit overactivated mucosal immunity is
+limited in a speciﬁc subset of patients [8,9]. These ﬁndings under-       HT29, Caco-2 and HEK-293T were purchased from Procell
+score the need for further research to elucidate the intricate IBD    (Wuhan, China). Cells were cultured in Dulbecco’ s modiﬁed Eagle’s
+underlying mechanisms and to identify novel therapeutic targets.    medium (DMEM) supplemented with 10 % Fetal Bovine Serum
+   The intestinal barrier, which is predominantly composed of a     (FBS) and 1 % penicillin/streptomycin excerpt for Caco-2 which
+mucus layer and an intestinal epithelial barrier, functions as a piv-    was maintained in DMEM with 20 % FBS. NCM-460 was purchased
+otal defensive mechanism separating the internal milieu from the    from iCell (Shanghai, China) and cultured in RPMI-1640 with 10 %
+external environment [10,11]. The barrier is essential for intestinal    FBS and 1 % penicillin/streptomycin. All cell lines were authenti-
+homeostasis and plays a central role in overall gut health. Although    cated by STR proﬁling and tested for mycoplasma contamination.
+disruption of the intestinal barrier is associated with IBD, the speci-    The cells were treated with 30 ng/mL TNF-a (PeproTech, USA)
+ﬁc relationship between the two, such as whether intestinal barrier    and IFN-c (PeproTech) in the presence or absence of PZ-2891
+damage is a cause or a consequence of IBD, remains unknown. Nev-     (2 lM, MCE, USA), Hopantenate (250 lM, Macklin, China), CoA
+ertheless, recent clinical studies have indicated that increased    (250 lM, MCE) and folic acid (1 lM, MCE) respectively for 12 h.
+intestinal permeability occurs prior to the progression of disease,    For c-Myc inhibition, HT29 cells were treated with 10058-F4
+and that restoration of barrier integrity is a strong predictor of    (10 lM and 20 lM, MCE) for 12 h.
+treatment outcomes in patients with IBD [12–14]. These ﬁndings
+highlight the pivotal role of the intestinal barrier in the develop-    Mice and drug administration
+ment and management of IBD, emphasizing its potential as a ther-
+apeutic target. Speciﬁc genes associated with gut barrier function       6-weeks-old male C57BL/6J mice were purchased from Charles
+are considered prospective therapeutic targets for future IBD treat-     River (Zhejiang, China). 8-weeks-old male IL-10 deﬁcient mice
+ment [15–17]. Moreover, as the cornerstone of the epithelial bar-    (n = 5) were obtained from Cyagen Biosciences (Suzhou, China).
+rier, intestinal epithelial cells (IECs) are highly susceptible to    Mice were housed under SPF conditions (20 ± 2°C, 40–60 % humid-
+endogenous metabolism due to their high turnover rate [18,19].      ity, 12-hour/12-hour light/dark cycle) and approved by the Ethical
+Notably, the integrity of the intestinal barrier is also compromised    Committee for Experimental Animal Care of China Pharmaceutical
+in certain extraintestinal metabolic disorders, such as obesity and     University (2023–01-012). Mice were stratiﬁed into experimental
+diabetes [20,21]. Conversely, various functional metabolites have    cohorts through body weight-matching  to ensure intergroup
+demonstrated  potential  for modulating the  intestinal  barrier    homogeneity. All following compounds were administrated by oral
+[22,23]. Although the relationship between metabolic abnormali-    gavage. The speciﬁc formulations and dosages were as follows: PZ-
+ties and barrier damage or repair has not yet been fully elucidated,    2891 was dispersed in 30 % captisol (Aladdin, China) at a concen-
+this study offers a novel perspective for identifying effective tar-     tration of 3 mg/mL and administered at 30 mg/kg; 10058-F4 and
+gets for restoring barrier function in the treatment of IBD.               folic acid (MCE) were homogeneously suspended in 0.5 % sodium
+
+
+                                                                   932S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+carboxymethyl cellulose (CMC-Na) at concentrations of 5 mg/mL    MATSU, Japan). For IF, cells or tissue sections were ﬁxed with
+and 3 mg/mL, respectively, and administered at 50 mg/kg and    paraformaldehyde, permeabilized with 0.3 % Triton X-100, and
+30 mg/kg; Hopantenate was dissolved in saline at a concentration    blocked with 5 % bovine serum albumin (BSA). Primary antibodies
+of 20 mg/mL and administered at 200 mg/kg. Vehicle control    were  applied  overnight  at 4  °C,  followed by  ﬂuorophore-
+groups received the corresponding solvents (30 % captisol, 0.5 %    conjugated secondary antibodies. Nuclei were stained with DAPI,
+CMC-Na, or saline) at the same administration volume.             and images were captured using ﬂuorescence microscope FV3000
+                                                              (Olympus, Japan). Antibodies used in this study are listed in online
+Dss-induced experimental colitis                                   supplemental table S1.
+
+   Acute experimental colitis in mice (n = 8, per group) was     Quantitive RT-PCR and bulk RNA sequencing
+induced by giving 2–3 % DSS (w/v, 36–50 KD, MP biomedicals,
+USA) in drinking water for 7 days. After 7 days of induction, mice        Total RNA of  cells or tissues were extracted using TRIzol
+were anesthetized with isoﬂurane and colon samples were col-    (Vazyme, China), quantiﬁed, and then reverse transcribed to cDNA
+lected for further analysis.                                         using Hiscript Reverse Transcriptase Kit (Vazyme). Quantitive RT-
+                                                       PCR was performed using One Step qRT-PCR Probe Master Mix
+Overexpression constructs and shRNA knockdown                    (Vazyme) on a CFX96 Real Time PCR-Cycler (Bio-Rad). The relative
+                                             mRNA expression was determined by DDCt method and normal-
+   Overexpression plasmids of human PANK3 and  its control,     ized to GAPDH. The primer sequences are listed in online supple-
+human c-Myc and its control were purchased from VectorBuilder    mental table S2. For RNA sequencing, colon tissues were rapidly
+(Guangzhou, China). shRNA knockdown of human PANK3 and its     frozen in liquid nitrogen and then used to extract total RNA. After
+control were obtained from Genepharma (Shanghai, China). Plas-    puriﬁcation and quality assessment, sequencing analysis was per-
+mids transfection was performed using LipofectamineTM 3000    formed on an Illumina NovaSeq 6000 platform to generate high-
+(Invitrogen, USA) according to the manufacturer’s instruction. Tar-     quality paired-end reads by Gene Devono (Guangzhou, China). Dif-
+get sequences are as follows: 5′-3′: ACCTTGAACTGAAAGATTTAAT.     ferential expression analysis was conducted using DESeq2 and
+3′-5′: TTTGGAACTTGACTTTCTAAATTA.                                  visualization  of  results was generated using online platform
+                                                              Omicsmart.
+Virus injection
+
+                                                               Chromatin immunoprecipitation and qPCR
+   The overexpression adeno-associated virus AAV9-CMV-PANK3-
+P2A-GFP (AAV-Pank3-OE, 4.64 × 1013 vg/mL) and its control virus
+                                                                       PierceTM Magnetic ChIP Kit (CatLog No. 26157) was purchasedAAV9-CMV-GFP (AAV-GFP, 6.50 × 1013 vg/mL) were constructed
+                                                           from Thermoﬁsher (USA) and carried out according to manufac-
+by WZ Biosciences (Jinan, China). Similarly, the knockdown virus
+                                                                             turer’s instruction. Brieﬂy, HT29 cells were cross-linked with 1 %AAV9-CMV-4in1shRNA-PANK3-GFP (AAV-shPank3, 2.27 × 1013
+                                                             formaldehyde for 10 min at RT to preserve protein-DNA interac-
+vg/mL) and  its  control  virus AAV9-CMV-Scramble-GFP (AAV-
+                                                                              tions, followed by quenching with 125 mM glycine. ChromatinshNC, 5.53 × 1013 vg/mL) were also obtained from the same ven-
+                                                      was sheared to 150–900 bp fragments using a SANYO Soniprep
+dor. All viral stocks were diluted in sterile ice-cold PBS to a working
+                                                         150 at 10 lm amplitude, with four cycles of 20-second pulsesconcentration of 1.0 × 1012 vg/mL and a total volume of 100 lL of
+                                                                     interspersed with 20-second intervals on ice. The sample tubethe respective virus (equivalent to 1.0 × 1011 vector genomes per
+                                                      was kept in an ice-water bath throughout to maintain 4 °C. The
+mouse) was administered via enema. Transgene expression was
+                                                                         lysate was incubated with a speciﬁc antibody to c-Myc (abcam).
+allowed to stabilize for four weeks before the subsequent DSS-
+                                                          To ensure the speciﬁcity of the immunoprecipitation, parallel sam-
+induced modeling.
+                                                                       ples were processed using a species-matched normal IgG as a neg-
+                                                                         ative control and an antibody against RNA Polymerase  II as a
+Immunoblotting
+                                                                        positive control. Subsequently, immune complexes from all sam-
+                                                                       ples were captured using protein A/G beads, washed extensively
+   Total cellular and tissue proteins were extracted with RIPA
+                                                              with the kit’s IP wash buffer, and eluted. Cross-links were reversed
+lysates (Beyotime, China); Nuclear and cytoplasmic protein separa-
+                                                          by heating at 65 °C, and DNA was puriﬁed using DNA clean-up col-
+tion was performed using a Nuclear and Cytoplasmic Protein
+                                                          umns. q-PCR analysis of enriched DNA fragments was performed
+Extraction Kit (Beyotime). Protein samples were then separated
+                                                                            for different binding sites between c-Myc and pank3 promoter.
+by SDS-PAGE, transferred to PVDF membranes, and blocked in
+                                                          The ChIP primer sequences are listed in online supplemental table
+5 % skimmed milk for 2 h at RT. After incubated overnight at 4 °C
+                                                                         S2.
+with the appropriate primary antibodies, the membranes were
+washed and incubated with corresponding HRP-conjugated sec-
+ondary antibodies for 2 h at RT. All blots were visualized by gel-     Dual-Luciferase reporter assay
+imaging system (Bio-Rad, USA). Antibodies used in this study are
+listed in online supplemental table S1.                                  Fireﬂy luciferase reporter plasmid containing full-length pank3
+                                                             promoter (GPL4-promotor-luci), GPL4-luci, GPL4-basic, and GPL4-
+Immunohistochemistry and immunoﬂuorescence staining              RL plasmids were purchased from Genepharma (Shanghai, China).
+                                                                        In brief, HEK-293T cells were seeded in 12-well plates and co-
+   For IHC, tissue sections were ﬁxed, parafﬁn-embedded, and cut     transfected with GPL4-promotor-luci or its control GPL4-basic, c-
+into thin  slices. After deparafﬁnization, antigen  retrieval, and   Myc overexpression plasmid or its control, and a Renilla luciferase
+blocking, slides were incubated with primary antibodies overnight     control plasmid using LipofectamineTM 3000. After 48 h of incuba-
+at 4 °C, followed by secondary antibodies conjugated with horse-     tion, luminescence of both luciferases was determined using Dual
+radish  peroxidase  (HRP).   Staining  was   visualized  using     Luciferase Reporter Gene Assay Kit (Yeasen, China). The relative
+diaminobenzidine (DAB), and nuclei were counterstained with     luciferase activity was calculated as the ratio of Fireﬂy luciferase
+hematoxylin. Images were taken by Nanozoomer S60 (HAMA-     activity to Renilla luciferase activity.
+
+
+
+                                                                   933S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+                                                                   934S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+Cellular thermal shift assay                                       with those of the normal controls (Fig. 1A–B and Fig.S1A), suggest-
+                                                                    ing dysfunction of pantothenate metabolism. Pantothenate is the
+  CETSA was conducted based on previous studies [24]. In brief,    key substance utilized for the de novo synthesis of coenzyme A,
+HEK-293T cells were inoculated into 60 mm dishes and transfected    which can be produced either through vanin-catalyzed hydrolysis
+with the Flag-tagged PANK3 expression plasmid. After incubation     or phosphorylated by pantothenate kinase (PANK) [25,26] (Fig.
+for 48 h, DMSO and 20 lM folic acid were administered for 12 h.     S1B). Although both upstream vanin and downstream PANK play
+Cells were suspended in ice PBS and evenly divided into 8 equal    key roles in the production of coenzyme A [27], the role of vanin
+portions for heating at different temperatures (55, 57, 59, 61, 63,     in IBD pathogenesis is controversial. Therefore, this study focused
+65, 67, 69 °C) for 5 min. Cell suspensions were repeatedly freeze-    on the phenotype and function of PANK. The data revealed that
+thawed three times for protein extraction, which was then used   PANK3 expression exhibited signiﬁcantly greater reduction than
+for immunoblotting analysis.                                       the other two isoforms of colonic PANK (PANK1 and PANK2) in
+                                                              DSS-induced colitis mice versus normal controls (Fig. 1C–D and
+Colon coenzyme A determination                                        Fig.S1C–F). Immunohistochemical staining conﬁrmed this observa-
+                                                                               tion, directly showing decreased PANK3 levels within the colonic
+   Colon tissue (20 mg) was homogenized and extracted in 200 lL    epithelium (Fig. 1E). Considering that a well-characterized mouse
+of cooled ddH2O, followed by the addition of 800 lL of cooled    model of chronic colitis reproduces the clinical features of UC
+methanol (containing 20 ng/mL tenofovir). After centrifugation at     patients, an IL-10 knockout model of spontaneous colitis was
+20,000g × 10 min, 600 lL of the supernatant was nitrogen-blown     established, in which the downregulation of PANK3 was further
+and evaporated, followed by the addition of 100 lL of ddH2O for    conﬁrmed (Fig. 1F–G). Furthermore, analysis of intestinal biopsies
+dissolution and 10 lL of injection for processing by HPLC-Triple    from  IBD  patients  in GEO  datasets  (GSE53306,  GSE83448,
+Quad 5500+ (AB SCIEX, USA). Chromatographic separation was    GSE75214) revealed markedly decreased PANK3 expression in
+achieved with a BioBasicTM AX (50 × 3 mm 5 lm, Thermoﬁsher).    those with active CD or UC compared to inactive patients and
+The mobile phase was composed of solvent A (water: acetoni-    healthy controls (Fig. 1H). This ﬁnding was corroborated at the tis-
+trile = 7:3, 10 mM ammonium acetate) and solvent B (water: ace-    sue level, where a marked decrease in PANK3 was also observed in
+tonitrile = 7:3, 1 mM ammonium acetate; pH was adjusted to 10.0    the intestinal epithelium of clinical CD and UC patients (Fig. 1I).
+with ammonia). Solvent gradient is as follows: 0–1.2 min, 95 % A;        Consistently, qPCR and  immunoblotting  analysis  revealed
+1.2–2.3 min, 95 %-50 % A; 2.3–5.0 min, 50–0 % A; 5.0–6.0 min, 0–    reduced expression of PANK3 in the human colon adenocarcinoma
+95 % A; 6.0–8.0, 95 % A.                                                       cell line HT29 and the colon epithelial cell line NCM460 after treat-
+                                                      ment with TNF-a and IFN-c (Fig.S1G–I). Collectively, these ﬁndings
+Statistical analyses                                                 suggest that downregulated intestinal epithelial PANK3 is a signif-
+                                                                        icant feature in the pathogenesis of UC.
+   All  statistical analyses were conducted  utilizing GraphPad
+Prism 10.0 software. Comparisons between two groups were    PANK3 regulates the integrity and function of the intestinal barrier
+assessed by unpaired 2-tailed Student’s t-tests or Mann-Whitney     in vitro
+test. Comparisons between multiple groups were performed using
+one-way (followed by Dunnett’s post hoc test), Kruskal-Wallis test      To identify the function of PANK3 in intestinal epithelial dam-
+(followed by Dunn’s post hoc test), or two-way ANOVA (followed     age, a model induced by TNF-a and IFN-c was established in
+by Bonferroni’s post hoc test). All p values are indicated in the ﬁg-    HT29 cells. Administration of the PANK3 agonist PZ-2891 had a
+ures, with speciﬁc statistical methods detailed in the correspond-     protective effect on barrier integrity, as evidenced by the marked
+ing ﬁgure legends.                                                 upregulation   of  multiple   intercellular   junctional  proteins
+                                                                                    (Fig. 2A). In contrast, the administration of Hopan, a competitive
+                                                                         inhibitor of PANK, exacerbated the reduction in intercellular junc-
+Results                                                                  tional proteins (Fig. 2B)
+                                                                           In addition, a Caco-2 monolayer cell model was employed and
+Intestinal PANK3 is downregulated in the colonic mucosa of IBD         treated with PZ-2891 or Hopan. Transepithelial electrical resis-
+patients and murine colitis                                          tance (TEER) and paracellular FD4 permeability determination
+                                                                   revealed that PZ-2891 rescued the integrity of the barrier, whereas
+   To elucidate the potential relationship between endogenous    Hopan exacerbated barrier damage (Fig. 2C–D).
+metabolism and the progression of IBD, a systematic metabolomic        In addition to the agonist PZ-2891 and the inhibitor Hopan,
+analysis of DSS-induced experimental colitis model was initially     direct genetic regulation of PANK3 was performed in HT29 and
+conducted. A signiﬁcant elevation in the pantothenate level was   NCM460 cells. Overexpression of PANK3 rescued inﬂammation-
+observed in both the colon and serum of the colitis mice compared    induced barrier damage, whereas PANK3 knockdown had the
+
+
+3
+
+
+Fig. 1. Colonic PANK3 is downregulated in IBD patients and murine colitis models. (A) Heatmap depicting colonic differential metabolites (p < 0.05) from control and DSS-
+induced colitis mice (n = 6). Data were Z-score normalized and subjected to hierarchical clustering. (B) Relative peak intensity of pantothenate in colon and serum (n = 6). (C–
+D) q-PCR (n = 8) (C) and Western blot (n = 5) (D) analysis of PANK3 in DSS-induced colitis. (E) Representative images and quantiﬁcation of colonic PANK3 IHC staining (n = 5).
+Scale bars, 500 lm (left) and 100 lm (right). (F) Western blot analysis of PANK3 expression in IL-10-/- mice (n = 5). (G) Representative images and quantiﬁcation of IHC
+analysis of colonic PANK3 in IL-10-/-mice (n = 5). Scale bars, 500 lm (left) and 100 lm (right). (H) PANK3 expression in the intestinal mucosal biopsies of healthy individuals
+and IBD patients from GEO datasets (GSE53306, GSE75214, and GSE83448). (I) Representative images and quantitative analysis of IHC for PANK3 on intestinal biopsies from
+healthy controls (n = 4), Crohn’s disease patients (n = 3), and ulcerative colitis patients (n = 3). Scale bars, 250 lm (left) and 50 lm (right). Data were expressed as mean ± SEM.
+p values were provided in ﬁgures and determined by unpaired Student’s t-test for B, C, D, E, F, G, and H (GSE83448), one-way ANOVA with Dunnett’s multiple comparisons for
+H (GSE53306 and GSE75214) and I.
+
+
+
+
+
+                                                                   935S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+Fig. 2. PANK3 improves epithelial barrier integrity in intestinal epithelial cell lines. (A–B) The expression of intercellular junctional proteins in HT29 cells treated with 30 ng/
+mL TNF-a/IFN-c combined with 2 lM PZ-2891 (n = 3) (A) or 250 lM Hopan (n = 3) (B). (C–D) TEER and paracellular permeability of Caco-2 monolayer cells treated with
+30 ng/mL TNF-a/IFN-c combined with 2 lM PZ-2891 (n = 3) (C) or 250 lM (n = 3) Hopan (D). (E) The expression of intercellular junctional proteins in PANK3-overexpressing
+HT29 cells (left) or NCM460 cells (right) treated with 30 ng/mL TNF-a/IFN-c (n = 3). (F) The expression of intercellular junctional proteins in PANK3-knocking down HT29
+cells (left) or NCM460 cells (right) treated with 30 ng/mL TNF-a/IFN-c (n = 3). (G–H) Immunoﬂuorescence analysis of junction proteins with PANK3 modulation in TNF-a/IFN-
+c treated PANK3-overexpressing (G) or PANK3-knocking down (H) NCM460 cells (n = 3). Scale bars, 50 lm. Data were expressed as mean ± SEM. p values were provided in
+ﬁgures and determined by one-way ANOVA with Dunnett’s multiple comparisons for A, B, C, and D, unpaired Student’s t-test for E, F, G, and H.
+
+                                                                   936S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+opposite effect (Fig. 2E–F). Further validation of the safeguarding     restoring aberrant extensive distribution of mesenchymal markers
+effects of PANK3 on barrier integrity was accomplished by using      (Fig. 4D–E). In contrast, PANK3 depletion triggered the coordinated
+immunoﬂuorescence staining (Fig. 2G–H). These results under-    upregulation of EMT hallmarks (Fig. 4F–G), indicating that reduced
+score the critical role of PANK3 in maintaining epithelial barrier   PANK3 contributes to intestinal barrier impairment through the
+function.                                                           progression of EMT in UC.
+
+
+PANK3 regulates the integrity and function of the intestinal barrier     PANK3 inhibits the MAPK and PI3K/AKT pathways and suppresses EMT
+in vivo                                                        by enhancing the synthesis of free CoA
+
+
+   To further determine the role of PANK3 in UC pathogenesis,       Following the discovery that PANK3 inhibits EMT, the underly-
+DSS-treated mice were orally administered PZ-2891 (Fig.S2A).     ing molecular mechanisms were further investigated using gene
+PZ-2891 treatment signiﬁcantly reversed weight loss and colon     set enrichment analysis (GSEA). In AAV-Pank3-OE mice, the typical
+shortening (Fig.S2B–C), followed by improvements in histological    EMT-associated pathways of the PI3K/AKT and MAPK signaling
+features, including preserved crypt architecture, maintenance of    cascades were identiﬁed as the pathways associated with the most
+goblet cells, and diminished inﬂammatory cell inﬁltration (Fig.     signiﬁcantly suppressed genes (Fig. 5A). Consistently, the phospho-
+S2D).  Consistently, the  reduction  in FD-4 leakage suggested     rylation of PI3K, AKT and ERK was markedly decreased in AAV-
+enhanced intestinal barrier integrity (Fig.S2E). Additionally, the    Pank3-OE mice (Fig. 5B), whereas AAV-shPank3 mice exhibited
+expression and distribution of key epithelial junctional proteins    concomitant increases in these activation markers (Fig. 5C). Based
+were markedly restored after PZ-2891 administration (Fig.S2F–    on the consistent effects observed from both pharmacological and
+G). Conversely, Hopan treatment exacerbated DSS-induced colon     genetic regulation of PANK3, its functional role was inferred to
+damage, as shown by extensive crypt loss, submucosal edema,    depend on its metabolic enzyme activity. This hypothesis was sub-
+and elevated barrier permeability, compared with vehicle controls    sequently  tested through complete pantothenate  deprivation
+(Fig.S2H–L). This pathological progression was correlated with     in vitro, which largely abolished the barrier protection induced
+decreased epithelial junctional protein expression (Fig.S2M–N).      by either PANK3 agonism or overexpression (Fig.S4A–B), thereby
+   Given the potential for off-target effects with pharmacological    providing initial experimental validation. Furthermore, given the
+modulation, intestinal-speciﬁc PANK3 overexpression via adeno-     central role of PANK in the CoA biosynthetic pathway and, partic-
+associated virus (AAV-Pank3-OE) was established, as conﬁrmed     ularly, emerging evidence supporting the potential role of CoA in
+by immunoblotting and immunoﬂuorescence (Fig.S3A–C). When    IBD [29,30], a quantitative LC-MS/MS assay of intestinal CoA was
+exposed to DSS stress, the weight loss, colon shortening, barrier    conducted  following PANK3  genetic  modulation. The  results
+integrity, and recovery of the crypt architecture, inﬂammatory    demonstrated that PANK3 overexpression signiﬁcantly increased
+inﬁltration as well as goblet cell population improved in AAV-    CoA abundance, whereas its knockdown conversely led to a reduc-
+Pank3-OE mice (Fig. 3A–E). Additionally, the shortened microvilli     tion (Fig. 5D). To further validate that CoA mediates the down-
+and disrupted apical junction complex (AJC) were rescued by    stream  effects  of PANK3, exogenous CoA was supplemented
+PANK3 overexpression according to TEM analysis (Fig. 3F–G), as     in vitro, with results showing that CoA signiﬁcantly suppressed
+were the expression and localization of key junctional proteins    the TNF-a/IFN-c-induced EMT progression and activation of the
+(Fig. 3H–I). In contrast, PANK3 knockdown (AAV-shPank3, vali-    PI3K/AKT and MAPK pathways (Fig. 5E–F). Moreover, CoA supple-
+dated  in Fig.S3D–F) exacerbated  colitis-associated phenotypes    mentation effectively reversed the barrier impairment and EMT
+and barrier damage (Fig. 3J–N). Additionally, the architectures of     activation phenotypes induced by PANK3 knockdown (Fig.S4C–
+AJC and microvilli were extensively disrupted in AAV-shPank3     D). Overall, these data suggest that upregulation of PANK3 inhibits
+mice  (Fig. 3O–P), accompanied by a  signiﬁcant decrease  in    the MAPK and PI3K/AKT signaling cascades and suppresses acti-
+barrier-related proteins (Fig. 3Q–R). These results indicate that    vated EMT by enhancing CoA synthesis.
+PANK3 plays a crucial role in ameliorating intestinal barrier injury
+caused by UC.                                                 c-Myc is the key transcription factor regulating PANK3
+
+
+PANK3 suppresses inﬂammation-induced epithelial mesenchymal          The upstream regulator of PANK3 was investigated to explore
+transition                                                         the underlying mechanisms of PANK3 downregulation. A reduction
+                                                                         in PANK3 mRNA levels was detected in both UC patients and mice
+   Based on the ﬁndings that PANK3 regulates epithelial barrier    with colitis, indicating the suppression of PANK3 transcription.
+function both in vitro and in vivo, the downstream mechanisms    Thus, public prediction databases for potential transcription factor
+were investigated through transcriptomic analysis of colonic tis-     (TF) were interrogated, and c-Myc emerged as a prime candidate
+sues from DSS-treated AAV-GFP and AAV-Pank3-OE mice. Signiﬁ-    showing signiﬁcant upregulation in the colonic lesions of UC
+cant  downregulation  of  multiple  gene  clusters,  including     patients, which was further conﬁrmed by IHC staining (Fig. 6A–
+proinﬂammatory cytokines (e.g., Ils, Ccls and Cxcls), extracellular     C). Consistently, increases in c-Myc were observed both in vivo
+matrix (ECM) components  (e.g., MMPs, Fn1 and  Spp1), and    and  in  vitro,   i.e.,  in  DSS-induced and  IL-10-knockout mice
+epithelial mesenchymal transition (EMT)-related genes (e.g., Snai1      (Fig. 6D–F) and in TNF-a/IFN-c-treated HT29 and NCM460 cell
+and Twist), was identiﬁed via comparative analysis (Fig. 4A), with     lines (Fig.S5A–D).
+some of the representative differential genes validated via qPCR      The 2000 bases before the Pank3 gene coding sequences were
+(Fig. 4B). Gene Ontology (GO) analysis characterized the alterations    subsequently screened on the JASPAR website to examine possible
+in  cell migration, adhesion, locomotion, and ECM remodeling    binding sites of c-Myc. A total of three putative binding sequences
+(Fig. 4C). All the above hallmark features are deeply involved in    were identiﬁed (Fig. 6G), and their direct binding effect was vali-
+EMT, a pervasive biological process during which epithelial cells    dated through chromatin immunoprecipitation and qPCR (ChIP
+suffer from reduced intercellular junctions and increased  cell    qPCR) (Fig. 6H). The transcriptional effects of c-Myc on PANK3
+motility [28]. Hence, PANK3 was hypothesized to restore epithelial    were evaluated via a dual-luciferase reporter assay in HEK-293T
+integrity by repressing EMT. Notably, PANK3 overexpression inhib-     cells transfected with the full-length Pank3 promoter. Overexpres-
+ited EMT through the downregulation of mesenchymal markers,     sion of c-Myc led to a marked decreased in the activity of the Pank3
+MMPs, and  EMT-driving  transcription  factors,  synergistically    promoter (Fig. 6I) and resulted in the downregulation of PANK3
+
+                                                                   937S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+                                                                   938S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+(Fig. 6J). In contrast, the administration of 10058-F4, a speciﬁc c-     directed  our  investigation  toward  PANKs,  the  downstream
+Myc inhibitor, increased both the mRNA and protein expression    enzymes responsible for pantothenate phosphorylation. Through
+levels of PANK3 in a dose-dependent manner in vitro (Fig. 6K–L    the integration of public transcriptomic datasets with experimen-
+and Fig.S5E). Furthermore, pharmacological inhibition of c-Myc     tal validation across distinct cellular and murine colitis models
+signiﬁcantly ameliorated DSS-induced colitis and improved weight    and clinical patients, a speciﬁc downregulation of PANK3, the pre-
+loss, colon shortening, and histological damage (Fig. 6M−O). This    dominant intestinal isoform [31], was identiﬁed at both the mRNA
+intervention restored PANK3 expression (Fig. 6P–Q) and improved    and protein  levels. Moreover, although previous studies have
+intestinal barrier integrity through the upregulation of junctional     established the pathological overexpression of vanin, an upstream
+proteins (Fig. 6R). In summary, c-Myc is the key transcription fac-    enzyme responsible for pantothenate liberation, in IBD-inﬂamed
+tor regulating the expression and function of PANK3, and the c-    mucosa and its therapeutic implications [32,33], emerging evi-
+Myc-PANK3  axis  plays  a key  role  in  the  intestinal  barrier    dence has  paradoxically suggested  protective  effects  of  IEC-
+disruption.                                                         speciﬁc vanin overexpression in DSS-induced colitis [30]. Indepen-
+                                                               dent of the unsolved controversial role of vanin, our study identi-
+Folic acid is a potential PANK3 agonist that promotes CoA synthesis     ﬁed epithelial-speciﬁc PANK3 deﬁciency as a distinct pathological
+and ameliorates colitis by improving intestinal barrier integrity          feature of UC. This epithelium-restricted PANK3 downregulation
+                                                                                        is associated with  epithelial damage, suggesting  its potential
+   High-throughput virtual screening of small molecules identiﬁed    involvement in maintaining intestinal epithelial barrier integrity.
+folic acid, a naturally derived vitamin, as the top agonist of PANK3.       Comprehensive functional validation employing pharmacologi-
+Molecular docking revealed the key binding  residues  Lys24,     cal modulators and genetic interventions in cellular and murine
+Ser192, Arg207, Val268, Asn299, and Trp341 (Fig. 7A). A cellular    models demonstrated the protective role of PANK3 in UC, as the
+thermal shift assay (CETSA) conﬁrmed the binding of folic acid to    upregulation of PANK3 increased intestinal barrier integrity and
+PANK3, demonstrating enhanced thermal stability and a dose-    ameliorated disease progression, whereas its downregulation exac-
+dependent stabilization (Fig. 7B).                                   erbated epithelial damage and increased the severity of colitis.
+   The therapeutic potential of folic acid was assessed in a DSS-     Mechanistically, PANK3 maintains intestinal epithelial homeosta-
+induced UC model. After oral administration of  folic acid at      sis through the regulation of CoA biosynthesis, a prerequisite for
+30 mg/kg, there were distinct improvements in the pathological    normal epithelial cell function. Importantly, pantothenate supple-
+features of UC, including progressive weight loss, colon length    mentation alleviated colitis via CoA-dependent metabolic repro-
+reduction, and intestinal barrier disruption (Fig. 7C-E). Impor-    gramming of TH17 cells, conﬁrming the crucial role of the CoA
+tantly, folic acid signiﬁcantly stimulated the function of PANK3,     synthesis pathway in the intestinal inﬂammatory microenviron-
+elevated colonic CoA levels (Fig. 7F) and restored epithelial archi-    ment [29]. Collectively, these ﬁndings suggest that PANK3 is a
+tecture, as evidenced by the increase in crypt integrity, mainte-    druggable target for restoring barrier integrity in UC pathogenesis.
+nance of goblet cells, and reduction in inﬂammatory inﬁltration        Epithelial  cells form polarized architectures through apical
+(Fig.  7G-H).  Ultrastructural  analysis  further  demonstrated     junction complexes, including tight junctions and adherens junc-
+improved microvillus organization and AJC restoration (Fig. 7I-J).      tions, coupled with basement membrane anchoring via the extra-
+   In addition, as indicators of intestinal integrity, epithelial junc-     cellular matrix  [34]. These integrated  structural systems are
+tional proteins were upregulated (Fig. 7K), along with decreased      critical for maintaining apical–basal polarity and epithelial barrier
+expression of mesenchymal markers, MMPs, and EMT regulators     integrity [35]. During pathological EMT, coordinated cytoskeletal
+(Fig. 7L), after folic acid administration. Furthermore, activation     reorganization triggers dissolution of junctional complexes, char-
+of PI3K/AKT and MAPK pathways was suppressed (Fig. 7M). Consis-     acterized by marked downregulation of junction proteins  (e.g.,
+tently, in vitro experiments conﬁrmed the barrier-protective effects    ZO-1, E-cadherin, and claudins) [36], accompanied by basement
+of folic acid; however, this protection was abolished upon PANK3    membrane  degradation,  directly  driving  barrier  dysfunction
+knockdown, demonstrating its PANK3 dependence (Fig.S6A). Col-     [37,38]. While EMT facilitates epithelial restitution following acute
+lectively, these ﬁndings demonstrate that folic acid functions as a     injury, its pathological persistence under chronic inﬂammation
+potential agonist of PANK3 that can improve intestinal barrier     paradoxically drives progressive epithelial damage, culminating
+integrity and ameliorate DSS-induced colitis.                           in tissue degeneration and ﬁbrotic remodeling [39]. Correspond-
+                                                                              ingly, clinical IBD mucosal samples exhibit this overactive EMT sig-
+Discussion                                                            nature, which is correlated with disease severity and therapeutic
+                                                                           resistance, underscoring its detrimental role in disease progression
+  By analyzing metabolic patterns in DSS-induced colitis mice via     [40,41].
+nontargeted metabolomics, a signiﬁcant increase in the level of       Despite the complex network of upstream regulatory mecha-
+colonic pantothenate was initially observed, indicating that the    nisms involved in EMT, our study identiﬁed PANK3 as a potent
+pantothenate metabolism pathway was dysregulated. This ﬁnding    metabolic brake of this pathogenic cascade. In a DSS-induced coli-
+
+
+3
+
+
+Fig. 3. PANK3 confers protection against DSS-induced colitis and improves the intestinal barrier. (A–I) AAV-Pank3-OE and AAV-GFP mice were treated with DSS for 7 days.
+Monitoring of daily weight changes (n = 8) (A), colon length and representative images of mouse colon (n = 8) (B), serum FITC-dextran assays (n = 8) (C), representative
+histological H&E and AB-PAS staining images, scale bars, 500 lm (D), histological scores and goblet cells counts (n = 8) (E),representative TEM images of colonic mucosa, scale
+bars, 2 lm (left) and 1 lm (right) (F), measurement of AJC gaps and microvilli length (n = 3) (G), the expression of colonic intercellular junctional proteins analyzed by
+western blot (n = 3) (H), immunoﬂuorescence analysis of colonic ZO-1, E-cadherin, Occludin, and Claudin-1 (n = 3), scale bars, 200 lm (I). (J–R) AAV-shPank3 and AAV-shNC
+mice were treated with DSS for 7 days. Daily weight changes recording (n = 8) (J), colon length and colon images (n = 8) (K), serum FITC-dextran assays (n = 8) (L), histological
+H&E and AB-PAS staining, scale bars, 500 lm (M), histological scores and goblet cells counts (n = 8) (N), colonic mucosa TEM images, scale bars, 2 lm (left) and 1 lm (right)
+(O), measurement AJC gaps and microvilli length (n = 3) (P), the expression of intercellular junctional proteins analyzed by western blot (n = 3) (Q), colonic ZO-1, E-cadherin,
+Occludin, and Claudin-1 immunoﬂuorescence analysis (n = 3), scale bars, 200 lm (R). Data were expressed as mean ± SEM. p values were provided in ﬁgures and determined
+by two-way ANOVA with Bonferroni’s multiple comparisons test for A and J, unpaired Student’s t-test for B, C, G, H, I, K, L, P, Q, and R, and Mann-Whitney test for E and N.
+
+
+
+
+                                                                   939S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+Fig. 4. PANK3 represses EMT progression in DSS-induced colitis. (A) Heatmap of representative colonic DEGs (FDR < 0.05, log2|FC|>1) related with inﬂammation, ECM and
+EMT. Data were Z-score normalized and subjected to hierarchical clustering. The color scale represents expression levels. (B) Veriﬁcation of representative DEGs by qRT-PCR
+(n = 8). (C) Gene ontology (GO) analysis of DEGs. (D) Expression of colonic EMT-related proteins in AAV-Pank3-OE mice analyzed by western blot (n = 3). (E)
+Immunoﬂuorescence analysis of colonic vimentin, ﬁbronectin, and N-cadherin from AAV-Pank3-OE mice (n = 3), scale bars, 200 lm. (F) Expression of colonic EMT-related
+proteins in AAV-shPank3 mice analyzed by western blot (n = 3). (G) Immunoﬂuorescence analysis of colonic vimentin, ﬁbronectin, and N-cadherin from AAV-shPank3 mice
+(n = 3), scale bars, 200 lm. Data were expressed as mean ± SEM. p values were provided in ﬁgures and determined by unpaired Student’s t-test.
+
+
+                                                                   940S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+Fig. 5. PANK3 promotes the production of free coenzyme A, thereby inhibiting the PI3K/AKT and MAPK pathways and repressing EMT. (A) GSEA analysis revealed enrichment
+of PI3K/AKT and MAPK pathways. (B–C) Phosphorylation level of PI3K, AKT and ERK in AAV-Pank3-OE (n = 3) (B) and AAV-shPank3 mice (n = 3) (C). (D) Colonic free CoA
+relative abundance fold changes after PANK3 overexpressing (n = 8) (left) and knocking down (n = 8) (right). (E–F) The expression of EMT-related proteins (E) and
+phosphorylation level of PI3K, AKT and ERK (F) (n = 3) in HT29 cells treated with 30 ng/mL TNF-a/IFN-c combined with 250 lM CoA. Data were expressed as mean ± SEM. p
+values were provided in ﬁgures and determined by unpaired Student’s t-test for B, C, and D, one-way ANOVA with Dunnett’s multiple comparisons for E and F.
+
+
+
+                                                                   941S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+                                                                   942S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+tis model, overexpression of PANK3 signiﬁcantly inhibited the     gation, particularly since the PI3K/AKT pathway itself is known
+upstream EMT-inducing MAPK and PI3K/AKT signaling pathways,     to promote de novo CoA synthesis under physiological conditions
+resulting in decreased expression of the EMT-related transcription     [26], suggesting a potential bidirectional relationship. Further-
+factors Snail and Twist. This coordinated inhibition blocked MMP-    more, beyond its central metabolic functions, CoA serves as an
+mediated  extracellular  matrix  remodeling and  reversed  the     essential donor for key post-translational modiﬁcations such as
+expression of mesenchymal transition markers (Vimentin and N-    4′-phosphopantetheinylation and protein CoAlation [25], suggest-
+cadherin) while preserving junctional complex integrity via the     ing plausible non-metabolic routes through which it may exert
+upregulation of Occludin, ZO-1, Claudins, and E-cadherin. Crucially,     regulatory inﬂuence. In parallel, the potential for PANK3 to possess
+the reconstituted junctional complex architecture directly demon-     non-catalytic functions, such as through protein–protein interac-
+strated functional restoration of the epithelial barrier. These ﬁnd-     tions, remains another direction for future investigation. Finally,
+ings  collectively validate the targeting of PANK3 as a novel     building upon our evidence suggesting folic acid is a PANK3 ago-
+strategy for counteracting EMT-driven barrier disruption in UC      nist, future work should deﬁnitively establish its binding afﬁnity
+therapeutics.                                                   through biophysical assays and demonstrate target-dependent
+   While this study establishes the essential role of PANK3 in pre-    efﬁcacy in intestinal PANK3-KO mice.
+serving  intestinal  barrier  integrity and  ameliorating UC, the       Despite these limitations, our ﬁndings support the potential of
+upstream regulators governing its expression remain undeﬁned.   PANK3 as a therapeutic target for UC and the future development
+To this end, a systematic analysis of the transcription binding sites     of small-molecule agonists with enhanced potency, gut-restricted
+in the Pank3 promoter was performed, which identiﬁed c-Myc as a    exposure, and an optimized safety proﬁle. Alternatively, folic acid
+putative regulator. Although c-Myc is classically deﬁned as a proto-    supplementation represents a safe and clinically accessible inter-
+oncogene[42], its involvement in inﬂammatory signaling cascades     vention. Notably, a meta-analysis of clinical studies reinforces this
+within non-cancerous diseases has been reported in emerging     perspective, demonstrating that higher folate levels are a protec-
+studies [43–45]. Consistently, c-Myc expression was elevated in     tive factor associated with a reduced risk of IBD [47], thereby pro-
+colonic tissues from both UC patients and experimental colitis     viding clinical relevance to our mechanistic ﬁndings. While the
+models, inversely correlating with PANK3 downregulation. This     therapeutic dose employed in our preclinical model exceeds typi-
+potential negative transcriptional regulation of PANK3 by c-Myc     cal clinical supplementation levels, this was necessary to overcome
+was further conﬁrmed by ChIP and dual-luciferase reporter gene    the pharmacokinetic limitations of conventional oral administra-
+assays. In vivo functional validation revealed that pharmacological     tion, particularly the low colonic distribution of systemically deliv-
+inhibition of c-Myc rescued PANK3 expression, concurrently sup-    ered  folic acid  [48]. Future  clinical  translation could further
+pressing EMT progression and enhancing intestinal barrier integ-    enhance efﬁcacy and safety through optimized formulations such
+rity  in  DSS-induced  colitis  model  mice.  Furthermore,  the     as enteric-coated tablets or colon-targeted delivery systems, which
+established oncogenic propensity of c-Myc, combined with  its    would increase local exposure while permitting lower systemic
+newly identiﬁed role in suppressing PANK3 during colitis, suggests     doses. Beyond its therapeutic implications, our data suggest circu-
+a plausible mechanistic link between chronic inﬂammation and     lating pantothenate/CoA levels and intestinal PANK3 expression
+colorectal carcinogenesis. In support of these ﬁndings, decreasing   may serve as clinically accessible biomarkers for aiding diagnosis
+PANK3 was identiﬁed as a diagnostic biomarker for early-stage col-    and monitoring therapeutic efﬁcacy. Nevertheless, translating this
+orectal cancer via bioinformatic analysis [46]. Taken together, the     potential into clinical practice must await validation in larger,
+results of this study reveal that the c-Myc-PANK3 axis is a crucial     multi-center cohorts.
+regulator   of   intestinal   barrier   integrity   in  UC,  where
+inﬂammation-driven c-Myc overexpression transcriptionally sup-    Conclusion
+presses PANK3 to exacerbate barrier dysfunction. Targeting this
+axis restores barrier homeostasis, further highlighting the thera-        In summary, this study establishes the c-Myc-PANK3 axis as
+peutic potential of PANK3.                                             central to intestinal epithelial barrier impairment in ulcerative col-
+   While our ﬁndings suggest a mechanistic connection between       itis. Speciﬁcally, inﬂammation triggers c-Myc-mediated transcrip-
+the PANK3/CoA axis and EMT, the scope of global transcriptomics     tional repression of PANK3, leading to disrupted CoA synthesis
+and the potential non-speciﬁcity of AAV-mediated gene modula-    and initiation of the EMT process via both PI3K/AKT and MAPK sig-
+tion across tissues and cell types limit the resolution of PANK3′s     naling pathways. Restoration of PANK3 expression and function
+downstream effects, underscoring the need to further elucidate     effectively ameliorates intestinal barrier dysfunction and experi-
+the precise biological effects of PANK3. Moreover, the mechanism    mental colitis. These ﬁndings highlight PANK3 as a novel therapeu-
+by which PANK3-driven CoA synthesis suppresses the PI3K/AKT      tic target  for UC, and support the  clinical translation  of  its
+and MAPK pathways in inﬂammation warrants dedicated investi-    identiﬁed agonist, folic acid.
+
+
+3
+
+
+Fig. 6. Inﬂammation-driven c-Myc transcriptionally suppresses Pank3. (A) Venn plot of potential TFs of Pank3 according to four TFs prediction databases. (B) c-Myc
+expression in the mucosal biopsies of UC patients from GEO datasets (GSE65114, GSE107499). (C) Representative images of c-Myc IHC staining from UC patients. Scale bars,
+250 lm (left) and 50 lm (right). (D–E) The expression of colonic c-Myc in DSS-induced colitis (n = 3) (D) and IL-10 deﬁcient mice (n = 3) (E). (F) Immunoﬂuorescence analysis
+of c-Myc in colon sections from DSS-induced colitis (n = 3). Scale bars, 200 lm. (G) Potential binding motifs of c-Myc in the promoter region of Pank3 gene according to JASPAR
+database. (H) Veriﬁcation of binding between c-Myc and Pank3 promoter by ChIP-qPCR assay (n = 3). (I) Dual-luciferase reporter gene assay (n = 4). (J) Western blot analysis of
+PANK3 expression in c-Myc overexpressing HT29 cells (n = 3). (K–L) qRT-PCR (n = 5) (K) and western blot analysis (n = 3) (L) of PANK3 expression in HT29 cells treated with
+10 lM and 20 lM of 10058-F4. (M−R) DSS-induced colitis mice were administrated with 10058-F4. Monitoring of weight loss (n = 8) (M), colon length (n = 8) (N), histological
+H&E staining and histological scores (n = 6–7), scale bars, 500 lm (O), qRT-PCR analysis of colonic PANK3 (n = 8) (P), western blot analysis of PANK3 (n = 3) (Q), western blot
+analysis of intercellular junctional proteins (n = 3) (R). Data were expressed as mean ± SEM. p values were provided in ﬁgures and determined by unpaired Student’s t-test for
+B, D, E, F, H, and J, one-way ANOVA for with Dunnett’s multiple comparisons for I, K, L, P, and Q, two-way ANOVA with Bonferroni’s multiple comparisons for M, and Kruskal-
+Wallis test with Dunn’s multiple comparisons for O.
+
+
+
+
+
+                                                                   943S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+
+
+
+Fig. 7. Folic acid functions as an agonist of PANK3 and ameliorates DSS-induced colitis. (A) Predicted binding pattern of folic acid to PANK3. H-bond (yellow) and p-p Stacking
+(blue) (B) Experiment diagram and immunoblots from CETSA showing stabilization of PANK3 by folic acid under different temperatures (upper) and concentrations (down).
+(C–M) DSS-induced colitis mice were treated with folic acid. Recording of daily weight (n = 8) (C), colon length and representative colon image (n = 8) (D), serum FITC-dextran
+assay (n = 8) (E), determination of relative abundance of colonic CoA (n = 6–8) (F), histological H&E and AB-PAS staining, scale bars, 500 lm (G), histological scores and goblet
+cell counts (n = 8) (H), representative TEM images of colonic mucosa, scale bars, 2 lm (upper) and 1 lm (down) (I), measurement of AJC gaps and microvilli length (right)
+(n = 3) (J), expression of intercellular junctional proteins analyzed by western blot (n = 3) (K), expression of EMT-related proteins (n = 3) (L), phosphorylation of PI3K, AKT and
+ERK (n = 3) (M). Data were expressed as mean ± SEM. p values were provided in ﬁgures and determined by two-way ANOVA for with Bonferroni’s multiple comparisons for C,
+one-way ANOVA with Dunnett’s multiple comparisons for D, E, F, J, K, L, and M, and944Kruskal-Wallis test with Dunn’s multiple comparisons for H.S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+Compliance with ethics requirements                                      [14] Turpin W, Lee SH, Raygoza garay j a, madsen k l, meddings j b, bedrani l,, et al.
+                                                                                         Increased Intestinal Permeability is Associated with later Development of
+                                                                                        Crohn’s  Disease[J]. Gastroenterology 2020;159(6):2092–2100 e2095.  doi:
+   All experiments involving animals were carried out in compli-           https://doi.org/10.1053/j.gastro.2020.08.005.
+ance with the ethical guidelines and protocols approved by the      [15] Kang S, Kim J, Park A, Koh M, Shin W, Park G, et al. TRIM40 is a pathogenic
+Ethical Committee for Experimental Animal Care of China Pharma-           driver of inﬂammatory bowel disease subverting intestinal barrier integrity[J].
+                                                                                Nat Commun  2023;14(1):700.  doi:  https://doi.org/10.1038/s41467-023-
+ceutical University (Approval no: 2023–01-012).                              36424-0.
+                                                                                       [16] Zuo  L, Kuo WT, Cao  F, Chanez-Paredes SD, Zeve D, Mannam  P,  et  al.
+                                                                                      Tacrolimus-binding  protein  FKBP8  directs  myosin  light  chain  kinase-
+Declaration of competing interest                                          dependent barrier regulation and is a potential therapeutic target in Crohn’s
+                                                                                                       disease[J]. Gut 2023;72(5):870–81. doi: https://doi.org/10.1136/gutjnl-2021-
+                                                                                 326534.
+   The authors declare that they have no known competing ﬁnan-      [17] Wang J, He Y, Zhu X, Zhu J, Deng Z, Zhang H, et al. Elevated SPARC Disrupts the
+cial interests or personal relationships that could have appeared            Intestinal Barrier Integrity in Crohn’s Disease by Interacting with OTUD4 and
+to inﬂuence the work reported in this paper.                                      Activating the MYD88/NF-jB Pathway[J]. Adv  Sci (Weinh) 2025;12(11):
+                                                                                 e2409419. doi: https://doi.org/10.1002/advs.202409419.
+                                                                                       [18] Okamoto R, Watanabe M. Molecular and clinical basis for the regeneration of
+                                                                   human  gastrointestinal  epithelia[J].  J Gastroenterol 2004;39(1):1–6.  doi:
+Acknowledgments                                                                  https://doi.org/10.1007/s00535-003-1259-8.
+                                                                                       [19] Ziegler  TR,  Evans  ME,  Fernandez-Estivariz  C,  Jones  DP.  Trophic  and
+   This study was supported by National Key Special Project of           cytoprotective nutrition for intestinal adaptation, mucosal repair, and barrier
+                                                                                                     function[J]. Annu Rev Nutr 2003;23:229–61. doi: https://doi.org/10.1146/
+Science  and  Technology   for  Innovation  Drugs  of  China          annurev.nutr.23.011702.073036.
+(2017ZX09301013), Leading Technology Foundation Research Pro-      [20] Thaiss  CA, Levy M, Grosheva   I, Zheng  D,  Soffer  E,  Blacher  E,  et  al.
+ject of Jiangsu Province (BK20192005, China), and CAMS Innova-          Hyperglycemia drives  intestinal barrier dysfunction and  risk  for enteric
+                                                                                                         infection[J].   Science   2018;359(6382):1376–83.   doi:    https://doi.org/
+tion Fund  for Medical Sciences (CIFMS, No. 2021-I2M-5-011,          10.1126/science.aar3318.
+China).                                                                              [21] Zhang Y, Xu D, Cai X, Xing X, Shao X, Yin A, et al. Gut Commensal Barnesiella
+                                                                                            Intestinihominis Ameliorates Hyperglycemia and Liver Metabolic Disorders[J].
+                                                                         Adv   Sci  (Weinh)  2025;12(8):e2411181.   doi:   https://doi.org/10.1002/
+Appendix A. Supplementary data                                             advs.202411181.
+                                                                                       [22] Dong L, Xie  J, Wang Y, Jiang H, Chen K, Li D, et al. Mannose ameliorates
+                                                                                     experimental colitis by protecting intestinal barrier integrity[J]. Nat Commun
+   Supplementary data to this article can be found online at          2022;13(1):4804. doi: https://doi.org/10.1038/s41467-022-32505-8.
+https://doi.org/10.1016/j.jare.2025.12.007.                                   [23] Scott SA, Fu J, Chang PV. Microbial tryptophan metabolites regulate gut barrier
+                                                                                          function via the aryl hydrocarbon receptor[J]. PNAS 2020;117(32):19376–87.
+                                                                                                doi: https://doi.org/10.1073/pnas.2000047117.
+                                                                                       [24] Peng L, Jiang  J, Zhou L, Nice EC, Huang C. A cellular thermal shift assay for
+References                                                                             detecting amino acid sites involved in drug target engagement[J]. STAR Protoc
+                                                                                     2022;3(2):101423. doi: https://doi.org/10.1016/j.xpro.2022.101423.
+ [1] Ng SC, Shi HY, Hamidi N, Underwood FE, Tang W, Benchimol  EI, et  al.      [25] Barritt SA, Dubois-Coyne SE, Dibble CC. Coenzyme a biosynthesis: mechanisms
+    Worldwide incidence and prevalence of inﬂammatory bowel disease in the           of regulation, function and disease[J]. Nat Metab 2024;6(6):1008–23. doi:
+     21st century: a systematic review of population-based  studies[J]. Lancet          https://doi.org/10.1038/s42255-024-01059-y.
+    2017;390(10114):2769–78.   doi:   https://doi.org/10.1016/S0140-6736(17)      [26] Dibble CC, Barritt SA, Perry GE, Lien EC, Geck RC, Dubois-Coyne SE, et al. PI3K
+    32448-0.                                                                               drives the de novo synthesis of coenzyme a from vitamin B5[J]. Nature
+ [2] Kaplan GG. The global burden  of IBD: from 2015 to 2025[J]. Nat Rev          2022;608(7921):192–8. doi: https://doi.org/10.1038/s41586-022-04984-8.
+     Gastroenterol  Hepatol  2015;12(12):720–7.  doi:  https://doi.org/10.1038/      [27] Naquet P, Kerr EW, Vickers SD, Leonardi R. Regulation of coenzyme a levels by
+     nrgastro.2015.150.                                                                  degradation: the ’Ins and Outs’[J]. Prog Lipid Res 2020;78:101028. doi: https://
+ [3] Pouillon L, Travis S, Bossuyt P, Danese S, Peyrin-Biroulet L. Head-to-head trials           doi.org/10.1016/j.plipres.2020.101028.
+     in inﬂammatory bowel  disease:  past,  present and  future[J].  Nat  Rev      [28] Lamouille  S, Xu   J,  Derynck  R.  Molecular  mechanisms  of  epithelial-
+     Gastroenterol  Hepatol  2020;17(6):365–76.  doi:  https://doi.org/10.1038/         mesenchymal transition[J]. Nat Rev Mol Cell Biol 2014;15(3):178–96. doi:
+    s41575-020-0293-9.                                                                 https://doi.org/10.1038/nrm3758.
+ [4] East JE, Boyapati RK, Torres  J, Parker CE, Macdonald JK, Chande N, et  al.      [29] Chen C, Zhang W, Zhou T, Liu Q, Han C, Huang Z, et al. Vitamin B5 rewires Th17
+     Controversies in Inﬂammatory Bowel Disease: Exploring Clinical Dilemmas             cell metabolism via impeding PKM2 nuclear translocation[J]. Cell Rep 2022;41
+     using Cochrane Reviews[J]. Inﬂamm Bowel Dis 2019;25(3):472–8. doi: https://          (9):111741. doi: https://doi.org/10.1016/j.celrep.2022.111741.
+     doi.org/10.1093/ibd/izy268.                                                       [30] Millet V, Gensollen T, Maltese M, Serrero M, Lesavre N, Bourges C, et al.
+ [5] Olivera P, Danese S, Peyrin-Biroulet L. JAK inhibition in inﬂammatory bowel          Harnessing the Vnn1 pantetheinase pathway boosts short chain fatty acids
+     disease[J]. Expert Rev Clin Immunol 2017;13(7):693–703. doi: https://doi.org/          production and mucosal protection in colitis[J]. Gut 2023;72(6):1115–28. doi:
+    10.1080/1744666X.2017.1291342.                                                    https://doi.org/10.1136/gutjnl-2021-325792.
+ [6] Khor B, Gardet A, Xavier RJ. Genetics and pathogenesis of inﬂammatory bowel      [31] Dansie LE, Reeves S, Miller K, Zano SP, Frank M, Pate C, et al. Physiological roles
+     disease[J].    Nature    2011;474(7351):307–17.    doi:    https://doi.org/           of the pantothenate kinases[J]. Biochem Soc Trans 2014;42(4):1033–6. doi:
+    10.1038/nature10209.                                                               https://doi.org/10.1042/BST20140096.
+ [7] Xavier RJ, Podolsky DK. Unravelling the pathogenesis of inﬂammatory bowel      [32] Gensollen T, Bourges C, Rihet P, Rostan A, Millet V, Noguchi T, et al. Functional
+     disease[J].    Nature    2007;448(7152):427–34.    doi:    https://doi.org/         polymorphisms in the regulatory regions of the VNN1 gene are associated
+    10.1038/nature06005.                                                          with susceptibility to inﬂammatory bowel diseases[J]. Inﬂamm Bowel Dis
+ [8] Harris C, Cummings JRF. JAK1 inhibition and inﬂammatory bowel disease[J].          2013;19(11):2315–25. doi: https://doi.org/10.1097/MIB.0b013e3182a32b03.
+    Rheumatology  (Oxford) 2021;60(Supple  2):ii45-ii51.  doi:  https://doi.org/      [33] Xie T, Cao GY, Zhang S, Li MK, Jin X, Liu L, et  al. Discovery of Thiazole
+    10.1093/rheumatology/keaa896.                                                Carboxamides as Novel Vanin-1 Inhibitors for Inﬂammatory Bowel Disease
+ [9] Kobayashi T, Hibi T. Improving IBD outcomes in the era of many treatment           Treatment[J].   J Med Chem  2024;67(22):20372–98.  doi:  https://doi.org/
+     options[J]. Nat Rev Gastroenterol Hepatol 2023;20(2):79–80. doi: https://doi.          10.1021/acs.jmedchem.4c01838.
+    org/10.1038/s41575-022-00738-z.                                                [34] Gonzalez DM, Medici D. Signaling mechanisms of the epithelial-mesenchymal
+[10] Chelakkot  C, Ghim   J, Ryu SH. Mechanisms regulating  intestinal  barrier            transition[J].  Sci  Signal  2014;7(344):re8.  doi:  https://doi.org/10.1126/
+     integrity and its pathological implications[J]. Exp Mol Med 2018;50(8):1–9.           scisignal.2005189.
+     doi: https://doi.org/10.1038/s12276-018-0126-x.                                  [35] Zeisel MB, Dhawan P, Baumert TF. Tight junction proteins in gastrointestinal
+[11] Camilleri M. Leaky gut: mechanisms, measurement and clinical implications in         and liver disease[J]. Gut 2019;68(3):547–61. doi: https://doi.org/10.1136/
+     humans[J].  Gut  2019;68(8):1516–26.  doi:  https://doi.org/10.1136/gutjnl-          gutjnl-2018-316906.
+    2019-318427.                                                                    [36] Avalle L, Incarnato D, Savino A, Gai M, Marino F, Pensa S, et al. MicroRNAs-143
+[12] Mehandru  S, Colombel  JF. The  intestinal  barrier, an  arbitrator turned         and -145 induce epithelial to mesenchymal transition and modulate the
+     provocateur in IBD[J]. Nat Rev Gastroenterol Hepatol 2021;18(2):83–4. doi:          expression of junction proteins[J]. Cell Death Differ 2017;24(10):1750–60. doi:
+     https://doi.org/10.1038/s41575-020-00399-w.                                          https://doi.org/10.1038/cdd.2017.103.
+[13] Rath T, Atreya R, Bodenschatz J, Uter W, Geppert CE, Vitali F, et al. Intestinal      [37] Macias-Ceja DC, Mendoza-Ballesteros MT, Ortega-Albiach M, Barrachina MD.
+     Barrier Healing  is Superior to Endoscopic and Histologic Remission  for         ORTIZ-MASIà D. Role of the epithelial barrier in intestinal ﬁbrosis associated
+     predicting Major adverse Outcomes in Inﬂammatory Bowel Disease: the          with inﬂammatory bowel disease: relevance of the epithelial-to mesenchymal
+     prospective ERIca Trial[J]. Gastroenterology 2023;164(2):241–55. doi: https://            transition[J]. Front  Cell. Dev  Biol 2023;11:1258843.  doi:  https://doi.org/
+     doi.org/10.1053/j.gastro.2022.10.014.                                                 10.3389/fcell.2023.1258843.
+
+
+                                                                   945S. Zhang, Y. Chen, N. Aa et al.                                                                                                  Journal of Advanced Research 87 (2026) 931–946
+
+
+[38] Sarrand J, Soyfoo MS. Involvement of Epithelial-Mesenchymal transition (EMT)      [44] Qin  J, Zhang  J, Wu  JJ, Ru X, Zhong QL, Zhao JM, et  al. Identiﬁcation of
+     in Autoimmune Diseases[J]. Int J Mol Sci 2023;24(19). doi: https://doi.org/          autophagy-related genes in osteoarthritis articular cartilage and their roles in
+     10.3390/ijms241914481.                                              immune inﬁltration[J]. Front Immunol 2023;14:1263988. doi: https://doi.org/
+[39] Youssef KK, Nieto MA. Epithelial-mesenchymal transition in tissue repair and         10.3389/ﬁmmu.2023.1263988.
+     degeneration[J]. Nat Rev Mol Cell Biol 2024;25(9):720–39. doi: https://doi.org/      [45] Zeng J, Chen JY, Meng J, Chen Z. Inﬂammation and DNA methylation coregulate
+     10.1038/s41580-024-00733-z.                                                      the CtBP-PCAF-c-MYC transcriptional complex to activate the expression of a
+[40] Lovisa S, Genovese G, Danese S. Role of Epithelial-to-Mesenchymal transition          long non-coding RNA CASC2 in acute pancreatitis[J]. Int J Biol Sci 2020;16
+     in Inﬂammatory Bowel Disease[J].  J Crohns Colitis 2019;13(5):659–68. doi:          (12):2116–30. doi: https://doi.org/10.7150/ijbs.43557.
+     https://doi.org/10.1093/ecco-jcc/jjy201.                                           [46] Jiao M, Wang X, Ji Y, Su J, Li G. Potential key genes are expected to become
+[41] Wei M, Ma Y, Shen L, Xu Y, Liu L, Bu X, et al. NDRG2 regulates adherens          biomarker for early diagnosis of colorectal cancer through bioinformatics
+     junction  integrity to  restrict  colitis and tumourigenesis[J]. EBioMedicine            analysis[J]. Biotechnol Genet Eng Rev 2024;40(1):678–91. doi: https://doi.org/
+     2020;61:103068. doi: https://doi.org/10.1016/j.ebiom.2020.103068.                  10.1080/02648725.2023.2186586.
+[42] Llombart V, Mansour MR. Therapeutic targeting of ‘‘undruggable” MYC[J].      [47] Piovani D, Danese S, Peyrin-Biroulet L, Nikolopoulos GK, Lytras T, Bonovas S.
+     EBioMedicine     2022;75:103756.      doi:      https://doi.org/10.1016/j.          Environmental Risk Factors for Inﬂammatory Bowel Diseases: an Umbrella
+     ebiom.2021.103756.                                                         Review  of  Meta-analyses[J]. Gastroenterology 2019;157(3):647–659.e644.
+[43] Moser B, Hochreiter B, Basilio  J, Gleitsmann V, Panhuber A, Pardo-Garcia A,           doi: https://doi.org/10.1053/j.gastro.2019.04.016.
+     et al. The inﬂammatory kinase IKKalpha phosphorylates and stabilizes c-Myc      [48] Qi Y, Xu X, Mao C, Chen H, Tang Y, Lin S. Evaluation of in vivo folic acid
+    and enhances its activity[J]. Mol Cancer 2021;20(1):16. doi: https://doi.org/            bioavailability in different mouse strains using enzymatic digestion combined
+     10.1186/s12943-021-01308-8.                                                   with ultra performance liquid chromatography[J]. J Agric Food Chem 2024;72
+                                                                                       (4):2229–39. doi: https://doi.org/10.1021/acs.jafc.3c08632.
+
+
+
+
+
+                                                                   946

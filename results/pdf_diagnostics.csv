@@ -1,0 +1,31 @@
+article_id,status,error,file_kb,pages,text_chars_total,chars_per_page_median,image_only_pages,pages_with_images,two_column_pages,scanned_suspect,encrypted,pdf_title_meta,pymupdf_seconds
+PMC12742261.1,ok,,676.3,3,4662,445,0,2,0,False,False,Alzheimer Disease Drugs in bvFTD: Real&#x02010;World Clinical Utilization and Behavioral Impact,0.078
+PMC12742535.1,ok,,941.4,4,4990,506,0,2,0,False,False,Perception of Quality of Life in patients with mild to moderate Dementia: A comparison between patients and caregivers evaluation,0.023
+PMC12742544.1,ok,,726.6,3,5582,1290,0,2,0,False,False,Cortical asymmetry index in Autosomal Dominant Alzheimer&#x00027;s Disease: insights from the Cl&#x000ED;nic Barcelona and DIAN cohorts over time,0.023
+PMC12742555.1,ok,,83.2,2,4546,2273,0,0,0,False,False,4D visualization of Alzheimer&#x00027;s Disease Progression for Clinical Assessment,0.016
+PMC12781005.1,ok,,484.0,20,145663,7796,0,20,15,False,False,,0.453
+PMC12781006.1,ok,,556.7,22,194206,7117,0,22,18,False,False,,0.468
+PMC12781023.1,ok,,3971.2,14,110083,7522,0,14,7,False,False,,0.284
+PMC12831353.1,ok,,1534.8,10,59966,6258,0,5,3,False,False,,0.229
+PMC12831599.1,ok,,2487.5,8,50135,5971,0,8,0,False,False,,0.136
+PMC12843718.1,ok,,286.1,12,63311,5417,0,0,0,False,False,First Assessment of Risk Factors for Giardia spp. Infection in Hospitalized Patients from Romania,0.185
+PMC12843925.1,ok,,582.3,22,125871,5656,0,1,0,False,False,Vector-Borne Infections in Romania: From Surveillance to Prediction,0.374
+PMC12843959.1,ok,,3801.9,25,115557,5511,0,7,0,False,False,Prebiotic Treatment During Pregnancy Prevents Social Deficits Associated with Autism Spectrum Disorder-like Behavior Induced by Maternal Immune Activation,0.386
+PMC12844255.1,ok,,8998.0,18,74296,5126,0,7,0,False,False,HS-Associated Pasteurella multocida Infection Disrupts Gut Microbiota and Metabolism in Mice,0.343
+PMC12844776.1,ok,,5269.7,25,111866,4847,0,8,0,False,False,Ceragenins in Combination with Ivacaftor Prevent the Formation of Biofilm by Bacteria That Cause Rhinosinusitis,0.359
+PMC12845062.1,ok,,1280.4,15,58148,4810,0,4,0,False,False,Oral Microbiota Alterations and Potential Salivary Biomarkers in Colorectal Cancer: A Next-Generation Sequencing Study,0.184
+PMC12845198.1,ok,,303.4,14,75325,5389,0,0,0,False,False,Community-Acquired Legionella pneumophila Pneumonia: A Case-Control Study in Adult Inpatients from 2019 to 2024,0.22
+PMC12845249.1,ok,,2170.7,17,75246,4819,0,6,0,False,False,Targeting Redox Homeostasis and Cell Survival Signaling with a Flavonoid-Rich Extract of Bergamot Juice in In Vitro and In Vivo Colorectal Cancer Models,0.281
+PMC12845504.1,ok,,2974.6,41,233322,5832,0,4,2,False,False,Taming Superbugs: Current Progress and Challenges in Combating ESKAPE Pathogens,0.657
+PMC12855291.1,ok,,8045.4,16,77972,4425,0,13,0,False,False,,0.462
+PMC12855817.1,ok,,2990.3,12,67414,5662,0,7,6,False,False,Venetoclax resistance in preclinical KMT2A-rearranged acute lymphoblastic leukemia models is characterized by high inter- and intra-model heterogeneity,0.268
+PMC13222179.1,ok,,1176.8,12,71471,6315,0,2,11,False,False,,0.26
+PMC13222184.1,ok,,733.2,16,113394,6315,0,0,12,False,False,Operationalizing the ICF Core Sets for Autism and ADHD: A Multiple-Methods Feasibility Study,0.341
+PMC13222209.1,ok,,1065.2,24,174937,7173,0,1,11,False,False,Examining Virtual Reality Interventions for Social Skills in Children with Autism Spectrum Disorder: A Systematic Review,0.364
+PMC13491421.1,ok,,1383.1,18,124523,7062,0,4,13,False,False,Optimizing use of data and evidence-related tools to complement routine surveillance systems for tuberculosis program planning,0.391
+PMC13491424.1,ok,,764.5,9,54813,6873,0,3,6,False,False,"Trends and impact of government prevention policies on pulmonary tuberculosis notification and mortality in Ningbo, China (2004–2021)",0.17
+PMC13491431.1,ok,,888.7,12,81399,7392,0,3,7,False,False,"Predicting treatment adherence in patients with drug-resistant tuberculosis: insights from socioeconomic, demographic, and clinical factors of patients in the rural Eastern Cape",0.257
+PMC13494936.1,ok,,1217.3,8,61435,6904,0,3,6,False,False,Understanding the bacillary load and host interaction to design a point-of-care test to diagnose tuberculosis,0.246
+PMC13539140.1,ok,,6323.7,16,78255,4057,0,8,7,False,False,c-Myc-PANK3-EMT axis regulates the structure and function of intestinal barrier in ulcerative colitis,0.289
+PMC13539586.1,ok,,88528.2,15,115485,8038,0,4,7,False,False,Microsoft Word - BMS-CGT-2025-HT49-6632-1-MS.docx,0.51
+PMC13541818.1,ok,,1258.1,12,68632,6221,0,2,10,False,False,Unveiling a sustainable approach to cancer treatment: the antitumor activity of amygdalin and cell-free supernatant of,0.243

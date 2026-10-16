@@ -1,0 +1,1315 @@
+                                                                                                         Rev. Cardiovasc. Med. 2025; 26(12): 44688
+                                                                                                   https://doi.org/10.31083/RCM44688
+
+Review
+Metabolic Remodeling and Mitochondrial Stress in Atrial Fibrillation:
+Mechanisms and Translational Targets
+
+Konstantinos Grigoriou1, Paschalis Karakasis2,*   , Panagiotis Theofilis3, Panayiotis K Vlachakis3,
+Nikias Milaras3, Dimitrios Patoulias4, Antonios P Antoniadis2, Nikolaos Fragakis2
+
+1Department of Pharmacology, School of Medicine, National and Kapodistrian University of Athens, 15771 Athens, Greece
+2Second Department of Cardiology, Hippokration General Hospital, Aristotle University of Thessaloniki, 54642 Thessaloniki, Greece
+3First Cardiology Department, School of Medicine, Hippokration General Hospital, National and Kapodistrian University of Athens, 11527 Athens,
+Greece
+4Second Propedeutic Department of Internal Medicine, Faculty of Medicine, School of Health Sciences, Aristotle University of Thessaloniki, 54124
+Thessaloniki, Greece
+*Correspondence: pakar15@hotmail.com (Paschalis Karakasis)
+ Academic Editor: Buddhadeb Dawn
+ Submitted: 10 July 2025   Revised: 13 August 2025  Accepted: 27 August 2025   Published: 18 December 2025
+
+
+Abstract
+
+Atrial fibrillation (AF) is the most prevalent cardiac arrhythmia and frequently co-occurs with metabolic diseases, such as diabetes and
+obesity. Due to the intricate and multifactorial pathophysiology of AF, this disorder often eludes effective prevention and durable control
+with current therapeutic strategies; thus, these strategies may not consistently mitigate the onset, persistence, and related adverse outcomes
+of AF. Moreover, atrial metabolic remodeling and mitochondrial stress can promote the development of atrial cardiomyopathy and AF
+through electrophysiological and structural changes. Hence, targeting these metabolic alterations may prevent the onset of this arrhythmia.
+A contemporary therapeutic paradigm prioritizes restoration of metabolic homeostasis, led by sodium–glucose cotransporter 2 (SGLT2)
+inhibitors and glucagon-like peptide-1 (GLP-1) receptor agonists and complemented by emerging mitochondria-targeted strategies with
+potential for incremental disease modification.  Concurrently, integrative multi-omics is mapping atrial metabolic diversity in AF to
+support biomarker-guided, individualized interventions, while next-generation imaging is enhancing the detection of pathologic substrates
+and refining risk assessment. This review provides a comprehensive analysis of the mechanisms through which metabolic remodeling
+and mitochondrial stress cause AF, evaluates current experimental and diagnostic methods, and discusses emerging substrate-targeted
+therapies.
+
+Keywords: atrial fibrillation; metabolic remodeling; mitochondrial stress; SGLT2 inhibitors; GLP-1 receptor agonists
+
+
+ 1. Introduction                                               tural remodeling refers to atrial enlargement, tissue fibro-
+                                                                              sis, and reduced contractility. Electrical remodeling on the
+      Atrial fibrillation (AF) is the most prevalent cardiac
+                                                              other hand, consists of ion channel dysfunction and con-
+arrhythmia among adults and a significant contributor to
+                                                           duction abnormalities within the atria [11,12]. There is a
+global morbidity and mortality [1,2]. The incidence and
+                                                     growing body of research that underscores the fundamen-
+prevalence of AF have shown a significant rise, partially
+                                                                            tal changes in atrial metabolism and energy homeostasis,
+as a result of the aging population and improved survival
+                                                    which often precede the onset of AF. This metabolic remod-
+rates from chronic diseases [2]. Globally, an estimated 59
+                                                               eling encompasses a diverse range of alterations within the
+million individuals are affected by AF, with a lifetime risk
+                                                                       atria to address the heightened metabolic demands of the
+of one in three to five for those aged 45 and older [3].
+                                                            arrhythmia. A central component of this process is mito-
+The development of AF is affected by a range of modifi-
+                                                            chondrial stress, which sustains the altered metabolic state
+able and non-modifiable risk factors. Among them, car-
+                                                                        [8]. Over time, these changes can become maladaptive and
+diometabolic diseases, such as diabetes and obesity, are in-
+                                                      enhance atrial arrhythmogenic processes [13,14] (Fig. 1).
+creasingly recognized as key components of AF pathogen-
+esis [4–8]. Hence, treatment strategies targeting metabolic                                                              This review synthesizes current mechanistic insights
+pathways may offer disease-modifying benefits.                                                                 into the concept of metabolic remodeling and delineates
+     Current treatments often fail to prevent AF and its    the central role of mitochondrial stress in the pathogene-
+complications [9]. Historically considered a purely electri-     sis of AF. Additionally, emerging therapeutic approaches
+cal disease, AF is now growingly recognized as the clinical     targeting the metabolic substrate of AF are reviewed, cur-
+manifestation of a complex and multifaceted entity (atrial     rent imaging techniques for quantifying metabolic substrate
+cardiomyopathy), characterized by structural, electrical and    within the atria are evaluated, and the utility of multi-omics
+molecular changes of the atrial myocardium [10].  Struc-    and experimental animal models is explored.  Finally, we
+
+
+
+
+              Copyright: © 2025 The Author(s). Published by IMR Press.
+               This is an open access article under the CC BY 4.0 license.
+
+Publisher’s Note: IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.Fig. 1. This diagram illustrates how metabolic remodeling and mitochondrial stress play a pivotal role in the development of
+atrial fibrillation (AF), arising from systemic metabolic disorders. In response to metabolic stress, the atrial myocardium undergoes
+a metabolic shift characterized by alterations in lipid, glucose, and ketone metabolism. These changes, along with mitochondrial dys-
+
+function, contribute to a pro-arrhythmic environment. Metabolic disturbances, in conjunction with structural and electrical remodeling,
+promote the abnormal electrical activity characteristic of AF. AGEs, advanced glycation end-products; DAGs, diacylglycerols; ROS,
+
+reactive oxygen species; mtDNA, mitochondrial DNA.
+
+
+discuss existing knowledge gaps and propose future re-    generated through mitochondrial oxidative phosphorylation
+search directions to holistically address AF.                  [15–17]. During this process, various available substrates
+                                                              are converted into adenosine triphosphate (ATP), and their
+ 2. Methods                                                   availability depends on several factors such as oxygen (O2)
+                                                              supply, nutrient efficiency, and workload [16]. Under phys-
+   A comprehensive literature search was conducted us-
+                                                                iologic conditions, fatty acids are the main substrate, ac-
+ing PubMed, Scopus, and Web of Science databases up
+                                                          counting for up to 90% of the myocardium’s energy sup-
+to July 2025.  The search strategy combined controlled
+                                                           ply [18]. After their β-oxidation, fatty acids converge into
+vocabulary and free-text terms, including but not limited
+                                                                acetyl coenzyme A (acetyl CoA), which enters the tricar-
+to atrial fibrillation, metabolic remodeling, mitochondrial
+                                                           boxylic acid (TCA) cycle. This flux generates the reduc-
+stress, atrial cardiomyopathy, electrical remodeling, struc-
+                                                           ing equivalents nicotinamide adenine dinucleotide (NADH)
+tural remodeling, atrial remodeling, atrial fibrosis, fusion,
+                                                     and flavin adenine dinucleotide (FADH2), which feed elec-
+fission, mitochondrial biogenesis, glucagon-like peptide-
+                                                               trons into the respiratory chain via complexes I and II, re-
+1 (GLP-1) receptor agonists, and sodium-glucose cotrans-
+                                                                  spectively.  The electron transport chain (ETC), in turn,
+porter 2 (SGLT2) inhibitors. We screened original exper-
+                                                              drives protons into the intermembrane space, generating
+imental studies, clinical trials, meta-analyses, and high-
+                                                     ATP, a process which requires O2. Another source of ATP
+quality mechanistic reviews published in English for rele-
+                                                                            is pyruvate derived from glucose, lactate, and ketone bod-
+vance to the scope of this study. Additional references were
+                                                                          ies.  Their role in the energy supply of the normal my-
+identified through manual citation tracking of pertinent ar-
+                                                      ocardium is limited but may be upregulated in cardiac dis-
+ticles.
+                                                            eases [16,18].
+
+ 3. Mitochondrial Function in Cardiomyocyte                                                                  In addition, mitochondria are the primary intracellu-
+ Homeostasis                                                                        lar source of reactive oxygen species (ROS). During ox-
+     In order for the myocardium to sustain its normal con-     idative phosphorylation, a small portion of electrons de-
+traction, it needs a continuous supply of energy, primarily    rived from NADH and FADH2 (approximately 0.2–2%) es-
+
+
+2cape the ETC and react aberrantly with O2, resulting in    term effects of chronic ketosis and its role in AF progression
+the formation of superoxide (O2−) [18]. At controlled lev-    and treatment remain to be determined [26].
+els, ROS are involved in numerous cellular signaling path-         In AF, glucose metabolism shifts toward a fetal-like
+ways that regulate cell growth, adhesion, differentiation,     state, characterized by increased glucose uptake and en-
+and apoptosis. However, excessive ROS accumulation can    hanced glycolytic activity [33]. This process involves dys-
+damage to DNA, proteins, and lipids [19–21]. To counter-    regulation of key glycolytic enzymes and glucose trans-
+act these effects, cells are equipped with an efficient an-     porters such as glucose transporter (GLUT) 1 and GLUT4,
+tioxidant defense system.  This system encompasses nu-    while pyruvate dehydrogenase (PDH) activity is decreased
+merous enzymes, such as manganese superoxide dismutase    due to increased expression of  its  inhibitor, PDH  ki-
+(Mn-SOD), mitochondrial glutaredoxin reductase, and glu-    nase (PDK) [33,34].  The resulting uncoupling of gly-
+tathione peroxidase 4 [22].                                     colysis from oxidative metabolism reflects a Warburg-like
+     Moreover, mitochondria regulate intracellular calcium    metabolic phenotype [34]. Additionally, altered fatty acid
+(Ca2+) signaling pathways and serve as a reservoir for Ca2+    metabolism, marked by lipid accumulation and impaired
+[23].  Mitochondrial Ca2+ homeostasis depends on the     fatty acid oxidation, contributes to arrhythmogenesis [35,
+proper uptake and release of Ca2+. Ca2+ uptake is primar-     36]. Key molecular pathways involved include sirtuin 3
+ily regulated by the mitochondrial Ca2+ uniporter (MCU)    (SIRT3)/AMP-activated protein kinase (AMPK) signaling,
+complex located on the inner mitochondrial membrane,     carnitine palmitoyltransferase-1, acetyl-CoA carboxylase
+while Ca2+ release is mediated by the sodium-calcium ex-    (ACC), and peroxisome proliferator-activated receptor α
+changer (NCX) and the mitochondrial permeability tran-   (PPARα) [37–39].
+sition pore (mPTP) [24]. Dysregulation of mitochondrial
+Ca2+ increases oxidative stress impairs cellular metabolism    4.2 AMPK, SIRT1, and Mitochondrial Biogenesis
+and contributes to atrial remodeling, thereby promoting an         Mitochondrial biogenesis is a multifaceted process by
+arrhythmogenic substrate [25,26].                        which cells increase mitochondrial mass and number to ex-
+    Of note, mitochondrial distribution and density are    pand their energy expenditure. It involves dynamic events
+significantly lower in the atria compared to the ventricles, a    such as mitochondrial fission and fusion, and is triggered by
+difference that may influence their Ca2+ signaling dynam-    environmental and physiological stimuli, such as exercise,
+ics [27–29]. Tanaami et al. [29] demonstrated that atrial     fasting, oxidative stress, proliferation, and differentiation
+myocytes exhibit impaired local control of Ca2+ release,    [40–43].
+with propagation following Ca2+ release induced by stim-                                                          Peroxisome  proliferator-activated  receptor gamma
+ulation, compared to ventricular myocytes. In addition, the                                                               coactivator 1-alpha (PGC-1α), encoded by the PPARGC1A
+time between the peak of the Ca2+ transient and peak con-                                                           gene, plays a pivotal role in mitochondrial biogenesis. It up-
+traction was shorter in atrial myocytes.                                                               regulates nuclear-encoded mitochondrial proteins and acti-
+                                                              vates nuclear respiratory factor 1 (NRF-1) and nuclear fac-
+ 4. Metabolic Remodeling in Atrial                    tor erythroid 2-related factor 2 (NRF-2), which in turn reg-
+ Fibrillation: From Substrate to Trigger            ulate mitochondrial genes, including mitochondrial tran-
+4.1 Energy Substrate Shifts: From Oxidative                   scription factor A (TFAM) and mitochondrial RNA poly-
+Phosphorylation to Glycolysis                            merase (POLRMT) [44,45].
+   AF is increasingly recognized as a metabolic cardiac       PGC-1α expression is tuned by AMPK and sirtuin
+disease, characterized by high energy demand and features    1 (SIRT1) via phosphorylation and deacetylation, respec-
+resembling ischemia [26]. To address these needs, atrial     tively [40]. AMPK acts as an energy sensor of the cell and
+O2 supply and consumption increase two- to three-fold fol-    becomes activated when the AMP/ATP ratio is elevated.
+lowing acute AF induction [30,31]. At the same time, re-    Activated AMPK enhances catabolism, increases mito-
+ductions in high-energy phosphate compounds, including    chondrial and glucose metabolism, and inhibits lipid syn-
+ATP and creatine phosphate, along with decreased activity     thesis [46]. SIRT1, using NAD+ as a substrate, activates
+of phosphotransfer enzymes, are observed [26].           PGC-1α and modulates additional transcription factors
+    As previously mentioned, in cardiac diseases, energy    such as peroxisome proliferator-activated receptor gamma
+substrates other than fatty acids are utilized to a greater ex-    (PPARγ), p53, and the forkhead box O (FOXO) family [46–
+tent to generate ATP in cardiomyocytes [16,18,32]. In AF,     49].
+the atrial myocardium undergoes notable metabolic shifts,     A considerable body of evidence suggests that both
+characterized by increased anaerobic glycolysis, decreased  AMPK and SIRT1 are involved in the pathophysiological
+glucose and fatty acid oxidation, and enhanced reliance on    mechanisms of AF. A recent study demonstrated that SIRT1
+ketone body metabolism [26]. This metabolic change, es-     effectively attenuates age-related AF by suppressing atrial
+pecially in persistent AF, provides a more efficient energy    necroptosis through regulation of receptor-interacting pro-
+source and possesses cardioprotective properties by reduc-     tein kinase 1 (RIPK1) acetylation [50]. Another study es-
+ing oxidative stress and inflammation. However, the long-    tablished a correlation between SIRT1 levels and the de-
+
+
+                                                                                                 3velopment of AF following cardiac surgery [51]. Notably,    pacity and ROS levels, and the presence of arrhythmias
+SIRT1 has also been associated with increased expression    [67–70].
+of collagen I in left atrial tissue in patients with mitral regur-
+gitation (MR), providing novel insights and potential strate-    4.4 Fatty Acid Oxidation and Lipotoxicity in Atrial Tissue
+gies for diagnosing and treating atrial fibrosis [52].                 Lipotoxicity has emerged as a dynamic and impor-
+                                                                   tant contributor to the pathogenesis of atrial cardiomyopa-    Emerging evidence has implicated AMPK as a piv-
+                                                           thy and AF [13]. The associations between lipotoxicity andotal mediator against the development of atrial remodeling
+                                                          metabolic diseases such as diabetes mellitus and obesity areand the promotion of AF. Indeed, in atrial cardiomyocytes
+                                                           well established. Under these conditions, fatty acid uptakesubjected to AF-related metabolic stress, AMPK activation
+                                                              often outweighs their catabolism and leads to the excess ac-preserved cell contractility and Ca2+ homeostasis [53]. In
+                                                        cumulation of toxic lipid intermediates, which cause directmice models, atria-specific deletion of AMPK and Lkb1—
+                                                 damage to cardiomyocytes [13,71].which encodes liver kinase B1 (LKB1), a primary upstream
+activator of AMPK—resulted in electrical and structural re-        Ceramides and diacylglycerols (DAGs) are among
+modeling of the atria, further underscoring its anti-AF sig-    the best-studied lipid intermediates involved in lipotoxicity
+nificance [54–56]. Similarly, reduced activation of AMPK     [71]. These molecules are thought to play a role in arrhyth-
+was noted in a mouse model of cardiometabolic heart fail-    mogenesis,  particularly by triggering several molecular
+ure with preserved ejection fraction (HFpEF), which had in-    pathways, including inflammation, apoptosis, and insulin
+creased vulnerability to pacing-induced AF. Administration     resistance [13]. For example, DAGs can activate protein
+of metformin, an AMPK activator, reduced AF susceptibil-    kinase C (PKC), which in turn triggers nuclear factor kappa
+ity in these mice, highlighting the pivotal role of AMPK in   B (NF-κB) and enhances the release of pro-inflammatory
+AF associated with metabolic disorders [57].                  cytokines, like tumor necrosis factor (TNF)—a key player
+                                                                 in the development of atrial AF [72–75].
+                                                               Despite these findings, the exact role of lipotoxic-4.3 Redox Imbalance and Reactive Oxygen Species
+                                                                        ity in the pathogenesis of AF remains incompletely under-
+     Oxidative stress defines a state in which ROS gen-    stood. Lipid accumulation has been observed in the atrial
+eration overrides cellular antioxidant defense mechanisms.     tissue of patients with AF [76], and dysfunction in fatty
+This process is mediated by several enzymes, including    acid transport and mitochondrial oxidation has been linked
+nicotinamide adenine dinucleotide phosphate (NADPH)     to atrial arrhythmogenesis [35,77,78].  Pediatric cases in-
+oxidase (NOX), xanthine oxidase, and uncoupled nitric ox-    volving deficiencies in enzymes essential for mitochondrial
+ide (NO) synthase (NOS) [58]. Aberrant ROS accumula-     fatty acid entry—such as carnitine palmitoyltransferase II
+tion impairs redox signaling and contributes to the patho-    and carnitine-acylcarnitine translocase—have been associ-
+genesis of various cardiovascular diseases, including car-    ated with atrial conduction abnormalities and tachyarrhyth-
+diac rhythm disorders [59–63].                           mias [77]. In vitro studies have also demonstrated that ex-
+   ROS are a class of oxygen-containing molecules,    posing atrial cardiomyocytes to fatty acids results in the
+including peroxynitrite (ONOO⁻), superoxide (O2⁻), hy-    shortening of action potential duration (APD), increased re-
+droxyl radicals (-OH), and hydrogen peroxide (H2O2).    polarizing potassium currents (IK), and a higher incidence
+There are several possible ways for ROS to form an atrial ar-    of delayed afterdepolarizations (DADs) [78].
+rhythmogenic substrate. These reactive species activate in-        While these atrial-specific findings offer promising in-
+flammatory pathways, induce ion channel remodeling, dys-     sights, the current understanding of cardiac lipotoxicity is
+regulate intracellular Ca2+ homeostasis, reduce NO avail-    predominantly derived from studies focused on the ven-
+ability, and enhance atrial fibrosis [62,64–66]. Of note, the     tricles. Targeted research is urgently needed to determine
+effect of oxidative stress on AF may depend on the source    whether similar lipotoxic mechanisms underlie atrial car-
+of ROS, the specific cellular microdomains where they ex-    diomyopathy in the setting of metabolic diseases.
+ert their effects, and NO levels [13].
+                                                         5. Mitochondrial Dysfunction in Atrial
+    The human body has a combined antioxidant sys-
+                                                    Fibrillation
+tem, which includes enzymatic and non-enzymatic antioxi-
+                                                             5.1 Mitochondrial DNA Damage and Depletiondants to counteract the negative effects of ROS. The first
+line of defense is the group of enzymatic antioxidants,         Mitochondria  harbor  a  distinct  circular,  double-
+including superoxide dismutase (SOD), catalase (CAT),    stranded genome—mitochondrial DNA (mtDNA)—which
+and glutathione peroxidase (GPx). The second line con-    encodes a subset of genes essential for metabolic regulation,
+sists of non-enzymatic scavenging antioxidants, which di-    calcium signaling, redox balance, and the modulation of
+rectly neutralize free radicals, such as ascorbic acid, alpha-    apoptosis and mitophagic processes [79]. MtDNA is more
+tocopherol, uric acid (UA), and glutathione. Evidence from    vulnerable to oxidative damage compared to nuclear DNA
+many investigations has established an association between    owing to its proximity to the primary site of ROS generation
+biomarkers of oxidative stress, such as total antioxidant ca-    and the absence of histones [80]. These factors may com-
+
+
+4Fig. 2.  Pathophysiological drivers of mitochondrial dysfunction in atrial fibrillation.  Mitochondrial dynamics—including fis-
+sion, fusion, and mitophagy—are essential for maintaining mitochondrial function and cellular metabolism. An imbalance in these
+
+processes can lead to mitochondrial dysfunction, characterized by impaired energy production and increased oxidative stress. These
+
+alterations contribute to atrial arrhythmogenesis through mechanisms such as ion channel remodeling, inflammation, atrial fibrosis,
+disrupted mitochondrial–ER interactions, and impaired regulation of mitochondrial and cytosolic Ca2+ levels. Drp1, dynamin-related
+protein 1; Mff, mitochondrial fission factor; Mfn1, mitofusion-1; ATP, adenosine triphosphate; KATP, ATP-sensitive potassium channel;
+ER, endoplasmic reticulum; Ca2+, calcium.
+
+
+promise the stability of mitochondrial genome, contributing     [88]. When these processes are dysregulated, mtDNA can
+to the pathogenesis of various diseases, including AF [81].    be released into the cytoplasm or extracellular space, where
+                                                                                           it acts as damage-associated molecular pattern (DAMP)   ROS cause direct oxidative damage to mtDNA via
+                                                                  [89]. DAMPs aggravate the inflammatory response via ac-modification of bases, such as the frequent formation of 8-
+                                                                  tivation of the cyclic GMP–AMP synthase–stimulator ofoxo-7,8-dihydroguanine (8-oxoG) [82]. ROS also oxidize
+                                                                interferon genes–TANK-binding kinase 1 (cGAS–STING–DNA polymerase gamma (POLG), the enzyme responsible
+                                             TBK1) pathway in immune cells, leading to cytokine pro-for mtDNA replication and repair, thereby indirectly im-
+                                                           duction through interferon regulatory factor 3 (IRF3) andpairing these processes [83]. There is a bidirectional re-
+                                            NF-κB signaling, and promoting activation of the NOD-lationship between oxidative stress and mtDNA damage;
+                                                                   like receptor protein 3 (NLRP3) inflammasome—an estab-while ROS cause mtDNA damage, the resulting mitochon-
+                                                                lished contributor to arrhythmogenesis. Toll-like receptordrial dysfunction amplifies ROS generation, creating a self-
+                                                   9 (TLR9) may also mediate these inflammatory responsesperpetuating cycle of oxidative injury [58,81,84].
+                                                           [90–92].  Elevated circulating mtDNA levels have been
+     Deletions of mtDNA have been reported in AF pa-
+                                                                  identified in human atrial tissue from patients with diverse
+tients; however, it remains unclear whether these deletions
+                                        AF phenotypes, including postoperative and paroxysmal
+are a cause or a consequence of impaired ATP synthesis, ag-
+                                                           forms, suggesting its value as a potential biomarker [93–
+ing, hemodynamic compromise, or AF itself [85,86]. Addi-
+                                                                95].
+tionally, reduced mtDNA copy number—a marker of mito-
+chondrial dysfunction—has been linked to a higher risk of
+                                                             5.2 Impaired Mitophagy and Fission-Fusion ImbalanceAF, independent of traditional cardiovascular risk factors
+[87].                                                        Mitophagy is the selective elimination of damaged mi-
+     Mitochondrial quality control mechanisms—such as    tochondria through autophagy to maintain cellular home-
+fission, fusion, and mitophagy—are essential for removing     ostasis (Fig. 2). Mitophagic dysfunction has been observed
+damaged mitochondria and preserving cellular homeostasis     in several cardiovascular disorders, such as atherosclerosis
+
+
+                                                                                                 5and cardiomyopathy. Accumulating evidence also suggests    serves redox homeostasis by supporting antioxidant mech-
+its involvement in the pathogenesis of AF [96,97]. Indeed,    anisms, thereby mitigating the adverse effects of ROS [25].
+dysregulated mitophagy causes mitochondrial dysfunction,        Changes in Ca2+ cycling can occur within days fol-
+which in turn leads to ATP depletion and excessive ROS    lowing rapid atrial stimulation, initially presenting as a form
+generation. This promotes atrial ion channel dysregulation    of Ca2+ signaling silencing [104].  This early response
+and mtDNA damage, alters gene transcription, and acti-    serves a cardioprotective role but eventually becomes mal-
+vates inflammatory signaling [98,99]. Furthermore, oxida-    adaptive as paroxysmal AF develops and progresses to a
+tive stress enhances the oxidation of ryanodine receptors    permanent form.  This transition occurs due to enhanced
+(RyR) and, Ca2+/calmodulin-dependent protein kinase II     diastolic Ca2+ leak from RyRs, which contributes to the
+(CaMKII), and contributes to atrial fibrosis [100]. There-    genesis of afterdepolarizations. Higher intracellular Ca2+
+fore,  it can be reasonably speculated that mitophagy, by     levels also trigger pro-fibrotic signaling pathways, leading
+eliminating damaged mitochondria and regulating ROS and     to structural remodeling [104]. These changes create a sub-
+ATP levels, may inhibit or slow the progression of AF.          strate conducive to the complex re-entry circuits that sustain
+                                                    AF.     Mitochondria have been reported to be structurally
+                                                           Moreover, Ca2+ overload results in increased ROSabnormal in the atrial tissue of patients with chronic AF
+                                                             production, mPTP opening, and oxidative damage.  This[97]. Markers of impaired autophagic flux were evident,
+                                                         cascade leads to mitochondrial dysfunction, further Ca2+such as reduced levels of microtubule-associated protein
+                                                             leakage, and cardiomyocyte apoptosis, all of which con-1 light chain 3 beta (LC3B) II, a decreased LC3B II/I ra-
+                                                                    tribute to atrial remodeling and AF progression [104,105].tio, elevated p62, and increased expression of cytochrome
+c oxidase IV (Cox IV). Furthermore, mitochondrial engulf-        There are two main mechanisms by which mitochon-
+ment by autophagosomes was disrupted [97]. In a recent     drial Ca2+ is released. One involves the sodium-calcium
+study, a novel correlation was found between autophagy    exchanger (NCLX), and the other is governed by the mPTP
+and the recurrence of AF following catheter, ablation us-    [104]. Under stress conditions, such as Ca2+ overload, ox-
+ing metabolomic analysis. Notably, lower serum levels of     idative stress, inflammation, and energy depletion, transient
+Parkin, a representative biomarker of mitophagy, predicted    openings of the mPTP may occur. This can lead to rapid
+AF recurrence of very late onset. These findings under-   Ca2+ release, loss of mitochondrial membrane potential,
+score the need for further research to elucidate the mecha-    and cellular damage, including apoptosis or necrosis, and
+nisms by which mitochondrial autophagy contributes to the     lipid peroxidation—all of which promote arrhythmogene-
+pathogenesis of AF [101].                                          sis [25,106–109].
+
+     Mitochondrial fission refers to the dynamic remodel-    5.4 Crosstalk With Endoplasmic Reticulum Stress
+ing event in which a singular mitochondrial organelle un-
+                                                     The endoplasmic reticulum (ER) is a vital organelle in
+dergoes division, generating two or more discrete mito-
+                                                            eukaryotic cells, responsible for protein folding and secre-
+chondria. This process is primarily regulated by the GTPase
+                                                                      tion, Ca2+ regulation, and lipid metabolism [110]. When
+dynamin-related protein 1 (Drp1), which is recruited to the
+                                                              the ER’s capacity for protein folding becomes saturated, un-
+mitochondrial outer membrane (OMM) by adaptor proteins
+                                                           folded or misfolded proteins accumulate. This phenomenon
+such as fission 1 protein (Fis1), mitochondrial fission fac-
+                                                                disrupts ER function and leads to a condition known as
+tor (Mff), and mitochondrial dynamics proteins of 49 and 51
+                                        ER stress [111–113]. Adaptive mechanisms such as ER-
+kDa (MiD49/51) [100]. Conversely, mitochondrial fusion
+                                                              associated degradation (ERAD), the unfolded protein re-
+is a process by which two or more mitochondria merge to
+                                                        sponse (UPR), and reticulophagy, are then activated to re-
+form a larger organelle. This phenomenon is coordinated by
+                                                                 store ER function [110,114].
+the outer membrane GTPases mitofusin 1 and 2 (Mfn1/2),
+                                                               Various cardiovascular and metabolic diseases canwhich mediates fusion of the OMM, and by the inner mem-
+                                                         cause ER stress. The activated UPR is mediated by threebrane protein optic atrophy 1 (Opa1), which enables fusion
+                                                          ER-associated integral membrane proteins: protein kinaseof the inner mitochondrial membrane [102]. An imbalance
+                                                   RNA-like ER kinase (PERK), inositol-requiring enzymebetween mitochondrial fission and fusion, along with im-
+                                            1α (IRE1α), and activating transcription factor 6 (ATF6),paired mitophagy, may lead to a proarrhythmic atrial sub-
+                                                    which function to counteract ER stress.  Dysfunction ofstrate through mitochondrial oxidative stress, reduced en-
+                                                              the UPR may promote arrhythmogenesis through enhancedergy supply and impaired Ca2+ homeostasis [103].
+                                       ROS production, inflammation, and impaired autophagy
+                                                     and apoptosis [115].
+5.3 Calcium Overload and Mitochondrial Permeability
+                                                     The ER also regulates Ca2+ homeostasis. When Ca2+Transition Pore Opening
+                                                          channels in the ER or plasma membrane open, cytosolic
+     Mitochondrial Ca2+ is essential for cellular energy   Ca2+ levels rise to support essential functions such as car-
+production. It directly activates enzymes in the TCA cycle,    diac contraction and metabolism.  The sarcoplasmic/ER
+supports the ETC, and boosts ATP production. It also pre-    Ca2+-ATPase 2a (SERCA2a) is responsible for cycling
+
+
+6Ca2+ into the sarcoplasmic reticulum (SR) during heart      its inhibition yields variable effects on APD and arrhyth-
+muscle contraction and relaxation.  Following ER stress,    mia susceptibility depending on the underlying atrial elec-
+Ca2+ homeostasis is disrupted, leading to increased cytoso-    trophysiological state [64].
+lic Ca2+, which binds to calmodulin and activates multiple        The constitutively active component of IK,ACh (IKH) is
+signaling pathways, such as calcium/calmodulin-dependent    upregulated in AF despite reduced or unchanged expres-
+protein  kinase  kinase 2 (CaMKK2) and calmodulin–    sion of its underlying channel subunits, Kir3.1/3.4, due to
+NADPH oxidase 2 (NOX2)–ROS–NRF2, which may pro-    slowed channel closure and a consequent increase in open
+mote arrhythmogenesis [115,116].                             probability [64,129–132]. Moreover, oxidative stress con-
+     Last, efficient ER–mitochondria communication is es-     tributes to AF by promoting PKCϵ translocation, which en-
+sential for cellular functions such as Ca2+ and lipid ex-    hances IKH conductance through channel phosphorylation.
+change, iron homeostasis, and immune regulation [117].     Inhibition of NOX2-derived ROS blocks this pathway, pre-
+This crosstalk occurs  at mitochondria-associated mem-    venting IKH upregulation and the associated shortening of
+branes (MAMs), which facilitate Ca2+ transfer, support    the APD [133].
+energy production, regulate redox balance, and modulate      ROS  contribute  to  an  arrhythmogenic  substrate
+apoptosis and ER stress [118]. Disruption of this interac-    through multiple interconnected pathways, in addition to
+tion may contribute to AF development.                         their effects on atrial ion channels. One important mecha-
+                                                    nism involves oxidative activation of RyR2 and CaMKII,
+                                                    which causes abnormal Ca2+ release from the SR. This 6. Integration With Electrophysiological
+                                                                   effect  is further amplified by c-Jun N-terminal kinaseRemodeling
+                                                   2 (JNK2), a stress-responsive kinase, which enhances
+     Electrical remodeling refers to any change in the elec-   CaMKII activity and independently increases SERCA2
+trophysiological properties of the atrial myocardium that fa-    function [134,135].  By upregulating fibrotic gene ex-
+cilitates the genesis and progression of AF. One of the ma-    pression and fibroblast proliferation, persistent oxidative
+jor aspects of this process is the reduction of APD, which,     stress also activates the transforming growth factor β1
+in turn, shortens the atrial effective refractory period (ERP).   (TGFβ1)/Smad3 pathway, which promotes atrial fibrosis
+Reduced conduction velocity has also been shown to be part    [136]. In addition, redox imbalance can trigger DADs, fur-
+of this process [13,119]. These electrophysiological alter-     ther promoting arrhythmogenesis [137].
+ations are mainly mediated by impaired ion channel func-     A major hallmark in the maintenance of AF is the
+tion [120,121]. In the context of metabolic remodeling, dis-    depletion of high-energy phosphate stores. ATP-sensitive
+rupted metabolic homeostasis and excessive ROS produc-    potassium (KATP) channels open in response to reduced
+tion further exacerbate these ion dynamic changes, thereby   ATP levels.  This action facilitates energy conservation
+promoting and sustaining AF [13,26,122,123].             by shortening APD and reducing Ca2+  influx.  How-
+    Numerous ionic currents have been demonstrated     ever, this adaptive response concurrently increases elec-
+to be redox-sensitive,  including the L-type Ca2+  cur-     trical heterogeneity, thereby promoting conduction abnor-
+rent (ICa,L), inward-rectifier potassium current (IK1), ultra-     malities within the atrial myocardium [138]. Furthermore,
+rapid delayed rectifier potassium current (IKur), and, more    metabolic stress disrupts ATP-dependent pumps such as
+recently,  the  acetylcholine-activated potassium  current   SERCA, plasma membrane Ca2+-ATPase (PMCA), and
+(IK,ACh) [64]. In patients with chronic AF undergoing car-   Na+/K+ ATPase (NKA), leading to imbalances in Ca2+
+diac surgery, increased nitrosylation of the α1c subunit of    and sodium levels.  This, combined with cyclical KATP
+L-type Ca2+ channels was observed, while treatment with    channel activation and suppressed ICa,L, worsens electrical
+the ROS scavenger N-acetylcysteine enhanced ICa,L com-     instability in the atria, promoting arrhythmias linked to en-
+pared to controls [121]. However, another study failed to    ergy depletion [138].
+confirm an effect of ROS inhibition on ICa,L, suggesting that         In summary, dysregulation of energy flux and oxida-
+the role of oxidative stress in regulating ICa,L and contribut-     tive stress can impair ion homeostasis, contributing to elec-
+ing to AF substrate formation remains unclear [64,124].         trical remodeling of the atria and creating a substrate for AF.
+                                                 The interplay between energy and ion flux dysregulation is     Similarly, research on IK1 regulation by oxidative
+                                                   complex and multifactorial, making treatment challenging.stress has produced conflicting findings: in atrial myocytes
+from non-AF cardiac surgery patients, S-nitrosylation of
+Kir2.1 increased channel open probability, whereas in a     7. Metabolic Diseases and Atrial Fibrillation
+canine atrial tachypacing model of AF, inhibition of ROS         Metabolic dysregulation is one of the major hallmarks
+from NOX2 or mitochondria had no effect on IK1 [124,125].     in the development of AF. Due to their high energy de-
+     Alterations in IKur mediated by Kv1.5 channels have    mands, the fibrillating atria require metabolic flexibility in
+been associated with AF, including both gain- and loss-of-    order to adjust to stress and enable rapid energy produc-
+function variants in the KCNA5 gene [126–128]. However,     tion [138]. However, metabolic diseases such as diabetes
+the precise contribution of IKur to AF remains uncertain, as    and obesity hinder this ability by disrupting the function of
+
+
+                                                                                                 7key metabolic regulators and the availability of energy sub-     availability of transgenic models, cost, ethical considera-
+strates, thereby promoting AF initiation and maintenance     tions, and experimental feasibility [142,143].
+[26].                                                   Animal studies have significantly advanced our under-
+     Multiple molecular mechanisms contribute to atrial    standing of metabolic alterations in AF, with mice being
+remodeling in individuals with diabetes or obesity. One     particularly valuable due to their suitability for modeling
+shared electrophysiological characteristic is the slowing of    AF-related comorbidities and their ease of genetic manipu-
+atrial conduction velocity, caused by disrupted connexin     lation [143] (Table 1, Ref. [54,55,57,85,144–146]). Mouse
+distribution and reduced INa,peak [139,140].  In addition,    models have been especially useful in elucidating the role
+atrial remodeling in both conditions is associated with more    of AMPK signaling in AF-associated metabolic remodel-
+frequent arrhythmogenic Ca2+ release events from the SR     ing, as highlighted in earlier sections [55–58,143], empha-
+during diastole.  In obesity, this is largely driven by in-     sizing their utility in uncovering molecular pathways that
+flammasome activation, which is promoted by increased     affect atrial metabolism.
+intestinal permeability and elevated circulating levels of        Large animal models have also underscored metabolic
+lipopolysaccharides (LPS) [141].  In contrast, diabetes-    mechanisms in AF. In a goat model, long-lasting AF caused
+related Ca2+ release has been attributed to activation of    a 60% reduction in phosphocreatine levels, which returned
+CaMKII by oxidative stress [101].                              to baseline within 8–16 weeks, indicating metabolic adap-
+   An important aspect of structural remodeling observed     tation to increased energy demands and supporting the
+in both conditions is atrial fibrosis. Obesity alters the epi-     “relative ischemia” hypothesis in AF [145].   Similarly,
+cardial adipose tissue secretome, shifting it toward a profi-     in a sheep model of pacing-induced AF, mitochondrial
+brotic phenotype. In diabetes, the underlying mechanism    adenosine triphosphate synthase (FoF1-ATPase) activity in-
+involves profibrotic cytokine release from activated atrial    creased after just 2 hours of pacing, while cytochrome c ox-
+fibroblasts. Together, these electrophysiological and struc-    idase activity and Na+/K+-ATPase α1-subunit expression
+tural changes create an atrial arrhythmogenic substrate [13].    and activity remained unchanged [146] (Table 1).
+    Of note, metabolic syndrome—defined by elevated          Overall, animal models have revealed fundamental as-
+waist circumference, elevated triglycerides, reduced high-    pects of metabolic remodeling and mitochondrial dysfunc-
+density lipoprotein cholesterol (HDL-C), hypertension, and     tion in AF. However, they often fall short of accurately
+elevated fasting glucose—significantly increases the risk of     replicating the physiology of the human heart. In vitro mod-
+AF. The primary mechanisms through which it contributes     els using human cardiomyocytes from patients undergoing
+to AF include atrial remodeling, autonomic dysfunction,    heart surgery appear to address this limitation [147]. These
+chronic inflammation, oxidative stress, and myocardial fi-    models allow detailed microscopic analysis, can be geneti-
+brosis [7].                                                       cally modified, and are suitable for atrial-selective antiar-
+                                                        rhythmic drug screening. Human pluripotent stem cells
+ 8. Preclinical Evidence and Animal Models      (hPSCs) are the primary source of cardiomyocytes for such
+                                                                 in vitro models [147].
+     In order to improve our current treatment options,
+                                                         Samples of left atrial myocardium from individuals
+a deeper insight into the underlying pathophysiological
+                                                         with AF showed dysregulated metabolism compared to
+mechanisms of AF is required. Animal models have been
+                                                            those in sinus rhythm, including elevated expression of
+instrumental in revealing these pathways and fostering the
+                                             CaMKII and AMPK, increased membrane levels of fatty
+development of new therapeutic interventions.
+                                                             acid translocase/cluster of differentiation 36 (FAT/CD36),
+     Different animal models, ranging from mice to large
+                                                                     lipid accumulation, reduced GLUT-4 membrane expres-
+animals such as horses, and various methods to induce AF,
+                                                                  sion, increased glycogen storage, and higher levels of the
+such as rapid atrial pacing, atrial burst pacing, long-term
+                                                             pro-apoptotic protein Bax [144].  In addition, analysis of
+pacing, ischemia, and catheter-based stimulation, have been
+                                                             postoperative atrial tissue samples from AF patients re-
+used to replicate human AF pathophysiology. The wide
+                                                          vealed mtDNA deletions that impair ATP synthesis [85].
+range of available models underscores the limitations of
+                                                     The heterogeneity of AF duration and etiology com-
+current approaches. Therefore, careful consideration is re-
+                                                                  plicates the standardization of a metabolism-specific exper-
+quired when interpreting animal experimental results and
+                                                           imental model. Human studies typically focus on valvular
+translating findings into clinical practice [142].
+                                                             or permanent AF to reduce the effect of confounding fac-
+    Each animal model has its own advantages and dis-
+                                                                        tors, whereas animal models often employ electrical over-
+advantages that influence its suitability for investigating
+                                                              stimulation to induce AF. As a result, although some as-
+electrical, structural, metabolic, and autonomic remodel-
+                                                              pects of metabolic remodeling appear to be consistently ob-
+ing [143]. Rodents are a good option for molecular stud-
+                                                          served across human and animal studies, others are related
+ies, while canines better model autonomic and structural
+                                                                 to specific experimental conditions.
+changes. Goats are suitable for long-term studies of per-
+sistent AF. The selection of appropriate model depends on
+factors such as physiological congruence with humans, the
+
+
+8 Table 1. Selected clinical and preclinical studies assessing metabolic remodeling and mitochondrial stress in atrial fibrillation.
+
+      Species   Method/Animal model                  Major results                                                  Ref.
+
+     Mice      Atrium-selective  genetic  depletion  of  AMPK maintains atrial homeostasis and protects against ad-   [54]
+          AMPK                                    verse remodeling by modulating transcription factors that reg-
+                                                                 ulate ion channels and gap junction proteins.
+     Mice      Cardiac-specific LKB1 knockout        LKB1 knockout mice develop spontaneous and persistent AF,   [55]
+                                                     mimicking human AF pathology via progressive inflammatory
+                                                                          atrial cardiomyopathy and associated electrical and structural
+                                                          remodeling.
+     Mice     Murine HFpEF model induced in male   Metformin, an AMPK activator, reduced AF vulnerability in   [57]
+               mice via high-fat diet and nitric oxide syn-   these mice, suggesting that impaired AMPK signaling con-
+                 thase inhibition. Pacing-induced AF          tributes to electrophysiological instability in the context of
+                                                          metabolic disorders.
+     Gout     Goat atrial tissue was sampled at sinus   Sustained AF caused a 60% drop in atrial phosphocreatine lev-   [145]
+               rhythm and at 1, 2, 4, 8, and 16 weeks of    els, which normalized by 8–16 weeks, indicating metabolic
+                  burst pacing–induced AF                   adaptation to increased energy demands.
+      Sheep     Direct short electrical stimulation of the   After 2 hours of pacing, mitochondrial FoF1-ATPase activity   [146]
+                   right atrium to induce AF                    increased, while cytochrome c oxidase and Na+/K+-ATPase
+                                                         α1-subunit expression and activity remained unchanged.
+     Human   Samples of left atrial myocardium of pa-   Increased CaMKII and AMPK expression, along with elevated   [144]
+                    tients with AF compared to matched sam-   FAT/CD36 at the membrane, led to lipid accumulation, re-
+                  ples of patients with sinus rhythm          duced GLUT-4 membrane expression, increased glycogen stor-
+                                                              age, and higher pro-apoptotic bax levels.
+     Human   Samples of right atrial tissue          MtDNA deletions associated with aging or AF can impair   [85]
+                                           ATP synthesis, leading to bioenergetic deficiency in the human
+                                                              atrium.
+
+    AMPK, AMP-activated protein kinase; LKB1, liver kinase B1; AF, atrial fibrillation; HFpEF, heart failure with preserved ejec-
+       tion fraction; FoF1-ATPase, adenosine triphosphate synthase; CaMKII, Ca2+/calmodulin-dependent protein kinase II; GLUT-4,
+      glucose transporter-4; mtDNA, mitochondrial DNA; ATP, adenosine triphosphate; FAT/CD36, fatty acid translocase/cluster of
+       differentiation 36.
+
+
+ 9. Clinical Correlates and Human Studies        Moreover, in a PITX2 knockout zebrafish model, indica-
+                                                                 tions of atrial fibrosis and enlargement, metabolic changes,9.1 Atrial Genomic, Metabolomic and Transcriptomics
+Analyses in AF Patients                                 and oxidative stress were observed prior to the initiation
+                                                             of AF [153].  In the human heart, PITX2 deficiency has
+     Integration  of  genome-to-metabolome  datasets—
+                                                      been associated with atrial mitochondrial dysfunction and
+spanning   genomics,    transcriptomics,   epigenomics,
+                                                         a metabolic shift to glycolysis. These metabolic alterations
+proteomics, and metabolomics—has sharpened mecha-
+                                            may be responsible for the structural and functional abnor-
+nistic resolution of metabolic stress in AF. Cross-omic
+                                                                malities observed in PITX2-deficient atria [154].
+synthesis  within  a  systems framework  is  uncovering
+tractable therapeutic nodes and enabling biomarker-driven         In a study involving human atrial tissues from 10 pa-
+patient stratification [148–150].                                   tients with non-valvular AF compared to 10 healthy donors,
+     In parallel, genome-wide association studies (GWAS)    Liu et al. [155] uncovered some significant insights into
+remain foundational for charting common-variant archi-    metabolic reprogramming using a combined transcriptomic
+tecture by contrasting allele-frequency distributions—most    and proteomic approach. Their metabolomics analysis re-
+commonly  single-nucleotide  polymorphisms (SNPs)—    vealed 113 metabolites that were upregulated and 10 that
+between cases and controls. A meta-analysis of 33 GWAS,    were downregulated, with enrichment of pathways linked
+including 22,346 patients with AF and 132,086  refer-     to mitochondrial energy metabolism. On the proteomic
+ents, identified variants in the paired like homeodomain 2     side, the investigators found 330 proteins that were ex-
+(PITX2) genomic region as the only ones significantly as-    pressed differently (225 upregulated and 105 downregu-
+sociated with AF across European, African, and Japanese     lated), among which glycerol-3-phosphate dehydrogenase
+ancestries [151]. In animal PITX2 knockout models, atrial    2 (GPD2), plectin (PLEC), and synemin (SYNM) were rec-
+enlargement was associated with abnormalities in cellular    ognized as key hub proteins. Gene Set Variation Analysis
+ultrastructure, which included disrupted intercalated discs   (GSVA) showed significant changes in mitochondrial path-
+and swollen mitochondria in atrial cardiomyocytes [152].    ways, particularly in oxidative phosphorylation and ATP
+
+
+                                                                                                 9biosynthesis, among AF patients.  These findings indi-     ities in functional and molecular cardiac imaging. Under
+cate that impaired mitochondrial metabolism is a crucial     fasting conditions, FDG uptake reflects a range of patholog-
+factor in AF pathogenesis [155].  Furthermore, quantita-     ical processes such as ischemia, inflammation, and pressure
+tive acetylated proteomics analysis has been used to assess    overload [160]. Recent advances in digital PET technol-
+acetylation changes in left atrial tissues from 18 patients    ogy have improved our ability to measure FDG uptake in
+(9 with chronic AF and 9 with sinus rhythm). The inves-    the thin wall of the left atrium (LA) [161]. Many studies
+tigators identified 352 differentially acetylated sites across    have highlighted increased FDG uptake in the atria of AF
+193 proteins, most of which are involved in regulating atrial     patients, suggesting higher local metabolic activity and in-
+metabolism and contraction.  Interestingly, most acetyla-    flammation [162–165]. Interestingly, higher FDG uptake in
+tion sites related to energy metabolism were found to be    the right atrium (RA) has been linked to increased levels of
+increased in AF, while those associated with muscle con-    B-type natriuretic peptide (BNP) and may help predict the
+traction were decreased. These changes indicate that acety-    success of AF termination after radiofrequency catheter ab-
+lation is a crucial factor in the pathological processes that     lation [163]. Moreover, a recent study using nicotinic acid-
+cause metabolic and contractile remodeling, and could lead    stimulated PET showed that FDG uptake in the LA was sig-
+to new therapeutic targets [156].                                nificantly higher in patients with persistent AF compared
+     In another study, Barth et al.  [33] used Affymetrix     to healthy individuals. This uptake decreased after normal
+U133 arrays to examine ventricular gene profiles and atrial    heart rhythm was restored [166].
+mRNA expression in 10 patients with permanent AF com-       SPECT offers intrinsic benefits such as high sensitiv-
+pared to 20 with sinus rhythm. The investigators identi-     ity and wide availability and can assess myocardial func-
+fied 1434 genes that were deregulated in AF-related atrial     tion.  However, its use in clinical settings is limited due
+tissue, mostly downregulated, including key Ca2+ signal-     to technical challenges. These include complex radiotracer
+ing components. Functional classification based on Gene    metabolism, low spatial and temporal resolution, and in-
+Ontology indicated changes related to structural and elec-    adequate photon attenuation correction. These limitations
+trophysiological remodeling.  The observed upregulation    hinder its ability to quantify cellular metabolic activity in
+of metabolic transcripts suggested an adaptive response    the thin and small atrial walls [159]. As a result, the role of
+to meet increased energy demand. Of note, the fibrillat-   SPECT in diagnosing atrial metabolic stress in AF is still
+ing atrium exhibited dedifferentiation with adoption of a     uncertain.
+ventricular-like gene expression pattern, which augmented      MRS is a noninvasive method that does not involve
+glucose metabolism and reduced fatty acid oxidation [33].     radiation and detects metabolic signals from nuclei such
+     Lastly, combined metabolomic and proteomic anal-    as 31P, 1H, and 23Na [167]. When combined with cardiac
+ysis of cardiac tissue from patients with persistent AF    magnetic resonance imaging (MRI), it provides a detailed
+showed elevated levels of β-hydroxybutyrate, the primary    view of cardiac metabolism, structure, and function. Al-
+substrate in ketone body metabolism, as well as increased    though 31P-MRS has been successfully applied to evaluate
+levels of ketogenic amino acids and glycine.  This study     left ventricular (LV) metabolism, its use in the atria is lim-
+was conducted using high-resolution proton nuclear mag-     ited by low reproducibility, poor resolution, and long ac-
+netic resonance (NMR) spectroscopy [157].                    quisition times [167,168].  Additionally, the LV PCr/ATP
+                                                                     ratio measured via 31P-MRS does not correlate with mi-
+9.2 Imaging of Myocardial Energetics                        tochondrial respiratory capacity in RA appendage tissue,
+     Clarifying the pathophysiological basis and prognos-    highlighting the need for further research [169].
+tic weight of metabolic remodeling in atrial fibrillation re-
+                                                             9.3 Biomarkersquires robust clinical indicators or surrogate biomarkers
+that reflect these shifts.  Although echocardiography and          Efforts to refine risk assessment in AF increasingly
+cardiac computed tomography (CT) cannot directly visu-    center on blood-based markers. Natriuretic peptides (BNP,
+alize metabolic derangements in the fibrillating atria, they    N-terminal pro–B-type natriuretic peptide (NT-proBNP),
+capture their structural and functional sequelae—most no-     atrial natriuretic peptide (ANP)), cardiac troponin T, sup-
+tably atrial enlargement and impaired contractility [158].    pression of tumorigenicity 2 (ST2),  tissue inhibitor of
+By contrast, molecular imaging platforms such as positron    metalloproteinases 1 (TIMP1),  insulin-like growth fac-
+emission tomography (PET), single-photon emission com-     tor 1 (IGF1)/insulin-like growth factor–binding protein
+puted tomography (SPECT), and magnetic resonance spec-    1 (IGFBP1), endothelial adhesion molecules (intercellu-
+troscopy (MRS) offer noninvasive interrogation of myocar-     lar adhesion molecule 1 (ICAM1), vascular cell adhesion
+dial energy metabolism and substrate use, and thus hold    molecule 1 (VCAM1)), inflammatory chemokines such
+considerable promise for phenotyping the metabolic sub-    as C-C motif chemokine ligand 2 (CCL2), and protease-
+strate [159].                                                   activated receptors (PAR1–PAR4) have been interrogated
+     18F-fluorodeoxyglucose (FDG) PET has gained in-    predominantly as predictors of AF onset and progression;
+creasing interest owing to its intrinsic quantitative capabil-    comparatively fewer investigations address their value for
+
+
+10severity stratification [170–175]. Modulators of mitochon-         Therapeutic    modulation     of    mitochondrial
+drial dysfunction, such as circulating cell-free mitochon-    dysfunction—including   mitochondria-targeted   antiox-
+drial DNA (cfc-mtDNA), 8-hydroxy2′-deoxyguanosine (8-     idants, membrane-stabilizing compounds, and agents that
+OHdG), and heat shock proteins (HSPs), may help in stag-    augment mitochondrial biogenesis—remains under active
+ing the severity of AF and assessing treatment outcomes    study but is still predominantly preclinical, with notable
+[176].                                                            translational headwinds (Table 2, Ref. [40,57,186–195]).
+    Cfc-mtDNA  enters  the bloodstream through  cell    Elamipretide, a mitochondria-directed tetrapeptide,  sta-
+necrosis or active secretion [177]. It is successfully used as     bilizes cardiolipin and tightens ETC coupling; although
+a biomarker for conditions associated with mitochondrial     clinical benefit has been shown in heart failure cohorts,
+stress, such as cardiovascular disease and cancer progres-    antiarrhythmic efficacy in AF has yet to be established
+sion [178,179]. Cfc-mtDNA has been identified as a puta-    [196].    MitoQ,  a  mitochondria-targeted  antioxidant,
+tive atrial-specific biomarker, released into the bloodstream    has gained attention for  its cardioprotective properties.
+in association with the structural and metabolic remodel-    Treatment with MitoQ ameliorates aortic stiffness in old
+ing that accompanies AF progression.  Findings from an    mice and improves endothelial function.   Additionally,
+observational study in subjects with different phenotypes      it may counteract atrial remodeling by mitigating ROS
+of AF revealed significant associations between plasma    within mitochondria [186].  Trimetazidine functions as a
+cfc-mtDNA concentrations and both AF stage, especially    metabolic modulator, optimizing complex I activity and
+paroxysmal AF, and recurrence of AF following AF treat-    engaging transcriptional programs regulating mitochon-
+ment [95].  Interestingly, cfc-mtDNA levels were signifi-     drial biogenesis.  It has been proposed that trimetazidine
+cantly lower in AF patients with tachycardia-induced car-   may possess anti-AF properties [40].   Indeed, using a
+diomyopathy (TIC) compared to non-TIC AF patients, sug-    canine model of heart failure, Li et al. [187] demonstrated
+gesting it may serve as a potential biomarker for predicting     that  trimetazidine  attenuates  tachycardia-induced  atrial
+TIC in individuals with AF [180].                               ultrastructural remodeling, reduces AF inducibility, and
+    8-OHdG is a marker of oxidative DNA damage and    shortens AF duration.   Perhexiline, another metabolic
+has been identified as a potential serum biomarker for AF    modulator,  shifts myocardial energy metabolism from
+[176,181]. Both paroxysmal and chronic AF patients have     fatty acid oxidation toward increased carbohydrate uti-
+been observed to have higher levels of 8-OHdG. These     lization, thereby preserving ATP levels while reducing O2
+levels correlate with the stage and severity of the disease    consumption—an action that may counteract metabolic
+[91,182]. Additionally, levels rise in patients who develop    remodeling associated with AF [188]. Finally, KL1333, a
+postoperative AF and decrease after ablation therapy, in-    novel NAD+ modulator, may exert antiarrhythmic effects
+dicating both diagnostic and prognostic value [183,184].    through  activation of  the AMPK/SIRT1/PGC-1α  axis,
+These findings highlight the potential of blood-based mark-    a  central regulator of mitochondrial bioenergetics and
+ers like 8-OHdG to reflect the molecular processes under-     resilience [189].
+lying the development of AF [176].                            Sodium–glucose cotransporter-2 inhibitors (SGLT2is)
+     Lastly, clinical research has not consistently demon-    are a modern class of oral glucose-lowering agents that
+strated a link between plasma HSP levels and AF stage or     selectively block proximal tubular SGLT2, reducing renal
+recurrence, despite the fact that HSPs, including HSP60    reabsorption of filtered glucose and sodium. The result-
+and HSP10, have shown cardioprotective benefits in exper-    ing glycosuria and natriuresis support glycemic control and
+imental AF models [91,185].                                confer favorable hemodynamic effects. Beyond glycemic
+                                                                  control, SGLT2is have demonstrated distinct cardio–renal–
+ 10. Therapeutic Targets: Current and             metabolic benefits and, owing to their multifactorial patho-
+Emerging                                                physiological mechanisms, have emerged as promising
+    As mentioned above, mitochondrial dysfunction and    therapeutic agents in the pharmacological management of
+oxidative stress promote structural, metabolic, and elec-   AF [197–200] (Table 2).
+trical alterations in the atria, leading to increased suscep-     A post hoc analysis of the DECLARE-TIMI 58 trial
+tibility to AF. Several widely prescribed pharmacological    showed that dapagliflozin reduced AF and atrial flutter
+agents, including angiotensin-converting enzyme (ACE)    (AFL) events by 19% (7.8 vs. 9.6 events per 1000 patient-
+inhibitors, statins, carvedilol and ranolazine, along with nu-     years; HR 0.81, 95% CI: 0.68–0.95, p = 0.009) over 50.4
+traceutical compounds such as coenzyme Q10 (CoQ10), N-    months, irrespective of baseline AF status [190]. Accord-
+acetylcysteine, and L-glutamine, have been shown to ex-    ing to a relative recent meta-analysis addressing the effect
+ert indirect modulatory effects on mitochondrial function    of SGLT2is on cardiac arrhythmias in patients with heart
+and may represent potential therapeutic strategies for the     failure, diabetes mellitus (DM), and chronic kidney disease,
+management of AF [122]. Nevertheless, future studies are    which included 22 clinical trials and more than 52,000 pa-
+needed towards this direction.                                       tients, it was found that gliflozins had significantly reduced
+                                                              the risk of AF (RR: 0.82; 95% CI: 0.70–0.96) and embolic
+
+
+
+                                                                                                   11                                                                                      to                                                      endothe-                                  by  meta-  risk        risk of               and                high          thein               HF,                                                                                    the                         AMPK    suscepti-                                                                                                                                                     events                                                                                          neutraliza-                         inducibility,                    [188].                                                                                                                                                                                                                                                         PGC-1α,                                                                                                                                    Large                                            incidence       AF                                                                                                                                                                       reduce                                                                                                                                                                                                      [57].                               AF                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        fibrillation;                                                                         in      inducibility                                                                                                                                                                                                                                                                                                              exposed                                                                                                 the                      AF                         ROS                                                                                                                                                                                                                                                                                                                             increased                                                                                                                             (AFL)                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           impairment                                                      improves                                                                                                                                                                                                                                                                                                                                                                                                                                               cardiovascular                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         receptors;                                                                            AF                         via                                                              with                    [189].                                                                                                                                                              [190].                                                                                                                                                                                                      group                                                                                                                                                                                                                                                                                                                                 atrial                    and                                                                                                                                                                                                                        [190–192].                                                                                                                                                                                                                                                                                                      [195].                                                                              reduces                                                                                         flutter                    high   reduced                               reduction                                                                                                                                                                                               lower                        HCAECs                                                                                                                                                              status      significantly HF at                       in                            AF,                                                                                                                                                                                                                                                                                                                                                                                                                                                                          significantly  with              placebo                                                                                                                                                     atrial                                                                                                                                                                                                    A549                                                     AF      and                                                                                                                       the                                                                                          mitochondrial                                                             stiffness     remodeling                                                                associated                                            investigation                                                                           and                           to                                 line                                agonists;                                                                                                                 [40,187].                                                                                                                                                                                                   SGLT2is                                                                                                                                                                                                                                                                                                                                                         function                  fibrillation.                         aortic   atrial                     remodeling,                                                                                                                                                                                                                                                      patients      significantly            showed                                                  AF                                                                                                                                                                                                    cell                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                significantly                                                                                                                                                                                                                                           diabetes                                                                                                    under                                                                                                                                                                                                                   baseline                                                                                                                                                                                                                                                                                                                                                                               associated                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          proliferator-activated                                                                                                               that                                                                            by                                                                                                                                                            remodeling                                         limit                                                                                                                                                                                                                                                                                                                                                                                                                                             receptor        atrial                                                                                                              was                                                                                                                                                                                                                                                                                                                             compared                                                                     Xa-induced                                               reduces                                                                                                                        stage:                                                                                                               structural    duration   in                                                                                                                                                                              reduced             it                         may                         AF                                                                                                                                                                                                                                                                                                                                                                                                                                                         carcinoma                                                     of  shown  with    involving     semaglutide   [193].  mice                                                                                                                                                                                       which                                                                       mitochondrial                    factor                                                                   atrial                                                                                                                                                                                                                                                                                                                                                       evidenced                                                                                                                                            metabolic                                                                                                               have    patients                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         peroxisome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                  peptide-1                                                                                                                                                                                                                                                                                                                             duration                        [194].              lung                                                                                                                                 that 42%                                                           in                                                                            as                                                                                                                                                                                                                                                                                                                             irrespective                                                    effects/evidence                                                                                                     shortens                                  mice,    function;   [186].                                                                   by                           aged                                           AF                dysfunction          Key     In  lial  tion    Prevents and                Prevents                                            Developmental                                                   Dapagliflozin  19%,    analyses of      Meta-analysis   showed AF        Metformin-treated     signaling,   bility,   shorter                    Enhanced   glucose                 Prevented  human             PPARs,
+                                                                                                        1;                               to                                                                                    en-                                                                                                        glucagon-like                                                                    con-                                                                                                                      dur-                         sirtuin                                                                                                                                      the                                                                                                    activity;                                 O2                                                                                                                                                                                                                      RAs,
+           I                                                                                                                                                                                                                                             handling,                                            mitochon-                                                                                                      oxidase.C              produc-                  mitochondrial                                                                                                                                                   ATP             SIRT1,                                                                                       mitochondrial                                                                                                                                            oxidation                                                                                                             electrophysi-                                                                    anti-apoptotic                                      modulation.                                                                                          mitochondrial                                                                                              Ca2+                                                                                                                                                                                                                                                                                                                                                                                                                 increases                                                                                                                                                                                                                                                                            GLP-1                                                                                                                       reduces    and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           consumption                                                                           and               and                                                                                                                                                                                             (PPARs/PGC-1α);                                                                              complex                                                                                                           2;                                                                                                                                                                                                                                                                  improved                                                   and                             AMPK/SIRT1/PGC-                                                                                                                                                                                                                                                                                                                                                                             kinase;                      of                                                                                                                                                                                                                                                                                                                                                                                                                                                         increases                                                                                                                                                            fatty-acid                                                                                                                                                                                                                                                                                                                                                                                                                                                                            cytochrome                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                            triphosphate.                                                            the                                                 function,                                                                                                                                                                                                                                                                                                                                                         improves                    oxygen                                                                   attenuates                            ATP                                                                                                                                 with                                        of                                                                           and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          production,                                                                                                     programs        from                                                                                                                                                                                                                                                                                                                                                                             protein              remodeling                                                                                                                                                                                                                                                                                                           antioxidant,                                                           antioxidant,                                                                          function.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        electrophysiological                         ROS                                                                                                        cotransporter                   action                                                                                   optimization                                                                                                                                                                                                                                                                                                                                                                                                  adenosine                                                                                                                                                         preserves                                                                                                                                                                                                        activation      of                              antioxidant;                                                                                                                                                                                                                                                                                                                                                       mitochondrial                                             with     biogenesis                     utilization                                                                                                          and                                                                     mitophagy,                synthase      mitochondrial        phosphorylation,                    ATP,                                                                    use;                                                                                                                                                                                                                                                                                                                        reduces             metabolic                                                                                with                                                   antifibrotic,                                                                                   reprogramming                                                                                  organellar                                                                                                                                                                                                                                                                                                                                  citrate                                                                                                   stress.                                                              of                                                                  AMP-activated            cells;                                                                                                                                                                                         improve     efficiency.                                                         metabolic                                                       enhances                                                                                                                                            substrate                                                                                                                                                                                                                                                                anti-inflammatory,                                                                                                                              enhances    oxidative                                                  sodium-glucose                                                                                                                                                                                                                                                                                                                                                                                                                                                              potential,             targeting        mechanism(s)                                    preserves                                                                                                                                                                                                                                                                                                  metabolic                                       FXa,                                                                                                               modulation      mitochondrial                                                                                                                                                                                                                                                                                                                                                                                activity  FXa,                  AMPK,                                                                                                                               oxidative                       carbohydrate                   modulation                                           effects;                         and                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              endothelial                                                                                                           axis.                                                 metabolic                                            function.                                                                                                    maximal                      SGLT2,        agents     Proposed                                                     Mitochondria-directed ROS                 Metabolic   engages   lowers     Reprograms   greater    sumption. NAD+ 1α                                             Anti-inflammatory,   ologic and                         Antifibrotic,    actions;  drial     AMPK-driven                                                       Inhibits    membrane   zymatic    Inhibits ing  tion.                                                                                                                                                                                                                                                                                                                                          artery                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                     dinucleotide;           emerging                                                                                                                                                                                                                                                                                                                                                                                                                                                        coronary                                                                                                                                                                                                                                                                                                              pathway                        pathway    and                                                                                                                                                                                                                                                                                                                                                           adenine                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          coactivator-1alpha;                                                                                                                                                                                                                                                      receptor                                                                                                                    human
+                                                                                                                                                                                                                                                                                     peptide-1                                                                                                                                                                          anticoagulation                                                   anticoagulation                                           nicotinamide                                                                                                                                                                                                                                                                                                                                                                                                 HCAECs,                     Investigational                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                              receptor-gamma X;   2.         target/pathway                                                                                                                                                                                                                                        NAD+,
+                                                                                                                                                                                                                                                                                                                                          factor       Table     Primary                              Mitochondria                                         Mitochondria                                         Mitochondria                                         Mitochondria                    SGLT2                                                               Glucagon-like                                                   Gluconeogenesis                                                                                          Mitochondria,                                            Mitochondria,                                                            antioxidants                                                                                                                                                                                                                                                                                                                                                                                 species;                                                                                                                    drugs                                                                                                                                                                                                                                                                                      activated
+                                                                                                                                                                                                                                                                                                                         oxygen                                                                                                                                                                                                                            FXa,                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           proliferator-activated                                                                                                                                                                                                                                                         inhibitors               RAs
+                                                                                                                                                                                                                                                                                                                                                                                                                                 reactive                failure;                                  MitoQ                                            Trimetazidine                                      Perhexiline                    KL1333                    SGLT2                        GLP-1                               Metformin                                                                            Rivaroxaban                           Edoxaban                Agent                Mitochondria-targeted                                                                                                                                                                                                                                                                                   Glucose-lowering                                                                                                                                                                                                                                                 Anticoagulants                                       ROS,     peroxisome  heart
+
+
+
+
+12stroke (RR: 0.32; 95% CI: 0.12–0.85), independent of base-    inflammatory and pro-fibrotic responses [211–214]. Thus,
+line glycemic status [191]. Similar were the findings of an-   DOACs may preserve mitochondrial function and reduce
+other published meta-analysis of 22 trials involving patients    oxidative stress, potentially offering clinical advantages
+with DM and heart failure in which SGLT2is were associ-    over VKAs, which have been reported to induce mitochon-
+ated with an 18% reduction in AF/AFL incidence compared     drial damage in lymphocytes [194,211–213,215,216] (Ta-
+to control group (OR = 0.82, 95% CI: 0.73–0.93, p = 0.002)    ble 2).
+[192].                                                         Gene-directed   modulation    of    mitochondrial
+    The anti-arrhythmic mechanisms by which SGLT2is    homeostasis—targeting master regulators such as PGC-1α,
+reduce the risk for AF remain unclear. Proposed mecha-    mitochondrial catalase (mCAT), and TFAM—is emerging
+nisms involve their anti-inflammatory properties, including    as a credible path toward clinical translation [40].  Of
+the suppression of circulating pro-inflammatory cytokines    importance, advances in nucleic-acid delivery, including
+such as TNF-α and transforming growth factor-β (TGF-     lipid nanoparticle platforms and adenoviral vectors, offer
+β), and the modulation of NLRP3 inflammasome activity.    the means to engage the arrhythmogenic substrate of AF
+SGLT2is can also reduce ROS production, ameliorate mito-    with greater specificity and therapeutic leverage [10].
+chondrial respiratory capacity and intracellular Ca2+ han-
+dling, suppress pro-fibrotic signaling pathways, including    11. Future Directions and Research Gaps
+the TGF-β/SMAD axis, and improve parameters of atrial        Beyond the well-established concepts of structural and
+electrophysiology, thus reducing AF inducibility [201].         electrical remodeling, accumulating evidence suggests that
+     Glucagon-like  peptide-1  receptor  agonists (GLP-    metabolic remodeling can promote the development of AF
+1 RAs) are established  incretin therapies  that achieve    through changes in cellular metabolism and energy home-
+glycemic control by potentiating glucose-dependent insulin     ostasis in the atrial myocardium.  Mitochondrial stress is
+secretion while restraining inappropriate glucagon release    also increasingly recognized as a key contributor of this pro-
+[202].  Of importance, beyond glycemia, cardiovascular     cess.
+outcome trials in type 2 diabetes consistently show reduc-        The newly proposed guidelines for the management of
+tions in non-fatal myocardial infarction, stroke, and cardio-   AF recognize it as a complex cardiovascular disease that re-
+vascular mortality with GLP-1 RAs [203,204]. However,    quires a more holistic and individualized management strat-
+these studies were neither designed nor powered to assess    egy. Concurrently, therapeutic pillars include lifestyle and
+atrial fibrillation, and the effect of GLP-1 RA therapy on AF     risk factor modification, anticoagulation, and early rhythm
+risk remains uncertain. Nevertheless, a recently published    control strategies. This comprehensive approach is partic-
+meta-analysis of ten randomized clinical trials (RCTs) in-     ularly important in patients with metabolic diseases such as
+volving patients at high cardiovascular risk showed that    diabetes and obesity. These disorders contribute directly
+semaglutide significantly reduced the incidence of AF by     to the development and progression of atrial cardiomyopa-
+42% as compared to placebo [193].                          thy through diverse and interrelated pathways, making AF
+     Theoretically, GLP-1 RAs may exert antiarrhythmic   more challenging to manage.
+effects because of their pleotropic effects (Table 2). These         Targeting atrial metabolism in individuals with AF
+agents exert cardiometabolic benefits by facilitating glu-    represents a novel therapeutic avenue that aims directly
+cose uptake through p38 mitogen-activated protein kinase    on mitochondrial stress and metabolic remodeling. Phar-
+(MAPK)-mediated translocation of glucose transporters    macological agents such as  trimetazidine,  perhexiline,
+and enhancing mitochondrial fatty acid oxidation. Collec-    and DOACs have shown potential to improve mitochon-
+tively, these effects alleviate metabolic stress within the     drial function and reduce oxidative stress.  Furthermore,
+myocardium, a key contributor to arrhythmogenic remod-    mitochondria-targeted antioxidants and NAD+ modulators,
+eling [205]. GLP-1 RAs have also shown efficacy in modu-    as well as gene-based strategies targeting PGC-1α and
+lating antioxidant and anti-apoptotic responses, preserving   TFAM, may offer disease-modifying benefits by attenu-
+mitochondrial function, and reducing cardiac hypertrophy    ating atrial metabolic remodeling.  Although these ap-
+and fibrosis [206–209]. These mechanisms highlight the    proaches appear promising, they are still in the preclinical
+potential anti-AF properties of GLP-1 RAs, warranting fur-    stages of development and require more rigorous research.
+ther investigation.                                        SGLT2is and GLP-1RAs, owing to their multifaceted
+     Direct oral anticoagulants (DOACs) have gradually     actions, have emerged as promising agents in the pharmaco-
+replaced vitamin K antagonists (VKAs) as treatments for     logical management of atrial metabolic remodeling through
+thromboembolism in patients with AF, due to their compa-     their direct and predominantly indirect properties to regu-
+rable efficacy and improved safety profile [210]. DOACs     late key metabolic pathways. Future research should aim
+act as direct inhibitors of activated factor X (FXa) or    on conducting large-scale RCTs with pre-specified AF end-
+thrombin (FIIa). These coagulation factors exert a num-    points to conclusively establish the efficacy of SGLT2is,
+ber of additional biological actions, including ROS pro-   GLP-1RAs, and their combination in preventing atrial car-
+duction, regulation of mitochondrial function, and pro-    diomyopathy and AF.
+
+
+                                                                                                13     Despite meaningful progress, metabolic imaging—     in the manuscript.  All authors read and approved the fi-
+most commonly FDG-PET and hyperpolarized MRI—    nal manuscript. All authors have participated sufficiently
+remains constrained in routine practice. Limited spatial res-     in the work and agreed to be accountable for all aspects of
+olution, together with variability in acquisition and post-    the work.
+processing, reduces the capacity to resolve early metabolic
+perturbations within the  atrial myocardium.   In effect,    Ethics Approval and Consent to Participate
+these technical issues blunt the detection of nascent re-
+                                                       Not applicable.
+modeling and complicate comparisons across studies and
+centers.  Circulating markers of mitochondrial injury, in-
+                                        Acknowledgmentcluding cell-free mitochondrial DNA and 8-hydroxy-2′-
+deoxyguanosine,  offer a noninvasive readout of  atrial        Not applicable.
+metabolic status.  Their clinical role, however, is not yet
+settled.   Pre-analytical handling, assay calibration, and   Funding
+population-level reproducibility remain incompletely ad-
+                                                              This research received no external funding.
+dressed and require prospective, multicenter validation.
+At the systems level, integrative multi-omics is widen-
+                                                  Conflict of Interest
+ing the catalogue of candidate biomarkers and pharmaco-
+logically tractable pathways, enabling finer phenotyping        The authors declare no conflict of interest.
+and, ultimately, individualized therapy.  In parallel, arti-
+ficial intelligence—particularly deep-learning methods—    References
+promises more reliable image interpretation and coherent                                                                              [1] Tanaka Y, Shah NS, Passman R, Greenland P, Lloyd-Jones DM,
+synthesis of multimodal data, with potential gains in diag-        Khan SS. Trends in Cardiovascular Mortality Related to Atrial
+nostic precision, risk stratification, and decision-making in            Fibrillation in the United States, 2011 to 2018. Journal of the
+AF [195,217].                                                   American Heart Association. 2021; 10: e020163. https://doi.or
+                                                                     g/10.1161/JAHA.120.020163.     Delivering on this promise will require coordinated ef-
+                                                                              [2] Kornej J, Börschel CS, Benjamin EJ, Schnabel RB. Epidemi-
+fort across basic, translational, and clinical domains, with                                                                      ology of Atrial Fibrillation in the 21st Century: Novel Meth-
+explicit attention to methodological harmonization and ex-         ods and New Insights. Circulation Research. 2020; 127: 4–20.
+ternal validation.                                                     https://doi.org/10.1161/CIRCRESAHA.120.316340.
+                                                                              [3] Linz D, Gawalko M, Betz K, Hendriks JM, Lip GYH, Vinter
+ 12. Conclusion                                               N, et al. Atrial fibrillation: epidemiology, screening and digital
+                                                                                   health. The Lancet Regional Health. Europe. 2024; 37: 100786.
+   AF remains a growing global burden, underpinned by           https://doi.org/10.1016/j.lanepe.2023.100786.
+a pathophysiology that extends beyond traditional concepts       [4] Bano A, Rodondi N, Beer JH, Moschovitis G, Kobza R,
+of electrical and structural remodeling. Metabolic remod-         Aeschbacher S, et al. Association of Diabetes With Atrial Fib-
+                                                                                           rillation Phenotype and Cardiac and Neurological Comorbidi-
+eling and mitochondrial stress are increasingly recognized
+                                                                                                ties: Insights From the Swiss-AF Study. Journal of the Amer-
+as central components of AF pathophysiology and, at the          ican Heart Association. 2021; 10: e021800. https://doi.org/10.
+same time, potential therapeutic targets.  Ultimately, em-         1161/JAHA.121.021800.
+bedding the concept of atrial metabolic remodeling into       [5] Qamar U, Naeem F, Agarwal S. Trends and disparities in atrial
+clinical practice will redefine AF management, shifting the            fibrillation-related mortality among adults with co-morbid dia-
+                                                                              betes mellitus in the United States. European Journal of Clini-
+focus from arrhythmia suppression to substrate modifica-
+                                                                                  cal Investigation. 2025; 55: e14393. https://doi.org/10.1111/ec
+tion. This approach may yield long-lasting improvements           i.14393.
+in AF-related outcomes and eventually prevent its onset.         [6] Lee SY, Lee SR, Choi EK, Kwon S, Yang S, Park J, et al. As-
+                                                                                sociation Between Change in Metabolic Syndrome Status and
+Author Contributions                                        Risk of Incident Atrial Fibrillation: A Nationwide Population-
+                                                                  Based Study. Journal of the American Heart Association. 2021;
+    KG: Conceptualization, Methodology, Investigation,          10: e020901. https://doi.org/10.1161/JAHA.121.020901.
+Formal analysis, Data curation, Visualization, Project ad-       [7] Zakynthinos GE, Tsolaki V, Oikonomou E, Vavouranakis M,
+ministration, Writing -original draft, Writing - review &          Siasos G, Zakynthinos E. Metabolic Syndrome and Atrial Fib-
+                                                                                             rillation: Different Entities or Combined Disorders. Journal ofediting. PK: Conceptualization, Methodology, Investiga-
+                                                                           Personalized Medicine. 2023; 13: 1323. https://doi.org/10.3390/
+tion, Formal analysis, Data curation, Visualization, Project                                                                  jpm13091323.
+administration, Writing -original draft, Writing - review &       [8] Kim YG, Han KD, Choi JI, Boo KY, Kim DY, Oh SK, et
+editing. PT: Writing - review & editing. PKV: Writing -             al. The impact of body weight and diabetes on new-onset
+review & editing. NM: Writing - review & editing. DP:             atrial fibrillation: a nationwide population based study. Cardio-
+                                                                             vascular Diabetology. 2019; 18: 128. https://doi.org/10.1186/Writing - review & editing. APA: Writing - review & edit-
+                                                                      s12933-019-0932-z.
+ing. NF: Conceptualization, Methodology, Investigation,                                                                              [9] Lippi G, Sanchis-Gomar F, Cervellin G. Global epidemiology
+Writing - review & editing, Validation, Supervision.  All          of atrial fibrillation: An increasing epidemic and public health
+authors contributed to the conception and editorial changes           challenge. International Journal of Stroke: Official Journal of
+
+
+14      the International Stroke Society. 2021; 16: 217–221. https://doi.           in atrial fibrillation. European Heart Journal. 2023; 44: 2495–
+     org/10.1177/1747493019897870.                                    2497. https://doi.org/10.1093/eurheartj/ehad099.
+[10] Karakasis P, Theofilis P, Vlachakis PK, Ktenopoulos N, Patou-     [26] Qin X, Zhang  Y, Zheng Q. Metabolic  Inflexibility  as a
+      lias D, Antoniadis AP, et al. Atrial Cardiomyopathy in Atrial          Pathogenic Basis for Atrial Fibrillation. International Journal of
+      Fibrillation:  Mechanistic Pathways and Emerging Treatment          Molecular Sciences. 2022; 23: 8291. https://doi.org/10.3390/ij
+     Concepts. Journal of Clinical Medicine. 2025; 14: 3250. https:         ms23158291.
+     //doi.org/10.3390/jcm14093250.                                   [27] Brandenburg S, Arakel EC, Schwappach B, Lehnart SE. The
+[11] Schotten U, Neuberger HR, Allessie MA. The role of atrial di-          molecular and functional identities of atrial cardiomyocytes in
+      latation in the domestication of atrial fibrillation. Progress in           health and disease. Biochimica et Biophysica Acta. 2016; 1863:
+     Biophysics and Molecular Biology. 2003; 82: 151–162. https:         1882–1893. https://doi.org/10.1016/j.bbamcr.2015.11.025.
+     //doi.org/10.1016/s0079-6107(03)00012-9.                         [28] Mackenzie L, Roderick HL, Berridge MJ, Conway SJ, Boot-
+[12] Van Wagoner DR, Nerbonne JM. Molecular basis of electrical        man MD. The spatial pattern of atrial cardiomyocyte calcium
+     remodeling in atrial fibrillation. Journal of Molecular and Cel-           signalling modulates contraction. Journal of Cell Science. 2004;
+      lular Cardiology. 2000; 32: 1101–1117. https://doi.org/10.1006/          117: 6327–6337. https://doi.org/10.1242/jcs.01559.
+     jmcc.2000.1147.                                                  [29] Tanaami T, Ishida H, Seguchi H, Hirota Y, Kadono T, Genka C,
+[13] Bode D, Pronto JRD, Schiattarella GG, Voigt N. Metabolic re-            et al. Difference in propagation of Ca2+ release in atrial and ven-
+     modelling in atrial fibrillation: manifestations, mechanisms and            tricular myocytes. The Japanese Journal of Physiology. 2005;
+      clinical implications. Nature Reviews. Cardiology. 2024; 21:          55: 81–91. https://doi.org/10.2170/jjphysiol.R2077.
+     682–700. https://doi.org/10.1038/s41569-024-01038-6.             [30] Opacic D, van Bragt KA, Nasrallah HM, Schotten U, Verheule S.
+[14] Chakraborty P, Nattel S, Nanthakumar K. Linking cellular en-           Atrial metabolism and tissue perfusion as determinants of elec-
+     ergy state to  atrial  fibrillation pathogenesis:  Potential role             trical and structural remodelling in atrial fibrillation. Cardiovas-
+     of adenosine monophosphate-activated protein kinase. Heart           cular Research. 2016; 109: 527–541. https://doi.org/10.1093/cv
+     Rhythm. 2020; 17: 1398–1404. https://doi.org/10.1016/j.hrthm.          r/cvw007.
+     2020.03.025.                                                     [31] White CW, Kerber RE, Weiss HR, Marcus ML. The effects of
+[15] Brown DA, Perry JB, Allen ME, Sabbah HN, Stauffer BL,             atrial fibrillation on atrial pressure-volume and flow relation-
+     Shaikh SR, et al. Expert consensus document: Mitochondrial           ships. Circulation Research. 1982; 51: 205–215. https://doi.or
+     function as a therapeutic target in heart failure. Nature Reviews.           g/10.1161/01.res.51.2.205.
+     Cardiology. 2017; 14: 238–250. https://doi.org/10.1038/nrcard     [32] Lopaschuk GD, Karwi QG, Tian R, Wende AR, Abel ED. Car-
+     io.2016.203.                                                           diac Energy Metabolism in Heart Failure. Circulation Research.
+[16] Nguyen BY, Ruiz-Velasco A, Bui T, Collins L, Wang X, Liu          2021; 128: 1487–1513. https://doi.org/10.1161/CIRCRESAHA
+    W. Mitochondrial function in the heart: the insight into mecha-          .121.318241.
+     nisms and therapeutic potentials. British Journal of Pharmacol-     [33] Barth AS, Merk S, Arnoldi E, Zwermann L, Kloos P, Gebauer
+     ogy. 2019; 176: 4302–4318. https://doi.org/10.1111/bph.14431.        M, et al. Reprogramming of the human atrial transcriptome in
+[17] Ravindran S, Rau CD. The multifaceted role of mitochondria         permanent atrial fibrillation: expression of a ventricular-like ge-
+      in cardiac function: insights and approaches. Cell Communi-         nomic signature. Circulation Research. 2005; 96: 1022–1029.
+      cation and Signaling: CCS. 2024; 22: 525. https://doi.org/10.          https://doi.org/10.1161/01.RES.0000165480.82737.33.
+     1186/s12964-024-01899-x.                                       [34] Hu HJ, Zhang C, Tang ZH, Qu SL, Jiang ZS. Regulating the
+[18] Murphy E, Ardehali H, Balaban RS, DiLisa F, Dorn GW, 2nd,         Warburg effect on metabolic stress and myocardial fibrosis re-
+      Kitsis RN, et al. Mitochondrial Function, Biology, and Role in         modeling and atrial intracardiac waveform activity induced by
+     Disease: A Scientific Statement From the American Heart As-             atrial fibrillation. Biochemical and Biophysical Research Com-
+      sociation. Circulation Research. 2016; 118: 1960–1991. https:          munications. 2019; 516: 653–660. https://doi.org/10.1016/j.bb
+     //doi.org/10.1161/RES.0000000000000104.                             rc.2019.06.055.
+[19] Dröge W. Free radicals in the physiological control of cell func-     [35] Zhang Y, Fu Y, Jiang T, Liu B, Sun H, Zhang Y, et al. Enhanc-
+      tion. Physiological Reviews. 2002; 82: 47–95. https://doi.org/          ing Fatty Acids Oxidation via L-Carnitine Attenuates Obesity-
+     10.1152/physrev.00018.2001.                                         Related Atrial Fibrillation and Structural Remodeling by Acti-
+[20] Boonstra J, Post JA. Molecular events associated with reactive          vating AMPK Signaling and Alleviating Cardiac Lipotoxicity.
+     oxygen species and cell cycle progression in mammalian cells.           Frontiers in Pharmacology. 2021; 12: 771940. https://doi.org/
+     Gene. 2004; 337: 1–13. https://doi.org/10.1016/j.gene.2004.04.          10.3389/fphar.2021.771940.
+     032.                                                              [36] Qin X, Fu Y, Fan J, Liu B, Liu P, Zhang Y, et al. Melatonin
+[21] Dai DF, Rabinovitch PS. Cardiac aging in mice and humans:           increases susceptibility to atrial fibrillation in obesity via Akt
+      the role of mitochondrial oxidative stress. Trends in Cardiovas-           signaling impairment in response to lipid overload. Journal of
+      cular Medicine. 2009; 19: 213–220. https://doi.org/10.1016/j.tc          Pineal Research. 2023; 74: e12851. https://doi.org/10.1111/jpi.
+     m.2009.12.004.                                                   12851.
+[22] Monsalve M, Borniquel S, Valle I, Lamas S. Mitochondrial dys-     [37] Liu Y, Bai F, Liu N, Ouyang F, Liu Q. The Warburg effect: A
+     function in human pathologies. Frontiers in Bioscience: a Jour-        new insight into atrial fibrillation. Clinica Chimica Acta; In-
+      nal and Virtual Library. 2007; 12: 1131–1153. https://doi.org/           ternational Journal of Clinical Chemistry. 2019; 499:  4–12.
+     10.2741/2132.                                                            https://doi.org/10.1016/j.cca.2019.08.029.
+[23] Marchi S, Patergnani S, Missiroli S, Morciano G, Rimessi A,     [38] Wang XH, Ning ZH, Xie Z, Ou Y, Yang JY, Liu YX, et al.
+     Wieckowski MR, et al. Mitochondrial and endoplasmic reticu-        SIRT3/AMPK Signaling Pathway Regulates Lipid Metabolism
+    lum calcium homeostasis and cell death. Cell Calcium. 2018; 69:         and Improves Vulnerability to Atrial Fibrillation in Dahl Salt-
+     62–72. https://doi.org/10.1016/j.ceca.2017.05.003.                       Sensitive Rats. American Journal of Hypertension. 2024; 37:
+[24] Chang Y, Zou Q. Mitochondrial calcium homeostasis and atrial         901–908. https://doi.org/10.1093/ajh/hpae091.
+      fibrillation: Mechanisms and therapeutic strategies review. Cur-     [39] Zhang Y, Gao F, Gong H, Fu Y, Liu B, Qin X, et al. Intermittent
+      rent Problems in Cardiology. 2025; 50: 102988. https://doi.org/           fasting attenuates obesity-related atrial fibrillation via SIRT3-
+     10.1016/j.cpcardiol.2025.102988.                                   mediated insulin resistance mitigation. Biochimica et Biophys-
+[25] Rennison JH, Van Wagoner DR. Dysregulated Ca2+ cycling           ica Acta. Molecular Basis of Disease. 2023; 1869:  166638.
+
+
+                                                                                                15      https://doi.org/10.1016/j.bbadis.2023.166638.                      mouse develops spontaneous  atrial fibrillation and provides
+[40] Muszyński P, Bonda TA. Mitochondrial Dysfunction in Atrial          mechanistic insights into human disease process. Journal of the
+     Fibrillation-Mechanisms and Pharmacological  Interventions.         American Heart Association. 2015; 4: e001733. https://doi.org/
+     Journal of Clinical Medicine. 2021; 10: 2385. https://doi.org/         10.1161/JAHA.114.001733.
+     10.3390/jcm10112385.                                            [56] Hulsurkar MM, Lahiri SK, Moore O, Moreira LM, Abu-Taha I,
+[41] Westermann B. Mitochondrial fusion and fission in cell life and         Kamler M, et al. Atrial-Specific LKB1 Knockdown Represents
+      death. Nature Reviews. Molecular Cell Biology. 2010; 11: 872–          a Novel Mouse Model of Atrial Cardiomyopathy With Spon-
+     884. https://doi.org/10.1038/nrm3013.                                 taneous Atrial Fibrillation. Circulation. 2021; 144: 909–912.
+[42] Bouchez C, Devin A. Mitochondrial Biogenesis and Mitochon-         https://doi.org/10.1161/CIRCULATIONAHA.121.055373.
+      drial Reactive Oxygen Species (ROS): A Complex Relationship     [57] Tong D, Schiattarella GG, Jiang N, Daou D, Luo Y, Link MS, et
+     Regulated by the cAMP/PKA Signaling Pathway. Cells. 2019;             al. Impaired AMP-Activated Protein Kinase Signaling in Heart
+      8: 287. https://doi.org/10.3390/cells8040287.                             Failure With Preserved Ejection Fraction-Associated Atrial Fib-
+[43] Villena JA. New insights into PGC-1 coactivators: redefining             rillation. Circulation. 2022; 146: 73–76. https://doi.org/10.1161/
+      their role in the regulation of mitochondrial function and be-        CIRCULATIONAHA.121.058301.
+     yond. The FEBS Journal. 2015; 282: 647–672. https://doi.org/     [58] Xie W, Santulli G, Reiken SR, Yuan Q, Osborne BW, Chen BX,
+     10.1111/febs.13175.                                                            et al. Mitochondrial oxidative stress promotes atrial fibrillation.
+[44] Jornayvaz FR, Shulman GI. Regulation of mitochondrial bio-           Scientific Reports. 2015; 5: 11427. https://doi.org/10.1038/srep
+      genesis. Essays in Biochemistry. 2010; 47: 69–84. https://doi.or          11427.
+     g/10.1042/bse0470069.                                            [59] Jones DP, Sies H. The Redox Code. Antioxidants & Redox
+[45] Rimbaud  S, Garnier A,  Ventura-Clapier R. Mitochondrial           Signaling. 2015; 23: 734–746. https://doi.org/10.1089/ars.2015.
+     biogenesis in cardiac pathophysiology. Pharmacological Re-          6247.
+      ports:   PR.  2009;  61:   131–138.  https://doi.org/10.1016/     [60] Neuman RB, Bloom HL, Shukrullah I, Darrow LA, Kleinbaum
+     s1734-1140(09)70015-5.                                         D, Jones DP, et al. Oxidative stress markers are associated with
+[46] Cantó C, Auwerx J. PGC-1alpha, SIRT1 and AMPK, an energy           persistent atrial fibrillation. Clinical Chemistry. 2007; 53: 1652–
+     sensing network that controls energy expenditure. Current Opin-          1657. https://doi.org/10.1373/clinchem.2006.083923.
+     ion in Lipidology. 2009; 20: 98–105. https://doi.org/10.1097/     [61] Kim YM, Guzik TJ, Zhang YH, Zhang MH, Kattach H, Rat-
+    MOL.0b013e328328d0a4.                                          natunga C, et al. A myocardial Nox2 containing NAD(P)H ox-
+[47] Picard F, Kurtev M, Chung N, Topark-Ngarm A, Senawong T,           idase contributes to oxidative stress in human atrial fibrillation.
+    Machado De Oliveira R, et al. Sirt1 promotes fat mobilization           Circulation Research. 2005; 97: 629–636. https://doi.org/10.
+      in white adipocytes by repressing PPAR-gamma. Nature. 2004;         1161/01.RES.0000183735.09871.61.
+     429: 771–776. https://doi.org/10.1038/nature02583.                [62] Kim YM, Kattach H, Ratnatunga C, Pillai R, Channon KM,
+[48] Vaziri H, Dessain SK, Ng Eaton E, Imai SI, Frye RA, Pandita          Casadei B. Association of atrial nicotinamide adenine dinu-
+    TK, et al. hSIR2(SIRT1) functions as an NAD-dependent p53           cleotide phosphate oxidase activity with the development of
+      deacetylase. Cell. 2001; 107: 149–159. https://doi.org/10.1016/             atrial fibrillation after cardiac surgery. Journal of the Ameri-
+     s0092-8674(01)00527-x.                                           can College of Cardiology. 2008; 51: 68–74. https://doi.org/10.
+[49] Brunet A, Sweeney LB, Sturgill JF, Chua KF, Greer PL, Lin Y,           1016/j.jacc.2007.07.085.
+      et al. Stress-dependent regulation of FOXO transcription factors     [63] Szyller J, Antoniak R, Wadowska K, Bil-Lula I, Hrymniak B,
+     by the SIRT1 deacetylase. Science (New York, N.Y.). 2004; 303:          Banasiak W, et al. Redox imbalance in patients with heart failure
+     2011–2015. https://doi.org/10.1126/science.1094637.                  and ICD/CRT-D intervention. Can it be an underappreciated and
+[50]  Jin X, Zhang Y, Zhou Y, Luo Y, Han X, Gao Y, et al. Sirt1 De-          overlooked arrhythmogenic factor? A first preliminary clinical
+      ficiency Promotes Age-Related AF Through Enhancing Atrial           study. Frontiers in Physiology. 2023; 14: 1289587. https://doi.
+     Necroptosis by Activation of RIPK1 Acetylation. Circulation.          org/10.3389/fphys.2023.1289587.
+     Arrhythmia and Electrophysiology. 2024; 17: e012452. https:     [64] Pfenniger A, Yoo S, Arora R. Oxidative stress and atrial fibrilla-
+     //doi.org/10.1161/CIRCEP.123.012452.                                      tion. Journal of Molecular and Cellular Cardiology. 2024; 196:
+[51] Yamac AH, Kucukbuzcu S, Ozansoy M, Gok O, Oz K, Er-         141–151. https://doi.org/10.1016/j.yjmcc.2024.09.011.
+      turk M, et al. Altered expression of micro-RNA 199a and in-     [65] Chang JP, Chen MC, Liu WH, Yang CH, Chen CJ, Chen YL, et
+     creased levels of cardiac SIRT1 protein are associated with the             al. Atrial myocardial nox2 containing NADPH oxidase activity
+     occurrence of atrial fibrillation after coronary artery bypass graft           contribution to oxidative stress in mitral regurgitation: poten-
+      surgery. Cardiovascular Pathology: the Official Journal of the              tial mechanism for atrial remodeling. Cardiovascular Pathology:
+     Society for Cardiovascular Pathology. 2016; 25: 232–236. https:           the Official Journal of the Society for Cardiovascular Pathol-
+      //doi.org/10.1016/j.carpath.2016.02.002.                                ogy. 2011; 20: 99–106. https://doi.org/10.1016/j.carpath.2009.
+[52] Zhang D, Li B, Li B, Tang Y. Regulation of left atrial fibro-          12.005.
+      sis induced by mitral regurgitation by SIRT1. Scientific Reports.     [66] Cai H, Li Z, Goette A, Mera F, Honeycutt C, Feterik K, et
+     2020; 10: 7278. https://doi.org/10.1038/s41598-020-64308-6.              al. Downregulation of endocardial nitric oxide synthase ex-
+[53] Harada M, Tadevosyan A, Qi X, Xiao J, Liu T, Voigt N, et          pression and nitric oxide production in atrial fibrillation: po-
+       al. Atrial Fibrillation Activates AMP-Dependent Protein Kinase            tential mechanisms for  atrial thrombosis and stroke. Circu-
+     and its Regulation of Cellular Calcium Handling: Potential Role            lation. 2002; 106: 2854–2858. https://doi.org/10.1161/01.cir.
+      in Metabolic Adaptation and Prevention of Progression. Jour-         0000039327.11661.16.
+      nal of the American College of Cardiology. 2015; 66: 47–58.     [67] Türker FS, Doğan A, Ozan G, Kıbar K, Erışır M. Change in Free
+      https://doi.org/10.1016/j.jacc.2015.04.056.                             Radical and Antioxidant Enzyme Levels in the Patients Under-
+[54] Su KN, Ma Y, Cacheux M, Ilkan Z, Raad N, Muller GK, et al.          going Open Heart Surgery with Cardiopulmonary Bypass. Ox-
+      Atrial AMP-activated protein kinase is critical for prevention           idative Medicine and Cellular Longevity. 2016; 2016: 1783728.
+     of dysregulation of electrical excitability and atrial fibrillation.          https://doi.org/10.1155/2016/1783728.
+     JCI Insight. 2022; 7: e141213. https://doi.org/10.1172/jci.insigh     [68] Michałek M, Tabiś A, Noszczyk-Nowak A. Serum Total Antiox-
+     t.141213.                                                                 idant Capacity and Enzymatic Defence of Dogs with Chronic
+[55] Ozcan C, Battaglia E, Young R, Suzuki G. LKB1 knockout          Heart Failure and Atrial Fibrillation: A Preliminary Study. Jour-
+
+
+16      nal of Veterinary Research. 2020; 64: 439–444. https://doi.org/          Research in Cardiology. 2020; 115: 72. https://doi.org/10.1007/
+     10.2478/jvetres-2020-0047.                                        s00395-020-00827-7.
+[69] Dey S, DeMazumder D, Sidor A, Foster DB, O’Rourke B.     [85] Tsuboi M, Hisatome  I, Morisaki T, Tanaka M, Tomikura Y,
+     Mitochondrial ROS Drive Sudden Cardiac Death and Chronic         Takeda S, et al. Mitochondrial DNA deletion associated with the
+     Proteome Remodeling in Heart Failure. Circulation Research.          reduction of adenine nucleotides in human atrium and atrial fib-
+     2018; 123:  356–371. https://doi.org/10.1161/CIRCRESAHA             rillation. European Journal of Clinical Investigation. 2001; 31:
+     .118.312708.                                                    489–496. https://doi.org/10.1046/j.1365-2362.2001.00844.x.
+[70] Yang J, Yin HS, Cao YJ, Jiang ZA, Li YJ, Song MC, et al.     [86] Lai LP, Tsai CC, Su MJ, Lin JL, Chen YS, Tseng YZ, et
+     Arctigenin Attenuates Ischemia/Reperfusion Induced Ventricu-             al. Atrial fibrillation is associated with accumulation of aging-
+      lar Arrhythmias by Decreasing Oxidative Stress in Rats. Cellular           related common type mitochondrial DNA deletion mutation in
+     Physiology and Biochemistry: International Journal of Experi-        human atrial tissue. Chest. 2003; 123: 539–544. https://doi.org/
+     mental Cellular Physiology, Biochemistry, and Pharmacology.          10.1378/chest.123.2.539.
+     2018; 49: 728–742. https://doi.org/10.1159/000493038.            [87] Zhao D, Bartz TM, Sotoodehnia N, Post WS, Heckbert SR,
+[71] D’Souza K, Nzirorera C, Kienesberger PC. Lipid metabolism         Alonso A, et al. Mitochondrial DNA copy number and inci-
+     and signaling in cardiac lipotoxicity. Biochimica et Biophysica          dent atrial fibrillation. BMC Medicine. 2020; 18: 246. https:
+     Acta. 2016; 1861: 1513–1524. https://doi.org/10.1016/j.bbalip          //doi.org/10.1186/s12916-020-01715-6.
+     .2016.02.016.                                                     [88] Picca A, Mankowski RT, Burman JL, Donisi L, Kim JS, Marzetti
+[72] Trappe K, Thomas D, Bikou O, Kelemen K, Lugenbiel P, Voss          E, et al. Mitochondrial quality control mechanisms as molecular
+      F, et al. Suppression of persistent atrial fibrillation by genetic            targets in cardiac ageing. Nature Reviews. Cardiology. 2018; 15:
+    knockdown of caspase 3: a pre-clinical pilot study. European         543–554. https://doi.org/10.1038/s41569-018-0059-z.
+     Heart Journal. 2013; 34: 147–157. https://doi.org/10.1093/eurh     [89] Marchi  S, Guilbaud E,  Tait SWG, Yamazaki  T, Galluzzi
+      eartj/ehr269.                                                         L. Mitochondrial control of inflammation. Nature Reviews.
+[73] Scott L, Jr, Li N, Dobrev D. Role of inflammatory signaling in         Immunology. 2023;  23:  159–173.  https://doi.org/10.1038/
+       atrial fibrillation. International Journal of Cardiology. 2019; 287:         s41577-022-00760-x.
+     195–200. https://doi.org/10.1016/j.ijcard.2018.10.020.              [90] Ding W, Chen J, Zhao L, Wu S, Chen X, Chen H. Mitochondrial
+[74] Harada M, Van Wagoner DR, Nattel S. Role of inflammation in      DNA leakage triggers inflammation in age-related cardiovascu-
+       atrial fibrillation pathophysiology and management. Circulation            lar diseases. Frontiers in Cell and Developmental Biology. 2024;
+      Journal:  Official Journal of the Japanese Circulation Society.          12: 1287447. https://doi.org/10.3389/fcell.2024.1287447.
+     2015; 79: 495–502. https://doi.org/10.1253/circj.CJ-15-0138.       [91] Lin PH, Lee SH, Su CP, Wei YH. Oxidative damage to mito-
+[75] Zhou X, Dudley SC, Jr. Evidence for Inflammation as a Driver of          chondrial DNA in atrial muscle of patients with atrial fibrilla-
+      Atrial Fibrillation. Frontiers in Cardiovascular Medicine. 2020;            tion. Free Radical Biology & Medicine. 2003; 35: 1310–1318.
+      7: 62. https://doi.org/10.3389/fcvm.2020.00062.                         https://doi.org/10.1016/j.freeradbiomed.2003.07.002.
+[76] Kato T, Yamashita T, Sekiguchi A, Tsuneda T, Sagara K, Taka-     [92] Shimada K, Crother TR, Karlin J, Dagvadorj J, Chiba N, Chen
+    mura M, et al. AGEs-RAGE system mediates atrial structural           S, et al. Oxidized mitochondrial DNA activates the NLRP3 in-
+     remodeling in the diabetic rat. Journal of Cardiovascular Elec-        flammasome during apoptosis. Immunity. 2012; 36: 401–414.
+     trophysiology. 2008; 19:  415–420. https://doi.org/10.1111/j.           https://doi.org/10.1016/j.immuni.2012.01.009.
+     1540-8167.2007.01037.x.                                         [93] Manghelli JL, Kelly MO, Carter DI, Gauthier JM, Scozzi D,
+[77] Bonnet D, Martin D, Pascale De Lonlay, Villain E, Jouvet P, Ra-          Lancaster TS, et al. Pericardial Mitochondrial DNA Levels Are
+      bier D, et al. Arrhythmias and conduction defects as presenting          Associated With Atrial Fibrillation After Cardiac Surgery. The
+    symptoms of fatty acid oxidation disorders in children. Circula-         Annals of Thoracic Surgery. 2021; 111: 1593–1600. https://doi.
+      tion. 1999; 100: 2248–2253. https://doi.org/10.1161/01.cir.100.           org/10.1016/j.athoracsur.2020.07.011.
+     22.2248.                                                          [94] Sandler N, Kaczmarek E, Itagaki K, Zheng Y, Otterbein L,
+[78] Aromolaran KA, Do J, Bernardi J, Aromolaran AS. mTOR         Khabbaz K, et al. Mitochondrial DAMPs Are Released Dur-
+     Modulation of IKr through hERG1b-Dependent Mechanisms          ing Cardiopulmonary Bypass Surgery and Are Associated With
+      in Lipotoxic Heart. International Journal of Molecular Sciences.          Postoperative Atrial Fibrillation. Heart, Lung & Circulation.
+     2022; 23: 8061. https://doi.org/10.3390/ijms23158061.                 2018; 27: 122–129. https://doi.org/10.1016/j.hlc.2017.02.014.
+[79] Galluzzi L, Yamazaki T, Kroemer G. Linking cellular stress     [95] Wiersma M, van Marion DMS, Bouman EJ, Li J, Zhang D,
+     responses to systemic homeostasis. Nature Reviews. Molecu-        Ramos KS, et al. Cell-Free Circulating Mitochondrial DNA:
+      lar Cell Biology. 2018; 19: 731–745. https://doi.org/10.1038/      A Potential Blood-Based Marker for Atrial Fibrillation. Cells.
+     s41580-018-0068-0.                                               2020; 9: 1159. https://doi.org/10.3390/cells9051159.
+[80] Yang Y, Li T, Li Z, Liu N, Yan Y, Liu B. Role of Mitophagy in     [96] Bravo-San Pedro JM, Kroemer G, Galluzzi L. Autophagy and
+     Cardiovascular Disease. Aging and Disease. 2020; 11: 419–437.         Mitophagy in Cardiovascular Disease. Circulation Research.
+     https://doi.org/10.14336/AD.2019.0518.                              2017; 120: 1812–1824. https://doi.org/10.1161/CIRCRESAHA
+[81] Xu X, Pang Y, Fan X. Mitochondria in oxidative stress, inflam-          .117.311082.
+     mation and aging: from mechanisms to therapeutic advances.     [97] Zhou S, Dai W, Zhong G, Jiang Z. Impaired Mitophagy: A
+     Signal Transduction and Targeted Therapy. 2025; 10: 190. https:       New Potential Mechanism of Human Chronic Atrial Fibrilla-
+     //doi.org/10.1038/s41392-025-02253-4.                                      tion. Cardiology Research and Practice. 2020; 2020: 6757350.
+[82] Gervasio FL, Laio A, Iannuzzi M, Parrinello M. Influence of          https://doi.org/10.1155/2020/6757350.
+   DNA structure on the reactivity of the guanine radical cation.     [98] Shan J, Xie W, Betzenhauser M, Reiken S, Chen BX, Wronska
+     Chemistry (Weinheim an Der Bergstrasse, Germany). 2004; 10:         A, et al. Calcium leak through ryanodine receptors leads to atrial
+     4846–4852. https://doi.org/10.1002/chem.200400171.                       fibrillation in 3 mouse models of catecholaminergic polymor-
+[83] Copeland WC, Longley MJ. DNA polymerase gamma in mito-          phic ventricular tachycardia. Circulation Research. 2012; 111:
+     chondrial DNA replication and repair. TheScientificWorldJour-         708–717. https://doi.org/10.1161/CIRCRESAHA.112.273342.
+      nal. 2003; 3: 34–44. https://doi.org/10.1100/tsw.2003.09.           [99] Jeganathan J, Saraf R, Mahmood F, Pal A, Bhasin MK, Huang T,
+[84] Mason FE, Pronto JRD, Alhussini K, Maack C, Voigt N. Cel-            et al. Mitochondrial Dysfunction in Atrial Tissue of Patients De-
+      lular and mitochondrial mechanisms of atrial fibrillation. Basic          veloping Postoperative Atrial Fibrillation. The Annals of Tho-
+
+
+                                                                                                17      racic Surgery. 2017; 104: 1547–1555. https://doi.org/10.1016/j.          //doi.org/10.1038/s41569-021-00511-w.
+     athoracsur.2017.04.060.                                          [116] Cominacini L, Mozzini C, Garbin U, Pasini A, Stranieri C,
+[100] Qian LL, Liu XY, Li XY, Yang F, Wang RX. Effects of Electri-          Solani E, et al. Endoplasmic reticulum stress and Nrf2 signaling
+      cal Remodeling on Atrial Fibrillation in Diabetes Mellitus. Re-           in cardiovascular diseases. Free Radical Biology & Medicine.
+     views in Cardiovascular Medicine. 2023; 24: 3. https://doi.org/          2015;  88:  233–242. https://doi.org/10.1016/j.freeradbiomed.
+     10.31083/j.rcm2401003.                                              2015.05.027.
+[101] Uchida K, Kataoka N, Imamura T, Koi T, Kinugawa K. The     [117] Schreiner  B, Ankarcrona M.  Isolation  of  Mitochondria-
+      clinical impact of mitochondrial autophagy on very late-onset          Associated Membranes (MAM) from Mouse Brain Tissue.
+     recurrence after catheter ablation for atrial fibrillation. European         Methods in Molecular Biology (Clifton, N.J.). 2017; 1567: 53–
+     Heart Journal Open. 2025; 5: oeaf058. https://doi.org/10.1093/          68. https://doi.org/10.1007/978-1-4939-6824-4_5.
+     ehjopen/oeaf058.                                                [118] Cárdenas C, Miller RA, Smith I, Bui T, Molgó J, Müller M,
+[102] Tokuyama T, Yanagi S. Role of Mitochondrial Dynamics in            et al. Essential regulation of cell bioenergetics by constitutive
+     Heart Diseases. Genes. 2023; 14: 1876. https://doi.org/10.3390/          InsP3 receptor Ca2+ transfer to mitochondria. Cell. 2010; 142:
+     genes14101876.                                                  270–283. https://doi.org/10.1016/j.cell.2010.06.007.
+[103] Liu YJ, McIntyre RL, Janssens GE, Houtkooper RH. Mito-     [119] Nattel S, Maguy A, Le Bouter S, Yeh YH. Arrhythmogenic
+     chondrial fission and fusion: A dynamic role in aging and po-          ion-channel remodeling in the heart: heart failure, myocardial
+      tential target for age-related disease. Mechanisms of Ageing and            infarction, and atrial fibrillation. Physiological Reviews. 2007;
+     Development. 2020; 186: 111212. https://doi.org/10.1016/j.ma          87: 425–456. https://doi.org/10.1152/physrev.00014.2006.
+     d.2020.111212.                                                 [120] Qiu D, Peng L, Ghista DN, Wong KKL. Left Atrial Remodeling
+[104] Greiser M, Lederer WJ, Schotten U. Alterations of  atrial         Mechanisms Associated with Atrial Fibrillation. Cardiovascular
+     Ca(2+) handling as cause and consequence of atrial fibrillation.          Engineering and Technology. 2021; 12: 361–372. https://doi.or
+     Cardiovascular Research. 2011; 89: 722–733. https://doi.org/10.          g/10.1007/s13239-021-00527-w.
+     1093/cvr/cvq389.                                               [121] Odening KE, Gomez AM, Dobrev D, Fabritz L, Heinzel FR,
+[105] Denham NC, Pearman CM, Caldwell JL, Madders GWP, Eis-        Mangoni ME, et al. ESC working group on cardiac cellular elec-
+     ner DA, Trafford AW, et al. Calcium in the Pathophysiology          trophysiology position paper: relevance, opportunities, and lim-
+     of Atrial Fibrillation and Heart Failure. Frontiers in Physiology.            itations of experimental models for cardiac electrophysiology re-
+     2018; 9: 1380. https://doi.org/10.3389/fphys.2018.01380.                 search. Europace: European Pacing, Arrhythmias, and Cardiac
+[106] Purroy R, Britti E, Delaspre F, Tamarit J, Ros J. Mitochondrial          Electrophysiology: Journal of the Working Groups on Cardiac
+     pore opening and loss of Ca2+ exchanger NCLX levels occur          Pacing, Arrhythmias, and Cardiac Cellular Electrophysiology
+      after frataxin depletion. Biochimica et Biophysica Acta. Molec-          of the European Society of Cardiology. 2021; 23: 1795–1814.
+      ular Basis of Disease. 2018; 1864: 618–631. https://doi.org/10.           https://doi.org/10.1093/europace/euab142.
+     1016/j.bbadis.2017.12.005.                                      [122] Mauriello A, Correra A, Molinari R, Del Vecchio GE, Tessi-
+[107] Bertero E, Maack C. Calcium Signaling and Reactive Oxy-           tore V, D’Andrea A, et al. Mitochondrial Dysfunction in Atrial
+     gen Species  in Mitochondria.  Circulation Research. 2018;            Fibrillation: The Need for a Strong Pharmacological Approach.
+     122: 1460–1478. https://doi.org/10.1161/CIRCRESAHA.118.          Biomedicines. 2024; 12: 2720. https://doi.org/10.3390/biomed
+     310082.                                                            icines12122720.
+[108] Perrone M, Patergnani S, Di Mambro T, Palumbo L, Wieck-     [123] Carnes CA, Janssen PML, Ruehr ML, Nakayama H, Nakayama
+     owski MR, Giorgi C, et al. Calcium Homeostasis in the Control           T, Haase H, et al. Atrial glutathione content, calcium current, and
+     of Mitophagy. Antioxidants & Redox Signaling. 2023; 38: 581–            contractility. The Journal of Biological Chemistry. 2007; 282:
+     598. https://doi.org/10.1089/ars.2022.0122.                          28063–28073. https://doi.org/10.1074/jbc.M704893200.
+[109] Murphy MP. How mitochondria produce reactive oxygen     [124] Yoo S, Pfenniger A, Hoffman J, Zhang W, Ng J, Burrell A,
+      species. The Biochemical Journal. 2009; 417: 1–13. https://do            et al. Attenuation of Oxidative Injury With Targeted Expression
+     i.org/10.1042/BJ20081386.                                             of NADPH Oxidase 2 Short Hairpin RNA Prevents Onset and
+[110] Chen X, Shi C, He M, Xiong S, Xia X. Endoplasmic reticu-         Maintenance of Electrical Remodeling in the Canine Atrium: A
+    lum stress: molecular mechanism and therapeutic targets. Sig-         Novel Gene Therapy Approach to Atrial Fibrillation. Circula-
+      nal Transduction and Targeted Therapy. 2023; 8: 352. https:            tion. 2020; 142: 1261–1278. https://doi.org/10.1161/CIRCUL
+     //doi.org/10.1038/s41392-023-01570-w.                          ATIONAHA.119.044127.
+[111] Hetz C, Zhang K, Kaufman RJ. Mechanisms, regulation and     [125] Gómez R, Caballero R, Barana A, Amorós I, Calvo E, López
+     functions of the unfolded protein response. Nature Reviews.          JA, et al. Nitric oxide increases cardiac IK1 by nitrosylation of
+     Molecular Cell Biology. 2020; 21: 421–438. https://doi.org/10.           cysteine 76 of Kir2.1 channels. Circulation Research. 2009; 105:
+     1038/s41580-020-0250-z.                                         383–392. https://doi.org/10.1161/CIRCRESAHA.109.197558.
+[112] Pastor-Cantizano N, Ko DK, Angelos E, Pu Y, Brandizzi F.     [126] Yang T, Yang P, Roden DM, Darbar D. Novel KCNA5 mutation
+     Functional Diversification of ER Stress Responses in Arabidop-           implicates tyrosine kinase signaling in human atrial fibrillation.
+       sis. Trends in Biochemical Sciences. 2020; 45: 123–136. https:          Heart Rhythm. 2010; 7: 1246–1252. https://doi.org/10.1016/j.hr
+      //doi.org/10.1016/j.tibs.2019.10.008.                                  thm.2010.05.032.
+[113] Lin JH, Walter P, Yen TSB. Endoplasmic reticulum stress     [127] Yang Y, Li J, Lin X, Yang Y, Hong K, Wang L, et al. Novel
+      in disease pathogenesis. Annual Review of Pathology. 2008;       KCNA5 loss-of-function mutations responsible for atrial fibril-
+      3:   399–425.  https://doi.org/10.1146/annurev.pathmechdis.3.            lation. Journal of Human Genetics. 2009; 54: 277–283. https:
+     121806.151434.                                                         //doi.org/10.1038/jhg.2009.26.
+[114] Hwang J, Qi L. Quality Control in the Endoplasmic Reticulum:     [128] Christophersen IE, Olesen MS, Liang B, Andersen MN, Larsen
+     Crosstalk between ERAD and UPR pathways. Trends in Bio-         AP, Nielsen JB, et al. Genetic variation in KCNA5:  impact
+     chemical Sciences. 2018; 43: 593–605. https://doi.org/10.1016/         on the atrial-specific potassium current IKur in patients with
+      j.tibs.2018.06.005.                                                    lone atrial fibrillation. European Heart Journal. 2013; 34: 1517–
+[115] Ren J, Bi Y, Sowers JR, Hetz C, Zhang Y. Endoplasmic reticu-          1525. https://doi.org/10.1093/eurheartj/ehs442.
+    lum stress and unfolded protein response in cardiovascular dis-     [129] Voigt N, Friedrich A, Bock M, Wettwer E, Christ T, Knaut M, et
+      eases. Nature Reviews. Cardiology. 2021; 18: 499–521. https:             al. Differential phosphorylation-dependent regulation of consti-
+
+
+18      tutively active and muscarinic receptor-activated IK,ACh chan-         Rocha  I. Advancing Atrial Fibrillation Research:  The Role
+      nels in patients with chronic atrial fibrillation. Cardiovascular          of Animal Models, Emerging Technologies and Translational
+     Research. 2007; 74: 426–437. https://doi.org/10.1016/j.cardio          Challenges. Biomedicines. 2025; 13:  307. https://doi.org/10.
+     res.2007.02.009.                                                   3390/biomedicines13020307.
+[130] Cha TJ, Ehrlich JR, Chartier D, Qi XY, Xiao L, Nattel S. Kir3-     [143] Schüttler D, Bapat A, Kääb S, Lee K, Tomsits P, Clauss S,
+     based inward rectifier potassium current: potential role in atrial            et al. Animal Models of Atrial Fibrillation. Circulation Re-
+     tachycardia remodeling effects on atrial repolarization and ar-           search. 2020; 127: 91–110. https://doi.org/10.1161/CIRCRESA
+     rhythmias. Circulation. 2006; 113: 1730–1737. https://doi.org/         HA.120.316366.
+    10.1161/CIRCULATIONAHA.105.561738.                       [144] Lenski M, Schleider G, Kohlhaas M, Adrian L, Adam O, Tian
+[131] Dobrev D, Friedrich A, Voigt N, Jost N, Wettwer E, Christ T,         Q, et al. Arrhythmia causes lipid accumulation and reduced
+      et al. The G protein-gated potassium current I(K,ACh) is consti-          glucose uptake. Basic Research in Cardiology. 2015; 110: 40.
+      tutively active in patients with chronic atrial fibrillation. Circu-          https://doi.org/10.1007/s00395-015-0497-2.
+      lation. 2005; 112: 3697–3706. https://doi.org/10.1161/CIRCUL     [145] Ausma J, Coumans WA, Duimel H, Van der Vusse GJ, Al-
+    ATIONAHA.105.575332.                                                    lessie MA, Borgers M. Atrial high energy phosphate content
+[132] Voigt N, Maguy A, Yeh YH, Qi X, Ravens U, Dobrev D, et al.         and mitochondrial enzyme activity during chronic atrial fib-
+     Changes in I K, ACh single-channel activity with atrial tachy-             rillation. Cardiovascular Research. 2000; 47: 788–796. https:
+      cardia remodelling in canine atrial cardiomyocytes. Cardiovas-          //doi.org/10.1016/s0008-6363(00)00139-5.
+      cular Research. 2008; 77: 35–43. https://doi.org/10.1093/cvr/cv     [146] Barbey O, Pierre S, Duran MJ, Sennoune S, Lévy S, Maix-
+    m051.                                                                   ent JM. Specific up-regulation of mitochondrial F0F1-ATPase
+[133] Makary S, Voigt N, Maguy A, Wakili R, Nishida K, Harada            activity after short episodes of atrial fibrillation in sheep. Jour-
+    M, et al. Differential protein kinase C isoform regulation and           nal of Cardiovascular Electrophysiology. 2000; 11: 432–438.
+     increased constitutive activity of acetylcholine-regulated potas-           https://doi.org/10.1111/j.1540-8167.2000.tb00339.x.
+     sium channels in atrial remodeling. Circulation Research. 2011;     [147] Cofiño-Fabres C, Passier R, Schwach V. Towards Improved
+     109: 1031–1043. https://doi.org/10.1161/CIRCRESAHA.111.       Human In Vitro Models for Cardiac Arrhythmia:  Disease
+     253120.                                                       Mechanisms, Treatment, and Models of Atrial Fibrillation.
+[134] Yan J, Zhao W, Thomson JK, Gao X, DeMarco DM, Car-          Biomedicines. 2023; 11: 2355. https://doi.org/10.3390/biomed
+       rillo E, et al. Stress Signaling JNK2 Crosstalk With CaMKII          icines11092355.
+     Underlies Enhanced Atrial Arrhythmogenesis. Circulation Re-     [148] Rohun J, Dudzik D, Raczak-Gutknecht J, Wabich E, Młodz-
+      search. 2018; 122: 821–835. https://doi.org/10.1161/CIRCRE           iński K, Markuszewski MJ, et al. Metabolomics in Atrial Fibril-
+     SAHA.117.312536.                                                            lation: Unlocking Novel Biomarkers and Pathways for Diagno-
+[135] Yan J, Bare DJ, DeSantiago J, Zhao W, Mei Y, Chen Z, et             sis, Prognosis, and Personalized Treatment. Journal of Clinical
+       al. JNK2, a newly-identified SERCA2 enhancer, augments an          Medicine. 2024; 14: 34. https://doi.org/10.3390/jcm14010034.
+     arrhythmic [Ca2+]SR leak-load relationship. Circulation Re-     [149] Karakasis P, Theofilis P, Milaras N, Vlachakis PK, Patou-
+      search. 2021; 128: 455–470. https://doi.org/10.1161/CIRCRE             lias D, Karamitsos T, et al. Epigenetic Drivers of Atrial Fib-
+     SAHA.120.318409.                                                               rillation: Mechanisms, Biomarkers, and Therapeutic Targets.
+[136] Biernacka A, Cavalera M, Wang J, Russo I, Shinde A, Kong P,           International Journal of Molecular Sciences. 2025; 26: 5253.
+      et al. Smad3 Signaling Promotes Fibrosis While Preserving Car-          https://doi.org/10.3390/ijms26115253.
+     diac and Aortic Geometry in Obese Diabetic Mice. Circulation.     [150] Park H, Norby FL, Kim D, Jang E, Yu HT, Kim TH, et al. Pro-
+     Heart Failure. 2015; 8: 788–798. https://doi.org/10.1161/CIRC          teomic Signatures for Risk Prediction of Atrial Fibrillation. Cir-
+    HEARTFAILURE.114.001963.                                            culation. 2025; 152: 217–229. https://doi.org/10.1161/CIRCUL
+[137] Ziolo MT, Mohler PJ. Defining the role of oxidative stress in        ATIONAHA.124.073457.
+       atrial fibrillation and diabetes. Journal of Cardiovascular Elec-     [151] Christophersen IE, Rienstra M, Roselli C, Yin X, Geelhoed
+     trophysiology. 2015; 26: 223–225. https://doi.org/10.1111/jce.          B, Barnard J, et al. Large-scale analyses of common and rare
+     12560.                                                                    variants identify 12 new loci associated with atrial fibrillation.
+[138] Qin X, Jin L, Gong H, Zheng Q. Electro-metabolic coupling          Nature Genetics. 2017; 49: 946–952. https://doi.org/10.1038/ng
+      in atrial fibrillation: A deeper understanding of the metabolic          .3843.
+      driver. Biomedicine & Pharmacotherapy = Biomedecine &     [152] Chinchilla A, Daimi H, Lozano-Velasco E, Dominguez JN, Ca-
+     Pharmacotherapie. 2024; 180: 117536. https://doi.org/10.1016/           ballero R, Delpón E, et al. PITX2 insufficiency leads to atrial
+     j.biopha.2024.117536.                                                         electrical and structural remodeling linked to arrhythmogene-
+[139] Yang F, Liu HH, Zhang L, Zhang XL, Zhang J, Li F, et al. Ad-             sis. Circulation. Cardiovascular Genetics. 2011; 4: 269–279.
+     vanced Glycation End Products Downregulate Connexin 43 and          https://doi.org/10.1161/CIRCGENETICS.110.958116.
+     Connexin 40 in Diabetic Atrial Myocytes via the AMPK Path-     [153] Collins MM, Ahlberg G, Hansen CV, Guenther S, Marín-Juez
+     way. Diabetes, Metabolic Syndrome and Obesity: Targets and          R, Sokol AM, et al. Early sarcomere and metabolic defects
+     Therapy. 2023; 16: 3045–3056. https://doi.org/10.2147/DMSO           in a zebrafish pitx2c cardiac arrhythmia model. Proceedings
+     .S419189.                                                              of the National Academy of Sciences of the United States of
+[140] Polina I, Jansen HJ, Li T, Moghtadaei M, Bohne LJ, Liu Y, et         America. 2019; 116: 24115–24121. https://doi.org/10.1073/pn
+       al. Loss of insulin signaling may contribute to atrial fibrillation          as.1913905116.
+     and atrial electrical remodeling in type 1 diabetes. Proceedings     [154] Reyat JS, Sommerfeld LC, O’Reilly M, Roth Cardoso V, Thie-
+     of the National Academy of Sciences of the United States of        mann E, Khan AO, et al. PITX2 deficiency leads to atrial mi-
+     America. 2020; 117: 7990–8000. https://doi.org/10.1073/pnas           tochondrial dysfunction. Cardiovascular Research. 2024; 120:
+     .1914853117.                                                   1907–1923. https://doi.org/10.1093/cvr/cvae169.
+[141] Scott L, Jr, Fender AC, Saljic A, Li L, Chen X, Wang X, et al.     [155] Liu W, Hu B, Wang Y, Zhang X, Zhu M, Shi Y, et  al.
+    NLRP3 inflammasome is a key driver of obesity-induced atrial          Multiple targets related to mitochondrial function unveiled by
+     arrhythmias. Cardiovascular Research. 2021; 117: 1746–1759.         metabolomics and proteomics profiles of hearts from atrial fib-
+      https://doi.org/10.1093/cvr/cvab024.                                           rillation patients. Frontiers in Physiology. 2023; 14: 1123391.
+[142] Ferreira M, Geraldes V, Felix AC, Oliveira M, Laranjo S,          https://doi.org/10.3389/fphys.2023.1123391.
+
+
+                                                                                                19[156] Tu T, Qin F, Bai F, Xiao Y, Ma Y, Li B, et al. Quantitative          study in humans. Scientific Reports. 2023; 13:  8346. https:
+      acetylated proteomics on left atrial appendage tissues revealed          //doi.org/10.1038/s41598-023-35041-7.
+       atrial energy metabolism and contraction status in patients with     [170] Hsieh CY, Lai YC, Lu KY, Lin G. Advancements, challenges,
+      valvular heart disease with atrial fibrillation. Frontiers in Cardio-         and future prospects in clinical hyperpolarized magnetic reso-
+     vascular Medicine. 2022; 9: 962036. https://doi.org/10.3389/fc         nance imaging: A comprehensive review. Biomedical Journal.
+     vm.2022.962036.                                                  2025; 48: 100802. https://doi.org/10.1016/j.bj.2024.100802.
+[157] Mayr M, Yusuf S, Weir G, Chung YL, Mayr U, Yin X, et al.     [171]  Frijia F, Flori A, Giovannetti G, Barison A, Menichetti L,
+    Combined metabolomic and proteomic analysis of human atrial           Santarelli MF, et al. MRI Application and Challenges of Hyper-
+      fibrillation. Journal of the American College of Cardiology.           polarized Carbon-13 Pyruvate in Translational and Clinical Car-
+     2008; 51: 585–594. https://doi.org/10.1016/j.jacc.2007.09.055.           diovascular Studies: A Literature Review. Diagnostics (Basel,
+[158] Donal E, Lip GYH, Galderisi M, Goette A, Shah D, Marwan           Switzerland). 2024; 14: 1035. https://doi.org/10.3390/diagnost
+    M, et al. EACVI/EHRA Expert Consensus Document on the role          ics14101035.
+     of multi-modality imaging for the evaluation of patients with     [172] Sun WP, Du X, Chen JJ. Biomarkers for Predicting the Occur-
+       atrial fibrillation. European Heart Journal. Cardiovascular Imag-          rence and Progression of Atrial Fibrillation: Soluble Suppres-
+      ing. 2016; 17: 355–383. https://doi.org/10.1093/ehjci/jev354.             sion of Tumorigenicity 2 Protein and Tissue Inhibitor of Matrix
+[159] Herrero P, Gropler RJ. Imaging of myocardial metabolism.           Metalloproteinase-1. International Journal of Clinical Practice.
+     Journal of Nuclear Cardiology:  Official Publication of the          2022; 2022: 6926510. https://doi.org/10.1155/2022/6926510.
+     American Society of Nuclear Cardiology. 2005; 12: 345–358.     [173] Ruf L, Bukowska A, Gardemann A, Goette A. Coagulation
+      https://doi.org/10.1016/j.nuclcard.2005.03.010.                          Factor Xa Has No Effects on the Expression of PAR1, PAR2,
+[160] Xi XY, Zhang F, Wang  J, Gao W, Tian Y, Xu H, et  al.         and PAR4 and No Proinflammatory Effects on HL-1 Cells. Cells.
+     Functional significance of post-myocardial infarction inflam-          2023; 12: 2849. https://doi.org/10.3390/cells12242849.
+     mation evaluated by 18F-fluorodeoxyglucose imaging in swine     [174] Bukowska A, Zacharias I, Weinert S, Skopp K, Hartmann C,
+     model. Journal of Nuclear Cardiology: Official Publication of         Huth C, et al. Coagulation factor Xa induces an inflammatory
+      the American Society of Nuclear Cardiology. 2020; 27: 519–           signalling by activation of protease-activated receptors in hu-
+     531. https://doi.org/10.1007/s12350-019-01952-0.                 man atrial tissue. European Journal of Pharmacology. 2013; 718:
+[161] Hesse M, Marchandise S, Gerber B, Roelants V. Cardiac atrial         114–123. https://doi.org/10.1016/j.ejphar.2013.09.006.
+     metabolism quantitative assessment with analog and digital time     [175] Staerk L, Preis SR, Lin H, Lubitz SA, Ellinor PT, Levy D,
+     of flight-PET/computed tomography. Nuclear Medicine Com-            et al. Protein Biomarkers and Risk of Atrial Fibrillation: The
+     munications. 2023; 44: 646–652. https://doi.org/10.1097/MN        FHS. Circulation. Arrhythmia and Electrophysiology. 2020; 13:
+     M.0000000000001694.                                            e007607. https://doi.org/10.1161/CIRCEP.119.007607.
+[162] Watanabe E, Miyagawa M, Uetani T, Kinoshita M, Kitazawa     [176] Pool L, Wijdeveld LFJM, de Groot NMS, Brundel BJJM. The
+     R, Kurata M, et al. Positron emission tomography/computed to-         Role of Mitochondrial Dysfunction in Atrial Fibrillation: Trans-
+    mography detection of increased 18F-fluorodeoxyglucose up-            lation to Druggable Target and Biomarker Discovery. Interna-
+     take in the cardiac atria of patients with atrial fibrillation. In-            tional Journal of Molecular Sciences. 2021; 22: 8463. https:
+      ternational Journal of Cardiology. 2019; 283: 171–177. https:          //doi.org/10.3390/ijms22168463.
+      //doi.org/10.1016/j.ijcard.2018.10.106.                            [177] Nie S, Lu J, Wang L, Gao M. Pro-inflammatory role of cell-free
+[163] Xie B, Chen BX, Nanna M, Wu JY, Zhou Y, Shi L, et al. 18F-          mitochondrial DNA in cardiovascular diseases. IUBMB Life.
+     fluorodeoxyglucose positron emission tomography/computed          2020; 72: 1879–1890. https://doi.org/10.1002/iub.2339.
+     tomography imaging in atrial fibrillation: a pilot prospective     [178] Ueda K, Sakai C, Ishida T, Morita K, Kobayashi Y, Horikoshi
+      study. European Heart Journal. Cardiovascular Imaging. 2021;          Y, et al. Cigarette smoke induces mitochondrial DNA damage
+     23: 102–112. https://doi.org/10.1093/ehjci/jeab088.                   and activates cGAS-STING pathway: application to a biomarker
+[164]  Fujii H, Ide M, Yasuda S, Takahashi W, Shohtsu A, Kubo A.           for atherosclerosis [published correction in Clinical Science
+     Increased FDG uptake in the wall of the right atrium in people         (London, England:  1979). 2023; 137:  353. https://doi.org/
+    who participated in a cancer screening program with whole-body         10.1042/CS-2022-0525_COR]. Clinical Science (London, Eng-
+     PET. Annals of Nuclear Medicine. 1999; 13: 55–59. https://doi.           land: 1979). 2023; 137: 163–180. https://doi.org/10.1042/CS
+     org/10.1007/BF03165430.                                         20220525.
+[165] Santi ND, Wu KY, Redpath CJ, Nery PB, Huang W, Burwash     [179] Liu H, Liu X, Zhou J, Li T. Mitochondrial DNA Is a Vital Driv-
+     IG, et al. Metabolic activity of the left and right atria are dif-          ing Force in Ischemia-Reperfusion Injury in Cardiovascular Dis-
+      ferentially altered in patients with atrial fibrillation and LV dys-           eases. Oxidative Medicine and Cellular Longevity. 2022; 2022:
+      function. Journal of Nuclear Cardiology: Official Publication of         6235747. https://doi.org/10.1155/2022/6235747.
+      the American Society of Nuclear Cardiology. 2022; 29: 2824–     [180] Miyamoto S, Tokuyama T, Okubo Y, Okamura S, Miyauchi
+     2836. https://doi.org/10.1007/s12350-021-02878-2.                      S, Furutani M, et al. Decreased plasma cell-free mitochon-
+[166] Marchandise S, Roelants V, Raoult T, Garnir Q, Scavée C,            drial DNA may be a new biomarker of tachycardia-induced
+     Varnavas V, et al. Left Atrial Glucose Metabolism Evaluation         cardiomyopathy in patients with atrial fibrillation. International
+     by 18F-FDG-PET in Persistent Atrial Fibrillation and in Sinus          Journal of Cardiology. 2024; 417: 132579. https://doi.org/10.
+     Rhythm. JACC. Basic to Translational Science. 2024; 9: 459–          1016/j.ijcard.2024.132579.
+     471. https://doi.org/10.1016/j.jacbts.2023.11.001.                  [181] Zhang D, Wu CT, Qi X, Meijering RAM, Hoogstra-Berends
+[167] Hudsmith LE, Neubauer S. Magnetic resonance spectroscopy            F, Tadevosyan A, et al. Activation of histone deacetylase-6 in-
+      in myocardial disease. JACC. Cardiovascular Imaging. 2009; 2:          duces contractile dysfunction through derailment of α-tubulin
+     87–96. https://doi.org/10.1016/j.jcmg.2008.08.005.                        proteostasis in experimental and human atrial fibrillation. Cir-
+[168] Beadle R, Frenneaux M. Magnetic resonance spectroscopy in           culation. 2014; 129: 346–358. https://doi.org/10.1161/CIRCUL
+     myocardial disease. Expert Review of Cardiovascular Therapy.        ATIONAHA.113.005300.
+     2010; 8: 269–277. https://doi.org/10.1586/erc.09.169.              [182] Li J, Zhang D, Ramos KS, Baks L, Wiersma M, Lanters EAH,
+[169] de Wit-Verheggen VHW, Schrauwen-Hinderling VB, Brouw-            et al. Blood-based 8-hydroxy-2’-deoxyguanosine level: A po-
+      ers K, Jörgensen JA, Schaart G, Gemmink A, et al. PCr/ATP            tential diagnostic biomarker for atrial fibrillation. Heart Rhythm.
+      ratios and mitochondrial function in the heart. A comparative          2021; 18:  271–277. https://doi.org/10.1016/j.hrthm.2020.09.
+
+
+20     017.                                                                  Personalized Medicine. 2025; 15: 256. https://doi.org/10.3390/
+[183] Toyama K, Yamabe H, Uemura T, Nagayoshi Y, Morihisa         jpm15060256.
+     K, Koyama J, et al. Analysis of oxidative stress expressed by     [196] Chatfield KC, Sparagna GC, Chau S, Phillips EK, Ambardekar
+     urinary level of 8-hydroxy-2’-deoxyguanosine and biopyrrin in         AV, Aftab M, et al. Elamipretide Improves Mitochondrial Func-
+       atrial fibrillation:  effect of sinus rhythm restoration. Interna-           tion in the Failing Human Heart. JACC. Basic to Transla-
+      tional Journal of Cardiology. 2013; 168: 80–85. https://doi.or            tional Science. 2019; 4: 147–157. https://doi.org/10.1016/j.jacb
+      g/10.1016/j.ijcard.2012.09.068.                                          ts.2018.12.005.
+[184] Marion DMSV, Lanters EAH, Ramos KS, Li J, Wiersma M,     [197] Stachteas  P, Nasoufidou A, Karagiannidis E, Patoulias D,
+     Baks-Te Bulte L, et al. Evaluating Serum Heat Shock Protein          Karakasis P, Alexiou S, et al. The Role of Sodium Glucose
+     Levels as Novel Biomarkers for Atrial Fibrillation. Cells. 2020;          Co-Transporter 2 Inhibitors in Atrial Fibrillation: A Compre-
+      9: 2105. https://doi.org/10.3390/cells9092105.                          hensive Review. Journal of Clinical Medicine. 2024; 13: 5408.
+[185] van Marion DM, Hu X, Zhang D, Hoogstra-Berends F, Seer-          https://doi.org/10.3390/jcm13185408.
+     den JPG, Loen L, et  al. Screening of novel HSP-inducing     [198] Karakasis P, Patoulias D, Kassimis G, Koufakis T, Klisic
+    compounds to conserve cardiomyocyte function in experimen-         A, Doumas M,  et  al.  Therapeutic  Potential  of Sodium-
+       tal atrial fibrillation. Drug Design, Development and Therapy.          glucose Co-transporter-2 Inhibitors and Glucagon-like Peptide-
+     2019; 13: 345–364. https://doi.org/10.2147/DDDT.S176924.           1 Receptor Agonists for Patients with Acute Coronary Syn-
+[186] Sulaimon LA, Afolabi LO, Adisa RA, Ayankojo AG, Afolabi         drome: A Review of Clinical Evidence. Current Pharmaceu-
+    MO, Adewolu AM, et al. Pharmacological significance of Mi-             tical Design. 2024; 30:  2109–2119. https://doi.org/10.2174/
+     toQ in ameliorating mitochondria-related diseases. Advances in         0113816128304097240529053538.
+    Redox Research. 2022; 5: 100037. https://doi.org/10.1016/j.ar     [199] Karakasis  P, Pamporis K, Stachteas  P, Patoulias D, Bou-
+     res.2022.100037.                                                   gioukas KI, Fragakis N. Efficacy and safety of sodium-glucose
+[187] Li Z, Chaolan L, Chengcheng W, Xi H, Yingying W, Jiaqiu           cotransporter-2 inhibitors in heart failure with mildly reduced
+     L, et al. GW28-e0789 Trimetazidine decreases inducibility and          or preserved ejection fraction: an overview of 36 systematic
+     duration of atrial fibrillation in a dog model of congestive heart          reviews. Heart Failure Reviews. 2023; 28: 1033–1051. https:
+      failure. Journal of the American College of Cardiology. 2017;          //doi.org/10.1007/s10741-023-10324-3.
+     70: C29. https://doi.org/10.1016/j.jacc.2017.07.101.               [200] Karakasis P, Popovic DS, Patoulias D, Koufakis T, Papanas
+[188] Horowitz JD, Chirkov YY, Kennedy JA, Sverdlov AL. Modu-         N, Fragakis N,  et  al. The Effect of Sodium-Glucose Co-
+      lation of myocardial metabolism: an emerging therapeutic prin-           transporter Inhibitors on Renal Function as Adjunctive to In-
+      ciple. Current Opinion in Cardiology. 2010; 25: 329–334. https:           sulin in Adults with Type 1 Diabetes: An Updated Multilevel
+     //doi.org/10.1097/HCO.0b013e328339f191.                            Meta-analysis of Randomized Controlled Trials. Diabetes Ther-
+[189] Seo KS, Kim JH, Min KN, Moon JA, Roh TC, Lee MJ,          apy: Research, Treatment and Education of Diabetes and Re-
+      et al. KL1333, a Novel NAD+ Modulator, Improves Energy           lated Disorders. 2024; 15:  521–532. https://doi.org/10.1007/
+     Metabolism and Mitochondrial Dysfunction in MELAS Fibrob-         s13300-023-01523-0.
+       lasts. Frontiers in Neurology. 2018; 9: 552. https://doi.org/10.     [201] Grigoriou K, Karakasis P, Pamporis K, Theofilis P, Patoulias
+     3389/fneur.2018.00552.                                         D, Karagiannidis E, et al. Atrial Fibrillation in Diabetes: Patho-
+[190] Zelniker TA, Bonaca MP, Furtado RHM, Mosenzon O, Kuder          genesis and Targeted Rhythm Control Strategies. Current Issues
+      JF, Murphy SA, et al. Effect of Dapagliflozin on Atrial Fibrilla-           in Molecular Biology. 2025; 47: 559. https://doi.org/10.3390/ci
+      tion in Patients With Type 2 Diabetes Mellitus: Insights From the         mb47070559.
+    DECLARE-TIMI 58 Trial. Circulation. 2020; 141: 1227–1234.     [202] Marso SP, Bain SC, Consoli A, Eliaschewitz FG, Jódar E,
+     https://doi.org/10.1161/CIRCULATIONAHA.119.044183.               Leiter LA, et al. Semaglutide and Cardiovascular Outcomes in
+[191] Li HL, Lip GYH, Feng Q, Fei Y, Tse YK, Wu MZ, et al.           Patients with Type 2 Diabetes. The New England Journal of
+     Sodium-glucose cotransporter 2 inhibitors (SGLT2i) and cardiac          Medicine. 2016; 375: 1834–1844. https://doi.org/10.1056/NE
+     arrhythmias: a systematic review and meta-analysis. Cardio-         JMoa1607141.
+     vascular Diabetology. 2021; 20: 100. https://doi.org/10.1186/     [203] Marso SP, Daniels GH, Brown-Frandsen K, Kristensen  P,
+     s12933-021-01293-8.                                    Mann JFE, Nauck MA, et al. Liraglutide and Cardiovascular
+[192] Wang M, Zhang Y, Wang Z, Liu D, Mao S, Liang B. The ef-         Outcomes in Type 2 Diabetes. The New England Journal of
+      fectiveness of SGLT2 inhibitor in the incidence of atrial fibrilla-          Medicine. 2016; 375: 311–322. https://doi.org/10.1056/NEJM
+      tion/atrial flutter in patients with type 2 diabetes mellitus/heart         oa1603827.
+      failure: a systematic review and meta-analysis. Journal of Tho-     [204] Karakasis P, Fragakis N, Patoulias D, Theofilis P, Sagris M,
+      racic Disease. 2022; 14: 1620–1637. https://doi.org/10.21037/jt          Koufakis T, et al. The Emerging Role of Glucagon-like Peptide-
+     d-22-550.                                                   1 Receptor Agonists in the Management of Obesity-Related
+[193] Saglietto A, Falasconi G, Penela D, Francia P, Sau A, Ng          Heart Failure with Preserved Ejection Fraction:  Benefits be-
+     FS, et al. Glucagon-like peptide-1 receptor agonist semaglutide         yond What Scales Can Measure? Biomedicines. 2024; 12: 2112.
+     reduces atrial fibrillation incidence: A systematic review and          https://doi.org/10.3390/biomedicines12092112.
+     meta-analysis. European Journal of Clinical Investigation. 2024;     [205] Li Q, Lin Y, Wang S, Zhang L, Guo L. GLP-1 Inhibits
+     54: e14292. https://doi.org/10.1111/eci.14292.                        High-Glucose-Induced Oxidative Injury of Vascular Endothelial
+[194] Zekri-Nechar K, Zamorano-León  JJ,  Cortina-Gredilla M,           Cells. Scientific Reports. 2017; 7: 8008. https://doi.org/10.1038/
+     López-de-Andrés A, Jiménez-García R, Navarro-Cuellar C, et         s41598-017-06712-z.
+       al. Mitochondrial mitophagy protection combining rivaroxaban     [206] Mangmool  S, Hemplueksa  P, Parichatikanond W,  Chatti-
+     and aspirin in high glucose-exposed human coronary artery en-         pakorn N. Epac is required for GLP-1R-mediated inhibition of
+      dothelial cell. An in vitro study. Diabetes & Vascular Disease           oxidative stress and apoptosis in cardiomyocytes. Molecular En-
+     Research. 2022; 19: 14791641221129877. https://doi.org/10.          docrinology (Baltimore, Md.). 2015; 29: 583–596. https://doi.or
+     1177/14791641221129877.                                         g/10.1210/me.2014-1346.
+[195] Karakasis P, Antoniadis AP, Theofilis P, Vlachakis PK, Mi-     [207] Ravassa S, Zudaire A, Carr RD, Díez J. Antiapoptotic effects
+      laras N, Patoulias D, et al. Digital Twin Models in Atrial Fib-          of GLP-1 in murine HL-1 cardiomyocytes. American Journal
+       rillation: Charting the Future of Precision Therapy? Journal of          of Physiology. Heart and Circulatory Physiology. 2011; 300:
+
+
+                                                                                                21     H1361–72. https://doi.org/10.1152/ajpheart.00885.2010.                 34: 142–152. https://doi.org/10.1007/s00399-023-00944-5.
+[208] Pandey S, Mangmool S, Parichatikanond W. Multifaceted     [213] Ten Cate H, Guzik TJ, Eikelboom J, Spronk HMH. Pleiotropic
+     Roles of GLP-1 and Its Analogs: A Review on Molecular Mech-           actions of factor Xa inhibition in cardiovascular prevention:
+     anisms with a Cardiotherapeutic Perspective. Pharmaceuticals          mechanistic insights and implications for anti-thrombotic treat-
+      (Basel, Switzerland). 2023; 16: 836. https://doi.org/10.3390/ph          ment. Cardiovascular Research. 2021; 117: 2030–2044. https:
+     16060836.                                                              //doi.org/10.1093/cvr/cvaa263.
+[209] Wang  J, Fan S, Xiong Q, Niu Y, Zhang X, Qin  J, et al.     [214] Masselli E, Pozzi G, Vaccarezza M, Mirandola P, Galli D, Vi-
+     Glucagon-like peptide-1 attenuates cardiac hypertrophy via the            tale M, et al. ROS in Platelet Biology: Functional Aspects and
+    AngII/AT1R/ACE2 and AMPK/mTOR/p70S6K pathways. Acta          Methodological Insights. International Journal of Molecular Sci-
+     Biochimica et Biophysica Sinica. 2021; 53: 1189–1197. https:           ences. 2020; 21: 4866. https://doi.org/10.3390/ijms21144866.
+     //doi.org/10.1093/abbs/gmab099.                                 [215] Berkarda B, Arda O, Tasyurekli M, Derman U. Mitochondria-
+[210] Van Gelder IC, Rienstra M, Bunting KV, Casado-Arroyo R,            lytic action of warfarin in lymphocytes. International Journal
+     Caso V, Crijns HJGM, et al. 2024 ESC Guidelines for the man-          of Clinical Pharmacology, Therapy, and Toxicology. 1992; 30:
+     agement of atrial fibrillation developed in collaboration with the         277–279.
+     European Association for Cardio-Thoracic Surgery (EACTS).     [216] Zamorano-Leon JJ, Serna-Soto MDL, Moñux G, Freixer G,
+     European Heart Journal. 2024; 45: 3314–3414. https://doi.org/          Zekri-Nechar K, Cabrero-Fernandez M, et al. Factor Xa Inhi-
+     10.1093/eurheartj/ehae176.                                                bition by Rivaroxaban Modified Mitochondrial-Associated Pro-
+[211] Russo V, Fabiani D. Put out the fire: The pleiotropic anti-            teins in Human Abdominal Aortic Aneurysms. Annals of Vas-
+     inflammatory action of non-vitamin K oral anticoagulants. Phar-           cular Surgery. 2020; 67: 482–489. https://doi.org/10.1016/j.av
+     macological Research. 2022; 182: 106335. https://doi.org/10.          sg.2020.02.005.
+     1016/j.phrs.2022.106335.                                        [217] Karakasis P, Theofilis P, Sagris M, Pamporis K, Stachteas P,
+[212] Goette A, Mollenhauer M, Rudolph V, Lamparter M, Meier          Sidiropoulos G, et al. Artificial Intelligence in Atrial Fibrilla-
+    M, Böhm M. Pleiotropic effects of NOACs with focus on            tion: From Early Detection to Precision Therapy. Journal of
+     edoxaban:  scientific findings and potential clinical implica-           Clinical Medicine. 2025; 14: 2627. https://doi.org/10.3390/jc
+      tions. Herzschrittmachertherapie & Elektrophysiologie. 2023;         m14082627.
+
+
+
+
+
+22

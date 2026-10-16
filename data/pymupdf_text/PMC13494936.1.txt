@@ -1,0 +1,595 @@
+                                                                                                                      TYPE Perspective
+                                                                                                                      PUBLISHED 16 August 2023
+                                                                                                                   DOI 10.3389/ftubr.2023.1243479
+
+
+
+
+               Understanding the bacillary load
+OPEN ACCESS          and host interaction to design a
+
+EDITED BY
+Karen Marie Dobos,                point-of-care test to diagnose
+Colorado State University, United States
+
+REVIEWED BYLuis Anibarro,            tuberculosis
+Medicina Interna, Complexo Hospitalario
+Universitario Pontevedra, Spain
+*CORRESPONDENCE                   Pere-Joan Cardona1,2,3,4*
+Pere-Joan Cardona
+                                               1Northern Metropolitan Clinical Laboratory, Microbiology Department, Hospital Universitari “Germans
+  pj.cardona@gmail.com
+                                                          Trias i Pujol”, Catalonia, Spain, 2Experimental Tuberculosis Unit, Germans Trias i Pujol Research Institute
+RECEIVED 20 June 2023                               (IGTP), Catalonia, Spain, 3Centro de Investigación Biomédica en Red de Enfermedades Respiratorias
+ACCEPTED 26 July 2023                             (CIBERES), Madrid, Spain, 4Genetics and Microbiology Department, Autonomous University of
+PUBLISHED 16 August 2023                         Barcelona, Cerdanyola del Vallès, Spain
+
+CITATION
+Cardona P-J (2023) Understanding the bacillary
+load and host interaction to design a           Designing of a Point-of-care test to diagnose tuberculosis (TB) is not an easy
+point-of-care test to diagnose tuberculosis.       task. This viewpoint stems from the dichotomous diagnostic approach, based
+Front. Tuberc. 1:1243479.
+doi: 10.3389/ftubr.2023.1243479           on the bacillary load estimated in latent tuberculosis infection (LTBI), thanks to
+                                     the isoniazid chemoprophylaxis strategy, as well as the importance of imaging
+COPYRIGHT
+© 2023 Cardona. This is an open-access article   to diﬀerentiate between LTBI and TB. It integrates the “TB spectrum” elucidated
+distributed under the terms of the Creative      through positron emission tomography-computed tomography scan (PET-CT)
+Commons Attribution License (CC BY). The use,   to highlight the dynamic nature of TB lesions. Additionally,  it emphasizes the
+distribution or reproduction in other forums is
+permitted, provided the original author(s) and     relevance of animal models that support this perspective, including the drainage
+the copyright owner(s) are credited and that      of bacilli through foamy macrophages, which aids in understanding LTBI and
+the original publication in this journal is cited, in     its chemoprophylaxis, and the signiﬁcance of lung anatomy in TB induction.
+accordance with accepted academic practice.
+No use, distribution or reproduction is           Especially the role of interlobular septa and the encapsulation process and
+permitted which does not comply with these        its role  in lung lobe predilection impact disease progression. Moreover,  it
+terms.                              acknowledges the gender bias in TB, as its incidence is signiﬁcantly higher in
+                           men across various socioeconomic circumstances, suggesting an unidentiﬁed
+                                          biological mechanism. For a comprehensive approach, the impact of stress
+                                 and cortisol levels is suggested as a new parameter to be considered, given
+                                             their association with poverty, and social inequity, and their tendency to be
+                                      higher in men. All this information has to be contemplated when designing
+                                 an accurate point-of-care test. The test should encompass the complexity of
+                              TB and necessarily integrate both bacillary and host response parameters.  It
+                                        also should cover the diagnosis of extrapulmonary TB, and pay attention to
+                                 immunosuppressed and pediatric population.
+
+
+
+                                           KEYWORDS
+
+                                     Mycobacterium tuberculosis, TB spectrum, dynamic hypothesis, bubble model, diagnosis,
+                                                 cortisol, poverty, point-of-care
+
+
+                         Introduction
+
+
+                                          There is an urgent need to ﬁnd novel rapid tests for the diagnosis of tuberculosis (TB),
+                                      which are inexpensive and easy to perform in challenging environments. This is crucial in
+                                          order to achieve the EndingTB-2030 objective (1). Currently, one-third of TB patients go
+                                         undiagnosed, and this situation is even worse in the African region, where the percentage
+                                                   rises to 50%. Therefore, point-of-care diagnosis of TB poses a signiﬁcant challenge for the
+                                              scientiﬁc community.
+
+
+
+
+
+Frontiers in Tuberculosis                                          01                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+    Discovering  such  methodologies  necessitates  a  thorough  Direct detection of Mycobacterium
+understanding and a continuous reconsideration of the relationship  tuberculosis: ﬁnding the bacilli at any
+between Mycobacterium tuberculosis load and its natural history
+                                         prize?of infection.
+
+                                                         The detection of acid-fast bacilli has been a key method for
+The origin of Mycobacterium                   diagnosing M. tuberculosis (Mtb), particularly considering that the
+tuberculosis                                           primary route of infection is through the respiratory system. Before
+                                                                   the advent of molecular biology tools, the acid-fast stain of sputum
+    Tuberculosis (TB) remains a signiﬁcant cause of mortality   was the primary diagnostic tool for tuberculosis (TB). The presence
+worldwide.  It  belongs  to  the  genera  Mycobacterium, which    of even a single bacillus in the sputum is indicative of TB. This
+emerged relatively recently, approximately 36 million years ago    technique has taught us several important lessons.
+(2),  as an  evolution  of  the Nocardia  genera.  This  bacteria         Firstly, the acid-fast stain has limited sensitivity. It requires
+began  developing  a  robust  outer membrane  to  protect  the    a concentration of 5,000–10,000  bacilli per  milliliter (mL) of
+peptidoglycan layer using large  fatty acids known as mycolic   sample for detection (12). A positive smear indicates a signiﬁcant
+acids, which can  reach  chain  lengths  of up  to 60 carbon   burden of bacilli and suggests a severe form of the disease (13).
+atoms  (3). The  most common  ancestor  of  Mycobacterium   This underscores the importance of active and intensive contact
+closely resembles the M. abscessus-chelonae complex (4), a rapid    surveillance for individuals who have been in close contact with
+growing mycobacteria (RGM), incorporating even larger mycolic   TB patients.
+acids (up to 90 carbon atoms), which enhance resistance to      The sensitivity of detection is increased when the sample is
+environmental conditions, and gives the characteristic acid-fast    cultured after decontamination. In this case, only 10 bacilli/mL
+positivity  of  this genera  (3). By abandoning the production    of sputum are required for a positive result. However, culturing
+of hyphae observed in Nocardia, Mycobacterium were able to    requires specialized infrastructure that may not be available in
+colonize a new  ecological niche:  soil amoebae. Within these   many  local  laboratories,  especially  in  countries with a high
+amoebae, mycobacteria can survive  intracellularly and beneﬁt    incidence of TB. Consequently, signiﬁcant eﬀorts have been made
+from additional protection against harsh environmental conditions    to incorporate molecular biology methodology in various settings,
+present  in  the  soil,  particularly  during  the  cystic phase  of    as they do not require speciﬁc infrastructure. Notwithstanding,
+the amoebae’s  life cycle  (5). Amoebae play a  crucial  role in   molecular methods have lower sensitivity compared to culturing,
+regulating  bacterial  populations  in  the  soil and maintaining   with a lower threshold of 15.6 bacilli/mL (14).
+a balanced rhizosphere microbiome, which provides  essential
+minerals, modulates  plant hormonal  balance, and suppresses
+potential pathogens (6).                      Dichotomous vs. spectrum model of
+    Evolution of RGM to slow growing mycobacteria (SGM)  TB diagnosis management
+is  closely  tied  to  their enhanced  ability  to  enter amoebae,
+which involves adaptation of the mce operon. This adaptation       In essence, the diagnosis of TB  still follows a dichotomous
+allowed  for  better  specialization  within  this  niche,  leading   approach based on the sensitivity of culturing, which requires a
+to  the  gradual  loss  of  gens  required  for  essential  nutrient   minimum of 10 bacilli per milliliter (mL) of sputum, ideally tested
+uptake and metabolism  in  the  external environment, which    using three consecutive morning sputum samples. However, let’s
+are no longer necessary (7). This specialization extends beyond   imagine if we had a more sensitive technique that could detect 1
+amoebae to their evolutionary counterparts found in multicellular    bacillus per mL. Would that be suﬃcient to validate a TB diagnosis?
+organisms,  speciﬁcally macrophages  (8).  Consequently, SGM          If we calculate that the lungs drain approximately 500 mL of
+can  be  transmitted  to ﬁsh and amphibians  through  water,    alveolar ﬂuid every day,  it can be argued that in a TB case, at
+especially after acquiring a new virulent mechanism (ESAT-6)    least 5,000 bacilli are drained from the lesions daily. Reﬁning the
+that allowed the capacity to avoid the phagolysosome fusion    calculations, considering that TB predominantly aﬀects the upper
+(9), allowing a better transmission among macrophages. This    lobes (which represent 20% of the total pulmonary volume), the
+is  the  case  of M. marinum, and  also through  aerosols  to   ﬂuid volume is reduced to 100 mL, or even 50 mL if we focus on
+mammals  and  our non-human  primate  ancestors,  as  seen    a single upper lobe. This means that at least 500 bacilli need to be
+in  the  case  of M.  kansasii. The modiﬁcation  of  the  outer    drained from the infected area during sleep (morning sputum are
+membrane’s polarity plays a crucial role in  this process. The    the best) to be detectable through culturing and conﬁrm a TB case.
+transition from hydrophilic lipooligosaccharides and phenolic       This calculation of bacillary load aligns with the dichotomous
+glycolipids to hydrophobic phthiocerol dimycocerosates, di- and   model of TB, which originated with the initiation of preventive
+pentaacyl trehaloses and sulfoglycolipids which confer increased   TB therapy by the US Public Health Service in the 1950s (15).
+hydrophobicity, has facilitated more eﬃcient aerosol transmission   Treatment with isoniazid (INH) for 9 months results in a reduction
+(10). This  transition occurred approximately 3 million  years    of TB cases by approximately 90% in close contacts of active TB
+ago, leading  to the emergence  of the most recent common    patients (16). This eﬀect is particularly signiﬁcant during the ﬁrst
+ancestor of the M. tuberculosis complex, resembling a Canetti-    year after infection, when the risk of developing TB is higher,
+like strain (11), becoming the transit toward obligate parasites    especially in children with <5 year of age and immunosuppressed
+of humans.                                                      people (17, 18), to become negligible around 8 years post-infection
+
+
+
+
+Frontiers in Tuberculosis                                          02                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+
+
+    FIGURE 1
+    Evolution of the bacillary load after the acquisition of latent tuberculosis infection (LTBI). Doted lines mark the “LTBI threshold” in terms of bacillary
+    load, and the 1st year after infection, when the possibility of developing TB is higher. Blue stain range indicates the possibility of symptomatology. In
+    blue the kinetics of LTBI; in red the progression toward active TB during the 1st year; in pink acquisition of TB and recovery; in green the possibility of
+    cyclic bacillary regrowth and control.
+
+
+
+
+(19). Considering that spontaneous mutation against INH occurs      The TB spectrum approach also emphasizes the relevance
+once per 6.5–7 log10 bacilli (20), and that no INH resistance has    of symptomatology in the diagnostic algorithm. However, TB
+been described after chemoprophylaxis,  it can be inferred that   symptoms can be variable among patients and often indeterminate.
+individuals recently infected, with latent tuberculosis infection   The common guideline that suggests “2 weeks of cough may
+(LTBI), have fewer than 6.5–7 log10 bacilli in their body (Figure 1).    indicate TB” is vague, and physicians must consider various social,
+Upward this threshold, the presence of TB is considered, requiring   economic, and geographic factors to make an accurate assessment.
+treatment with at least three drugs to avoid the selection of strains    Consequently, there is a signiﬁcant diagnostic delay, with a median
+with spontaneous mutations, which could lead to a “fall and raise”    of 52 days and up to 6.5 months in disseminated TB (27). It is
+phenomenon (21).                                           worth nothing that TB does not necessarily have to be linked to
+   In general, the dichotomous approach  is used in contact   symptomatology or organ failure. In fact, the low severity and
+tracing, where LTBI  is deﬁned in individuals with a positive   asymptomatic nature of TB in the Paleolithic era may explain the
+Mantoux test or interferon gamma release assay (IGRA) but no    origin of Mtb (28).
+chest X-ray lesions, while pulmonary TB  is diagnosed when a       Considering the obligate nature of Mtb infection in humans,
+lesion is detected and conﬁrmed by microbiological methods. This     it seems reasonable to orientate an eradication policy toward the
+pragmatic approach links the size of the lesion with the bacillary    detection of Mtb at all cost, in a massive and cost-eﬀective manner.
+load and has been one of the key elements in TB diagnosis.   This approach is achievable when the bacillary load is detectable in
+However, this paradigm may change with the increasing sensitivity    respiratory samples. However, the challenge lies in the detection of
+of imaging techniques, such as chest computed tomography (CT),   extrapulmonary TB, where the bacillary load may be lower or more
+which can identify micronodules that are impossible to detect    diﬃcult to access.
+on chest X-rays (22). Regardless of the feasibility of the method,
+the question remains whether  it  is worthwhile to change the
+existing paradigm.                           The host-pathogen interface: on foamy
+   Some years ago, with the onset of PET-TAC, a concept emerged  macrophages, interlobular septa and soap
+that challenged the dichotomous model of TB diagnosis: the “TB  bubbles
+spectrum” (23, 24). The TB Spectrum suggests that the evolution
+from LTBI to TB involves intermediate steps, questioning the       Experimental modeling in laboratory animals,  particularly
+notion of an “LTBI threshold”. It suggests that there can be cyclic    mice, has played a crucial role in understanding the natural history
+episodes of bacillary regrowth and control, as well as natural    of Mtb infection (Figure 2). These models have been instrumental
+healing of the lesions (13). Not to mention exogenous reinfections,    in demonstrating the critical role of interferon-gamma (IFN-g)
+of special interest in countries with a high TB incidence (25).   and Th1 response in activating infected alveolar macrophages
+Furthermore, the question of infection in naïve subjects arises,   and controlling the infection (29). They have also highlighted the
+whether  it  results from a  single  bacilli infection or multiple    signiﬁcance of foamy macrophages (FM), which are old activated
+consecutive infections (26).                                      macrophages, in carrying dormant bacilli out of the granuloma and
+
+
+
+
+Frontiers in Tuberculosis                                          03                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+
+
+    FIGURE 2
+    Natural history of Mtb infection. Entrance to the alveoli through aerosol (1). Macrophage entrance (2). The onset of the granuloma, which depending
+   on the inﬁltration percentage of polymorphonuclear leukocytes (PMNs) can be identiﬁed as proliferative (3b) or exudative (3a) when it is low or high,
+    respectively. The interaction with the regional lymph node (4), where Mtb can also infect macrophages, generate lesions which can be a source of
+   new reinfection of the lung once infected macrophages or extracellular bacilli reach the inferior vena cava to the right auricula and are pumped
+    again through the pulmonary artery. Once the adaptive immunity is triggered there is a control in the bacillary load in the case of the proliferative
+   granulomas thanks to a predominant Th1 response (6a, 7a) or a progressive increase thanks to the enhanced entrance of PMNs through a Th17
+    biased response, that allows an extracellular growth of the bacilli (6b, 7b) and the angiogenesis of new more fragile capillary, than can easily break
+   and promote extrapulmonary dissemination through the pulmonary veins (9). Proliferative lesions are rapidly encapsulated (8). In both lesions there is
+   a constant drainage of dormant bacilli carried by foamy macrophages toward the bronchial tree (11) which are mainly drained toward the
+    gastrointestinal tract (12) but can re-enter the lung parenchyma again after incorporating in the aerosols produced in the bronchioles (1). Obtained
+    with permission from Cardona et al. (86).
+
+
+
+
+draining them through the bronchioles toward the upper bronchi   development. For example, it elucidates why the incidence of TB
+(30, 31). The periodic collapse of bronchioles during respiration    decreases signiﬁcantly 1 year after infection due to the constant
+generates aerosols  (32), providing a pathway for endogenous    drainage of bacilli through the gastrointestinal tract, reducing the
+reinfection after the lysis of infected FM and incorporation of   chances of reinfection over time.  It also clariﬁes the rationale
+dormant Mtb into these aerosols. This mechanism supports the   behind administering INH for LTBI, as INH has no eﬀect on
+“dynamic hypothesis” (33), which explains several aspects of TB   dormant bacilli. INH chemoprophylaxis is useful when given for
+
+
+
+
+
+Frontiers in Tuberculosis                                          04                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+
+an extended period, as  it corresponds to the average bacillary    eﬀect of gravity (47). This increased strain can have an impact on
+“clean up” time from the granulomas through the gastrointestinal    the reactivity of ﬁbroblasts in the upper lobes, potentially making
+tract. Maintaining constant  levels  of INH helps prevent the   them less responsive.
+regrowth of those dormant bacilli endogenously reintroduced to      The  combination  of  these  factors  creates  a   stressful
+the lung.                                                    environment  in  the  upper  lobes  of  the  lungs,  leading  to
+   The Mtb infection in minipigs provided another  clue.  Is    the  attraction  of PMNs. The  presence  of PMNs  promotes
+not  solely about  the immune  response, but  there  is  also a    the  extracellular growth  of  the  bacilli and  enables them  to
+mechanical component in the lung that needs to be considered.   overcome  the  encapsulation  process  that  typically  occurs  in
+The  interlobular  septa,  which  divide  de  entire  pulmonary    response  to  infection. The  reduced  reactivity  of  ﬁbroblasts
+parenchyma into smaller sections to facilitate respiration through    in  the upper  lobes may  also  contribute  to  the diminished
+the contraction of the diaphragm, play a role in this regard (34).    encapsulation eﬃcacy. These mechanisms collectively contribute
+These septa contain ﬁbroblasts that can detect any injury in the    to the predilection of pulmonary TB for the upper lobes in
+parenchyma, leading to mechanical stresses on the tissue. This   immunocompetent individuals.
+triggers a switch to the myoﬁbroblast phenotype (35), characterized      The higher incidence of TB in men compared to women
+by elongation, stress ﬁber production, and rapid encapsulation of   has been observed globally, with a ratio of approximately 65:35
+the granulomas within approximately 10 days (36) (Figure 2).         in WHO reports (48). Several factors contribute to this gender
+    Infection  of the C3HeB/FeJ mouse  strain has helped us    disparity. One signiﬁcant factor is the under-notiﬁcation of TB
+understand how to overcome this encapsulation process. This    cases in women due to inequities in accessing healthcare systems,
+strain exhibits exponentially increase in bacillary load due to    particularly in developing countries (49). However, this gender
+the neutrophilic inﬁltration surrounding infected FM, leading to   imbalance persists worldwide, suggesting the presence of biological
+the generation of neutrophil extracellular traps, that facilitate the    sex-biases that are not yet fully understood. These biases may be
+extracellular growth of Mtb (37) and the development of cording,    related to factors such as sexual hormones, sex-related genetic
+which  further ampliﬁes inﬂammation  (38). The drained and   backgrounds and genetic regulations, metabolism, or other yet-to-
+infected FM also play a role by generating daughter lesions around    be-identiﬁed factors (50). Further research is needed to elucidate
+the initial one, which are rapidly inﬁltrated by polymorphonuclear    the speciﬁc mechanisms underlying the higher susceptibility of
+leukocytes (PMNs) and give rise to subsequent generations of   men to TB.
+daughter lesions. Eventually, all these lesions grow and merge,     One potential explanation for the development of severe TB
+resulting in massive irregular necrosis that undergoes liquefaction    disease in humans relates to the neuroendocrine stress response.
+(39). This process resembles the formation of soap bubbles and   This response, known as the “ﬁght or ﬂight” reaction, involves
+has been simulated using an “in  silico” model known as the    the secretion of glucocorticoids (GCs), such as  cortisol  (51).
+“bubble model” (40). The signiﬁcance of daughter lesions in the   Research has shown that lower socioeconomic status is associated
+progression toward liquefacted lesions has been conﬁrmed in   with chronic stress and elevated cortisol levels (52). The onset
+experimental macaque models (41), and it aligns with recent studies    of the agricultural revolution introduced social imbalances and
+using human samples (42). The enlargement of the lesions and    transitioned society into an unequal one, diverging from the
+modiﬁcation of the parenchyma also requires neovascularization,    collaborative nature of the Paleolithic era (53, 54).
+resulting in the formation of a fragile capillary network that can      The development of severe forms of TB can be attributed to
+be easily rupture and disseminate bacilli into the pulmonary veins,    chronic cortisol elevation rather than an increase in Mtb virulence.
+leading to systemic dissemination (43) (Figure 2). From a point    In fact, modern Mtb lineages are generally less proinﬂammatory
+of view focused on POC strategies, the use of a CT scan is not a    (55) and  less likely to induce severe lesions. This perspective
+viable alternative, but the detection of increased angiogenesis or    aligns with the concept of TB as a disease aﬀecting lower social
+collagen turnover (e.g., metalloproteinase activity) could support a    classes and reﬂecting societal inequality (56). Several observations
+biosignature approach.                                           support this hypothesis. For example, studies have documented
+                                                                     elevated basal cortisol levels in farmers in Kenya who rely solely
+                                                      on  agriculture  for  their income  (57), and  in  non-politically
+                                                                     inﬂuential men of the Bolivian Tsimane forager-horticulturalists
+Why upper lobes and men?                               (58).  Additionally,  studies  in  various  primate  species  have
+                                                             demonstrated that subordinate individuals exhibit higher resting
+   Pulmonary TB in immunocompetent individuals tends to    cortisol levels compared to their dominant counterparts (59). Even
+primarily aﬀect the upper lobes of the lungs. In fact, bats (that hangs    in the absence of baseline diﬀerences, research has found that
+upside down during most part of the day) develop TB mostly in the   men produce higher circulating cortisol levels than women during
+bases of their lungs. Accordingly, in four-legged animals the lesions    psychological stress tests (60–62). This may explain why major
+concentrate in the dorsal regions of the lung (44, 45). There are    depression increases the risk of TB, but speciﬁcally in men, as
+several factors that contribute to this localization. Firstly, the small   observed in a nationwide population study in Korea (63).
+breathing amplitude in the upper lobes creates an environment       In immunosuppressed individuals, such as children under
+that facilitates the local accumulation of bacilli, making it more    the age of 5 and AIDS  patients, the tropism for the upper
+favorable for disease to occur (46). Additionally, the upper lobes    lobes in pulmonary TB  is not necessarily observed. In these
+have larger alveoli, which experience increased strain due to the    cases,  the development  of TB  is  associated with inadequate
+
+
+
+
+
+Frontiers in Tuberculosis                                          05                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+
+cellular immunity. The lack of activation of infected macrophages   induced after extracellular bacillary growth, making it a potential
+contributes to  easier dissemination of the  bacilli, as there  is   marker  for TB diagnosis. This methodology has been under
+limited  activation  of  infected  macrophages due  to  reduced   development for several years (80), and has shown promising
+Th1 response, as well as reduced attraction of PMNs caused    results,  particularly when  combined  with IGRAs  (81),  an
+by a diminished Th17 response (Figure 2). Consequently, TB   approach that merits further development. However, due to the
+lesions can develop  in  all pulmonary  lobes  in  these  hosts,    proliferation of inaccurate tests, the Indian Ministry of Health
+and  cavitation  of  the  lesions  is  less  frequent.  Additionally,   banned  the import and  sale  of antibody-based TB  tests  in
+systemic dissemination of the infection is more common, leading   2012 (82, 83).
+to  the development  of extrapulmonary  lesions  with  greater        Special attention should be given to TB diagnosis in children
+frequency (64).                                                           (84), as they often present with atypical pulmonary TB and
+                                                                        face challenges in obtaining good sputum samples. Additionally,
+                                                                     there  is an  increased  risk  of extrapulmonary  dissemination.
+Discussion on existing methodologies     Detecting  speciﬁc metabolomic  biosignatures  in urine shows
+                                                            promise as a potential option for diagnosing TB in children,
+   This perspective highlights several aspects that need to be   although further development  is needed in terms of cost and
+considered when  designing a new POC  test  for diagnosing    feasibility (85).
+tuberculosis (TB).                                                   In  conclusion,  tuberculosis  (TB)  diagnosis  remains  a
+  On the direct approach side, there are various methods for    signiﬁcant  global  healthcare  challenge.  Current  diagnostic
+detecting  the presence  of Mtb. Culture  systems,  particularly   methods  have  limitations  in  sensitivity  and  infrastructure
+those using  liquid media such  as  the Mycobacteria Growth    requirements, hindering timely and accurate detection, especially
+Indicator Tube (MGIT)  has  the  highest  sensitivity.  Smear    in resource-limited  settings and  for extrapulmonary  cases. A
+detection using light-emitting diode (LED) based ﬂuorescence   paradigm  shift  is  needed, moving  toward  a  comprehensive
+microscopy has also been improved  (65). Antigenic methods   understanding of TB as a spectrum of infection, from latent
+have   focused  on   detecting   lipoarabinomannan  (LAM),    to  active  disease. By considering the dynamic nature of TB
+a  major  component  of  the Mtb  cell  wall.  Soluble LAM,   and key factors such as foamy macrophages, interlobular septa,
+actively  secreted by Mtb and  infected macrophages, can be   and  anatomical  location,  innovative  diagnostic  approaches
+detected  in  urine and  holds  potential  as  a POC  test  (66).   can  be  developed.  Factors  like male  susceptibility and  the
+However, the most widely used method with high  sensitivity   impact  of  chronic  stress  emphasize  the  need  to  consider
+is  the  Xpert MTB/RIF  test,  which  utilizes DNA  detection    social,  genetic, and  environmental  aspects  in TB  diagnosis
+for  Mtb  and  rifampicin  resistance  in  various  specimen   and management. Collaboration and innovation are crucial to
+types (67–70).                                                   develop rapid, sensitive, and cost-eﬀective diagnostic tests that can
+  On the indirect approach side, the host interface is considered.   be implemented in challenging environments. By improving early
+The  classical  test uses puriﬁed protein derivative (PPD) of a    detection and reducing diagnostic delays, we can eﬀectively control
+Mtb  extract, or  tuberculin, standardized by Florence  Seibert    the spread of TB and work toward the goal of ending the disease
+(71).  Its intradermal  injection using  the Mantoux technique   by 2030.
+induces a delayed-type hypersensitivity response in individuals
+with  a  LTBI. A more  speciﬁc  version  uses  antigens  such
+as ESAT-6 and CFP-10  to avoid  cross-reactivity with BCG-  Data availability statement
+vaccinated or most of non-TB mycobacteria infected individuals
+(72, 73). On the other hand, Interferon-gamma release assays      The original contributions presented in the study are included
+(IGRAs)  detect  speciﬁc Th1  eﬀector memory  cells  in  the    in the article/supplementary material, further inquiries can be
+blood by quantifying IFN-g production upon stimulation with    directed to the corresponding author.
+antigens  like ESAT-6 and CFP-10 using ELISA or ELISPOT
+technologies (74).
+                                    Author contributions    Direct  methodologies  are  valuable  for  diagnosing  TB,
+while indirect methods cannot distinguish between LTBI and
+                                                                P-JC has conceptualized and written the article.
+TB.  Further  reﬁnement may  involve  using  easily  obtained
+samples like saliva for Mtb DNA detection or detecting host
+salivary proteins as biosignatures, although speciﬁcity remains a  Funding
+challenge (75, 76). Biosignatures based on metabolomics, IFN-
+g  induced  agents,  or microRNAs  have  also  been  explored                                                                   This work was funded by AGAUR 2021 SGR 00931.
+(74,  77),  also  in  blood-based   tests,  including  dry  blood
+testing (78, 79).
+   The main  challenge  with  these  approaches  is  that  the  Conﬂict of interest
+cellular immune  response cannot determine  the  localization
+of the  lesion or the  risk of progression to TB. In  contrast,       P-JC declared that they were an editorial board member of
+the humoral response oﬀers a combination of  bacillary load    Frontiers, at the time of submission. This had no impact on the peer
+detection and host response. Antibody production is primarily    review process and the ﬁnal decision.
+
+
+
+
+Frontiers in Tuberculosis                                          06                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+Publisher’s note                                           organizations, or those of the publisher, the editors and the
+                                                                      reviewers. Any product that may be evaluated in this article, or
+    All claims expressed in this article are solely those of the    claim that may be made by its manufacturer, is not guaranteed or
+authors and do not necessarily represent those of their aﬃliated   endorsed by the publisher.
+
+
+
+References
+
+
+  1. World Health Organization (2015). The End TB Strategy. Geneve: World Health       21. Al-Humadi  HW,   Al-Saigh   RJ,  Al-Humadi  AW.   Addressing   the
+Organization. Available online  at: https://www.who.int/publications/i/item/WHO-     challenges  of  tuberculosis: a  brief  historical  account. Front Pharmacol. (2017)
+HTM-TB-2015.B-2019 (accessed June 14, 2023).                                        8:264120. doi: 10.3389/fphar.2017.00689
+
+  2. Djelouadji Z, Raoult D, Drancourt M. Palaeogenomics  of Mycobacterium       22. Lee SW, Jang YS, Park CM, Kang HY, Koh W-J, Yim  J-J,  et  al. The
+tuberculosis: epidemic bursts with a degrading genome. Lancet Infect Dis. (2011)     role of chest CT scanning in TB outbreak investigation. Chest. (2010) 137:1057–
+11:641–50. doi: 10.1016/S1473-3099(11)70093-7                                            64. doi: 10.1378/chest.09-1513
+
+  3. Marrakchi H, Lanéelle M-A, Daﬀé M. Mycolic acids: structures, biosynthesis, and       23. Barry CE, BoshoﬀHI, Dartois V, Dick T, Ehrt S, Flynn J, et al. The spectrum
+beyond. Chem Biol. (2014) 21:67–85. doi: 10.1016/j.chembiol.2013.11.011                  of latent tuberculosis: rethinking the biology and intervention strategies. Nat Rev
+                                                                                          Microbiol. (2009) 7:845–55. doi: 10.1038/nrmicro2236
+  4. Fedrizzi T, Meehan CJ, Grottola A, Giacobazzi E, Fregni Serpini G, Tagliazucchi
+S, et al. Genomic characterization of Nontuberculous Mycobacteria. Sci Rep. (2017)       24. Drain  PK,  Bajema  KL, Dowdy  D, Dheda  K,  Naidoo  K,  Schumacher
+7:45258. doi: 10.1038/srep45258                                                  SG,   et   al.  Incipient  and  Subclinical  Tuberculosis:  a  Clinical  Review  of
+                                                                                       Early  Stages  and  Progression   of   Infection.  Clin  Microbiol  Rev.  (2018)
+  5. He Z, Wang L, Ge Y, Zhang S, Tian Y, Yang X, et al. Both viable and inactivated
+                                                                                   31:10–1128. doi: 10.1128/CMR.00021-18
+amoeba spores protect their intracellular bacteria from drinking water disinfection. J
+Hazard Mater. (2021) 417:126006. doi: 10.1016/j.jhazmat.2021.126006                        25. Cardona  P-J. Reactivation or reinfection in adult tuberculosis:  Is that the
+                                                                                      question? Int J Mycobacteriol. (2016) 5:400–407. doi: 10.1016/j.ijmyco.2016.09.017
+  6. Gao  Z,  Karlsson    I,  Geisen   S,  Kowalchuk  G,  Jousset  A.   Protists:
+puppet  masters  of  the  rhizosphere  microbiome.  Trends  Plant   Sci.  (2019)       26. Cardona P-J, Vilaplana C. Multiple consecutive infections might explain the lack
+24:165–76. doi: 10.1016/j.tplants.2018.10.011                                              of protection by bcg. PLoS ONE. (2014) 9:e94736. doi: 10.1371/journal.pone.0094736
+
+  7. Bachmann  NL,  Salamzade  R, Manson  AL,  Whittington  R,  Sintchenko       27. Roure  S, Vallès X, Sopena N, Benítez RM, Reynaga EA, Bracke C, et  al.
+V,  Earl AM,  et   al.  Key  Transitions  in  the  evolution  of  rapid  and  slow    Disseminated tuberculosis and diagnosis delay during the COVID-19 era in a
+growing mycobacteria identiﬁed by comparative genomics. Front Microbiol. (2020)    Western European  country:  a  case  series  analysis.  Front  Public  Heal.  (2023)
+10:3019. doi: 10.3389/fmicb.2019.03019                                                  11:1719. doi: 10.3389/fpubh.2023.1236874
+
+  8. Bajgar A, Krejˇcová G. On the origin of the functional versatility of macrophages.       28. Cardona P-J, Català M, Prats C. The origin and maintenance of tuberculosis is
+Front Physiol. (2023) 14:246. doi: 10.3389/fphys.2023.1128984                           explained by the induction of smear-negative disease in the paleolithic. Pathog (Basel,
+                                                                                           Switzerland). (2022) 11. doi: 10.3390/pathogens11030366
+  9. Anes  E,  Pires  D,  Mandal  M,  Azevedo-Pereira  JM.  ESAT-6 a  major
+virulence    factor   of   mycobacterium    tuberculosis.   Biomolecules.   (2023)       29. Cooper AM, Dalton DK, Stewart TA, Griﬃn  JP, Russell DG, Orme IM.
+13:968. doi: 10.3390/biom13060968                                                 Disseminated tuberculosis in interferon gamma gene-disrupted mice. J Exp Med.
+                                                                                    (1993) 178:2243–7. doi: 10.1084/jem.178.6.2243
+  10. Jankute M, Nataraj V, Lee OY-C, Wu HHT, Ridell M, Garton NJ, et al. The
+role of hydrophobicity in tuberculosis evolution and pathogenicity. Sci Rep. (2017)       30. Cáceres N, Tapia G, Ojanguren  I, Altare F, Gil O, Pinto S, et al. Evolution
+7:1315. doi: 10.1038/s41598-017-01501-0                                                  of foamy macrophages in the pulmonary granulomas of experimental tuberculosis
+                                                                                  models. Tuberculosis. (2009) 89:175–82. doi: 10.1016/j.tube.2008.11.001
+  11. Gutierrez MC, Brisse S, Brosch R, Fabre M, Omaïs B, Marmiesse M, et al. Ancient
+origin and gene mosaicism of the progenitor of Mycobacterium tuberculosis. PLoS       31. Russell DG, Cardona P-J, Kim M-J, Allain S, Altare F. Foamy macrophages
+Pathog. (2005) 1:e5. doi: 10.1371/journal.ppat.0010005                             and the progression of the human tuberculosis granuloma. Nat Immunol. (2009)
+                                                                                     10:943–8. doi: 10.1038/ni.1781
+  12. European Centre  for Disease Prevention and Control  (2018). Handbook
+on tuberculosis laboratory diagnostic methods in the European Union. 2018th ed.       32. Johnson GR, Morawska L. The mechanism of breath aerosol formation. J Aerosol
+Stockholm: European Centre for Disease Prevention and Control (ECDC). Available   Med Pulm Drug Deliv. (2009) 22:229–37. doi: 10.1089/jamp.2008.0720
+online  at: https://www.ecdc.europa.eu/en/publications-data/handbook-tuberculosis-
+                                                                                              33. Cardona P-J. A dynamic reinfection hypothesis of latent tuberculosis infection.
+laboratory-diagnostic-methods-european-union-updated-2018    (accessed    June
+                                                                                                  Infection. (2009) 37:80–6. doi: 10.1007/s15010-008-8087-y
+14, 2023).
+                                                                                              34. Webb  WR.  Thin-section  CT   of  the  secondary  pulmonary   lobule:
+  13. Ragonnet R, Flegg JA, Brilleman SL, Tiemersma EW, Melsew YA, McBryde
+                                                                         anatomy  and  the  image–the  2004  Fleischner   lecture.  Radiology.  (2006)
+ES, et  al. Revisiting the Natural History of Pulmonary Tuberculosis: a bayesian
+                                                                                   239:322–38. doi: 10.1148/radiol.2392041968
+estimation of natural recovery and mortality rates. Clin. Infect. Dis. (2020) 73:e88–
+96. doi: 10.1093/cid/ciaa602                                                                  35. D’Urso  M,  Kurniawan  NA.  Mechanical  and  physical  regulation  of
+                                                                                 ﬁbroblast–myoﬁbroblast  transition:  from  cellular  mechanoresponse  to  tissue
+  14. Chakravorty S, Simmons AM, Rowneki M, Parmar H, Cao Y, Ryan  J, et al.
+                                                                                      pathology.  Front  Bioeng  Biotechnol.  (2020)  8:609653.  doi:  10.3389/fbioe.2020.
+The New Xpert MTB/RIF ultra: improving detection of Mycobacterium tuberculosis
+                                                                            609653
+and resistance to rifampin in an assay suitable for point-of-care testing. MBio. (2017)
+8:10–1128. doi: 10.1128/mBio.00812-17                                                      36. Gil O, Díaz  I, Vilaplana C, Tapia G, Díaz  J, Fort M,  et  al. Granuloma
+                                                                                     encapsulation is a key factor for containing tuberculosis infection in minipigs. PLoS
+  15. Bess M. Preventive therapy for tuberculosis. Med Clin North Am. (1993)
+                                                                  ONE. (2010) 5:e10030. doi: 10.1371/journal.pone.0010030
+77:1263–75. doi: 10.1016/S0025-7125(16)30192-4
+                                                                                              37. Marzo E, Vilaplana C, Tapia G, Diaz J, Garcia V, Cardona P-J. Damaging role
+  16. Comstock GW. How much isoniazid is needed for prevention of tuberculosis
+                                                                                           of neutrophilic inﬁltration in a mouse model of progressive tuberculosis. Tuberculosis.
+among immunocompetent adults? Int J Tuberc Lung Dis. (1999) 3:847–50.
+                                                                                    (2014) 94:55–64. doi: 10.1016/j.tube.2013.09.004
+  17. Sloot R, Schim van der LoeﬀMF, Kouw PM, BorgdorﬀMW. Risk of tuberculosis
+                                                                                              38. Arias L, Cardona P, Català M, Campo-Pérez V, Prats C, Vilaplana C, et al.
+after recent exposure: a 10-year follow-up study of contacts in Amsterdam. Am J Respir
+                                                                            Cording mycobacterium tuberculosis bacilli have a key role in the progression towards
+Crit Care Med. (2014) 190, 1044–1052. doi: 10.1164/rccm.201406-1159OC
+                                                                                               active tuberculosis, which is stopped by previous immune response. Microorganisms.
+  18. Trauer JM, Moyo N, Tay E-L, Dale K, Ragonnet R, McBryde ES, et al. Risk     (2020) 8:228. doi: 10.3390/microorganisms8020228
+of Active Tuberculosis in the Five Years Following Infection... 15%? Chest. (2016)       39. Cardona P-J. The key role of exudative lesions and their encapsulation: lessons
+149:516–25. doi: 10.1016/j.chest.2015.11.017                                            learned from the pathology of human pulmonary tuberculosis. Front Microbiol. (2015)
+                                                                                            6:612. doi: 10.3389/fmicb.2015.00612
+  19. Cardona P-J, Ruiz-Manzano J. On the nature of Mycobacterium tuberculosis-
+latent  bacilli. Eur  Respir  J. (2004) 24:1044–1051.  doi: 10.1183/09031936.04.000       40. Prats  C,  Vilaplana  C,  Valls   J, Marzo  E, Cardona  P-J, López D.  Local
+72604                                                                        inﬂammation,  dissemination  and  coalescence  of  lesions  are  key  for  the
+                                                                                     progression toward active tuberculosis: the bubble model. Front Microbiol. (2016)
+  20. Ford CB, Shah RR, Maeda MK, Gagneux S, Murray MB, Cohen T, et  al.
+                                                                                                7:33. doi: 10.3389/fmicb.2016.00033
+Mycobacterium tuberculosis mutation rate estimates from diﬀerent lineages predict
+substantial diﬀerences in the emergence of drug-resistant tuberculosis. Nat Genet.       41. Nogueira  I, Català M, White AD, Sharpe SA, Bechini  J, Prats C,  et  al.
+(2013) 45:784–90. doi: 10.1038/ng.2656                                                   Surveillance of daughter micronodule formation is a key factor for vaccine evaluation
+
+
+
+Frontiers in Tuberculosis                                          07                                                                frontiersin.orgCardona                                                                                                           10.3389/ftubr.2023.1243479
+
+
+
+
+
+using experimental infection models of tuberculosis in macaques. Pathogens. (2023)   WB  Saunders  Elsevier  (2009).  p.  332–341.  doi:  10.1016/B978-1-4160-3988-4.0
+12:236. doi: 10.3390/pathogens12020236                                            0029-9
+
+  42. Wells G, Glasgow JN, Nargan K, Lumamba K, Madansein R, Maharaj K,       65. Ojha A, Banik S, Melanthota SK, Mazumder N. Light emitting diode (LED) based
+et al. Micro-computed tomography analysis of the human tuberculous lung reveals    ﬂuorescence microscopy for tuberculosis detection: a review. Lasers Med Sci. (2020)
+remarkable heterogeneity in three-dimensional granuloma morphology. Am J Respir     35:1431–7. doi: 10.1007/s10103-019-02947-6
+Crit Care Med. (2021) 204:583–95. doi: 10.1164/rccm.202101-0032OC
+                                                                                              66. Cantera  JL,   Lillis LM,  Peck  RB,  Moreau  E,  Schouten  JA,  Davis   P,
+  43. Polena H, Boudou F, Tilleul S, Dubois-Colas N, Lecointe C, Rakotosamimanana      et   al.  Performance  of  novel  antibodies  for  lipoarabinomannan  to  develop
+N, et al. Mycobacterium tuberculosis exploits the formation of new blood vessels for its     diagnostic    tests   for   Mycobacterium   tuberculosis.   PLoS  ONE.   (2022)
+dissemination. Sci Rep. (2016) 6:33162. doi: 10.1038/srep33162                          17:e0274415. doi: 10.1371/journal.pone.0274415
+
+  44. DOCKW. Eﬀect of posture in alveolar gas tension in tuberculosis: explanation       67. Kohli M,  Schiller  I, Dendukuri N, Yao M, Dheda  K, Denkinger CM,
+for favored sites of chronic pulmonary lesions. AMA Arch Intern Med. (1954) 94:700–      et  al. Xpert MTB/RIF  Ultra and Xpert MTB/RIF  assays  for extrapulmonary
+8. doi: 10.1001/archinte.1954.00250050014003                                             tuberculosis and rifampicin  resistance in  adults. Cochr Datab  Syst Rev. (2021)
+                                                                             1:CD012768. doi: 10.1002/14651858.CD012768.pub3
+  45. Murray JF. Bill Dock and the location of pulmonary tuberculosis: how bed
+rest might have helped consumption. Am J Respir Crit Care Med. (2003) 168:1029–       68. Shapiro AE, Ross JM, Yao M, Schiller I, Kohli M, Dendukuri N, et al. Xpert
+33. doi: 10.1164/rccm.200307-1016OE                                      MTB/RIF and Xpert Ultra assays for screening for pulmonary tuberculosis and
+                                                                                       rifampicin resistance in adults, irrespective of signs or symptoms. Cochr Datab Syst
+  46. Cardona P-J, Prats C. The small breathing amplitude at the upper lobes favours
+                                                                                       Rev. (2021) 3:CD013694. doi: 10.1002/14651858.CD013694.pub2
+the attraction of polymorphonuclear neutrophils to Mycobacterium tuberculosis
+lesions and helps to understand the evolution towards active disease in an individual-       69. Zifodya JS, Kreniske JS, Schiller I, Kohli M, Dendukuri N, Schumacher SG,
+based model. Front Microbiol. (2016) 7. doi: 10.3389/fmicb.2016.00354                       et al. Xpert Ultra versus Xpert MTB/RIF for pulmonary tuberculosis and rifampicin
+                                                                                             resistance in adults with presumptive pulmonary tuberculosis. Cochr Datab Syst Rev.
+  47. Gurney JW, Schroeder BA. Upper lobe lung disease: physiologic correlates.
+                                                                                    (2021) 2:CD009593. doi: 10.1002/14651858.CD009593.pub5
+Review Radiology. (1988) 167:359–66. doi: 10.1148/radiology.167.2.3282257
+                                                                                              70. Kay AW, Ness T, Verkuijl SE, Viney K, Brands A, Masini T, et al. Xpert MTB/RIF
+  48. WHO.  Global  tuberculosis  report  2022. Geneve  (2022).  Available  online
+                                                                                       Ultra assay for tuberculosis disease and rifampicin resistance in children. Cochr Datab
+at:          https://reliefweb.int/report/world/global-tuberculosis-report-2022?gclid=
+                                                                                               Syst Rev. (2022) 9:CD013359. doi: 10.1002/14651858.CD013359.pub3
+EAIaIQobChMIkfSNnvWK_gIVURUGAB2srAkqEAAYASAAEgKH6vD_BwE
+(accessed April 2, 2023).                                                                      71. Harding   E.   Florence   Seibert.   Lancet   Respir  Med.   (2017)   5:255–
+                                                                                                       6. doi: 10.1016/S2213-2600(17)30087-5
+  49. Weiss MG, Sommerfeld  J, Uplekar MW. Social and cultural dimensions of
+gender and tuberculosis [Editorial] [Special section on gender and TB]. Int J Tuberc       72. Ruhwald M, Aggerbeck H, Gallardo RV, HoﬀST, Villate JI, Borregaard B, et al.
+Lung Dis. (2008) 12:829–30.                                                                Safety and eﬃcacy of the C-Tb skin test to diagnose Mycobacterium tuberculosis
+                                                                                                infection, compared with an interferon γ release assay and the tuberculin skin test:
+  50. Neyrolles O, Quintana-Murci L. Sexual Inequality in Tuberculosis. PLoS Med.
+                                                                                   a phase 3, double-blind, randomised, controlled  trial. Lancet Respir Med. (2017)
+(2009) 6:e1000199. doi: 10.1371/journal.pmed.1000199
+                                                                                     5:259–68. doi: 10.1016/S2213-2600(16)30436-2
+  51. Nyberg ST, Fransson EI, Heikkilä K, Ahola K, Alfredsson L, Bjorner JB, et al. Job
+                                                                                              73. Yang Y, Fang Z, Huang W, Zhang H, Luo S, Lin S, et al. Safety of a Novel ESAT6-
+Strain as a risk factor for type 2 diabetes: a pooled analysis of 124,808 men and women.
+                                                                   CFP10 skin test compared with tuberculin skin test in a double-blind, randomized,
+Diabetes Care. (2014) 37:2268–2275. doi: 10.2337/dc13-2936
+                                                                                         controlled study. BMC Infect Dis. (2022) 22:780. doi: 10.1186/s12879-022-07765-w
+  52. Brunner   E.   Biology   and   health   inequality.   PLoS    Biol.   (2007)
+                                                                                              74. Carranza  C,  Pedraza-Sanchez  S,  de  Oyarzabal-Mendez  E,  Torres  M.
+5:e267. doi: 10.1371/journal.pbio.0050267
+                                                                                   Diagnosis for latent tuberculosis infection: new alternatives. Front Immunol. (2020)
+  53. Bentley RA, Bickle P, Fibiger L, Nowell GM, Dale CW, Hedges REM, et al.     11:2006. doi: 10.3389/ﬁmmu.2020.02006
+Community diﬀerentiation and kinship among Europe’s ﬁrst farmers. Proc Natl Acad
+                                                                                              75. Byanyima  P,  Kaswabuli  S,  Musisi  E,  Nabakiibi  C, Zawedde   J,  Sanyu
+Sci U S A. (2012) 109:9326–30. doi: 10.1073/pnas.1113710109
+                                                                                                                                 I,   et   al.   Feasibility  and   sensitivity  of   saliva  GeneXpert  MTB/RIF  ultra
+  54. Scheidel W. The Great Leveler : Violence and the History of Inequality From the     for  tuberculosis  diagnosis  in  adults  in  Uganda.  Microbiol  Spectr.  (2022)
+Stone Age to the Twenty-First Century. Available online at: https://press.princeton.edu/     10:e0086022. doi: 10.1128/spectrum.00860-22
+books/paperback/9780691183251/the-great-leveler (accessed January 25, 2021).
+                                                                                              76. Khambati N, Olbrich L, Ellner  J, Salgame P, Song R, Bijker EM. Host-based
+  55. Portevin  D,  Gagneux   S,  Comas   I,  Young  D. Human  macrophage    biomarkers in saliva for the diagnosis of pulmonary tuberculosis in children: a mini-
+responses  to  clinical  isolates  from  the  Mycobacterium  tuberculosis  complex     review. Front Pediatr. (2021) 9:756043. doi: 10.3389/fped.2021.756043
+discriminate  between  ancient  and  modern  lineages.  PLoS  Pathog.  (2011)
+                                                                                              77. Albors-Vaquer A, Rizvi A, Matzapetakis M, Lamosa P, Coelho AV, Patel AB, et al.
+7:e1001307. doi: 10.1371/journal.ppat.1001307
+                                                                                      Active and prospective latent tuberculosis are associated with diﬀerent metabolomic
+  56. Oxlade O, Murray M.  Tuberculosis and  poverty: why  are  the poor  at     proﬁles: clinical potential for the identiﬁcation of rapid and non-invasive biomarkers.
+greater  risk  in  India? PLoS ONE.  (2012)  7:e47533.  doi:  10.1371/journal.pone.    Emerg Microbes Infect. (2020) 9:1131–9. doi: 10.1080/22221751.2020.1760734
+0047533
+                                                                                              78. Namuganga  AR,  Chegou  NN,  Mayanja-Kizza  H.  Past  and  present
+  57. Chemin M, De Laat  J, Haushofer  J. Negative rainfall shocks increase levels    approaches  to  diagnosis  of  active pulmonary  tuberculosis.  Front Med.  (2021)
+of the  stress hormone  cortisol among poor farmers in Kenya. SSRN Electron.  J.     8:709793. doi: 10.3389/fmed.2021.709793
+(2013). doi: 10.2139/ssrn.2294171
+                                                                                              79. Tabone O, Verma R, Singhania A, Chakravarty P, Branchett WJ, Graham CM,
+  58. von Rueden CR, Trumble BC, Emery Thompson M,  Stieglitz  J, Hooper      et al. Blood transcriptomics reveal the evolution and resolution of the immune response
+PL, Blackwell AD,  et  al.  Political inﬂuence  associates with  cortisol and health     in tuberculosis. J Exp Med. (2021) 218. doi: 10.1084/jem.20210915
+among  egalitarian  forager-farmers.  Evol Med  public  Heal.  (2014)  2014:122–
+                                                                                              80. Melkie ST, Arias  L, Farroni C, Jankovic Makek M, Goletti D, Vilaplana
+33. doi: 10.1093/emph/eou021
+                                                                                  C.  The   role   of   antibodies   in   tuberculosis   diagnosis,   prophylaxis  and
+  59. Abbott  DH,  Keverne  EB,  Bercovitch  FB,  Shively  CA,  Mendoza  SP,     therapy:  a  review from  the ESGMYC  study  group. Eur  Respir  Rev.  (2022)
+Saltzman W,  et  al. Are subordinates always  stressed? A comparative  analysis     31:617. doi: 10.1183/16000617.0218-2021
+of  rank  diﬀerences  in  cortisol  levels among  primates. Horm  Behav.  (2003)
+                                                                                              81. La Manna MP, Tamburini B, Orlando V, Badami GD, Di Carlo P, Cascio A,
+43:67–82. doi: 10.1016/S0018-506X(02)00037-5                                                                                                    et  al. LIODetectR⃝TB-ST: Evaluation of novel blood test for a rapid diagnosis of
+  60. Reschke-Hernández AE, Okerstrom KL, Bowles Edwards A, Tranel D. Sex and     active pulmonary and extra-pulmonary tuberculosis in IGRA conﬁrmed patients.
+stress: Men and women show diﬀerent cortisol responses to psychological stress     Tuberculosis (Edinb). (2021) 130:102119. doi: 10.1016/j.tube.2021.102119
+induced by the Trier social stress test and the Iowa singing social stress test. J Neurosci
+                                                                                              82. Steingart KR, Ramsay A, Dowdy DW, Pai M. Serological tests for the diagnosis
+Res. (2017) 95:106–14. doi: 10.1002/jnr.23851
+                                                                                           of active tuberculosis: relevance for India. Indian J Med Res. (2012) 135:695–702.
+  61. Bekhbat M, Neigh GN. Sex diﬀerences in the neuro-immune consequences       83. WHO (2011). Commercial serodiagnostic tests for diagnosis of tuberculosis: policy
+of  stress: Focus on depression and anxiety. Brain Behav Immun. (2018) 67:1–     statement. Geneve: WHO.
+12. doi: 10.1016/j.bbi.2017.02.006
+                                                                                              84. Vaezipour N, Fritschi N, Brasier N, Bélard S, Domínguez J, Tebruegge M, et al.
+  62. Rainville  JR,  Tsyglakova  M,  Hodes  GE.  Deciphering  sex  diﬀerences    Towards Accurate Point-of-Care Tests for Tuberculosis in Children. Pathogens. (2022)
+in   the  immune  system  and   depression.  Front  Neuroendocrinol.  (2018)     11:327. doi: 10.3390/pathogens11030327
+50:67–90. doi: 10.1016/j.yfrne.2017.12.004
+                                                                                              85. Comella-del-Barrio P, Izquierdo-Garcia JL, Gautier  J, Doresca MJ, Campos-
+  63. Oh KH, Choi H, Kim EJ, Kim HJ, Cho SI. Depression and risk of tuberculosis:     Olivas R, Santiveri CM, et al. Urine NMR-based TB metabolic ﬁngerprinting for the
+a nationwide population-based cohort study. Int J Tuberc Lung Dis. (2017) 21:804–     diagnosis of TB in children. Sci Rep. (2021) 11:12006. doi: 10.1038/s41598-021-91545-0
+9. doi: 10.5588/ijtld.17.0038
+                                                                                              86. Cardona P-J, Català M, Arch M, Arias L, Alonso S, Cardona P, et al. Can
+  64. Hoﬀmann CJ, Churchyard G. Pulmonary tuberculosis in adults. In: Tuberculosis.     systems immunology lead tuberculosis eradication? Curr Opin Syst Biol. (2018) 12:53–
+A comprehensive  clinical  reference, Schaaf HS, Zumla A.  editors. London, UK:     60. doi: 10.1016/j.coisb.2018.10.004
+
+
+
+
+
+Frontiers in Tuberculosis                                          08                                                                frontiersin.org

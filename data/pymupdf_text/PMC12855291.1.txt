@@ -1,0 +1,796 @@
+                                                                        www.nature.com/scientificreports
+
+
+
+    OPEN Modeling trap dynamics in oxide-
+         engineered heterostructure TFETs
+           for breast cancer detection
+                             Rittik Ghosh1 & Priyanka Saha2
+
+                            This work presents a reliability-focused modeling study of trap-induced hysteresis in a heterostructure
+                           oxide-engineered double-gated tunnel field-effect transistor based biosensor for breast cancer
+                             detection. Our study reveals how interface traps impact threshold voltage shifts, current sensitivity,
+                        and overall sensing stability under varying sweep rates and temperatures. We explore the role of trap
+                             location by comparing two critical interfaces, InAs-Si at the source-channel tunneling junction and
+                             Si-SiO2 at the channel-oxide interface, revealing that these traps induce more severe hysteresis and
+                              signal degradation. A novel detection inaccuracy metric is introduced to quantify sensitivity loss due
+                           to reliability degradation, showing up to 97% inaccuracy for healthy biomarker conditions in damaged
+                             devices. This study highlights the importance of reliability-aware modeling of trap effects in TFET-
+                         based biosensors and provides simulation-based insights into how sweep rate and temperature may
+                             influence stable and reproducible sensing behavior.
+
+                       Keywords  Breast cancer, TFET, Traps, Sensitivity, Reliability, Hysteresis, Degradation
+
+                               Breast cancer is among the most prevalent malignancies in women and a major cause of cancer-related deaths,
+                               responsible for 11.6% of cases and 6.6% of mortalities1. Although early detection improves survival, standard
+                          methods like mammography and MRI suffer from high costs, limited access, and variable accuracy2–6, especially
+                               in low-resource settings where affordable diagnostics are critically needed. Field-effect transistors (FET)-based
+                              biosensors have recently gained prominence due to their label-free detection, high sensitivity, complementary
+                             metal-oxide semiconductor (CMOS) compatibility, and suitability for miniaturization and integration7,8. Tunnel
+                          FETs (TFET), in particular, offer ultra-low power operation and steep subthreshold slope via band-to-band
+                              tunneling (BTBT)9,10. The dielectric modulation (DM) technique enhances cancer detection by altering the local
+                                  dielectric constant near the channel that alters the gate-channel capacitance11,12. Breast cancer cells such as
+                      T47D and MCF-7 exhibit higher dielectric constants (κ up to 32) than non-tumorous healthy cells such as MCF-
+                       10A (κ ≈4.5) due to increased water content13. The detectable size of biomolecules in DM-TFET biosensors is                               primarily determined by the cavity thickness and the electric field penetration across gate–channel. In previously
+                              reported TFET-based biosensors, nanoparticles and cancer cell lines with characteristic sizes below 10 nm have
+                           been detected effectively through dielectric modulation within the sensing cavity14–16.
+                                 Despite considerable progress in improving the sensitivity of DM-TFET-based biosensors12,17,18, one critical
+                               aspect remains; the underexplored reliability of devices. In real-world biomedical applications, especially those
+                               involving repeated usage or long-term monitoring, the consistency of the sensor’s electrical response is just as
+                            important as its sensitivity and selectivity. Unfortunately, most prior studies have neglected the time-dependent
+                             degradation effects that can compromise biosensor accuracy. One of the main sources of time-dependent
+                             degradation in FET-based biosensors is threshold voltage hysteresis, which arises from charge trapping and
+                             detrapping at the semiconductor–oxide interface19–22. These interface traps, often introduced during fabrication
+                                steps and energetic band misalignments, can cause significant shifts in the transfer characteristics of the device
+                       when the gate voltage is swept forward and reverse. Such shifts not only affect signal reproducibility but can also
+                                  result in false positives or missed detections; scenarios that are unacceptable in clinical diagnostics21,23,24.
+                              Driven by these factors, we report a III-V heterostructure oxide-engineered double-gated TFET (H-OE-
+                       DG-TFET) biosensor to assess reliable prediction of breast cancer. The Indium Arsenide source-silicon channel
+                               (InAs-Si) heterostructure improves the saturation drain current (ION) due to its straddling electronic band
+                            alignment since InAs and Si has electronic band-gaps of 0.354 eV25 and 1.12 eV respectively. We simulate the
+                                    effects of interface traps and their transient charge dynamics across varying dielectric constants, sweep rates
+                                (SR), and temperatures, addressing sensing, selectivity and reliability. By embedding reliability modeling into
+
+
+                                   1Institute for Microelectronics, TU Wien, Vienna, Austria. 2Department of Electronics and Communication
+                               Engineering, St. Thomas’ College of Engineering and Technology, Kolkata, India. email: ghosh@iue.tuwien.ac.at
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  1www.nature.com/scientificreports/
+
+
+                              the biosensing framework, this study highlights the stability and robustness of TFET biosensors, advancing
+                                 their potential for scalable, high-fidelity diagnostics by bridging the current gap between TFET device reliability
+                               research and biomedical sensing applications18,26–31.
+
+                     Modeling the sensor
+                          The cross-sectional schematic of the H-OE-DG-TFET biosensor is depicted in Fig. 1a. Studies indicate a lattice
+                          mismatch ≈ 11% in InAs-Si heterostructures32. The electronic band alignment and reduced effective mass density                                of InAs33 enhance band-to-band tunneling (BTBT) by decreasing the tunneling distance (λW) at the InAs-Si
+                              junction under gate bias (VG), thereby improving carrier mobility (µ) and ION. To enhance SS and suppress
+                              leakage current (IOFF), the design employs a dual material gate architecture: Aluminum (ϕM2 = 4.7 eV)
+                        on Hafnium dioxide (HfO2) and Copper (ϕM1 = 3.8 eV) near the tunneling junction as explored in34,35. An
+                             oxide stack (HfO2/SiO2) of 2 nm thick high-(κ)/1 nm thin low-(κ), beneath the cavity prevents additional
+                                 carrier leakage, validated in10,36. Cavities etched in HfO2 facilitate cancer cell binding (Fig. 1b), influenced by
+                            hydrophobic effects, electrostatic forces, and van der Waals interactions. Structural details are summarized in
+                              Table 1, incorporated with 30×8 cavity area for cancer cell conjugation10,37. Simulations compare cancer cells-                                      filled and empty cavities (air-filled, κ =1) to evaluate the biosensor performance and long-term stability.
+                            The H-OE-DG-TFET biosensor is simulated using the commercial SILVACO ATLAS TCAD simulator38.
+                       Quantum tunneling is modeled with the BBT.NONLOCAL model, using refined meshing near the InAs-Si
+                              junction with QTX.MESH, QTY.MESH. Lateral and vertical tunneling directions are specified by QTUNN.
+                       DIR=1 and 0, respectively. The CONMOB and FLDMOB models are used for concentration and electric field
+                                 mobility, and the FERMI model is activated for Fermi-Dirac statistics. Carrier recombination is modeled with the
+                             Shockley-Read-Hall (SRH) and BGN models for band gap narrowing. The TRAP.TUNNEL model implements
+                                 trap-assisted tunneling that accounts for a field-dependent undesirable tunneling of an electron from the valence
+                         band to the conduction band of the channel via an intermediate energy state (trap), while DRIFT DIFFUSION
+                          models handle carrier transport. Time-dependent degradation due to interface traps (switching traps) is
+                             captured by the semi-classical HEIMAN model, simulating elastic tunneling of defect charge states highlighting
+
+
+
+
+
+                (a)
+
+
+
+
+
+                                                                                (c)               (b)
+
+                            Figure 1.  (a) Cross-sectional schematic of H-OE-DG-TFET biosensor device with embedded cavity. (b)
+                            Magnified view of the cancer cells binding to the linker molecules inside the cavities. (c) Calibration profile
+                                of TCAD simulations with the experimental results of P type InAs-Si TFET considering trap dynamics at the
+                              InAs-Si and Si-Oxide interfaces in terms of ID(VG) transfer characteristics.
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  2www.nature.com/scientificreports/
+
+
+
+                                    Parameters                         Values
+                                           Silicon thickness (TSi)              10 nm
+                                   Oxide thickness (Tox)               11 nm
+                                       Cavity thickness (Tcavity)           8 nm
+                                   Channel length (Lch = M1 + M2)  30 nm+10 nm
+                                     Source length (LS)                 25 nm
+                                    Drain length (LD)                  35 nm
+                             P++ Source doping (NS)          1   1019 cm−3                                      ×
+                                             Intrinsic channel doping (Nch)      1   1015 cm−3                                      ×
+                         N+ Drain doping (ND)            5   1018 cm−3                                      ×
+                                    Gate metal1 Work function (ϕM1)     3.8 eV
+                                    Gate metal2 Work function (ϕM2)     4.7 eV
+
+                            Table 1.  Modeling parameters of H-OE-DG-TFET-based biosensor device43,44.
+
+
+
+
+
+                                                                       SAG of InAs
+
+
+
+
+
+                            Figure 2.  3-D possible fabrication process flow of H-OE-DG-TFET-based biosensor device.
+
+
+                                 their impact on the ID(VG) profile during forward/reverse sweeps. The simulation framework uses VG   [0 V,                                                                               ∈                                1.5 V] and VD = 1 V. Model validity is verified with experimental data from the P type InAs–Si TFET devices by
+                             Sant et al.25 by adjusting the interface trap density (Nit) and carrier mobility (µ) for subthreshold slope (SS) and
+                                saturation drain current (ION) matching, as shown in Fig. 1c. The best agreement with the experimental transfer
+                            curve is obtained for Nit of the order of 1012 cm−2  at the silicon-silicon dioxide (Si–SiO2) interface and a
+                                calibrated channel mobility of 590 cm2/Vs, as shown in Fig. 1c and consistent with reported TFET values in the
+                                     literature39. The impact of traps at both the InAs-Si and Si-Oxide interfaces were implemented in the simulation
+                            framework. Furthermore, we extended this analysis to show the hysteresis behavior over varying sweep rates to
+                             observe device degradation from both of these interfaces.
+                            The fabrication feasibility of the H-OE-DG-TFET biosensor is strongly supported by recent experimental
+                           works on InAs-Si integration. Moselund et al.40 demonstrated lateral P type InAs-Si TFETs monolithically
+                                integrated on silicon-on-insulator substrates using template-assisted selective epitaxy. Their process employed
+                                  in-situ Si2H6 doping of InAs within SiO2 templates and a gate stack composed of Aluminum oxide-Hafinum
+                             dioxide-Tungsten (Al2O3-HfO2-W) closely resembling the oxide–metal configuration adopted in this work.
+                            These results validate that selective-area growth (SAG), precise InAs doping, and lateral template formation are
+                              experimentally realizable. The possible fabrication process as inspired from40 is outlined for H-OE-DG-TFET
+                              biosensor using a 3-D schematic shown in Fig. 2. The cavity is formed by wet-etching the oxide. As a side note,
+                              wet-etching of the cavity can result in sub-par cavity-oxide interface12,41. The M1 gate metal is deposited on
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  3www.nature.com/scientificreports/
+
+
+                            HfO2-SiO2-Si by Electron-Beam (E-Beam) Evaporation42, followed by a hard mask and lithography to define
+                              the M1 region. After selective etching, M2 is deposited in the etched regions, completing the dual metal gate
+                                configuration.
+
+                      Simulation results
+                              This section discusses the electrostatics and sensing performance of the H-OE-DG-TFET biosensor for breast
+                             cancer cell: (a) fresh biosensor (interface traps free) and (b) damaged biosensor (with interface traps). The
+                           performance of the sensor is shown in Fig. 3, with electrostatics extracted along the channel horizontal cut-
+                                  line at maximum gate voltage (VG = 1.5 V). The BTBT phenomenon is depicted in the energy band diagram
+                                   (Fig. 3a). Carrier tunneling from the InAs valence band maxima (VBM) to the Si conduction band minima
+                      (CBM) improves as λW shrinks with increasing κ values of cancer cells in the cavity, compared to the empty
+                                 cavity (κ =1). Diseased cells with higher κ result in significant band bending, increasing net oxide capacitance
+                              (Cnet) and affecting the flat-band voltage (VFB), increasing the surface potential (ψs) and perpendicular electric
+                                     field at the tunneling junction (Fig. 3b–c). Contour profiles in Fig. 3d–g visually depict the strengthening electric
+                                     field due to improved BTBT rates at the tunneling junction. For diseased cells, λW narrows by approximately
+                          70%, enhancing BTBT rates, as shown in Fig. 4 and further represented along the channel horizontal cut-line
+                            contour profiles in Fig. 5a–d. The BTBT rates are governed by the Wentzel-Kramers-Brillouin (WKB) tunneling
+                                probability as a function of electric field (E), derived from the second-order time-independent Schrödinger
+                             equation (Eq. (1)).
+                                                           log(TE)     m∗EgλW                                          (1)                                  ∝−                               √                             Here, m∗, Eg, and λW represent the carrier effective mass undergoing tunneling and semiconductor electronic
+                         band gap energy respectively. This establishes the inverse relation between TE and λW that explains the
+                                variations in electrostatics so far. Considering these, next we investigate their impact on the steady-state ID(VG)
+                                   profile under neutral conditions (fixed inteface charge density (Nc) = 0) as shown in Fig. 6a. Upon sweeping the
+                     VG to 1.5 V, significantly higher ION is extracted for diseased cells when compared to the healthy cell. This holds
+                               true based on the analysis for increasing BTBT rates for higher κ values of the cancer cells binding to the linker
+                             molecules in the cavity. Besides, it is known from37 that activating TAT model (TRAP.TUNNEL) degrades the
+                                 SS, making it closer to real-time values45. Figure 6b depicts ION/IOFF ratio and the SS as function of the cancer
+                                      cell κ values. Table 2 compacts these values. It is observed that the transistor switching improves by eight orders
+                                of magnitude while SS steepens by 81% for diseased cells.
+
+                            Sensitivity for a fresh biosensor
+                       Our results confirm that ION and SS are excellent candidates for sensing parameters. Sensitivities are estimated
+                                 for the biosensor performance, considering cancer cell occupied cavities with respect to an empty cavity. In
+
+
+
+
+
+                            Figure 3.  (a) Energy band diagram depicting BTBT (b) Surface potential profile (c) Electric field vs channel
+                               horizontal cut-line. Electric field contour profiles at the source-channel tunneling junction for (d) air (κ =1) (e)
+                            Healthy cell, MCF-10A (κ =4.5) (f) Diseased cells, MCF-7 (κ =27.5) and (g) T47D (κ =32) filled cavity.
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  4www.nature.com/scientificreports/
+
+
+
+
+
+                            Figure 4.  Variation of the tunneling distance (λW) as a function of the dielectric constants (κ) of the cancer
+                                     cells distinguishing diseased cells to healthy cells relative to the empty cavity.
+
+
+
+
+
+                            Figure 5.  BTBT rates contour profiles for (a) air (κ = 1) (b) Healthy cell, MCF-10A (κ = 4.5) (c) Diseased cells,
+                      MCF-7 (κ = 27.5) and (d) T47D (κ =32) filled cavity.
+
+
+
+
+
+                            Figure 6.  (a) ID(VG) profile (b) ION/IOFF ratio and SS vs cancer cell dielectric constants κ values in the
+                                 cavity for neutral cancer cells.
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  5www.nature.com/scientificreports/
+
+
+
+                                  Cancer cells            ION/IOFF    SS [mV/dec]
+                                      Air (κ = 1)                  7.2            387
+                             MCF-10A (κ = 4.5)       2.01   106    126.5                                   ×
+                                  HS578t (κ = 22)         0.994   108  77                                    ×
+                             MDA-MB-231 (κ = 24.5)  1.08   108   75                                   ×
+                             MCF-7 (κ = 27.5)        1.16   108    73.8                                   ×
+                             T47D (κ = 32)           1.2   108     71.4                                   ×
+                            Table 2.  Impact of different cancer cells on electrostatics.
+
+
+
+
+
+                            Figure 7.  (a) Drain current sensitivity as a function of VG. Inset shows drain current sensitivity for different
+                             cancer cells κ values at VG= 1.5 V (b) sub-threshold slope sensitivity for various κ values of cancer cells at VG
+                      = 1.5 V and Nc = 0.
+
+
+                                  Cancer cells               Peak VG [V]  Peak SION
+                             MCF-10A (κ = 4.5)        1.50         3.42   105                                           ×
+                                  HS578t (κ = 22)            1.16         4.67   108                                           ×
+                             MDA-MB-231 (κ = 24.5)  1.15         6.14   108                                           ×
+                             MCF-7 (κ = 27.5)          1.10         8.04   108                                           ×
+                             T47D (κ = 32)             1.05         1.11   109                                           ×
+
+                            Table 3.  Peak drain current sensitivity at different VG values for Nc = 0.
+
+
+                                   this work, we investigate the drain current sensitivity (SION) and sub-threshold slope sensitivity (SSS) of the
+                      H-OE-DG-TFET biosensor based on46,47, as shown in equations (2) and (3), respectively. Figure 7a shows SION
+                                as a function of the VG sweep for healthy and diseased cells at Nc = 0. From the Gaussian-like curve, peak SION
+                                of 1.11   109 is extracted for T47D diseased cells at VG = 1.05 V, while the healthy cell, MCF-10A, yields a                    ×                           peak SION of 3.42   105 at VG = 1.5 V. Overall, the diseased cells yield higher peak SION at lower VG values                          ×                          compared to the healthy cell, quantified in Table 3. This establishes SION as an excellent sensing metric for
+                                breast cancer detection. For comparison, SION is also calculated for a fixed VG = 1.5 V, shown in the inset of
+                                  Fig. 7a. The trend of increasing sensitivities for diseased cells compared to healthy cells is also observed for the
+                       SSS profile as shown in Fig. 7b. The SSS improves by 17.4% for T47D compared to MCF-10A. Both of these
+                              sensing metrics are quantified in Table 4. For completeness, we have evaluated the biosensing performance in
+                              the presence of charged diseased cancer cell, T47D, in Fig. 8. This is implemented using the MOSFET voltage
+                             balance equation, VGS = ψs + ϕms    q(±Nc)    , where Nc is the density (fixed) of charged cancer cells,                                   −    Ceﬀ                                   (    )
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  6www.nature.com/scientificreports/
+
+
+
+                                  Cancer cells          SSS  SION
+                             MCF-10A (κ = 4.5)        0.673  3.42   105                                       ×
+                                  HS578t (κ = 22)           0.801  4.01   108                                       ×
+                             MDA-MB-231 (κ = 24.5)  0.806  4.98   108                                       ×
+                             MCF-7 (κ = 27.5)         0.809  6.13   108                                       ×
+                             T47D (κ = 32)             0.815  7.77   108                                       ×
+                            Table 4.  Sensitivity at fixed VG for Nc = 0.
+
+
+
+
+
+       (a)                                            (b)
+
+                            Figure 8.  (a) Linear ID(VG) profile (b) Drain current sensitivity as a function of VG for varied T47D Nc.
+
+
+                        Ceﬀ is the effective capacitance per unit area, and ϕms is the metal–semiconductor work function. The charge
+                               density of T47D is varied from Nc = -1   1012 cm−2, -5   1011 cm−2 to Nc = +1   1011 cm−2, +1   1012                                    ×        ×            ×        ×                        cm−2. Adding fixed positive charges at the cavity-oxide interface results in a strong inversion, meaning that the
+                              sensor switches ON quickly, increasing BTBT rate, thereby shifting the threshold voltage towards the lower gate
+                                voltages and simultaneously fixed negative charges makes it difficult for the sensor to switch ON due to strong
+                            accumulation at the cavity-oxide interface, meaning that the threshold voltage shifts towards the higher gate
+                                voltages as shown from the linear ID(VG) transfer characteristics in Fig. 8a. Furthermore, we calculated SION
+                                 for the charged T47D cancer cell for varying gate voltages in Fig. 8b where we observed peak SION of 9   108                                                                    ×                                   at VG = 1.35 V for Nc = +1   1012 cm−2 and SION of 0.65   109 at VG = 1.4 V for Nc = -1   1012 cm−2.                               ×               ×                ×
+                                                           ION(Cancer cell)                                                      SION =                                                              (2)                                                                  ION(Air)
+                                                                                             cell)                                               SSS = |SS(Cancer    −SS(Air)|                                    (3)                                                                 SS(Air)
+
+                       Modeling hysteresis in damaged biosensors
+                              Researchers have mainly focused on the steady-state analysis of fresh (trap-free) biosensor devices, but their
+                                     reliability and stability analysis for industrial applications are equally important. Silicon forms the best interface
+                             with its native oxide, SiO2, resulting in small defect density, typically Pb centers48,49. However, to the best of our
+                            knowledge, little theoretical research has explored the impact of transient trap dynamics at the semiconductor-
+                             oxide interfaces of biosensor devices, that leads to charge trapping and detrapping during a gate bias sweep,
+                             underscoring device performance in the process. This is attributed from the threshold voltage (Vth) drifts during
+                              the forward/reverse sweep of the ID(VG), leading to hysteresis width (HW)19,50–52:
+
+                                                                                                                                               (4)                            HW = |Vth(for) −Vth(rev)| = qftNitCnet
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  7www.nature.com/scientificreports/
+
+
+                          where q is the elemental charge constant, and Nit is the equivalent trap density which is a function of the trap
+                                                                    1      1     1     1                             occupation probability (ft) and the net capacitance    =   +   +   + . . .    . We have accounted
+                                                                          Cnet   Cox   Cch    Cit                                 for 20 equidistant trap sites inside the oxide for 0.5 nm( with Nit = 5   1012 cm−2 and a deep)  acceptor trap level                                                  ×                            (Et) of 0.6 eV relative to the channel (Si) CBM53. The carrier capture cross-sections (SIGN and SIGP) are set to
+                         1   10−15 cm2 each for charge state exchange. Time-dependent charge trapping and detrapping is a function of                 ×                              the VG sweep rates as calculated from38:
+                                            SR = VGmax −VGmin                                            (5)
+                                                                             tsw × VG,step
+                          where VGmax and VGmin are the final and initial VG respectively, VG,step is the step voltage, and tsw is the time
+                           span for one forward/reverse sweep. Inspired by these Fig. 9a shows the HW in the ID(VG) forward/reverse
+                          sweep at a SR= 0.01 V/s. We perform these simulations by taking into consideration T47D diseased cell owing
+                                to it’s superior electrostatic performance so far. The magnified view shows the exact method of HW extraction
+                              considering a current criterion (Icrit = 10−9A). Traps contribute to HW only if it captures (ct) a carrier at
+                         VGmax; faster than tsw but is too slow to emit (et) before reaching VGmin; slower than tsw23. The forward/reverse
+                          sweep results in a triangular waveform over time as shown in Fig. 9b. The Si-SiO2 interface traps are shown in
+                              the energy band diagram along the vertical cutline of the top gate (TG) and back gate (BG) stack in Fig. 9c.
+                            These acceptor traps (-/0) which are negatively charged when occupied with electrons and neutral when empty.
+                              Defects exchange charge with the Si CBM via elastic tunneling22. Traps are populated with electrons due to the
+                                 positive change in the flat-band voltage (VG > 0 V) as the Fermi level (EF) moves close to the silicon CBM49,54.
+                          The phenomenon of charge trapping and detrapping at Si-SiO2 interface is schematically shown in Fig. 9d. The
+                          pronounced band bending along with the change in the channel surface potential during the up sweep populates
+                                 interface traps with the electrons from the channel CBM. However, during the down sweep some electrons
+                           remain trapped while the others depopulate depending on the trap time constants, which shifts the threshold
+                                voltage in the ID(VG) giving rise to HW. Having established this phenomenon in the simulation framework, we
+                                 investigate HW behavior by comparing the T47D diseased cell with the MCF-10A healthy cell.
+
+
+
+
+
+                (a)                                                        (b)
+
+
+
+                                                                                                                             EF
+
+
+
+                 (c)                                       (d)
+
+                            Figure 9.  (a) ID(VG) profile with transient trapping showing HW (b) triangular waveform of the VG signal
+                             over forward/reverse sweep (c) energy band diagram along the gate stack highlighting the interface traps at
+                                flat-band voltage (d) schematic of energy bands showing electron trapping and detrapping during up and
+                       down sweeps at Si-SiO2 interface and Nc = 0.
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  8www.nature.com/scientificreports/
+
+
+                               Furthermore, we investigated the theoretical origin of hysteresis by simulating forward/reverse sweeping (1)
+                               in the presence of diseased cancer cell (T47D) with fixed charges of Nc = +1   1012 cm−2 and Nit = 0 , (2)                                                        ×                               in the presence of neutral biomolecule (Nc = 0) with Nit = 1   1012 cm−2. As shown from Fig. 10, positively                                               ×                            charged T47D cell do not result in observable HW as compared to neutral T47D with switching traps at the Si-
+                           SiO2 interface which results in HW ≈ 33 mV. This typically occurs because et associated with the fixed charges                                are bias independent at smaller gate voltages unlike the switching traps as explored experimentally55 which
+                         means that these charges, once captured during the forward sweep, are unable to discharge during the reverse
+                          sweep resulting in a constant threshold voltage shift and independent of SR.
+                                In practical biosensing, operation in electrolytes (e.g., PBS) with a functionalized surface (antibodies/
+                             aptamers) introduces an electric double layer (EDL) and biolayer capacitances in series with the gate stack,
+                               together with fixed and mobile charges at the oxide–electrolyte interface56,57. In a compact view, these
+                               contributions effectively modify the net capacitance,
+                                              1        1     1     1     1      1                                =    +   +   +   +    +         ,                                                 Cnet      Cox   Cch    Cit   Cbio   CEDL     · · ·                                 (   )  (                           )
+                         and reshape the surface-potential coupling ψs(VG). Debye charged biomolecules depending on the Debye
+                              length λD, which shifts Vth and can alter the apparent hysteresis width (HW) through a changed occupation
+                                of switching traps. Furthermore, mobile ions may introduce additional slow interfacial charge components,
+                                   effectively adding time constants that can blur or superpose with trap-induced dispersive dynamics. The present
+                         work excludes explicit EDL/biolayer transport and focuses on intrinsic reliability (trap-induced hysteresis) in a
+                                  solid-state framework. TCAD realizations of liquid operation typically solve Poisson–Boltzmann by activating the
+                       Gouy–Chapman model58 in the electrolyte region and require calibration of ionic properties, reference electrode
+                          boundary conditions, and biolayer charge/capacitance. The present reliability methodology is, however, directly
+                               extendable: in future work we will incorporate Cbio, CEDL, and screened charged biomolecules to co-model
+                                     sensitivity, hysteresis, and stability under liquid operation.
+                                 Figure 11a shows HW dependence on SR in the ID(VG) profile. HW is 10.2 mV for a fast SR (1 V/s) and
+                               32.8 mV for a slower SR (0.01 V/s). Slower SR allow for charge transitions at longer timescales with the Si CBM,
+                               increasing the HW. In contrast, faster SR (1 V/s) cause rapid band bending without significant HW. Since, HW
+                                        is a function of ft, Fig. 11b shows the variation of the acceptor ft versus VG at the source-channel tunneling
+                                junction. For diseased cell, T47D filled cavity, a single trap starts occupying from VG ≈ 0.4 V whereas healthy                                      cell in the cavity causes minimal charge exchange which is evident in the red curve where the trap occupation
+                             only begins at VG ≈ 1.3 V. The occupation probability of a trap is determined by the Fermi-Dirac statistics and                              the capture-emission time constant dynamics20,22:
+
+                                                                       ft =                                                               (6)                                                                        τ   |Φ(x)|2∆d                                                             (tsw )
+                             Here, τ represents the time constants of the defects (inverse of the transition rates, k), Φ(x) is the wavefunction
+                                of the charge states, and ∆d is the trap distance within the oxide. For cancer cells with higher κ values like
+                          T47D, λW reduces, and the vertical electric field aids improving the tunneling rate, meaning greater carrier
+                                injection from source to channel. This enhances the probability of trap occupation at the source-channel
+
+
+
+
+
+                            Figure 10.  ID(VG) profile for fixed positive charge associated with T47D cancer cell (black curve) showing
+               HW ≈ 0 V while the sensor when operated in the presence of neutral cancer cell T47D and transient                               (switching) traps result in HW = 33 mV (blue curve) clearly showing that transient traps are suitable for
+                           modeling HW in FETs.
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                  9www.nature.com/scientificreports/
+
+
+
+
+
+                       (a)                                  (b)
+
+
+
+
+
+                        (c)                                  (d)
+
+                            Figure 11.  (a) ID(VG) profile with different SR influencing HW for T47D diseased cell (b) acceptor trap
+                             occupation probability (ft) as a function of gate voltage (VG) for diseased and healthy cell during a forward
+                          sweep at room temperature. (c) HW as a function of SR and (d) temperature for diseased and healthy cells for
+                      Nc = 0.
+
+
+
+                             SR [V/s] HW (Healthy cell) [mV] HW (Diseased cell) [mV]
+                                        0.01       2.0                        32.8
+                                           0.1        1.0                        16.3
+                                   1          0.9                        10.2
+
+                            Table 5.  Impact of SR on HW for healthy and diseased cells.
+
+
+                                junction, increasing HW. T47D (κ = 32) exhibits greater ft than MCF-10A (κ = 4.5), leading to increased
+               HW for T47D, as shown across SR in Fig. 11c and Table 5. This demonstrates that fast SR reduce HW, improving
+                              device stability. Additionally, HW dependence on temperature is shown in Fig. 11d at a 0.01 V/s SR, where HW
+                                increases at higher temperatures (T = 400 K), explained by the time constants54:
+
+                                                           Ea
+                                                                    τ ∝exp  kBT                                                 (7)                                                    (   )
+                             Here, Ea is the activation energy. Therefore at higher temperatures, the time constants reduces and the thermal
+                                 velocity increases (vth  √ T ) increasing ft in equation (6), thereby increasing HW. This is summarized under                           ∝                              Table 6. As a side note, κ of the cells might vary for different temperatures, however, for simplicity, we consider
+                           uniform κ values.
+                               Furthermore, we also compared the impact of interface trap dynamics at the InAs-Si tunneling hetero
+                              junction (owing to their   11 % lattice mismatch) and the Si-SiO2 interface in Fig. 12. Based on25, we modeled                            ≈                              the InAs-Si interface traps with a uniform distribution along the Eg and Nit = 1   1013 cm−2. The crystalline-                                                        ×                                  crystalline interface at InAs-Si results in shorter time constants as compared to the longer time constants
+                               associated with the amorphous-crystalline interface at Si-SiO219,54. Therefore, the observed HW for InAs-Si
+                                        is smaller compared to the Si-SiO2 interface across wide sweep rates implying their VG insensitivity therefore
+                                 resulting in less electrostatic degradation.
+                           As a side note, beyond transient hysteresis and trap-assisted degradation, long-term reliability concerns such
+                                as bias temperature instability (BTI), hot-carrier effects (HCEs), and device aging can further impact the stability
+                                of TFET-based biosensors under repeated operation. These effects promote defect generation and mobility
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 10www.nature.com/scientificreports/
+
+
+
+                                   Temperature [K] HW (Healthy cell) [mV] HW (Diseased cell) [mV]
+                                   300                 2.0                        32.8
+                                   350                 5.0                        35.1
+                                   400                 9.0                        40.2
+
+                            Table 6.  Impact of temperature on HW for healthy and diseased cells for fixed SR.
+
+
+
+                                                                                            Crystalline
+                                                                          Crystalline              C.B
+                                                  InAs          Si
+                                                                                          V.B
+
+                                                              Traps
+                                                      Amorphous
+                                                                                            Crystalline
+                                                                                        C.B
+                                               SiO2         Si
+                                                                                          V.B
+
+
+
+                            Figure 12.  HW as a function of SR from traps at InAs-Si and Si-SiO2 interfaces for T47D diseased cell with
+                              the following schematic of energy bands highlighting the impact of material properties on HW. The faster time
+                               constants distribution of the crystalline-crystalline interface results in smaller hysteresis when compared to the
+                              amorphous-crystalline interface for Nc = 0.
+
+
+                             degradation near the tunneling junction and oxide interfaces, progressively altering sensor subthreshold
+                             behavior and sensitivity26,59–62.
+
+                            Sensitivity for a damaged biosensor
+                             Traps at the semiconductor/oxide interface can damage device electrostatics, as discussed in the previous sub-
+                                 section. These traps introduce recombination centers within the electronic band gap of the channel, degrading µ
+                         and ION, which in turn reduces SION. In this section, we study these effects on biosensing. Since we implement
+                             a fixed Nit in the simulation framework, changes in SS have negligible impact. Figure 13a shows the degradation
+                                of ION in the damaged device compared to the fresh device, with observable degradation across different cancer
+                                     cells linked to the cavity which is mainly attributed to the traps with varying time constants at the Si-SiO2
+                                 interface reducing the net available electrons in the channel when compared to a trap-free device. The following
+                        SION  is calculated and shown in Fig. 13b and Table 7. SION degrades for damaged devices. Based on our
+                                 calculations, SION inaccuracy percentage from the following relative ratio:
+
+                                                                       Sdamaged                                                                       ION    −Sfresh                                                                                 ION    100                            (8)                                             SION inaccuracy (%) =                                                                                            Sfresh    ×                                                                            ION
+
+                          where SdamagedION    and SfreshION  represents the drain current sensitivities for damaged and fresh biosensors and
+                        shown in Fig. 14. The detection inaccuracy improves for diseased cells (towards T47D cancer cell), however, the
+                              biosensor device nearly fails to sense healthy cells (MCF-10A) with ≈ 97% inaccuracy. This can be detrimental in                                  real scenario emphasizing the critical role of charge trapping in the reliability and stability of FET-based sensors.
+                              This highlights the need to consider both reliability and sensitivity in biosensor evaluation. Table 8 compares
+                              the simulated biosensor with the literature for the detection of T47D cancer cell at room temperature, the drain
+                              current sensitivity (SION) performances, and the hysteresis width (HW). Unlike previous studies which focused
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 11www.nature.com/scientificreports/
+
+
+
+
+
+                            Figure 13.  (a) Saturation drain current variation. (b) Drain current sensitivity with the cancer cells dielectric
+                              constant (κ) for damaged and fresh devices at fixed VG for Nc = 0.
+
+
+
+                                  Cancer cells                 fresh device  damaged device
+                             MCF-10A (κ = 4.5)       3.42   105  1.36   104                                   ×      ×
+                                  HS578t (κ = 22)         4.01   108  1.56   108                                   ×      ×
+                             MDA-MB-231 (κ = 24.5)  4.98   108  2.0   108                                   ×     ×
+                             MCF-7 (κ = 27.5)        6.13   108  2.6   108                                   ×     ×
+                             T47D (κ = 32)           7.77   108  3.9   108                                   ×     ×
+
+                            Table 7.  Drain current sensitivity at fixed VG for fresh and damaged devices.
+
+
+
+
+
+                            Figure 14.  Percentage inaccuracy of drain current sensitivities for damaged and fresh biosensors at room
+                              temperature. The detection inaccuracy highlights the crucial need for considering reliability measurements
+                              before tape out.
+
+
+                                  solely on sensitivity, this work addresses both reliability and long-term stability, making it a compact bio sensing
+                                 study.
+
+                            Selectivity for a damaged biosensor
+                                  Selectivity plays a crucial role in benchmarking a biosensor to sense a target biomolecule effectively within an
+                           environment of other biomolecules. Figure 15 shows the selectivity of the T47D cancer cell for the damaged and
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 12www.nature.com/scientificreports/
+
+
+
+                                           Sl no.  FET-based biosensors           SION    HW [mV]
+                                   1         63, peak VG = 0.45 V                  1.1   107      -                                            ×
+                                   2         14, peak VG = 0.60 V                 2.88   109    -                                             ×
+                                   3         64, peak VG = 0.70 V                  3.5   109      -                                            ×
+                                   4         65, fixed VG = 1.5 V                  7.82   1010   -                                             ×
+                                   5         66, fixed VG = 3.0 V                   2.0   104      -                                            ×
+                                   6         46, fixed VG = 1.4 V                   2.3   109      -                                            ×
+                                   7         67, peak VG = 0.1 V, VD = 0.8 V        9   109      –                                           ×
+                                   8         67, peak VG = 0.1 V, VD = 1.2 V        8   1010     –                                           ×
+                                   9         68, fixed VG = -1.25 V                 2.3   108    –                                            ×
+                                   10    Our (fresh) sensor, peak VG = 1.05 V    1.11   109   –                                             ×
+                                   11    Our (fresh) sensor, fixed VG = 1.5 V     7.77   108   –                                             ×
+                                   12    Our (damaged) sensor, fixed VG = 1.5 V  3.9   108     10.2 (SR = 1 V/s)                                            ×
+
+                            Table 8.  Performance comparison of H-OE-DG-TFET biosensor with existing breast cancer sensors detecting
+                      T47D cancer cell at 300 K.
+
+
+
+
+
+                            Figure 15.  Selectivity of T47D target cancer cell for fresh and damaged devices in the presence of healthy cell
+                        (MCF-10A) and other cancer cells (HS578t, MDA-MB-231 and MCF-7) at fixed VG = 1.5 V for Nc = 0.
+
+
+                                fresh sensor device. The sensor selectivity is calculated using the relative ratio considering their saturation drain
+                              current (ION) at VG = 1.5 V69:
+
+                                                        Selectivity =                                                               ION(κ=32) −ION(κ=4.5,22,24.5&27.5)                             (9)
+                                                                          ION(κ=32)
+
+                          The calculated selectivity values reveal a notable difference between fresh and damaged biosensor devices, where
+                              the selectivity increases with the change of the dielectric constants of the cancer cells relative to the T47D target
+                             cancer cell. For both fresh and damaged devices, the selectivity is maximum (≈ 0.99) for MCF-10A healthy cells                           (κ = 4.5). This indicates a moderate discrimination capacity between the T47D cell (κ = 32) and other breast
+                                      cell lines. However, selectivity decreases for MCF-7 cancer cells (κ = 27.5) by 79% for fresh devices and only
+                     67% for damaged devices compared to healthy cells. This counterintuitive increase in selectivity for damaged
+                               devices can be explained by modifying the interfacial charge dynamics and dielectric screening. During
+                              degradation, the formation of interface traps or fixed charges alters the local electric field distribution within the
+                              sensing channel. However, it is important to note that this higher selectivity does not necessarily indicate better
+                              biosensing performance. The overall saturation drain current of the damaged device typically degrade, meaning
+                                 that although the relative difference between cells increases, the absolute signal levels decrease. In practical
+                               terms, the sensor becomes more selective but less sensitive, reflecting a trade-off between device degradation
+                         and dielectric contrast amplification.
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 13www.nature.com/scientificreports/
+
+
+                      Conclusion
+                              This work presents a simulation-based investigation of a heterostructure oxide-engineered double-gated TFET
+                              biosensor for breast cancer detection, emphasizing its modeled sensitivity, reliability, and stability characteristics.
+                       Our analysis reveals that higher dielectric constants of diseased cells lead to enhanced electrostatic coupling
+                         and increased drain current sensitivity, making the device highly suitable for distinguishing cancerous from
+                               healthy cells. Furthermore, the study of hysteresis effects and their dependence on SR and temperature provides
+                                     critical insights into the reliability of the biosensor under varying operational conditions, such as faster SR and
+                             lower temperatures, which reduce HW. This work introduces a novel sensitivity inaccuracy metric that quantifies
+                               nearly 97% loss of sensitivity in damaged biosensors. By integrating performance metrics with reliability
+                               assessments, this research provides predictive guidance for the design of reliable biosensors for early breast
+                             cancer detection, while recognizing that experimental validation is required to confirm practical applicability. The
+                              simulations clarify that fixed positive charges from cancer cells shift transfer curves but do not cause hysteresis,
+                             while switching traps at the Si–SiO2 interface do; the resulting HW scales strongly with sweep rate (10.2 mV
+                                   at 1 V/s versus 32.8 mV at 0.01 V/s) and with temperature (up to ∼40.2 mV at 400 K), and is consistently                                 larger than at the InAs–Si interface. Finally, we report how device degradation can alter selectivity among cell
+                                     lines, underscoring the need to co-report sensitivity, hysteresis, and the proposed inaccuracy metric in future
+                      TFET biosensing studies. All results originate from calibrated TCAD simulations, and no measurements on
+                                fabricated H-OE-DG-TFET biosensors or liquid-phase breast-cell assays are included. Operation in realistic
+                                  electrolyte environments with functionalized gate stacks is not modeled self-consistently here; effects such as
+                                   electric double-layer formation, biolayer capacitances, and interfacial charge dynamics under liquid conditions
+                                are only discussed conceptually. In addition, the trends in hysteresis and sensitivity rely on assumed trap energy
+                                 distributions, and biomolecule dielectric constants from literature, which may vary in fabricated devices. A
+                            key takeaway is that HW can be considered as a sensing metric that offers predictive insight to support future
+                             experimental validation.
+
+                    Data availability
+                                All data generated or analyzed during this study are included in this manuscript.
+
+                              Received: 2 July 2025; Accepted: 24 December 2025
+
+
+                      References
+                                             1. Bray, F. et al. Global cancer statistics 2018: Globocan estimates of incidence and mortality worldwide for 36 cancers in 185
+                                           countries. CA Cancer J. Clin.68(6), 394–424 (2018).
+                                             2. Skaane, P. et al. Randomized trial of screen-film versus full-field digital mammography with soft-copy reading in population-based
+                                        screening program: follow-up anstilld final results of Oslo II study. Radiology244(3), 708–717 (2007).
+                                             3. Carney, P. A. et al. Individual and combined effects of age, breast density, and hormone replacement therapy use on the accuracy
+                                           of screening mammography. Ann. Intern. Med.138(3), 168–175 (2003).
+                                             4. Lord, S. et al. A systematic review of the effectiveness of magnetic resonance imaging (MRI) as an addition to mammography and
+                                       ultrasound in screening young women at high risk of breast cancer. Eur. J. Cancer43(13), 1905–1917 (2007).
+                                             5. Al-Foheidi, M. et al. Breast cancer screening: review of benefits and harms, and recommendations for developing and low-income
+                                           countries. Med. Oncol.30, 1–15 (2013).
+                                             6. Ghosh, R. Performance investigation of dual trench split-control-gate MOSFET as hydrogen gas sensor: A catalytic metal gate
+                                       approach. IEEE Sensors Letters7(5), 1–4 (2023).
+                                             7. Park, J.-T. & Colinge, J.-P. Multiple-gate SOI MOSFETs: device design guidelines. IEEE Trans. Electron Devices49(12), 2222–2229
+                                          (2002).
+                                             8. Ghosh, R. et al. Sensitivity analysis of bi-metal stacked-gate-oxide hetero-juncture tunnel fet with Si0.6Ge0.4 source biosensor
+                                        considering non-ideal factors. PLoS ONE19(6), e0301479 (2024).
+                                             9. Shreya, S. et al. Core-shell junctionless nanotube tunnel field effect transistor: Design and sensitivity analysis for biosensing
+                                            application. IEEE Sens. J.20(2), 672–679 (2019).
+                                       10. Ghosh, R. et al. Investigation of gate-engineered heterostructure tunnel field effect transistor as a label-free biosensor: a compact
+                                            study. Appl. Phys. A129(2), 94 (2023).
+                                       11. Bhattacharyya, A. et al. Analysis of noise-immune dopingless heterojunction bio-TFET considering partial hybridization issue.
+                                  IEEE Trans. Nanotechnol.19, 769–777 (2020).
+                                       12. Im, H. et al. A dielectric-modulated field-effect transistor for biosensing. Nat. Nanotechnol.2(7), 430–434 (2007).
+                                       13. Hussein, M. et al. Breast cancer cells exhibits specific dielectric signature in vitro using the open-ended coaxial probe technique
+                                  from 200 MHz to 13.6 GHz. Sci. Rep.9(1), 4681 (2019).
+                                       14. Singh, S. et al. Dopingless negative capacitance ferroelectric TFET for breast cancer cells detection: Design and sensitivity analysis.
+                                  IEEE Trans. Ultrason. Ferroelectr. Freq. Control69(3), 1120–1129 (2021).
+                                       15. Azizi, M. et al. Anti-cancerous effect of albumin coated silver nanoparticles on MDA-MB 231 human breast cancer cell line. Sci.
+                                           Rep.7(1), 5178 (2017).
+                                       16. Venugopal, K. et al. Synthesis of silver nanoparticles (Ag NPs) for anticancer activities (MCF 7 breast and A549 lung cell lines) of
+                                        the crude extract of syzygium aromaticum. J. Photochem. Photobiol., B167, 282–289 (2017).
+                                       17. Dwivedi, P. et al. Dielectric modulated biosensor architecture: Tunneling or accumulation based transistor?. IEEE Sens. J.18(8),
+                                   3228–3235 (2018).
+                                       18. Yadav, S. et al. A dielectric modulated biosensor for SARS-CoV-2. IEEE Sens. J.21(13), 14483–14490 (2020).
+                                       19. Ghosh, R. et al. Theoretical insights into the impact of border and interface traps on hysteresis in monolayer MoS2 FETs.
+                                           Microelectron. Eng.299, 112333 (2025).
+                                       20. Kumar, P. et al. Assessment of interface trapped charge induced threshold voltage hysteresis effect in gate-all-around TFET. Micro
+                                  and Nanostructures175, 207502 (2023).
+                                       21. Illarionov, Y. Y. et  al. Improved hysteresis and reliability of MoS2 transistors with high-quality CVD growth and Al2O3
+                                         encapsulation. IEEE Electron Device Lett.38(12), 1763–1766 (2017).
+                                       22. Heiman, F. et al. The effects of oxide traps on the MOS capacitance. IEEE Trans. Electron Devices12(4), 167–178 (1965).
+                                       23. Ghosh, R. et al. Modeling the impact of interface and border traps on hysteresis in encapsulated monolayer MoS2 based double
+                                        gated FETs. In in 2024 Austrochip Workshop on Microelectronics (Austrochip) 1–4 (IEEE, 2024).
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 14www.nature.com/scientificreports/
+
+
+                                       24. Illarionov, Y. Y. et al. The role of charge trapping in MoS2/SiO2 and MoS2/hBN field-effect transistors. 2D Materials3(3), 035004
+                                          (2016).
+                                       25. Sant, S. et al. Lateral InAs/Si P-type tunnel FETs integrated on Si-Part 2: Simulation study of the impact of interface traps. IEEE
+                                          Trans. Electron Devices63(11), 4240–4247 (2016).
+                                       26. Das, A. et al. Numerical simulation of dielectric modulated cylindrical schottky nanowire FETs for enhanced analog performance.
+                               ECS Journal of Solid State Science and Technology14(5), 053006 (2025).
+                                       27. Das, A. et al. Analytical characterization of a label free Si/InAs hetero-interfaced cylindrical BioFETD for biosensing applications.
+                                     Micro and Nanostructures204, 208152 (2025).
+                                       28. Yadav, S. et al. Dielectrically-modulated ganfet biosensor for label-free detection of DNA and avian influenza virus: proposal and
+                                      modeling. ECS Journal of Solid State Science and Technology13(4), 047001 (2024).
+                                       29. Yadav, S. et al. Nanoscale trench gate engineered jam gate-all-around (TGE-JAM-GAA) label-free BioFET for charged/neutral
+                                       biomolecules detection. IETE J. Res.70(11), 8263–8277 (2024).
+                                       30. Das, A. et al. Numerical modeling of a dielectric modulated surrounding-triple-gate germanium-source MOSFET (DM-STGGS-
+                                 MOSFET)-based biosensor. J. Comput. Electron.22(2), 742–759 (2023).
+                                       31. Das, A. et al. Ge/Si interfaced label free nanowire BIOFET for biomolecules detection-analytical analysis. Microelectron. J.138,
+                                   105832 (2023).
+                                       32. Tomioka, K. et al. Control of InAs nanowire growth directions on Si. Nano Lett.8(10), 3475–3480 (2008).
+                                       33. Mikhailova, M. P. Indium arsenide (InAs). Handbook series on semiconductor parameters1, 147 (1996).
+                                       34. Anam, A. et al. Design and performance analysis of tunnel field effect transistor with buried strained Si 1–x Ge x source structure
+                                     based biosensor for sensitivity enhancement. IEEE Sens. J.20(22), 13178–13185 (2020).
+                                       35. Raut, P. et al. Analysis of dual material gate insb/si heterojunction silicon on insulator tunnel field effect transistor (DMG-HJ-SOI-
+                                TFET) biosensor for CREB-2 protein detection. Sensing and Imaging26(1), 1–21 (2025).
+                                       36. Ghosh, R. et al. MoS2 based dual gate MOSFET as ultra-sensitive SARs-CoV-2 biosensor for rapid screening of respiratory
+                                    syndrome. IEEE Sens. Lett. (2023).
+                                       37. Ghosh, R. et al. Study and analysis of the effects of trap assisted tunneling on the sensing performance of InAs/Si hetero juncture
+                                                   tfet based biosensor. Phys. Scr.99(9), 095008 (2024).
+                                       38. Silvaco, I. Atlas users manual Vol. 5 (Santa Clara, CA, Ver, 2011).
+                                       39. Han, J.-P. et al. Asymmetric energy distribution of interface traps in N-and P-MOSFETs with HfO2 gate dielectric on ultrathin sion
+                                           buffer layer. IEEE Electron Device Lett.25(3), 126–128 (2004).
+                                       40. Moselund, K. E. et al. Lateral InAs/Si P-type tunnel FETs integrated on Si-part 1: experimental devices. IEEE Trans. Electron
+                                         Dev.63(11), 4233–4239 (2016).
+                                       41. Gedam, A. et al. Design of a double cavity nanotube tunnel field-effect transistor-based biosenser. ECS  J. Solid State Sci.
+                                          Technol.11(8), 081012 (2022).
+                                       42. Ghosh, S. et al. Optimization of hetero-gate-dielectric tunnel FET for label-free detection and identification of biomolecules. IEEE
+                                          Trans. Electron Devices67(5), 2157–2164 (2020).
+                                       43. Ghosh, R. et al. Design and investigation of InAs source dual metal stacked gate-oxide heterostructure tunnel FET based label-free
+                                          biosensor. Micro and Nanostructures174, 207444 (2023).
+                                       44. Mukherjee, N. et al. InAs/Si based heterojunction TFET as improved in-situ breast cancer biomarker (C-erbB-2) detector, in 2025
+                                        Devices for Integrated Circuit (DevIC) 731–736 (IEEE, 2025).
+                                       45. Chang, H.-Y. et al. Improved subthreshold and output characteristics of source-pocket Si tunnel FET by the application of laser
+                                         annealing. IEEE Trans. Electron Devices60(1), 92–96 (2012).
+                                       46. Bitra, J. et al. A comprehensive performance investigation on junction-less tfet (JL-TFET) based biosensor: Device structure and
+                                                 sensitivity. Trans. Electr. Electron. Mater.24(5), 365–372 (2023).
+                                       47. Wangkheirakpam, V. D. et al. N+ pocket doped vertical TFET based dielectric-modulated biosensor considering non-ideal
+                                         hybridization issue: A simulation study. IEEE Trans. Nanotechnol.19, 156–162 (2020).
+                                       48. Deuling, H. et al. Interface states in Si-SiO2 interfaces. Solid-State Electron.15(5), 559–571 (1972).
+                                       49. Grasser, T. Stochastic charge trapping in oxides: From random telegraph noise to bias temperature instabilities. Microelectron.
+                                            Reliab.52(1), 39–70 (2012).
+                                       50. Sattari-Esfahlan, S. M. et al. Stability and reliability of van der waals high-κ SrTiO3 field-effect transistors with small hysteresis.
+                             ACS Nano19(12), 12288–12297 (2025).
+                                       51. Neves, F. S. et al. Study of hysteresis in vertical ge-source heterojunction tunnel-FETs at low temperature. ECS Trans.66(5), 179
+                                          (2015).
+                                       52. Ahn, D.-H. et al. Energy-efficient III-V tunnel FET-based synaptic device with enhanced charge trapping ability utilizing both
+                                      hot hole and hot electron injections for analog neuromorphic computing. ACS applied materials & interfaces14(21), 24592–24601
+                                          (2022).
+                                       53. Thoan, N. et al. Interface state energy distribution and Pb defects at Si (110)/SiO2 interfaces: Comparison to (111) and (100)
+                                             silicon orientations, Journal of Applied Physics, vol. 109(1) (2011).
+                                       54. Grasser, T. The capture/emission time map approach to the bias temperature instability. In Bias temperature instability for devices
+                                  and circuits 447–481 (Springer, 2013).
+                                       55. Rzepa, G. Efficient physical modeling of bias temperature instability. PhD thesis, Technische Universität Wien (2018).
+                                       56. Wu, C.-R. et al. Demonstration of the enhancement of gate bias and ionic strength in electric-double-layer field-effect-transistor
+                                          biosensors. Sens. Actuators, B Chem.334, 129567 (2021).
+                                       57. Kalra, S. et al. Reconfigurable FET biosensor for a wide detection range and electrostatically tunable sensing response. IEEE Sens.
+                                               J.20(5), 2261–2269 (2019).
+                                       58. Oldham, K. B. A gouy-chapman-stern model of the double layer at a (metal)/(ionic liquid) interface. J. Electroanal. Chem.613(2),
+                                   131–138 (2008).
+                                       59. Das, A. et al. Physics based numerical model of a nanoscale dielectric modulated step graded germanium source biotube FET
+                                          sensor: modelling and simulation. Phys. Scr.98(11), 115013 (2023).
+                                       60. Bhardwaj, A. et al. Reliability analysis of dopingless vertical nanowire TFET with interface trap charges for ring-oscillator circuit
+                                       implementation. Microelectron. Reliab.172, 115840 (2025).
+                                       61. Bhardwaj, A. et al. Study of oxide material variation on electrical characteristics and linearity parameters induced in vertical
+                                    nanowire TFET. Semiconductors59(5), 474–482 (2025).
+                                       62. Bhardwaj, A. et al. Temperature induced analog performance modulation of high-vertical nanowire tunnel FET. Semiconductors59(4),
+                                   382–390 (2025).
+                                       63. Kaushal, P. et al. Breast cancer detection using Si-doped MoS2 channel based thickness engineered TFET biosensor, IEEE Sensors
+                                             Letters (2024).
+                                       64. Karmakar, P. et al. Performance assessment of a modified gate oxide TFET as a biosensor for breast cancer cell detection, Microsyst.
+                                          Technol. 1–14 (2025).
+                                       65. Bind, M. K. et al. Design and investigation of the DM-PC-TFET-based biosensor for breast cancer cell detection. Trans. Electr.
+                                            Electron. Mater.24(5), 381–395 (2023).
+                                       66. Thakur, V. et al. Breast cancer detection using T-gated reconfigurable field effect transistor-based biosensor, in 2025 Devices for
+                                           Integrated Circuit (DevIC) 358–362 (IEEE, 2025).
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 15www.nature.com/scientificreports/
+
+
+                                       67. Bhattacharyya, A. et al. Breast cancer cell lines recognition: Modeling and simulation with repulsive steric hindrance approach.
+                                  IEEE Trans. Consumer Electron. (2024).
+                                       68. Bhattacharyya, A. et al. Reliability aspects in repulsive steric hindrance approach: Selectivity and sensitivity investigations. Micro
+                                        Nanostruct.191, 207828 (2024).
+                                       69. Swati, et al. Performance investigation of an InAs-based dielectric-modulated heterojunction TFET as a label-free biosensor. Appl.
+                                          Phys. A129(5), 365 (2023).
+
+                     Author contributions
+                              Conceptualization, Methodology, Software, Data curation and Writing-Original draft preparation are done by
+                                  Rittik Ghosh; Visualization, Investigation, Supervision, Software, Validation, Writing-Reviewing and Editing are
+                               carried out by Priyanka Saha.
+
+                       Declarations
+
+                    Competing interests
+                          The authors declare no competing interests.
+
+                       Additional information
+                          Correspondence and requests for materials should be addressed to R.G.
+                            Reprints and permissions information is available at www.nature.com/reprints.
+                               Publisher’s note  Springer Nature remains neutral with regard to jurisdictional claims in published maps and
+                                  institutional affiliations.
+                      Open Access  This article is licensed under a Creative Commons Attribution 4.0 International License, which
+                             permits use, sharing, adaptation, distribution and reproduction in any medium or format, as long as you give
+                              appropriate credit to the original author(s) and the source, provide a link to the Creative Commons licence, and
+                                indicate if changes were made. The images or other third party material in this article are included in the article’s
+                               Creative Commons licence, unless indicated otherwise in a credit line to the material. If material is not included
+                               in the article’s Creative Commons licence and your intended use is not permitted by statutory regulation or
+                             exceeds the permitted use, you will need to obtain permission directly from the copyright holder. To view a copy
+                                of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+
+                  © The Author(s) 2026
+
+
+
+
+
+Scientific Reports |    (2026) 16:3970                                | https://doi.org/10.1038/s41598-025-34105-0                                 16

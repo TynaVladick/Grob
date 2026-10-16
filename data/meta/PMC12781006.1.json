@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC12781006",
+  "version": 1,
+  "pmid": 41524040,
+  "doi": "10.31083/RCM44688",
+  "mid": null,
+  "title": "Metabolic Remodeling and Mitochondrial Stress in Atrial Fibrillation: Mechanisms and Translational Targets",
+  "citation": "Rev Cardiovasc Med. 2025 Dec 18;26(12):44688. doi: 10.31083/RCM44688",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC12781006.1/PMC12781006.1.txt?md5=dd8ad4ffa328d9af70ef3e7de63fcaee",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12781006.1/PMC12781006.1.pdf?md5=59b35e8275f910cde58268b34a16d743",
+  "xml_url": "s3://pmc-oa-opendata/PMC12781006.1/PMC12781006.1.xml?md5=ad0c9d60a6a6c7af3ac42227d25d95fa",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12781006.1/2153-8174-26-12-44688-g1.jpg?md5=c6d845679590512781435ae9652d769f",
+    "s3://pmc-oa-opendata/PMC12781006.1/2153-8174-26-12-44688-g2.jpg?md5=c031ec299e57c85a6a4096cfcdd4c0ac"
+  ]
+}

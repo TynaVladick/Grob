@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC13491424",
+  "version": 1,
+  "pmid": 42638703,
+  "doi": "10.3389/ftubr.2025.1615486",
+  "mid": null,
+  "title": "Trends and impact of government prevention policies on pulmonary tuberculosis notification and mortality in Ningbo, China (2004–2021)",
+  "citation": "Front Tuberc. 2025 Jun 20;3:1615486. doi: 10.3389/ftubr.2025.1615486",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC13491424.1/PMC13491424.1.xml?md5=653dc8c866255d398693faa3f5646fd1",
+  "text_url": "s3://pmc-oa-opendata/PMC13491424.1/PMC13491424.1.txt?md5=e467bf96704186de00f3caa6cb171498",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13491424.1/PMC13491424.1.pdf?md5=f56ef0223893039b4b3d4f6fd561c08a",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13491424.1/ftubr-03-1615486-g0001.webp?md5=f14375b726c0dfa0adc2b56c4ed97958",
+    "s3://pmc-oa-opendata/PMC13491424.1/ftubr-03-1615486-g0002.webp?md5=fdf44e1b2a8e98243fd857804f2bf707"
+  ]
+}

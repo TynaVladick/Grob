@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12855817",
+  "version": 1,
+  "pmid": 41457105,
+  "doi": "10.1038/s41698-025-01249-1",
+  "mid": null,
+  "title": "Venetoclax resistance in preclinical KMT2A-rearranged acute lymphoblastic leukemia models is characterized by high inter- and intra-model heterogeneity",
+  "citation": "NPJ Precis Oncol. 2025 Dec 29;10:47. doi: 10.1038/s41698-025-01249-1",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12855817.1/PMC12855817.1.pdf?md5=d970268a2a2c927833c054a23e820a76",
+  "xml_url": "s3://pmc-oa-opendata/PMC12855817.1/PMC12855817.1.xml?md5=bc97eb4d7372b8785a7020973013fefc",
+  "text_url": "s3://pmc-oa-opendata/PMC12855817.1/PMC12855817.1.txt?md5=b75e1c4769fedde99220ff66912ab0c3",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_Fig1_HTML.jpg?md5=772085ac50eceaf8f529fe6e6f8e1856",
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_Fig2_HTML.jpg?md5=8bf22bbddc34c9d51462959285808091",
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_Fig3_HTML.jpg?md5=2a4a97ab9d4db7827ff691ae1318b4cf",
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_Fig4_HTML.jpg?md5=a94c491ecaecd892a928ee161a42d19f",
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_Fig5_HTML.jpg?md5=ff4c1dc34d54a7c6baa8910a071b4d30",
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_MOESM1_ESM.pdf?md5=22057de319e56f777ae42339c46f8f8a",
+    "s3://pmc-oa-opendata/PMC12855817.1/41698_2025_1249_Tab1_HTML.jpg?md5=9ecf71ed44145526911bcc0d4fbbf362"
+  ]
+}

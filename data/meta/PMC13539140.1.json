@@ -1,0 +1,29 @@
+{
+  "pmcid": "PMC13539140",
+  "version": 1,
+  "pmid": 41371401,
+  "doi": "10.1016/j.jare.2025.12.007",
+  "mid": null,
+  "title": "c-Myc-PANK3-EMT axis regulates the structure and function of intestinal barrier in ulcerative colitis",
+  "citation": "J Adv Res. 2025 Dec 8;87:931–46. doi: 10.1016/j.jare.2025.12.007",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC13539140.1/PMC13539140.1.xml?md5=a8568d7428026ffd67497ecf342a4353",
+  "text_url": "s3://pmc-oa-opendata/PMC13539140.1/PMC13539140.1.txt?md5=2e578b4215aa88004cf8cee0884a99d6",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13539140.1/PMC13539140.1.pdf?md5=5c8f66ae6d6106f0a563feb18b273906",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13539140.1/ga1.webp?md5=0b7df9f89ff5e2813bef9f601fad6a48",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr1.webp?md5=95092341d05fa958b8ae34155e2537ba",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr2.webp?md5=c79e5e9abc1d1d650d2746fb975d7d83",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr3.webp?md5=1ac0472b7b0bce8b15d87f2847f75687",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr4.webp?md5=35f99fc849227b41ff237e8706e459b8",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr5.webp?md5=cb9ec701b06c695d9d9bfe26fae6f4c3",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr6.webp?md5=f2a219439f88ae45694af4856c4904a3",
+    "s3://pmc-oa-opendata/PMC13539140.1/gr7.webp?md5=b5aa1264e0d5c96822a595a734e02a3e",
+    "s3://pmc-oa-opendata/PMC13539140.1/mmc1.docx?md5=fbf10bfadbaaa740af840f2c0464a0f6",
+    "s3://pmc-oa-opendata/PMC13539140.1/mmc2.xlsx?md5=7beb8f1d687e46682de2bfaf24a5a706"
+  ]
+}

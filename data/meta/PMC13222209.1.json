@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC13222209",
+  "version": 1,
+  "pmid": 39907930,
+  "doi": "10.1007/s10803-025-06741-y",
+  "mid": null,
+  "title": "Examining Virtual Reality Interventions for Social Skills in Children with Autism Spectrum Disorder: A Systematic Review",
+  "citation": "J Autism Dev Disord. 2025 Feb 5;56(6):2162–85. doi: 10.1007/s10803-025-06741-y",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC13222209.1/PMC13222209.1.txt?md5=9e9123b4f5d9a2b894bd16b88b8ac2b0",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13222209.1/PMC13222209.1.pdf?md5=8d43c092d6856035f8cb90224f498a6f",
+  "xml_url": "s3://pmc-oa-opendata/PMC13222209.1/PMC13222209.1.xml?md5=9b13de23c5aa1eec1c1f12ccc94b11a4",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13222209.1/10803_2025_6741_Fig1_HTML.jpg?md5=5a640f8eee79884f129307cd7ca65a3a",
+    "s3://pmc-oa-opendata/PMC13222209.1/10803_2025_6741_Fig2_HTML.jpg?md5=558d19a0890d2538e39dc30264178c91",
+    "s3://pmc-oa-opendata/PMC13222209.1/10803_2025_6741_Fig3_HTML.jpg?md5=0924f69de6dcee2814553c8c6d65fb74"
+  ]
+}

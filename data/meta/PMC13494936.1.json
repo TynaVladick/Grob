@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC13494936",
+  "version": 1,
+  "pmid": 42638630,
+  "doi": "10.3389/ftubr.2023.1243479",
+  "mid": null,
+  "title": "Understanding the bacillary load and host interaction to design a point-of-care test to diagnose tuberculosis",
+  "citation": "Front Tuberc. 2023 Aug 16;1:1243479. doi: 10.3389/ftubr.2023.1243479",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13494936.1/PMC13494936.1.pdf?md5=f566ebf4f11e567699352c5845b86de1",
+  "text_url": "s3://pmc-oa-opendata/PMC13494936.1/PMC13494936.1.txt?md5=950f3a3c538c6e779bbf18925ac439ac",
+  "xml_url": "s3://pmc-oa-opendata/PMC13494936.1/PMC13494936.1.xml?md5=984372426fcff65303d5d7e7ffab1c8f",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13494936.1/ftubr-01-1243479-g0001.webp?md5=294666693575582edb9f2353e7b2fd60",
+    "s3://pmc-oa-opendata/PMC13494936.1/ftubr-01-1243479-g0002.webp?md5=a0b196dcfc83faa38115bf2ffc0f3afe"
+  ]
+}

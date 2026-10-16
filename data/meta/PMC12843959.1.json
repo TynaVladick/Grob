@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC12843959",
+  "version": 1,
+  "pmid": 41597581,
+  "doi": "10.3390/microorganisms14010060",
+  "mid": null,
+  "title": "Prebiotic Treatment During Pregnancy Prevents Social Deficits Associated with Autism Spectrum Disorder-like Behavior Induced by Maternal Immune Activation",
+  "citation": "Microorganisms. 2025 Dec 26;14(1):60. doi: 10.3390/microorganisms14010060",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12843959.1/PMC12843959.1.pdf?md5=dfe864e0f0a0d98b597026b8b5222c8d",
+  "xml_url": "s3://pmc-oa-opendata/PMC12843959.1/PMC12843959.1.xml?md5=3766e82cbb68c3ba0cb3d1c17913045f",
+  "text_url": "s3://pmc-oa-opendata/PMC12843959.1/PMC12843959.1.txt?md5=84d6c256e9be7ed0a7111ef71c5de49d",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g001.jpg?md5=f4c56a39a7fccf0ec6816932d5c1483d",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g002.jpg?md5=e7fb75df47beb7b5d14c5622e7ea3519",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g003.jpg?md5=2a6a505ab511fe78cba45b48487d01be",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g004.jpg?md5=3192ac2aa2f561acf0631740cb9d9669",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g005.jpg?md5=a3246e9599b21cd580e6e77246d69642",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g006.jpg?md5=d89ad796ec6e5d3aadf81d0657fd0a24",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-g007.jpg?md5=aadd52a8e009e50c5de4738aacbfc200",
+    "s3://pmc-oa-opendata/PMC12843959.1/microorganisms-14-00060-s001.zip?md5=852c3c72791a08be103bfeebb9d2d668"
+  ]
+}

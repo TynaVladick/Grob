@@ -1,0 +1,613 @@
+Journal of Autism and Developmental Disorders (2026) 56:2136–2147
+https://doi.org/10.1007/s10803-025-06726-x
+
+ ORIGINAL ARTICLE
+
+
+What Predicts Early Math in Autism? A Study of Cognitive and
+Linguistic Factors
+
+Raúl Fernández-Cobos1     · Irene Polo-Blanco1 · Elena Castroviejo2 · Maria Juncal-Ruiz3,4 · Agustín Vicente2,5
+
+
+Accepted: 9 January 2025 / Published online: 31 January 2025
+© The Author(s) 2025
+
+Abstract
+This study aimed to examine early mathematical abilities in young children with autism aged four to seven without intel­
+lectual disabilities and their connection with autism severity, non-verbal intelligence, and linguistic abilities (receptive
+vocabulary and grammar). The study involved 42 children with autism. We assessed participants’ cognitive, mathematical,
+and linguistic abilities. Their mathematical performance was compared with that of typically developing children using
+standardized measures. Statistical analyses were conducted to identify potential cognitive or linguistic differences across
+groups based on mathematical performance, and to determine predictive factors for mathematical abilities in children with
+autism. The findings indicated a higher prevalence of mathematical difficulties among the participants compared to typi­
+cally developing children. A classification based on mathematical performance revealed statistically significant differences
+in cognitive and linguistic variables across groups, particularly in the low-performance group. However, no significant
+differences were found according to autism severity between the groups. The analysis further identified that a combination
+of visuo-spatial and linguistic abilities was the most predictive factor for mathematical performance. The study suggests
+that young children with autism without intellectual disabilities may be more likely to experience mathematical difficulties
+compared to typically developing children. Assessing cognitive and linguistic abilities could serve as a predictive measure
+for mathematical difficulties of children with autism, even without a formal diagnosis. Future research, with larger samples
+or longitudinal approaches, could validate these findings or explore which specific mathematical abilities are more related
+to non-verbal intelligence and which ones to structural language.
+
+Keywords  Autism · Language · Mathematics · Non-verbal intelligence
+
+
+                                                              Individuals with autism, contrary to common belief, usu­
+                                                                    ally face challenges rather than strengths in general math­
+    Raúl Fernández-Cobos                                       ematical skills (Dowker, 2020). It has been reported that
+    raul.fernandezcobos@unican.es                              approximately one-fourth of students diagnosed with autism
+   Maria Juncal-Ruiz                                       spectrum disorder (ASD) without intellectual disabilities
+    maria.juncal@scsalud.es                                     (ID) are expected to experience difficulties with mathemati­
+1                                                                 cal learning (Mayes & Calhoun, 2006). These difficulties    Department of Mathematics, Statistics and Computer                                                               are often attributed to various factors, including language    Science, Universidad de Cantabria, Avda. de los Castros 48,
+    Santander 39005, Spain                                   comprehension, phonological awareness, verbal and spa­
+2                                                                               tial working memory, long-term memory, and executive    Department of Linguistics and Basque Studies, Universidad
+    del País Vasco (UPV/EHU), Paseo de la Universidad 5,             functions (Dowker, 2020). While previous research has
+    Vitoria-Gasteiz 01006, Spain                                focused on assessing mathematical abilities in the popula­
+3   Department of Psychiatry (Child and Adolescent Mental             tion with autism (e.g., Kljajevic, 2023; Oswald et al., 2016;
+    Health Unit), Sierrallana Hospital, Torrelavega, Spain             Polo-Blanco et al., 2024; Tonizzi & Usai, 2024), there is
+4   Department of Medicine and Psychiatry, Instituto de                 relatively limited research on early mathematical abilities
+    Investigación Marqués de Valdecilla (IDIVAL), Universidad         in children with autism. On the other hand, the connection
+    de Cantabria, Avda. Cardenal Herrera Oria s/n,                 between non-verbal intelligence, language, and arithmetic
+    Santander 39011, Spain                                                          has been extensively explored both theoretically (Carey,
+5   Ikerbasque – Basque Foundation for Science, Bilbao, Spain
+
+1 3Journal of Autism and Developmental Disorders (2026) 56:2136–2147                                                             2137
+
+2009; Dehaene, 2011; Spelke, 2017) and experimentally    children with and without autism may not stem from varia­
+(Alt et al., 2014; Bialystok & Codd, 1997; Negen & Sar­    tions in foundational mathematical abilities. Similar results
+necka, 2012; Praet et al., 2013) in typical development, but   were reported by Titeca et al. (2015) when comparing 30
+not in atypical profiles such as autism.                        preschoolers with autism without ID and 30 age-matched
+                                                              children without autism in terms of the same  abilities.
+                                                       Moreover, the authors observed no significant correlations
+Early Mathematical Abilities                      between autism severity (measured by a social responsive­
+                                                           ness scale) and early numerical competencies.
+Early mathematical abilities serve as the foundation for       In contrast to Titeca and colleagues, Aagten-Murphy
+broader mathematical skills. Some early mathematical skills     et  al. (2015) found significant differences between chil­
+that have attracted the attention of researchers are: number    dren with and without autism (ages 8 to 13) in symbolic
+estimation, the cardinality principle (counting), subitizing,    and non-symbolic magnitude estimation, with individuals
+quantity comparison, and basic addition and subtraction    with autism performing worse. Non-symbolic estimation is
+(Ginsburg & Baroody, 2003). Number estimation involves    what we have referred above as “number estimation,” and
+discerning quantities following Webber’s law: small differ­    symbolic estimation involves locating numbers in a spatial
+ences in small quantities are easily discriminated, whereas    representation, such as a number line. While symbolic esti­
+discriminating  differences  in  larger  quantities  requires    mation correlated with mathematical performance in both
+larger differences. Understanding the cardinality principle,    groups, non-symbolic estimation did not. However, note
+or counting, entails recognizing that the final number in a     that in other studies with TD children (Anobile et al., 2013)
+counting sequence represents the quantity of objects in a    non-symbolic estimation appears as a predictor of subse­
+set. Subitizing refers to the ability to instantly recognize the    quent mathematical abilities.
+number of objects in a display without counting. Quantity       In a longitudinal study, Miller et al. (2017) assessed 26
+comparison involves determining which display has more    children with autism around ages 2, 4, and 10 to investigate
+or fewer objects, as well as identifying which number is    whether cognitive abilities, adaptive skills, and severity of
+larger or smaller, requiring mastering the comparative con­   ASD symptoms observed during preschool and school years
+struction in the corresponding languages. Simple addition    accounted for a significant amount of academic achievement
+and subtraction imply combining or removing small quanti­    variance in later years. Results showed weakness in math­
+ties; such as determining the total after adding or subtracting    ematics skills among children with autism, with early motor
+one, two or three objects.                                     functioning predicting later mathematical  abilities. Indi­
+                                                              viduals with more severe ASD symptoms tended to exhibit
+Early Mathematical Abilities in Children with Autism    lower academic abilities, particularly in reading, numerical
+                                                             operations (including counting and number identification),
+Research on the mathematical abilities of individuals with    and math reasoning (involving problem-solving). However,
+autism yields varied outcomes, depending on participants’    concurrent intelligence quotients (IQ) significantly influ­
+age (Aagten-Murphy  et  al., 2015; Fernández-Cobos &    enced academic achievement beyond adaptive skills and
+Polo-Blanco, 2024; Miller et al., 2017; Titeca et al., 2014,    severity of ASD symptoms.
+2015, 2017; Wei et al., 2015). Titeca et al. (2014) observed     More recently, Li et al. (2023) assessed magnitude rep­
+33 children with autism without ID from preschool to first    resentation precision using an approximate number com­
+grade, comparing them with 54 typically developing (TD)    parison task (dot comparison) in 70 preschool children with
+children. They found that during preschool years, early    autism and 117 TD children. Children with autism showed
+numeracy skills of the children with autism resembled those    lower numerical comparison accuracy, indicating weaker
+of TD peers, with verbal subitizing and counting predicting    magnitude representation, compared to  their TD peers.
+subsequent mathematical proficiency. Specifically, verbal    This difference in numerical comparison accuracy persisted
+subitizing was suggested to have a higher predictive value    even after accounting for various general cognitive abili­
+in children with autism compared to TD children. In a more     ties (working memory, inhibitory control, and non-verbal
+recent article, Titeca et al. (2017) compared the early math­    intelligence) and language abilities. In a similar vein, Wei
+ematical abilities of 20 children with autism (aged four and     et al. (2015) examined 130 children with ASD aged 6–9 and
+five) without ID to 20 TD controls. No significant group    categorized them into four profiles based on reading, math­
+differences were observed across five early mathemati­    ematical, cognitive, and social skills. Only 38.5% of the
+cal abilities (verbal subitizing, counting, magnitude com­    students demonstrated average achievement in mathemat­
+parison, estimation, and arithmetic operations), suggesting     ics (applied problems and calculation), while the remaining
+that later mathematical performance differences between    ones scored below expectations. In a study by Chen et al.
+
+                                                                1 32138                                                                        Journal of Autism and Developmental Disorders (2026) 56:2136–2147
+
+(2019) involving 114 male children with ASD without ID    a symbolic system and understood how symbols work, they
+aged 7–12, two academic achievement profiles were iden­    can begin to hypothesize what the number words are for.
+tified. While average achievement scores were within the   On the other hand, it is important to note that some studies
+normal range, one group (36.8% of the sample) exhibited    have found little support for the involvement of language in
+poorer mathematical skills compared to reading skills, while    early mathematical abilities, including mastering the cardi­
+the other group (63.2% of the sample) showed superior math    nality principle. Thus, Yang and Liang (2022) delved into
+skills compared to reading skills. In the same line, Fernán­    the understanding of cardinal number words in Mandarin
+dez-Cobos & Polo-Blanco (2024) compared the mathemati­    Chinese-speaking children aged two to five. The study also
+cal abilities of 17 children with autism without ID in first    assessed their general language proficiency, intelligence,
+to fourth grades and those of 17 TD students (matched by    approximate number system acuity, and knowledge of quan­
+age, grade, and classroom) using the Test of Early Math­     tifiers. The findings indicated that domain-specific numeri­
+ematical Abilities (TEMA-3; Ginsburg & Baroody, 2003).    cal skills appeared to play a more crucial role in children’s
+Participants with autism encountered more difficulties in    development of cardinal number words compared to the
+mathematics, both in formal and informal aspects, com­   more immediate domain-general abilities such as language
+pared to their peers. These differences became more pro­     skills and intelligence.
+nounced with age, though were present in earlier grades for      However, not all early mathematical abilities are sup­
+informal skills.                                          posed to relate to language (be it grammar or vocabulary)
+                                                                  in the same way. The focus of studies concerning language
+Early Arithmetic Abilities, Language, and Non-         and mathematics has been the cardinality principle, but lan­
+verbal Intelligence                                    guage is not supposed to predict approximate number esti­
+                                                       mation (Spelke, 2017). Thus, LeFevre et al. (2010) tested a
+Developmental psychologists (Carey, 2009; Spelke, 2017)   model to examine the relationships among early numeracy
+have argued for a role of language in arithmetic, particularly     skills, mathematical outcomes, and three distinct cogni­
+in the acquisition of the cardinality principle. In Carey’s     tive precursors: quantitative (including non-numerical and
+case, mastering quantifiers (one, some) and the singular/    numerical comparison and subitizing), linguistic, and spa­
+plural morphology of language helps children infer that     tial attention, for 182 children aged four to seven years. Lin­
+numbers name quantities (Carey, 2009; Negen & Sarnecka,    guistic abilities were assessed using receptive vocabulary
+2012; Ansari et al., 2003). According to others (Condry &    and phonological awareness measured by the Peabody Pic­
+Spelke, 2008; Spelke, 2017), the involvement of language    ture Vocabulary Test (PPVT-III; Dunn & Dunn, 1997) and
+runs somewhat deeper: children learn the cardinality prin­    Comprehensive Test of Phonological Processing (Wagner et
+ciple through understanding phrases containing numerals      al., 1999), respectively. Early numeracy measures included
+one, two, and three, and quantifiers, which provide them the   number naming and nonlinguistic arithmetic measures, the
+means to build a unitary system of natural number concepts     latter involving the representation and mental manipulation
+from a set of conceptual primitives delivered by core cogni­    of quantities without labeling them with symbols. The study
+tive systems (the analogical number system and the tracking    revealed that linguistic skills uniquely predicted variability
+system that allows humans and animals to track up to four    in number naming but not in nonlinguistic arithmetic. Spa­
+objects). In Spelke’s view, number concepts are intimately     tial attention emerged as a unique predictor of variability
+linked to number words, and how some of these number    in both early numeracy measures. Similarly, Zhang (2016)
+words behave in grammar.                                     investigated  the  connection between  language,  visual-
+  The evidence for some involvement of language in infer­     spatial skills, executive functions, and the early grasp of
+ring the cardinality principle is quite robust (see Praet et al.,    numerical concepts in 109 Chinese 3-year-old children. The
+2013; Spelke, 2017), although several studies minimize the    researchers found that vocabulary, letter knowledge, spatial
+role of language, finding relations only between vocabulary    perception, and executive skills each played a distinct role
+breadth (and not language as such) and early mathemat­    in number competence.
+ics (e.g., Ansari et al., 2003; Purpura et al., 2011; Purpura     The possible involvement of language in early mathemat­
+& Ganley, 2014, on William Syndrome children). Actu­     ical skills has also been investigated by testing children with
+ally, some researchers suggest that the main (and probably     linguistic difficulties (Alt et al., 2014; Ansari et al., 2003;
+sole) role of language concerning early mathematics is to    Desoete & Warreyn, 2020). For example, Alt et al. (2014)
+provide a symbolic system, regardless of its combinatorial    explored the relation between mathematics and language
+properties, highlighting the verbal nature of number words    in children (aged 6–9) with developmental language disor­
+but unrelating  it to other linguistic elements or features    der (DLD), compared to English language learners. While
+(e.g., Kolkman et al., 2013). Once children have acquired    mathematical  difficulties observed  in English language
+
+1 3Journal of Autism and Developmental Disorders (2026) 56:2136–2147                                                             2139
+
+learners seemed to stem from the language requirements    mathematical tasks. Although literature results vary, devel­
+of mathematical tasks, children with DLD struggled with    opmental delays likely contribute to lower mathematical
+mathematical tasks due to both linguistic and non-linguis­     abilities, even with typical non-verbal intelligence. Based
+tic processing constraints. In the same line, Koponen et al.   on other researchers’ findings, we also expected connections
+(2006) investigated numerical abilities in 29 children with    between linguistic variables and mathematical performance,
+DLD and 20 TD children from preschool to third grade and    although  it is uncertain whether vocabulary or grammar
+the extent to which linguistic factors accounted for varia­   would have stronger associations due to limited research.
+tions in these skills. Children with DLD lagged behind their    Non-verbal intelligence was hypothesized as a predictor of
+educational age counterparts in both verbal and non-verbal    mathematical performance, with evidence suggesting a link
+numerical skills. A connection between the ability to recall    between visuo-spatial scores and early mathematical perfor­
+arithmetic facts and naming fluency was found, while dif­   mance in TD children (Ansari et al., 2003; Holmes et al.,
+ferences in non-verbal numerical skills were not explained    2008) Lastly, autism severity was hypothesized as a predic­
+by measured cognitive skills (non-verbal reasoning skill,     tor of mathematical difficulties; while Titeca et al. (2017)
+verbal short-term memory, vocabulary, comprehension, and    found no correlation, Miller et al. (2017) did, suggesting a
+naming fluency).                                                potential connection between symptom severity and math­
+   Interestingly for our purposes, Ansari et al. (2003) inves­    ematical abilities due to its impact on developmental prog­
+tigated the relationship of the cardinality principle with lan­     ress. Specifically, we address the following questions:
+guage and visuo-spatial cognition in children with Williams
+Syndrome (mean age seven years old) and TD children    (1) Does the distribution of our sample differ in terms
+(mean age three and a half) respectively. In the Williams        of mathematical performance in relation to what  is
+Syndrome group, language was the sole factor explaining a        expected in TD children?
+significant portion of the variance in cardinality understand­    (2) Are there statistically significant differences in the clini­
+ing. In contrast, in the TD comparison group, only visuo-         cal, cognitive or linguistic variables between groups of
+spatial ability predicted the variance. This study suggests       mathematical performance?
+that language may have a differential impact depending on    (3) Which clinical, cognitive or linguistic variables predict
+the condition that children exhibit.                                 the mathematical performance in our sample?
+
+Research Questions
+                                      Methods
+Previous research on TD children has examined the link
+between early mathematical skills and language, with some    Participants
+studies focusing on vocabulary (Yang & Liang, 2022; Zhang,
+2016) and others on other language skills (Praet et al., 2013;   The study involved 42 children with autism (37 males and
+Purpura et al., 2011; Toll & Van Luit, 2014; Viesel-Nord­   5 females; average age 6.17, with standard deviation 1.00
+meyer et al., 2022). In the case of studies involving children    and range of values [4.2–7.8]), recruited between January
+with autism, there is a scarcity of research evaluating early    and June 2023 from various sources dedicated to support­
+mathematical learning. Most studies have focused solely    ing individuals with autism in the Spanish regions of Álava
+on exploring connections between different mathematical    and Cantabria, including child psychiatry and pediatric out­
+skills (Aagten-Murphy et  al., 2015; Fernández-Cobos &    patient clinics, family associations, and school counseling
+Polo-Blanco, 2024; Titeca et al., 2014, 2015, 2017); some    professionals. The inclusion criteria were: (1) ASD diagno­
+have examined links between mathematical and cognitive     sis without other psychiatric comorbidities, as per the Diag­
+or academic skills without emphasizing language (Chiang    nostic and Statistical Manual of Mental Disorders (DSM-5;
+& Lin, 2007; Miller et al., 2017), and very few have taken   American Psychiatric Association, 2013); (2) non-verbal IQ
+language into consideration (Li et al., 2023).                 (NVIQ) ≥ 70 as measured by the Leiter-3 non-verbal intel­
+  The purpose of our study is to test early mathematical    ligence scale (Koch et al., 2019; Roid & Miller, 2013); (3)
+abilities in autism in relation to different clinical, cognitive    aged 4–8; and (4) comprehension of brief instructions and
+and linguistic variables1. We hypothesized that children    the ability to point.
+with autism would perform worse than TD children in early        Initially, we selected 51 children previously diagnosed
+                                                         with ASD  at mental health  units. A child  psychiatrist
+                                                        reviewed their medical records, confirming ASD diagnoses1  These variables are not taken to be the only possible factors under­
+lying math skills. As Purpura et al. (2020), among others, highlight, a    per DSM-5 guidelines and absence of comorbidities, based
+child’s learning environment and everyday knowledge also play cru­   on parent interviews and patient evaluations. Nine children
+cial roles in number sense development.
+
+                                                                1 32140                                                                        Journal of Autism and Developmental Disorders (2026) 56:2136–2147
+
+did not meet the inclusion criteria: two had comorbidities   made within the same block, which leads to the end of the
+with attention deficit/hyperactivity disorder (ADHD), seven     test. The test is calibrated according to the breadth of vocab­
+were excluded for not demonstrating comprehension of    ulary at each Chronological Age (CA) in typical popula­
+brief instructions or not displaying the ability to point.          tions, providing both a direct score and an estimated verbal
+   After explaining the study, parents or legal guardians    mental age (VMA). Receptive vocabulary was transformed
+consented by signing forms. This research had approval    in this study as (VMA-CA)/CA for test comparison.
+from the Ethics Committee for Clinical Research of Canta­      Grammatical skills were evaluated using the Spanish
+bria (CEIC-C) and the University of the Basque Country’s    Test of Comprehension of Grammatical Structures (CEG;
+Ethics Committee for Research Involving Human Beings   Mendoza et al., 2005a), a grammatical scale inspired by
+(CEISH).                                                  Bishop’s (2003) Test for Reception of Grammar (TROG-2;
+                                                                   see, for the English language, Mendoza et al., 2005b). CEG
+Measurement Variables and Instruments​                    is a clinical tool for children from 4 to 11 years old, and con­
+                                                                          sists of 20 blocks, each one identifying one linguistic struc­
+Autism severity was assessed using the chart from Gotham    ture of Spanish as defined by the authors of the test. It is thus
+et al. (2009, p. 699 [Table 2]), which gathers ADOS-2 (Lord    not strictly speaking a tool of evaluation of grammatical
+et al., 2012) modules 1, 2, and 3 for ages 2–16. Scores are    competence, but rather of command of specific grammatical
+mapped from ADOS-2 modules, age, and score received in     structures. Each block is composed of four items exempli­
+the ADOS-2 to a severity score, ranging from 1 to 10: 1–3    fying each structure. These include transitive constructions
+as NS (“Non-spectrum”), 4–5 as ASD (“Autism Spectrum    (reversible and non-reversible depending on whether it is
+Disorder”), and 6–10 as AUT (“Autistic”).                     sensible to analyze the first constituent as the subject or
+  Non-verbal intelligence was measured with the Leiter-3    object), copular sentences, sentential negation, clefts, clitic
+scale (Koch et al., 2019; Roid & Miller, 2013), which must     left dislocation structures, or relative clauses of different
+be fully administered without verbal instruction or requir­     sorts, to name a few examples. In this test, the experimenter
+ing verbal responses from participants. It comprises three    reads a target sentence and the child has to point at the right
+sets of subtests: Fluid Intelligence subtests, Attention and    picture in view of four alternatives, much like in the PPVT-
+Memory subtests, and Social/Emotional scale. The subtests     III. All children complete the entire test and the number of
+comprising Fluid Intelligence provide a non-verbal intel­    errors is counted. In relation to this, unlike what happens
+ligence quotient (NVIQ). Within Fluid Intelligence, two    with the TROG-2, here blocks are not ordered by degree of
+groups of subtests can be formed: Visuo-spatial abilities    complexity, even if the first sets of blocks illustrate simpler
+(Figure Ground, and Form Completion), and Reasoning    syntactic structures than the last ones. For our analysis, we
+(Classification and Analogies, and Sequential Order). Fig­    collected the number of correct blocks by each child and
+ure Ground consists in finding figures within visual displays   computed z-scores based on expected values and standard
+of increasing complexity, while Form Completion requires    deviations for different age intervals given by Mendoza et
+the participant to mentally ensemble parts of a geometrical     al. (2005b).
+display. Concerning Reasoning, Classification and Analo­        Finally, early mathematical abilities were evaluated using
+gies taps onto reasoning by analogy, while Sequential Order    the TEMA-3 (Ginsburg et al., 2007; Ginsburg & Baroody,
+is a task similar to Raven’s matrices, measuring the meaning    2003), designed for children aged 3 to 9. The instrument’s
+making ability of participants. The children’s NVIQ distri­    internal consistency has been reported at 0.90 for TD popu­
+bution within our sample was typical, with five participants    lation (Ginsburg & Baroody, 2003) and the test has been
+(11.9%) falling within the 70–85 range, compared to an   employed in studies involving children with intellectual
+expected 13.5% in a normal distribution with zero mean and    and developmental disabilities (e.g., Vostanis et al., 2021)
+a standard deviation of 15 (Roid & Miller, 2013: p. 159).    and autism (Fernández-Cobos & Polo-Blanco, 2024; Polo-
+Symmetrically, other five participants had a NVIQ between    Blanco et al., 2024). This performance-based test comprises
+115 and 130.                                         72 items that assess both formal (31 items) and informal
+   Receptive vocabulary  skills were assessed using the    (41 items) mathematical  skills. Within informal  skills,
+PPVT-III (Spanish version by Dunn et al., 2010). This test    the following categories are distinguished: (1) numbering
+can be administered to children of ages starting at two years     (subitizing, mastery of numerical sequence through tasks
+and six months. This is a pointing task, whereby the experi­    involving basic counting and enumeration skills, cardinality
+menter utters a target vocabulary item, and the child has to     principle), (2) comparison (ability to establish relative dis­
+point at the right pictures given four alternatives. There are    tances between numbers, order of the numerical sequence),
+16 blocks of 12 items each, ordered by difficulty. Correct    (3) calculation (strategies supported by counting, with and
+and incorrect answers are collected until eight mistakes are    without concrete objects, and non-verbal mental calculation
+
+1 3Journal of Autism and Developmental Disorders (2026) 56:2136–2147                                                             2141
+
+skills), and (4) concepts (numerical constancy, applica­                                                            instruments yielding  direct scores expected to increase
+tion of advanced counting strategies, basic understanding                                                         with age in TD children (TEMA-3, PPTV-III, and CEG)
+of object distribution, part-whole relationship). As  it can                                            we employed standardized variables (z-scores or relative
+be seen, TEMA-3 evaluates several relevant mathemati­                                                                   differences). ANOVA tests were employed to compare the
+cal skills, although such skills do not need to constitute a                                                         average of each variable across different mathematical per­
+completely exhaustive inventory of the early mathematical                                                      formance groups, with Bonferroni correction applied to
+skills. Test direct scores (DS) range from 0 to 72, with one                                                      minimize type-I error in multiple comparisons. Statistically
+point awarded for each correct item, ending after five con­                                                                   significant differences between mathematical performance
+secutive incorrect responses. To compare mathematical per­                                                        groups would suggest that mathematical performance may
+formance with that expected in TD children, we computed                                                             explain the distribution of the corresponding variable in our
+              −z-scores as     DS  /σ (DS), using expected values    sample.       DS−       (      )                           On the other hand, Pearson’s correlation test with Bon­
+  −( DS)     and standard deviations ( σ (DS)) for each age inter­    ferroni correction was used to examine which  clinical,
+val from the Spanish standardization sample in Ginsburg    cognitive and linguistic variables may be related with math­
+et al. (2007, p. 88). Although TEMA-3 provides a mathe­    ematical performance, and also to investigate whether the
+matical competence index (MCI), which is a standardized    possible associations are more linked to informal or formal
+variable, we decided to use z-scores because they are more    mathematical skills. Guided by this previous exploration, a
+sensitive at low and high performance (MCI saturates at    predictive model was built using Stepwise Regression (Har­
+55 and 150, corresponding to   3σ ). Since the statistical     rell, 2015) to identify variables with the strongest predictive                ±information is not available for separate scores of informal   power for mathematical performance. Variables are sequen­
+and formal skills, relative differences between the obtained     tially added in the model based on highest correlation with
+score and the expected score for the participant’s age were    the dependent variable (mathematical performance). An
+considered for informal and formal total scores, and for    independent variable is entered into the equation only if it
+numbering (which includes a significant proportion of the    meets the entry criterion (in this case, p < 0.05). Variables
+informal items). The small number of items for the rest of    already entered in the regression equation can be removed
+categories at small ages makes no possible a robust analysis.   from the model if they meet the output criterion (p > 0.10).
+                                                 The method terminates when there are no more candidate
+Analysis                                                      variables to include or eliminate.
+
+We classified mathematical performance into three levels
+(low, medium and high) based on TEMA-3 z-scores using   Results
+   1.5σ thresholds. The z-scores allows us to compare the±distribution of mathematical competence in our sample    Table 1 summarizes the characteristics of our sample, con­
+with that expected from TD children without requiring a    sidering  clinical, cognitive,  linguistic and mathematical
+control group, for instance, examining whether the num­    variables.
+ber of children within the low or high-performance groups       Starting with the distribution of mathematical perfor­
+significantly differs from the TD expectations. To address    mance, the left panel in Fig. 1 shows the distribution of
+the second research question, we analyzed clinical, cogni­    z-scores for TEMA-3 in our sample. 13 of 42 children are in
+tive and linguistic variables across groups of mathemati­    the LMP group, five are included in the HMP group, and the
+cal performance (hereinafter, LMP, MMP and HMP, for    remaining 24 belong to the MMP group. The dotted curve
+low, medium and high mathematical performance). For    represents the expected distribution for TD children, accord­
+                                                            ing to which, on average, 6,68% of the children would be
+Table 1  Comparisons between groups of mathematical performance     expected to present LMP for their age, and another 6,68%
+          Cognitive                       Language             to present HMP. Right panels in Fig. 1 show the distribution
+       NVIQ     Visuo-   Reasoning    PPVT   CEG        of the number of children within the LMP (upper panel) and
+                         spatial                                   HMP (bottom panel) groups for 108 random samples of 42                           abilities
+                                      TD children. Dashed vertical lines indicate the number ofMMP vs.  0.002**   0.003**  0.004**       0.003**  0.004**
+LMP                                                          children found within our sample of children with autism.
+HMP vs.  < 0.001**  0.001**  < 0.001**     0.003**  0.011*      While there would be a probability of 0.147 of getting 5 or
+LMP                                              more individuals in the group of HMP in a random sample
+HMP vs.  0.043*     0.286    0.103         0.560    1.000       of 42 TD children, there would be only a probability of
+MMP
+Note. *<0.05. **<0.01
+
+                                                                1 32142                                                                        Journal of Autism and Developmental Disorders (2026) 56:2136–2147
+
+Fig. 1  Distribution of our sample
+according to mathematical
+performance
+
+
+
+
+
+2 × 10− 6 of getting 13 or more individuals in the group of    (visuo-spatial abilities and reasoning) plays a more impor­
+LMP.                                                              tant predictive role than the other. In this case, the Stepwise
+   Figure 2 offers a visual representation for observing the    Regression considered NVIQ, visuo-spatial abilities, rea­
+distribution of each clinical, cognitive and linguistic variable    soning, PPTV-III and CEG. The obtained model (Model 2 in
+in relation to the groups of mathematical performance. For    Table 4) preserved only visuo-spatial abilities and CEG as
+those cases in which the difference in mean values between    predictors, explaining 58% of the variability in mathemati­
+groups of mathematical performance showed to be statisti­    cal performance.
+cally significant, Table 2 shows the p-values obtained from
+a post-hoc multiple comparison analysis. This revealed sta­
+tistically significant differences between the mean values of   Discussion
+all the cognitive and linguistic variables considered of indi­
+viduals within MMP and LMP groups, and between HMP    In  this  study, we have examined  cognitive,  linguistic,
+and LMP groups. Differences between HMP and MMP   and early mathematical skills of 42 children with autism.
+groups are statistically significant only for NVIQ. No statis­   Our  first research question addressed the distribution of
+tically significant differences of autism severity were found    mathematical performance within this sample. Our find­
+between groups of mathematical performance.                 ings revealed lower performance among participants with
+   Figure 2 allows also a visual inspection of correlations    autism compared to age expectations in typical develop­
+involving z-scores from TEMA-3. As shown in Table 3,   ment (Ginsburg et al., 2007; Ginsburg & Baroody, 2003),
+all  correlations involving z-scores were moderate with    consistent with prior studies that found lower mathemati­
+high statistical significance after Bonferroni’s correction    cal performance in children with autism relative to their TD
+(p < 0.001), except for autism severity. Correlations involv­    peers (e.g., Aagten-Murphy et al., 2015; Fernández-Cobos
+ing relative differences of informal numbering and informal  & Polo-Blanco, 2024; Lie et al., 2023; Wei et al., 2015).
+and formal total scores are also shown.                     These results contrast with studies that reported no signifi­
+  Based on the obtained results, the Stepwise Regression    cant differences in mathematical abilities between groups
+considered NVIQ, PPTV-III and CEG. It yielded a model    with and without autism (Titeca et al., 2014, 2015, 2017).
+(Model 1 in Table 4) preserving only NVIQ and CEG as    However, while overall mathematical performance among
+predictors, explaining 54% of the variability in the mathe­    children with autism tended to be below age expectations,
+matical performance z-scores. Considering that NVIQ could    a subset performed at or above age level, consistent with
+be an important predictor, we built a finer-grained version    previous findings indicating diverse profiles of mathemati­
+of the model to determine if any of the two components    cal performance (e.g., Chen et al., 2019). This suggests that
+
+1 3Journal of Autism and Developmental Disorders (2026) 56:2136–2147                                                             2143
+
+Fig. 2  Distribution of clinical,
+linguistic and cognitive variables
+according to groups of mathemat­
+ical performance
+
+
+
+
+
+differences between our results and those of Titeca and col­  LMP and the rest of groups of mathematical performance,
+leagues may relate to the nature of the sample, which, at least    as occurs with the linguistic variables.
+in the case of the current study, was quite heterogeneous.         In relation to the third research question concerning pre­
+  ANOVA tests were conducted to address the second    dictors of early mathematical abilities, our results suggested
+research question, focusing on clinical, cognitive or lin­     that the strongest predictor of success in early mathemati­
+guistic variables that could be affected by the distribution of    cal abilities in our sample is a combination of visuo-spatial
+mathematical performance in our sample. First, the mean val­    and linguistic (grammar) abilities, which are variables dif­
+ues for autism severity did not differ significantly depending    ferentiating the LMP group. This could mean that, in this
+on the group of mathematical performance of participants,    respect, the population with autism is similar to the popula­
+which contrasts with the potential relation between autism    tion without autism, given the evidence that visuo-spatial
+severity and academic achievement reported by Miller et al.    and linguistic skills are good predictors of early mathemati­
+(2017). Secondly, linguistic variables showed to be statisti­    cal skills in TD children (e.g. LeFevre et al., 2010; Zhang,
+cally different between the low mathematical performance    2016). As early mathematical  abilities include different
+(LMP) group and the other two groups of medium and     skills (approximate number estimation, counting, subitiz­
+high mathematical performance (MMP and HMP). Thirdly,    ing, quantity comparison, and simple addition and subtrac­
+although significant differences were observed in mean     tion), our results suggest that some skills may be better
+non-verbal intelligence quotient (NVIQ) among all groups    predicted by visuo-spatial abilities and other by linguistic
+of mathematical performance, we found visuo-spatial abili­     abilities (LeFevre et al., 2010).
+ties and reasoning significantly different only between the
+
+                                                                1 32144                                                                        Journal of Autism and Developmental Disorders (2026) 56:2136–2147
+
+Table 2  Clinical, cognitive, linguistic, and mathematical data            specific knowledge about quantification in language. In any
+                           Mean   Standard   Range of      case, these findings suggest that early mathematical abilities                                             deviation   values
+                                                                  in autism may be better predicted by grammatical knowl­Clinical data
+                                                      edge than by just having acquired a symbolic system, or byAutism severity                    5.50    2.06       1–10
+Cognitive data                                               mastering an ample vocabulary.
+NVIQ                            99.12   13.02      71–131        Going deeper into mathematical skills, we found that
+Visuo-spatial abilities              20.43   4.03       10–28         relative differences of informal total scores correlated only
+Reasoning                        20.05   6.42       6–35        with cognitive variables (NVIQ and reasoning), while the
+Linguistic data                                          numbering subcategory correlated with both non-verbal
+PPTV-III relative difference of       -0.08   0.30        -0.78–        intelligence and linguistic variables. Relative differences
+VMA                                                 0.58         of formal total scores correlated with all the cognitive vari­
+CEG z-scores (number of correct     -0.78   2.10        -6.92–                                                              ables and relative differences in PPTV-III verbal mental age.blocks)                                               3.03
+                                                   To our knowledge, this is the first study that examinesMathematical abilities
+                                                       whether the language predictors of early mathematicalTEMA-3 z-scores                   -0.65   2.20        -6.91–
+                                                      4.78           abilities in TD children are also good predictors of early
+Mathematical age                  5.98    1.25        3.8–9.0      mathematical abilities in children with autism. Our results
+Relative difference of total informal  -0.01   0.44        -0.86–       suggest that language (grammar) and visuo-spatial cogni­
+                                                      1.54          tion could predict early mathematical skills also in children
+Relative difference of informal      0.02    0.42        -0.77–       with autism, independently of the severity of the condition.numbering                                            1.33
+                                                             Therefore, assessing visuo-spatial and language abilities inRelative difference of total formal    0.37    1.45        -1.00–
+                                                      8.00         children at an early age could serve as a predictive measure
+Note. Data were collected from 42 participants, with autism sever­    for future mathematical difficulties, even without an ASD
+ity data for 38. NVIQ denotes non-verbal intelligence quotient.    diagnosis, potentially assisting those who may later receive
+Linguistic variables include relative differences between estimated    one. Given  that numerous developmental  studies have
+verbal mental age (VMA) from PPVT-III and chronological age, and                                                         demonstrated that mathematical abilities can be enhancedz-scores for correct blocks from CEG. Mathematical abilities include
+z-scores for total direct scores from TEMA-3, and relative differences    through instruction, implementing these interventions at an
+for total informal, numbering, and formal direct scores                early age, before formal mathematics education in elemen­
+                                                                  tary schools, could be particularly beneficial.
+   In connection with the controversy over whether the
+acquisition of the cardinality principle by TD children    Limitations and Future Research
+relates more to grammar (e.g., Spelke, 2017) or to vocab­
+ulary breadth (e.g., Purpura et al., 2011; Purpura & Gan­   Given the variety of autistic profiles reported in other stud­
+ley, 2014), our results are in line with Spelke’s hypothesis,     ies (e.g., Chen et al., 2019), the sample size of our study may
+although we tested general grammatical knowledge, and not    not allow us to generalize these findings to the population
+
+Table 3  Correlation coefficients ( ρ ) between clinical, cognitive and linguistic variables and TEMA-3
+                             Total                        Informal                   Informal numbering          Formal
+                      ρ           p-value        ρ           p-value      ρ           p-value        ρ          p-value
+Autism severity              -0.17       1.000            -0.09       1.000          -0.13       1.000           0.04       1.000
+NVIQ                      0.70        < 0.001**        0.51        0.025*        0.67        < 0.001**        0.60       0.001**
+Visuo-spatial abilities        0.68        < 0.001**        0.38        0.614         0.58        0.003**         0.50       0.034*
+Reasoning                  0.67        < 0.001**        0.50        0.036*        0.69        < 0.001**        0.56       0.005**
+PPVT                      0.67        < 0.001**        0.46        0.106         0.57        0.003**         0.54       0.012*
+CEG                       0.67        < 0.001**        0.33        1.000         0.55        0.008**         0.42       0.313
+Note. * <0.05. ** <0.01. Pearson’s correlation test after applying Bonferroni’s correction
+
+Table 4  Predictive models from the stepwise regression for Z-scores from TEMA-3
+Model          Predictors                      Coefficients                           Model summary
+                                      β                   t           p            F            p                 Adjusted R2
+1          NINV                       1.08         3.21         0.003           24.30         < 0.001**         0.538
+          CEG                         1.48         2.71         0.010
+2               Visuo-spatial abilities         1.30         3.90          < 0.001         28.65         < 0.001**         0.580
+          CEG                         1.46         2.89         0.006
+Note. * <0.05. ** <0.01
+
+1 3Journal of Autism and Developmental Disorders (2026) 56:2136–2147                                                             2145
+
+                                                                   Funding  Open Access funding provided thanks to the CRUE-CSICof children with autism without ID. Therefore,  it would                                                                 agreement with Springer Nature.
+be advisable to verify if these results are confirmed with a    Open Access funding provided thanks to the CRUE-CSIC agreement
+larger sample. Moreover, although standardized measures    with Springer Nature. This work was supported by the projects PID2022-
+have been used to control for variables measured in typi­    136246NB-I00,  funded  by  MICIU/AEI/10.13039/501100011033
+                                                                              https:/​/doi.or​g/10.13​039/5​01100011033 and FEDER, UE; ​S​U​B​V​T​C​-​2​cally developing children, the inclusion of a control group                                                                                                                             0​2​3​-​0​0​1​4​, funded by the Government of Cantabria; and Grant IT1537-
+in this study would have enriched the findings by allowing    22 to the Theoretical Linguistics Group, funded by the Basque Gov­
+for direct comparisons between students with and without     ernment.
+autism. This would also provide a better understanding of
+whether the predictors are consistent across different groups.    Declarations
+  On the other hand, results referring different types of
+mathematical abilities should be taken with caution taking     Conflicts of Interest  All authors declare that they have no conflicts of                                                                                     interest.
+into account that statistical information is not available to
+calculate z-scores. In addition, the small number of tasks   Open Access   This article is licensed under a Creative Commons
+expected to be solved at the considered ages for different     Attribution 4.0 International License, which permits use, sharing,
+TEMA-3 informal and formal categories does not make pos­     adaptation, distribution and reproduction in any medium or format,
+                                                                        as long as you give appropriate credit to the original author(s) and thesible to identify which mathematical skills may be involved                                                                         source, provide a link to the Creative Commons licence, and indicate
+to a greater extent in the observed relations. For future stud­       if changes were made. The images or other third party material in this
+ies, it would be advisable to discern which specific early      article are included in the article’s Creative Commons licence, unless
+mathematical skills are most strongly linked to grammati­     indicated otherwise in a credit line to the material. If material is not
+                                                                      included in the article’s Creative Commons licence and your intendedcal knowledge, which ones to vocabulary, and which ones                                                                    use is not permitted by statutory regulation or exceeds the permitted
+to non-verbal intelligence factors. Concerning grammatical     use, you will need to obtain permission directly from the copyright
+knowledge, it would also be interesting to test what kind     holder. To view a copy of this licence, visit ​h​t​t​p​:​/​/​c​r​e​a​t​i​v​e​c​o​m​m​o​n​s​.​o​
+of grammatical knowledge relates to mathematical abilities,          r​g​/​l​i​c​e​n​s​e​s​/​b​y​/​4​.​0​/​.​
+and, in particular, whether it is the grammar of quantified
+phrases that best predicts success, as Spelke and collabora­
+tors hold.                                     References
+    It is crucial to understand the impact of linguistic and
+                                                               Aagten-Murphy, D., Attucci, C., Daniel, N., Klaric, E., Burr, D., &cognitive factors on early mathematical skills in order to                                                                                 Pellicano, E. (2015). Numerical estimation in children with
+design tailored interventions that reinforce these aspects,          autism. Autism Research, 8(6), 668–681.  ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​0​2​
+which may hinder the early foundation of mathematical                  /​a​u​r​.​1​4​8​2​
+learning in children with autism. Future work should also     Alt, M., Arizmendi, G. D., & Beal, C. R. (2014). The relationship
+                                                                   between mathematics and language: Academic implications forinvestigate the relation between early mathematical abilities                                                                              children with specific language impairment and English language
+and the mathematical performance of children with autism           learners. Language Speech and Hearing Services in Schools,
+at school, which has been shown to be generally an issue          45(3), 220–233. https:/​/doi.or​g/10.10​44/20​14_LSHSS-13-0003
+(Titeca et al., 2014). Finally, conducting longitudinal stud­    American Psychiatric Association (2013). Diagnostic and statistical
+                                                                manual of mental disorders (5th ed.). ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​7​6​/​a​p​p​ies with individuals with autism would be commendable to                                                                                                                                        i​.​b​o​o​k​s​.​9​7​8​0​8​9​0​4​2​5​5​9​6​
+validate the findings of this study and identify predictive lin­     Anobile, G., Stievano, P., & Burr, D. C. (2013). Visual sustained atten­
+guistic and cognitive abilities for different profiles of math­          tion and numerosity sensitivity correlate with math achievement
+ematical performance.                                                       in children. Journal of Experimental Child Psychology, 116(2),
+                                                                    380–391. https:/​/doi.or​g/10.10​16/j.​jecp.2013.06.006
+                                                                        Ansari, D., Donlan, C., Thomas, M. S. C., Ewing, S. A., Peen, T., &Acknowledgements  We are very grateful to Julia Suinaga and Lara
+                                                                          Karmiloff-Smith, A. (2003). What makes counting count? VerbalLebeña, who helped us so much with this study. We are also immensely
+                                                                   and visuo-spatial contributions to typical and atypical numbergrateful to the families and children who worked with us. We truly
+                                                                       development. Journal of Experimental Child Psychology, 85(1),appreciate their generosity and interest.
+                                                                      50–62. https:/​/doi.or​g/10.10​16/S0​022-0965(03)00026-2
+                                                                         Bialystok, E., & Codd, J. (1997). Cardinal limits: Evidence from lan­
+Author contributions  Irene  Polo-Blanco,  Elena  Castroviejo  and                                                                   guage awareness and bilingualism for developing concepts of
+Agustín Vicente contributed to the study conception, design, mate­                                                                     number. Cognitive Development, 12(1), 85–106.  ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​
+rial preparation and data collection. Analysis was performed by Raúl                                                                                                                                        1​0​.​1​0​1​6​/​S​0​8​8​5​-​2​0​1​4​(​9​7​)​9​0​0​3​1​-​9​
+Fernández-Cobos and Maria Juncal-Ruiz. The data visualization tasks                                                                    Bishop, D. V. M. (2003). Test for Reception of Grammar-TROG2.
+were performed by Raúl Fernández-Cobos. The first draft of the manu­                                                                           Pearson.  ​h​t​t​p​s​:​/​/​w​w​w​.​p​e​a​r​s​o​n​c​l​i​n​i​c​a​l​.​c​o​.​u​k​/​s​t​o​r​e​/​u​k​a​s​s​e​s​s​m​e​n​t​s​/​
+script was written by Raúl Fernández-Cobos, Irene Polo-Blanco, Elena                                                                                                                                             e​n​/​S​t​o​r​e​/​P​r​o​f​e​s​s​i​o​n​a​l​-​A​s​s​e​s​s​m​e​n​t​s​/​S​p​e​e​c​h​-​%​2​6​-​L​a​n​g​u​a​g​e​/​V​o​c​a​
+Castroviejo and Agustín Vicente, and all authors commented subse­                                                                                                                                               b​u​l​a​r​y​/​T​e​s​t​-​f​o​r​-​R​e​c​e​p​t​i​o​n​-​o​f​-​G​r​a​m​m​a​r​/​p​/​P​1​0​0​0​0​9​2​3​2​.​h​t​m​l​
+quent versions of the manuscript. All authors read and approved the                                                                      Carey, S. (2009). Where our number concepts come from. The Journal
+final manuscript.                                                                                  of Philosophy, 106(4), 220–254.
+
+
+                                                                1 32146                                                                        Journal of Autism and Developmental Disorders (2026) 56:2136–2147
+
+Chen, L., Abrams, D. A., Rosenberg-Lee, M., Iuculano, T., Wakeman,                  w​w​w​.​w​p​s​p​u​b​l​i​s​h​.​c​o​m​/​a​d​o​s​-​2​-​a​u​t​i​s​m​-​d​i​a​g​n​o​s​t​i​c​-​o​b​s​e​r​v​a​t​i​o​n​-​s​c​h​
+    H. N., Prathap, S., Chen, T., & Menon, V. (2019). Quantitative                   e​d​u​l​e​-​s​e​c​o​n​d​-​e​d​i​t​i​o​n​
+     analysis of heterogeneity in academic achievement of children    Mayes, S. D., & Calhoun, S. L. (2006). Frequency of reading, math,
+     with autism. Clinical Psychological Science,  7(2), 362–380.        and writing disabilities in children with clinical disorders. Learn­
+     https:/​/doi.or​g/10.11​77/21​67702618809353                              ing and Individual Differences, 16(2), 145–157.  ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​
+Chiang, H. M., & Lin, Y. H. (2007). Mathematical ability of students                   0​.​1​0​1​6​/​j​.​l​i​n​d​i​f​.​2​0​0​5​.​0​7​.​0​0​4​
+     with Asperger syndrome and high-functioning autism: A review    Mendoza, E., Carballo, G., Muñoz, J., & Fresneda, M. D. (2005a).
+     of literature. Autism, 11(6), 547–556. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​1​3​6​       CEG. Test de Comprensión de Estructuras Gramaticales. Tea
+        2​3​6​1​3​0​7​0​8​3​2​5​9​                                                       Ediciones.   ​h​t​t​p​s​:​/​/​w​e​b​.​t​e​a​e​d​i​c​i​o​n​e​s​.​c​o​m​/​c​e​g​-​t​e​s​t​-​d​e​-​c​o​m​p​r​e​n​s​i​o​
+Condry, K. F., & Spelke, E. S. (2008). The development of language                   n​-​d​e​-​e​s​t​r​u​c​t​u​r​a​s​-​g​r​a​m​a​t​i​c​a​l​e​s​.​a​s​p​x​
+    and abstract concepts: The case of natural number. Journal of    Mendoza, E., Carballo, G., Muñoz, J., & Fresneda, M. D. (2005b).
+    Experimental Psychology: General, 137(1), 22. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​        Evaluación De La comprensión Gramatical: Un Estudio trans­
+         .​1​0​3​7​/​0​0​9​6​-​3​4​4​5​.​1​3​7​.​1​.​2​2​                                                   lingüístico. Revista De Logopedia Foniatría Y Audiología, 25(1),
+Dehaene, S. (2011). The number sense: How the mind creates math­         2–18. https:/​/doi.or​g/10.10​16/S0​214-4603(05)75805-8
+     ematics. OUP USA.                                                    Miller, L. E., Burke, J. D., Troyb, E., Knoch, K., Herlihy, L. E., &
+Desoete, A., & Warreyn, P. (2020). Introduction to the Special Issue:          Fein, D. A. (2017). Preschool predictors of school-age academic
+    Mathematical abilities in developmental disabilities. Research in         achievement in autism spectrum disorder. The Clinical Neuropsy­
+    Developmental Disabilities, 107, 103805. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​          chologist, 31(2), 382–403. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​8​0​/​1​3​8​5​4​0​4​6​.​2​0​1​
+         /​j​.​r​i​d​d​.​2​0​2​0​.​1​0​3​8​0​5​                                                                                       6​.​1​2​2​5​6​6​5​
+Dowker, A. (2020). Arithmetic in developmental cognitive disabilities.    Negen,  J., & Sarnecka, B. W. (2012). Number-concept acquisition
+    Research in Developmental Disabilities, 107, 103778. ​h​t​t​p​s​:​/​/​d​o​i​        and general vocabulary development. Child Development, 83(6),
+         .​o​r​g​/​1​0​.​1​0​1​6​/​j​.​r​i​d​d​.​2​0​2​0​.​1​0​3​7​7​8​                                   2019–2027. https:/​/doi.or​g/10.11​11/j.​1467-8624.2012.01815.x
+Dunn, L. M., & Dunn, L. M. (1997). Peabody picture vocabulary    Oswald, T. M., Beck, J. S., Iosif, A., McCauley, J. B., Gilhooly, L. J.,
+    test—3rd edition. American Guidance Service.                            Matter, J. C., & Solomon, M. (2016). Clinical and cognitive char­
+Dunn, L. M., Dunn, L. M., & Arribas, D. (2010). PPVT-III. PEABODY.           acteristics associated with mathematics problem solving in ado­
+     Test De Vocabulario en Imágenes. Tea Ediciones.                          lescents with autism spectrum disorder. Autism Research, 9(4),
+Fernández-Cobos, R. & Polo-Blanco. I. (2024). Early math compe­         480–490. https:/​/doi.or​g/10.10​02/au​r.1524
+     tence in students with autism. Education and Training in Autism     Polo-Blanco,  I., Suárez-Pinilla, P., Goñi-Cervera, J., Suárez-Pinilla,
+    and Developmental Disabilities, 59(2).                               M., & Payá, B. (2024). Comparison of mathematics problem-
+Ginsburg, H., & Baroody, A. (2003). TEMA-3: Test of mathematics          solving abilities in autistic and non-autistic children: The influ­
+     ability (Third Edition). ProEd.                                       ence of cognitive profile. Journal of Autism and Developmental
+Ginsburg, H., Baroody, A. J., del Río, M. C. N., & Guerra, I. L. (2007).          Disorders, 54, 353–365.
+    Tema-3: Test De Competencia matemática básica. Tea Ediciones.     Praet, M., Titeca, D., Ceulemans, A., & Desoete, A. (2013). Language
+Gotham, K., Pickles, A., & Lord, C. (2009). Standardizing ADOS          in the prediction of arithmetics in kindergarten and grade 1.
+     scores for a measure of severity in Autism Spectrum disorders.         Learning and Individual Differences, 27, 90–96.  ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​
+     Journal of Autism and Developmental Disorders, 39(5), 693–705.                   1​0​.​1​0​1​6​/​j​.​l​i​n​d​i​f​.​2​0​1​3​.​0​7​.​0​0​3​
+     https:/​/doi.or​g/10.10​07/s1​0803-008-0674-3                         Purpura, D. J., & Ganley, C. M. (2014). Working memory and lan­
+Harrell, F. (2015). Regression modeling strategies: With applications         guage: Skill-specific or domain-general relations to mathematics?
+     to linear models, logistic and ordinal regression, and survival         Journal of Experimental Child Psychology, 122, 104–121. https:/​
+     analysis (2nd ed.). Springer.                                                  /doi.or​g/10.10​16/j.​jecp.2013.12.009
+Kljajevic, V. (2023). Literacy and numeracy in children on autism     Purpura, D. J., Hume, L. E., Sims, D. M., & Lonigan, C. J. (2011).
+    spectrum disorder. Advances in Neurodevelopmental Disorders,         Early literacy and early numeracy: The value of including early
+     7, 123–129. https:/​/doi.or​g/10.10​07/s4​1252-022-00291-5                   literacy skills in the prediction of numeracy development. Jour­
+Koch, C., Miller, L. J., Pomplun, M., & Roid, G. H. (2019). LEITER-3.         nal of Experimental Child Psychology, 110(4), 647–658. ​h​t​t​p​s​:​/​/​d​
+    Escala De Inteligencia No Verbal. Giunti Psychometrics.                                  o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​j​e​c​p​.​2​0​1​1​.​0​7​.​0​0​4​
+Kolkman, M. E., Kroesbergen, E. H., & Leseman, P. P. M. (2013).     Purpura, D. J., King, Y. A., Rolan, E., Hornburg, C. B., Schmitt, S.
+     Early numerical development and the role of non-symbolic and          A., Hart, S. A., & Ganley, C. M. (2020). Examining the factor
+    symbolic skills. Learning and Instruction, 25, 95–103. ​h​t​t​p​s​:​/​/​d​o​i​          structure of the home mathematics environment to delineate its
+          .​o​r​g​/​1​0​.​1​0​1​6​/​j​.​l​e​a​r​n​i​n​s​t​r​u​c​.​2​0​1​2​.​1​2​.​0​0​1​                                    role in predicting preschool numeracy, mathematical language,
+Koponen, T., Mononen, R., Räsänen, P., & Ahonen, T. (2006). Basic        and spatial skills. Frontiers in Psychology, 11:1925. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+    numeracy in children with specific language impairment: Het­                  g​/​1​0​.​3​3​8​9​/​f​p​s​y​g​.​2​0​2​0​.​0​1​9​2​5​
+     erogeneity and connections to language. Journal of Speech Lan­     Roid, G. H., & Miller, L. J. (2013). (Leiter-3) Leiter International Per­
+    guage and Hearing Research, 49(1), 58–73. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​        formance Scale, Third Edition. WPS.
+         4​4​/​1​0​9​2​-​4​3​8​8​(​2​0​0​6​/​0​0​5​)​                                          Spelke, E. S. (2017). Core knowledge, language, and number. Lan­
+LeFevre, J. A., Fast, L., Skwarchuk, S. L., Smith-Chant, B. L., Bisanz,        guage Learning and Development, 13(2), 147–170. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​
+       J., Kamawar, D., & Penner-Wilger, M. (2010). Pathways to math­                 g​/​1​0​.​1​0​8​0​/​1​5​4​7​5​4​4​1​.​2​0​1​6​.​1​2​6​3​5​7​2​
+     ematics: Longitudinal predictors of performance. Child Develop­     Titeca, D., Roeyers, H., Josephy, H., Ceulemans, A., & Desoete, A.
+     ment, 81(6), 1753–1767. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​1​1​/​j​.​1​4​6​7​-​8​6​2​4​.​2​0​1​         (2014). Preschool predictors of mathematics in first grade chil­
+        0​.​0​1​5​0​8​.​x​                                                          dren with autism spectrum disorder. Research in Developmental
+Li, X., Li, J., Zhao, S., Liao, Y., Zhu, L., & Mou, Y. (2023). Magnitude           Disabilities, 35(11), 2714–2727. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​r​i​d​d​.​2​0​
+     representation of preschool children with autism spectrum condi­                 1​4​.​0​7​.​0​1​2​
+      tion. Autism, 13623613231185408.  ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​1​1​7​7​/​1​3​6​2​     Titeca, D., Roeyers, H., Ceulemans, A., & Desoete, A. (2015). Early
+        3​6​1​3​2​3​1​1​8​5​4​0​8​                                                    numerical competencies in 5- and 6-year-old children with autism
+Lord, C., Rutter, M., DiLavore, P. S., Risi, S., Gotham, K., & Bishop,         spectrum disorder. Early Education and Development, 26(7),
+     S. (2012). (ADOS®-2) Autism Diagnostic Observation Sched­        1012–1034. https:/​/doi.or​g/10.10​80/10​409289.2015.1004515
+    ule™, Second Edition. Western Psychological Services.  ​h​t​t​p​s​:​/​/​
+
+1 3Journal of Autism and Developmental Disorders (2026) 56:2136–2147                                                             2147
+
+Titeca, D., Roeyers, H., & Desoete, A. (2017). Early numerical com­           disabilities. Journal of Behavioral Education, 30(4), 513–533.
+     petencies in 4- and 5-year-old children with autism spectrum dis­          https:/​/doi.or​g/10.10​07/s1​0864-020-09394-2
+     order. Focus on Autism and Other Developmental Disabilities,    Wagner, R. K., Torgesen, J. K., & Rashotte, C. A. (1999). Comprehen­
+     32(4), 279–292. https:/​/doi.or​g/10.11​77/10​88357615588523               sive Test of Phonological Processing. Pro-Ed.
+Toll, S. W., & Van Luit, J. E. (2014). The developmental relationship    Wei, X., Christiano, E. R., Yu, J. W., Wagner, M., & Spiker, D. (2015).
+    between language and low early numeracy skills throughout kin­        Reading and math achievement profiles and longitudinal growth
+     dergarten. Exceptional Children, 81(1), 64–78. ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​          trajectories of children with an autism spectrum disorder. Autism,
+        1​1​7​7​/​0​0​1​4​4​0​2​9​1​4​5​3​2​2​3​3​                                                19(2), 200–210. https:/​/doi.or​g/10.11​77/13​62361313516549
+Tonizzi, I., & Usai, M. C. (2024). Cognitive correlates of math abilities    Yang, M., & Liang, J. (2022). Early number word learning: Associa­
+     in autism spectrum disorder. Plos One, 19(9), e0310525. ​h​t​t​p​s​:​/​/​d​          tions with domain-general and domain-specific quantitative abili­
+         o​i​.​o​r​g​/​1​0​.​1​3​7​1​/​j​o​u​r​n​a​l​.​p​o​n​e​.​0​3​1​0​5​2​5​                                             ties. Frontiers in Psychology, 13, 1024426.  ​h​t​t​p​s​:​/​/​d​o​i​.​o​r​g​/​1​0​.​3​3​
+Viesel-Nordmeyer, N., Röhm, A., Starke, A., & Ritterfeld, U. (2022).                 8​9​/​f​p​s​y​g​.​2​0​2​2​.​1​0​2​4​4​2​6​
+   How language skills and working memory capacities explain    Zhang, X. (2016). Linking language, visual-spatial, and executive
+    mathematical learning from preschool to primary school age:          function skills to number competence in very young Chinese chil­
+     Insights from a longitudinal study. PLOS ONE, 17(6), e0270427.          dren. Early Childhood Research Quarterly, 36, 178–189.  ​h​t​t​p​s​:​/​/​
+     https:/​/doi.or​g/10.13​71/jo​urnal.pone.0270427                                                        d​o​i​.​o​r​g​/​1​0​.​1​0​1​6​/​j​.​e​c​r​e​s​q​.​2​0​1​5​.​1​2​.​0​1​0​
+Vostanis, A., Padden, C., Chiesa, M., Rizos, K., & Langdon, P. E.
+     (2021). A precision teaching framework for improving math­     Publisher’s Note  Springer Nature remains neutral with regard to juris­
+     ematical skills of students with intellectual and developmental     dictional claims in published maps and institutional affiliations.
+
+
+
+
+
+                                                                1 3

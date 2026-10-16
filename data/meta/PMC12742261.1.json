@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC12742261",
+  "version": 1,
+  "pmid": null,
+  "doi": "10.1002/alz70857_107506",
+  "mid": null,
+  "title": "Alzheimer Disease Drugs in bvFTD: Real‐World Clinical Utilization and Behavioral Impact",
+  "citation": "Alzheimers Dement. 2025 Dec 26;21(Suppl 3):e107506. doi: 10.1002/alz70857_107506",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC12742261.1/PMC12742261.1.xml?md5=af938333ec10155a4398eaae846a1ba8",
+  "text_url": "s3://pmc-oa-opendata/PMC12742261.1/PMC12742261.1.txt?md5=d8d39109adced9e1797f04fff4efec63",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12742261.1/PMC12742261.1.pdf?md5=e92642de245db81c14fed768d46632d6",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12742261.1/ALZ-21-e107506-g001.jpg?md5=5b30fc73e90a1501d1aacc5d0607bc86",
+    "s3://pmc-oa-opendata/PMC12742261.1/ALZ-21-e107506-g002.jpg?md5=dee3f9ce6ba0aef667bc1101de04ac31",
+    "s3://pmc-oa-opendata/PMC12742261.1/ALZ-21-e107506-g003.jpg?md5=69725edba9ce8d7cff697088b4331e95"
+  ]
+}

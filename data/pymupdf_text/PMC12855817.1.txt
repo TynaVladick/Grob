@@ -1,0 +1,604 @@
+    npj | precision oncology                                              Article
+
+         Published in partnership with The Hormel Institute, University of Minnesota
+
+
+
+
+
+                                                                                                       https://doi.org/10.1038/s41698-025-01249-1
+  Venetoclax resistance in preclinical
+  KMT2A-rearranged acute lymphoblastic
+  leukemia models is characterized by high
+   inter- and intra-model heterogeneity
+
+
+
+                                                                                                         Check for updates
+
+      Anna Richter   1    , Lea Kinsky1, Sandra Lange1, Nares Trakooljul2, Frieder Hadlich2, Anett Sekora1,
+      Gudrun Knuebel1,3, Saskia Krohn1,3, Christian Schmidt1, Michelle Busch1, Tim Schreiber4,
+      Simone Kumstel4, Klaus Wimmers2, Hugo Murua Escobar1,3 & Christian Junghanss1
+1234567890():,;                 1234567890():,;   The BCL-2 inhibitor venetoclax (VEN) has emerged as an important therapeutic backbone for
+       hematological malignancies, but secondary resistance is a major challenge. In acute lymphoblastic
+       leukemia (ALL), early clinical trials promise high efﬁcacy as well. However, relapse is observed
+        frequently, and so far, only a few resistance-inducing mechanisms have been discussed. We
+      employed KMT2A-rearranged ALL cell lines and xenograft models to elucidate mechanisms of VEN
+        resistance. Targeted DNA and mRNA sequencing, single-cell mRNAseq, as well as protein expression
+       analyses were conducted. All models initially responded well but ﬁnally displayed secondary
+        resistance. Novel as well as previously known pathogenic variants in tumor suppressor TP53 as well as
+       pro-apoptotic molecule BAX, but not BCL2, were observed. Gene and protein expression studies
+      demonstrated multifarious changes in resistant cells, with high inter- and intra-model heterogeneity.
+         Finally, single-cell RNA sequencing revealed a likely contribution of the tumor microenvironment in the
+      development of VEN resistance, as indicated by modulation of genes involved in cell-cell interaction
+      and humoral signaling in resistance-speciﬁc clusters. Our data demonstrate and characterize the rise
+        of VEN resistance in KMT2A-rearranged ALL models, suggesting that relapse must be expected in the
+         clinical setting and that multifactorial processes are involved in this process.
+
+
+
+         In recent years, the therapy of hematological malignancies has progressed    resistant cells differ greatly between these two entities: While most of the
+        immensely, for example, by the inclusion of immunotherapeutic approa-   VEN-resistant CLL cells harbor BCL2 mutations7, these were usually not
+         ches like bispeciﬁc antibodies1 and chimeric antigen receptor-expressing T-   observed in AML cases. Instead, the molecular landscape in VEN-resistant
+            cells2, or the development of tyrosine kinase inhibitors such as Imatinib3.  AML cells is more heterogeneous, including mutations in pro-apoptotic
+          Blasts often exhibit high expression of the anti-apoptotic molecule BCL-2,   signaling molecules BAX or BAK1, tumor suppressor TP53, or alterations of
+        which is a main member of the intrinsic apoptosis cascade and blocks cell   the FLT3 ITD domain. Also, gene and protein expression proﬁles of BCL-2
+         death in leukemic  cells4. The BCL-2 inhibitor Venetoclax (VEN) has   family members and drug transporter proteins can be deregulated8–12.
+        demonstrated great clinical efﬁcacy in the treatment of acute myeloid leu-   Consequently, clinical coping strategies vary between CLL and AML.
+        kemia (AML) and chroniclymphoblastic leukemia (CLL) and isnow partof       In acute B-lymphoblastic leukemia (B-ALL), VEN is not yet standard
+         standard care5,6. However, the majority of patients ﬁnally relapse with sec-   of care,buthasbeenevaluatedinseveralclinicalstudies.Someearlyphase1/
+        ondary VEN resistance. Interestingly, molecular and cellular patterns of   2 trials13,14 as well as preclinical investigation from our15 and other labs16,17
+
+
+
+         1Department of Internal Medicine, Clinic for Hematology, Hemostasis, Oncology, Stem Cell Therapy and Palliative Medicine, Rostock University Medical Center,
+         Ernst-Heydemann-Str. 6, 18057 Rostock, Germany. 2Research Institute for Farm Animal Biology, Wilhelm-Stahl-Allee 2, 18196 Dummerstorf, Germany. 3Institute
+          of Medical Genetics, Rostock University Medical Center, Ernst-Heydemann-Str. 8, 18057 Rostock, Germany. 4Rudolf-
+         Zenker Institute of Experimental Surgery, Rostock University Medical Center, Schillingallee 69a, 18057
+         Rostock, Germany.    e-mail: anna.richter@med.uni-rostock.de
+
+
+
+         npj Precision Oncology | (2026)10:47                                                                                        1https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+
+
+
+Fig. 1 | Induction of VEN resistance in B-ALL cell lines. A Determination of IC50   with increasing concentrations of VEN and the metabolic activity was assessed by
+concentrations for B-ALL cell lines SEM, RS4;11, REH and NALM-6 using trypan   WST-1 proliferation assay. Dose-response curves of vehicle-incubated cells (gray)
+blue staining and subsequent cell counting (proliferation), WST-1 assay (metabolic   and VEN-incubated cells (red) are depicted in joint diagrams. IC50 values were
+activity) and annexin V-FITC/propidium iodide staining (apoptosis). Nonlinear      calculated for both settings. NR, not reached.
+ﬁtting of 2-4 individual biological replicates. B Cells were continuously incubated
+
+
+
+hint at promising response rates. Secondary VEN resistance was frequently   time, continuously treated mice lost less weight and had a superior
+observed in both clinical trials, but no molecular analyses were conductedin   overall performance status (Fig. S1E).
+order to characterize the underlying mechanisms. Therefore, potential      Compared  to  controls,  especially continuously VEN-treated
+mechanisms of VEN resistance in ALL remain to be elucidated to identify   RS4;11-engrafted mice demonstrated signiﬁcantly reduced tumor
+combination strategies to avoid resistance development, detect arising    cell proliferation while effects in SEM mice were less prominent (Fig.
+resistance as early as possible or eradicate persisting clones.              2A–C). Due to therapy, the median survival was prolonged by twenty
+   To address this important subject, we used in vitro and in vivo B-ALL  and seven days in RS4;11- and SEM-derived animals, respectively (Fig.
+model systems to understand and characterize the development of VEN   2D). In line, the doubling time of leukemic blasts was signiﬁcantly
+resistance. All analyzed models initially responded well to VEN but ulti-   higher in VEN-treated animals during early stages of therapy, indi-
+mately ended up in secondary resistance. Genetic, transcriptional and   cating initial therapeutic response in both models (Fig. 2E). After
+protein proﬁling revealed high inter- and intra-model heterogeneity, sug-   prolonged inhibitor application, the tumor cell proliferation in the
+gesting multifarious mechanisms of VEN resistance.                        treated animals sped up to match or even surpass the control group.
+                                                                 This decrease of blast doubling time in the presence of continuous VEN
+Results                                                          treatment depicts the outgrowth of VEN-resistant clones. Following
+Continuous VEN application effectively abrogates leukemic       experiment termination when mice reached 30% blasts in peripheral
+blasts but induces resistance in vitro and in vivo                  blood or humane endpoints, the leukemic blast frequency was deter-
+To assess resistance mechanisms, we ﬁrst checked the basal IC50 con-  mined in bone marrow, spleen, and blood (Fig. 2F). VEN-treated and
+centrations of the B-ALL cell lines SEM, RS4;11, REH and NALM-6 using   control animals had comparable tumor  cell inﬁltration across  all
+proliferation, metabolic  activity and apoptosis  assays, demonstrating   compartments, suggesting similar kinetic and proliferation char-
+response to low nanomolar concentrations in SEM and RS4;11 cells and   acteristics between untreated and secondary resistant blasts. Tumor
+intrinsicresistanceintheREHandNALM-6celllines(Fig.1A).Continuous    cells were isolated from bone marrow and morphologically assessed
+incubation with increasing concentrations of VEN induced secondary   (Fig. 2G). Despite the establishment of VEN resistance, the persistent
+resistance indicated by elevated IC50 doses (Fig. 1B). Cell lines REH and  and thus VEN-resistant cells in VEN-treated animals exhibited severe
+NALM-6, which were considered intrinsically resistant due to high basal   morphological damage, including apoptotic bodies, disintegrated cell
+IC50 concentrations, still presented with reduced response rates following  membrane, and heavy vacuolization. Further, cell sizes of RS4;11-
+VEN application. Altogether, the data suggest that especially cell lines that   derived blasts were increased.
+expose a good initial VEN response are characterized by a high secondary       Comparable results were achieved in ﬁve patient-derived xenograft
+VEN resistance.                                                   models all harboring KMT2A rearrangements. Across all models, con-
+   We next established VEN resistance in orthotopic B-ALL xeno-   tinuous treatment delayed blast proliferation and signiﬁcantly prolonged
+graft models, focusing on KMT2A-r samples because those demon-   survival (Fig. 3A, B). However, most mice and at least one animal per tumor
+strated the highest therapeutic efﬁcacy in our recent studies15. We   model ultimately experienced VEN resistance and leukemia outgrowth.
+previously reported signiﬁcant anti-proliferative effects after in vivo  Tumor cell doubling times were increased during therapy in most settings,
+VEN exposure for three weeks (ﬁve doses per week)15. To induce VEN   with limited explanatory power for models derived from patients #0152 and
+resistance in vivo, we again used this orthotopic SEM- and RS4;11-   #0159 (Fig. 3C, D). Two out of three VEN-treated #0152-derived mice did
+derived xenograft model but decreased the application interval to three   not establish VEN resistance until the study endpoint 120 days after tumor
+doses per week. Instead of a three-week treatment period, mice were   cellinjection.For#0159-derived animals,onlyoneoutofthreeVEN-treated
+now continuously treated. Despite the increased application interval,   mice could be evaluated. Similar to the cell line models, no difference
+the continuous VEN application resulted in reduced tumor cell pro-   between engraftment location was found (Fig. 3E, F) while morphology was
+liferation compared to the previous group (Fig. S1A–D). At the same   severely impaired (Fig. 3G).
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        2https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+
+
+
+Fig. 2 | Induction of VEN resistance in SEM and RS4;11 cell line-derived B-ALL  D Kaplan–Meier survival analysis. 6–8 animals per group, Log-rank test. **p < 0.01.
+xenograft models. A Tumor cell proliferation was monitored by longitudinal full   E Relative tumor cell doubling times were calculated based on bioluminescence data
+body bioluminescence imaging. Representative images of three animals per group.    (B; early proliferation) and peripheral blood ﬂow cytometry values (C; late pro-
+Mouse IDs are given for each animal to allow for allocation of individual animals in    liferation) and compared to time-matched vehicle cohorts. Mean ± SD of 5–8 ani-
+(B, C). B Bioluminescence signals from dorsal and ventral images were quantiﬁed.   mals per group, multiple data sets per animal during the exponential growth phase.
+5–8 animals per group, each line represents an individual animal. Mice displayed in   Kolmogorov–Smirnov test. *p < 0.05; **p < 0.01; ***p < 0.001. F Determination of
+(A) are marked with the respective mouse ID. Imaging was discontinued once         blast frequency in blood, bone marrow and spleen by ﬂow cytometry when the mice
+technical signal saturation was achieved. Kolmogorov–Smirnov test for each time    reached humane endpoints (30% blasts in blood or weak performance status).
+point. *p < 0.05. C Quantiﬁcation of GFP+ tumor cell frequency in peripheral blood   Mean ± SD of 4-6 animals per group. Welch’s t test. G Isolated VEN-resistant bone
+using ﬂow cytometry. 5–8 animals per group, each line represents an individual     marrow cells were spun onto microscopic slides and Pappenheim stained. Repre-
+animal. Mice displayed in (A) are marked with the respective mouse ID.              sentative images of 5–8 mice per group, ×100 magniﬁcation.
+Kolmogorov–Smirnov test for each time point. *p < 0.05; **p < 0.01.
+
+
+
+VEN resistance is characterized by heterogeneous genetic,       changes in gene and protein expression of members of the BCL-2 signaling
+transcriptional and translational changes                           cascade or drug transporter MRP1 (coded by the ABCC1  gene)9,10,12.
+We next set out to explore the underlying mechanisms of VEN resistance in   Investigating parental and VEN-resistant cell lines as well as cell line- and
+B-ALL. Several pathways have been described in AML and CLL, mainly   patient-derived xenograft samples did not reveal deletions or insertions
+including mutations in BCL27, BAX8, TP539,11, and FLT3-ITD9 as well as   within the FLT3-ITD domain (Fig. S2). Gene expression of ABCC1, which
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        3https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+
+
+
+Fig. 3 | Induction of VEN resistance in PDX models. A Quantiﬁcation of CD45+/   marrow and spleen by ﬂow cytometry when the mice reached humane endpoints
+CD19+ tumor cell frequency in peripheral blood using ﬂow cytometry. 1–3 animals   (30% blasts in blood or weak performance status) or study endpoint (120 days post
+per group, each line represents an individual animal. B Kaplan–Meier survival      tumor cell injection). Mean ± SD of 1–3 animals per group. Kolmogorov–Smirnov
+analysis. All ﬁvePDX models were summarized. 15 animals per group, Log-rank test.     test. F Tumor cell frequency in blood, bone marrow and spleen at experiment
+*p < 0.05. C Tumor cell doubling times were calculated based on peripheral blood    termination, summary of all ﬁve PDX models. Mean ± SD of 1–3 animals per group.
+ﬂow cytometry values (A). Mean ± SD of 1–3 animals per group, multiple data sets  No statistical assessment due to animals lacking VEN resistance. G Isolated VEN-
+per animal during exponential growth phase. Unpaired t test. D Tumor cell doubling    resistant bone marrow cells were spun onto microscopic slides and Pappenheim
+times summarized for all ﬁve PDX models. Mean ± SD of 1–3 animals per group,     stained. Representative images of 1–3 mice per group, 100x magniﬁcation. No sta-
+multiple data sets per animal during exponential growth phase.                             tistic assessment of data from patients #0054 and #0152 derived models due to
+Kolmogorov–Smirnov test. E Determination of blast frequency in blood, bone       animals VEN-treated animals lacking resistance establishment.
+
+
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        4https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+Table 1 | Variants detected in BAK1, BAX, BCL2 and TP53 across VEN-resistant cell lines, CDX and PDX samples
+
+
+                                                                                                               allele frequency     allele frequency
+          Sample      Group       gene      sequence change      amino acid change
+                                                                                                           control             resistant
+           REH         cell line      BAK1        c.554_555insA       p.Asn185LysfsTer120        ND                4.31
+            RS4;11        cell line      BAX           c.68G>T               p.Gly23Val           ND                34.12
+            RS4;11        cell line      BAX          c.*577T>C             p.Ter193Arg           ND                4.95
+          PDX224    #0134-PDX     TP53         c.74+38C>G                intronic             81.93 - 83.69           98.54
+          PDX225    #0134-PDX     TP53         c.74+38C>G                intronic             81.93 - 83.69           98.59
+          PDX228    #0134-PDX     TP53         c.74+38C>G                intronic             81.93 - 83.69           97.99
+          NSG292    SEM-CDX      TP53        c.193_194insC        p.Arg65ThrfsTer84        ND                3.12
+          PDX224    #0134-PDX     TP53          c.215C>G             p.Pro72Arg            85.05 - 88.83           97.65
+          PDX225    #0134-PDX     TP53          c.215C>G             p.Pro72Arg            85.05 - 88.83           97.65
+          PDX228    #0134-PDX     TP53          c.215C>G             p.Pro72Arg            85.05 - 88.83           98.35
+          NSG283    RS4;11-CDX     TP53          c.400T>C            p.Phe134Leu          ND                33.03
+          PDX232    #0152-PDX     TP53          c.1009C>T             p.Arg337Cys          ND                48.75
+          NSG287    RS4;11-CDX     TP53        c.1100+28C>A               intronic            ND                5.81
+
+
+
+ND not detected.
+
+
+encodes the transporter protein responsible for VEN efﬂux, was also not   activator BMF while RS4;11-derived animals presented with higher MCL1
+alteredinVEN-resistantcelllinesandcellline-derived xenograftscompared   and BCL2L1 (BCL-xL) levels as well as signiﬁcantly reduced BIK transcripts
+to controls (Fig. S3). Three out of ﬁve PDX models presented with increased    (Fig. 4B). Similarly, increased BCL2 expression was observed in VEN-
+ABCC1 transcriptional activity, while in the remaining two PDX models,    resistant PDX animals (Fig. 4C). Interestingly, and in contrast to expecta-
+ABCC1 expression was decreased. Of note, intra-model heterogeneity was   tions and CDX proﬁles,  all PDX models also featured increased pro-
+high for both control and VEN-treated animals, and only one to three   apoptotic gene expression proﬁles to some extent, including BAK1, BIM,
+animals were included in each group in the PDX models. These limitations  BID and BAD. This regulation, however, was no longer present on the
+contribute to a difﬁcult overall assessment of the role of ABCC1 expression   protein level, suggesting post-transcriptional or post-translational mod-
+in VEN resistance.                                                          iﬁcation or degradation to avoid apoptosis-inducing cellular programs as a
+     Incontrast,severalgeneticvariantswereobservedintheVEN-resistant  mode of VEN resistance (Fig. S5).
+cells, especially affecting the TP53 gene (Table 1, Table S2). Importantly, the       Analyzing extended mechanisms of apoptosis, we further discovered
+p.Phe134Leu and p.Arg337Cys variants found in one RS4;11-CDX and   overall reduced caspase and TP53 expression accompanied by JUN upre-
+patient #0152-PDX mouse, respectively, are known to perturb the protein’s   gulation in RS4;11-CDX mice (Fig. 4D). This supports the apoptosis-
+function via reduction of target promoter DNA binding afﬁnity and thus   preventing transcriptional repression of pro-apoptotic genes as well as
+loss of cell cycle arrest18–20. A well-described p.Pro72Arg variant that had   increased BCL2, MCL1 and BCL2L1 expression to induce VEN resistance.
+constant allele frequencies in all three controls of PDX model #0134 was   Similarmodulations,includingFASandcaspasedownregulationandMCL1
+expanded in all corresponding VEN-resistant animals, suggesting clonal   upregulation, were observed in SEM-CDX and PDX models (Table S3). In
+evolution towards an ALL-propagating environment21. Further, in vitro   contrast, prolonged VEN incubation in the intrinsically resistant cell lines
+induction of VEN resistance resulted in two BAX mutations in RS4;11 cells  REH and NALM-6 did not change the overall gene expression proﬁle of the
+and a BAK1 frameshift insertion in the cell line REH. Overall, we observed    cells towards an eithermore or less apoptosis-preventing pattern (Table S3).
+no overlap between variants arising in resistant CDX mice and the corre-   Comparison of VEN-induced effects in cell lines and the respective CDX
+sponding in vitro cell line. These genetic analyses demonstrate high inter-   models revealed major differences between both settings, suggesting a role
+and intra-model heterogeneity.                                                for the leukemic niche and in vivo tumor microenvironment in resistance
+   To investigate  if the detected genetic aberrations resulted in tran-   mechanisms (Fig. 4E). Also, the two CDX models as well as the three PDX
+scriptional changes, we further performed panel RNAseq of 214 genes   models did not share any signiﬁcantly up- or downregulated genes,
+related to apoptosis, leukemia and resistance-related pathways (Table S2).   underlining the intertumoral heterogeneity (Fig. 4F).
+The BAK1 and BAX variants detected in the VEN-resistant cell lines REH        Further analyzing selected proteins within the BCL-2 pathway across
+andRS4;11didnotresultinrelevantchangesonthetranscriptionallevel,but   VEN-resistant cell lines, CDX and PDX models, we once again discovered
+BAXproteinexpressionwasdiminishedinVEN-resistantand BAX-mutant   high inter- and intra-model heterogeneity (Fig. S6). Individual animals
+RS4;11 cells (Fig. S4A, B). In line with reduced BAX protein expression,   presented with strongly increased or decreased protein expression. Overall,
+BAX-mutant cells were functionally impaired, as indicated by signiﬁcantly   and matching gene expression data, anti-apoptotic molecules like BCL-2,
+lower capacity for apoptosis induction (Fig. S4C). In contrast, clonal pro-  MCL-1, or BCL-xL tended to be rather upregulated, with the highest
+liferation of TP53 variants in #0134-PDX models decreased TP53 gene   changes observed in PDX models. Alterations in pro-apoptotic proteins
+expression compared to controls. In SEM- and RS4;11-CDX animals, TP53   were less prominent, but more homogenous, as indicated by a signiﬁcant
+expression wasalso reduced, but independently of arisingmutations. Effects   reduction of BAK and BIM expression in SEM-CDX mice.
+on TP53 downstream targets included altered BBC3 and BAX expression,
+but also without a clear pattern (Fig. S4D).                               Single-cell sequencing suggests a role for tumor microenviron-
+    Focusing on BCL-2 pathway signaling, we observeda high inter-model  ment in resistance development
+heterogeneity, while biological replicates in CDX and PDX models usually   Of all ﬁve PDX models investigated, patient 0134 was the only sample with
+had similar gene expression patterns. We experiencedupregulation of BCL2   complete gene and protein expression proﬁles in three biological replicates
+in both VEN-resistant CDX models, which was accompanied by increased   as well as clear delay of tumor cell proliferation during VEN treatment (Fig.
+anti-apoptotic BCL2L2 (encoding the BCL-w protein) transcripts (Fig. 4A).   S7A). Due to the various modiﬁcations observed in #0134 PDX mice,
+SEM-CDX mice were further characterized by downregulation of apoptotic   including clonal expansion of a TP53 subclone inducing reduced TP53 gene
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        5https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+
+
+
+Fig. 4|Gene expression proﬁles in CDXand PDXmodels. Each column represents   data analyzed with the WikiPathways plugin in the Transcriptome Analysis Console
+an individual animal of the respective group (vehicle, left; VEN-resistant, right).      software. E Heatmap demonstrating mean fold changes of 214 apoptosis-, leukemia-
+Boxes are shaded black where fewer animals were analyzed in one subgroup. A BCL2   and resistance-related genes in VEN-resistant samples derived from SEM and
+and BCL2L2 (BCL-w) expression patterns in CDX models. B, C Gene expression    RS4;11 cell line or CDX treatment. F Venn diagrams illustrating the number of
+proﬁles of BCL-2 pathway genes in CDX (B) and PDX (C) mice. D Apoptosis        overlapping signiﬁcantly up- or down-regulated genes in CDX (left) and PDX (right)
+pathway map including up- (red) and downregulation (green) of involved genes in   models.
+VEN-resistant RS4;11-CDX animals compared to controls based on panel RNAseq
+
+
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        6https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+expression (Fig. S7B, C) as well as upregulation of BCL2 gene and protein   However,thelackofprotectingeffectswasprobablyduetothelimitedthree-
+expression (Fig. S7D, E), we investigated this model in more detail and   dimensional architecture as well as insufﬁcient cellular complexity of the
+performedsingle-cell transcriptomics of one controland two VEN-resistant   model, which does not sufﬁciently recapitulate the bone marrow niche.
+animals.                                                          Altogether,thesedatasuggestarolefortheTMEinthedevelopmentofVEN
+    Matching gene and protein expression data, bulk analysis of BCL2   resistance that is worth further investigation.
+conﬁrmed increased gene expression in both VEN-resistant samples com-
+pared to the control (Fig. 5A). Investigating the overall transcriptional  Discussion
+proﬁles, we unexpectedly observed that one of the two VEN-resistant  VEN is successfully clinically used for several hematological malignancies,
+samples (PDX224) shared the majority of expression proﬁles with the   including AML and CLL5,6. However, high initial response rates are ham-
+control (PDX227) while the second resistant sample (PDX225) demon-   pered by the development of secondary VEN resistance, which is a major
+strated a distinct pattern (Fig. 5B). Technical issues, variable sample quality   problem resulting in leukemia relapse or progression. The mechanisms
+and batch effect were excluded. Splitting all cells into 18 clusters revealed   underlying resistance vary between CLL and AML, consequently necessi-
+speciﬁc expression proﬁles that were exclusively observedwithinthecontrol   tating different combination strategies7–12. For B-ALL, some early clinical
+and lost in both VEN-resistant samples (clusters 2 and 14). We also    trials promise high efﬁcacy as well13,14, and preclinical analyses suggest high
+determined clusters that were speciﬁc for the resistant sample PDX225   response rates also in high-risk cytogenetic subgroups  like KMT2A-
+(clusters 3, 5, and 6). Clusters 1 and 4 were mainly attributed to VEN-   rearrangedsamples15–17,22,23.Still,sevenoutofnineALLpatientsinaphase1/
+resistant sample PDX224 but also present in the other animals (Fig. 5C,   2 study who initially showed complete remission ﬁnally relapsed under
+Fig. S8A).                                                         VENandchemotherapy14.Themolecularmechanismbehindtheresistance,
+      Initially focusing on BCL2 family genes, we found that BCL2 itself was   however,  is uninvestigated, prompting us to characterize VEN  resis-
+overexpressed in clusters 3, 4, 5, and 6, which were all highly represented in   tance in ALL.
+VEN-resistantsamples.PDX225-speciﬁcclusters3,5,and6furtherfeatured      As expected, our in vitro and in vivo models experienced sec-
+increased MCL1 expression as well as downregulation of tumor-suppressive   ondary VEN resistance following initial response. On the genetic level,
+molecules BAX and BAK1 compared to the control and the other resistant  we detected several TP53 variants that are known to perturb the TSG’s
+sample PDX224 (Fig. S8B).                                                    function18–21. In line, single-cell RNA sequencing of two VEN-resistant
+     Further analyzing the speciﬁc clusters in more detail identiﬁed genes   patient #0134-derived mice revealed upregulation of genes regulating
+and pathways that were differentially regulated in VEN-resistant and con-   the cell cycle in a TP53-related manner (CENPE24, TOP2A25, NCAPG26,
+trol cells. Clusters 3, 5, and 6, which were solely expressed in VEN-resistant   KIF2C27, AURKB28, CENPF29, TPX230) in clusters exclusively expressed
+sample PDX225, demonstrated up-regulation of genes that are involved in   in VEN-resistant cells. A subset (NCAPG, KIF2C, AURKB) of those
+cell cycle regulation and transcription (Fig. 5D–G). Of note, only cluster 3   genes was also signiﬁcantly downregulated in control-speciﬁc clusters
+exhibited signiﬁcantly upregulated genes in relation to all 18 clusters. These  compared to cells that exhibited expression patterns found across all
+included cell cycle and proliferation promoters like NCAPG, DYRK1A,   samples. Further, oncogenes and proliferation-promoting players
+CDCA5, KIF2C, SMC4, AURKB, or KIF18A. Interestingly, some of these  known to facilitate leukemia like DYRK1A31, CDCA532, or SMC433 were
+genes were also signiﬁcantly downregulated in clusters 2 or 14, which are   also found overexpressed in resistance-speciﬁc clusters, suggesting a
+enriched in the vehicle sample PDX227. Moreover, these leukemic driver  VEN-induced global initiation of growth-supporting cascades. Com-
+genes were also less expressed in clusters 5 and 6 of VEN-resistant sample   binatory approaches with VEN and cell cycle modulators or inhibitors
+PDX225, suggesting that cells allocated to cluster 3 exhibit a gene signature   of DYRK1A, CDCA5, or SMC4 represent promising strategies for
+suggestive of highly proliferative, resistance-driving cells (Fig. S8C). Re-   personalized ALL treatment and should be investigated in future stu-
+analysis of the cell cycle phases in patient #0134-derived xenografts did not   dies. Due to the broad inter-model heterogeneity of VEN resistance
+reveal any signiﬁcant differences between the three VEN-resistant animals   observed in this study, it is important to individually identify patient-
+or between resistant animals and controls (Fig. S8D), although the amount   speciﬁc combination partners in order to achieve highly synergistic
+of cells in the G2/M phase was slightly lower in the VEN-treated mice.      leukemia cell abrogation.
+    Mapping signiﬁcantly upregulated genes of the VEN-resistant clusters        FurtherinvestigatingBCL-2pathway-relatedaberrations,weidentiﬁed
+3, 5, and 6 to the Reactome pathway database further revealed up-regulation   genetic variants in BAX and BAK1 in our VEN-resistant cell lines, matching
+of processes shaping the tumor microenvironment (TME) and response to   existing literature describing mutations arising in AML cells following VEN
+cellular stimuli (Fig. 5G). In contrast, transcripts that were lost in resistant   treatment8. In line, no BAX protein expression could be detected in the
+cells compared to the controls (clusters 2 and 14) included mainly factors   VEN-resistant RS4;11 cell line. Novel BAX and BAK1 alterations result in
+related  to  cell-cell  contacts  (PRSS12, MCTP1),  adhesion (PTPN14,   alterations of the transmembrane domain. This suggests that continuous
+THSD7A, TRIO) and membrane and cytoskeletal remodeling (SNTB1,  VEN application might force the leukemic cells to omit apoptosis by inhi-
+PLD1, ASPH, FMNL2). Also, some tumor suppressor genes like PTPN14,   bitionofBAX/BAKdimerizationandintegrationintheoutermitochondrial
+ZFHX3 or LST1 were signiﬁcantly down-regulated in VEN-resistant sam-   membrane. This hypothesis is underlined by the fact that BAX-mutated
+ples (Tables S4, S5).                                                  RS4;11 cells were functionally impaired and required higher VEN con-
+   To further investigate the role of the TME in more detail, we analyzed   centrations to induce apoptosis compared to BAX wild-type cells.
+the protein expression of selected cell surface molecules involved in adhe-       Also matching experiences from AML treatment, following VEN
+sion and cell-cell interaction in ﬁve different CDX and PDX models (Fig.   treatment, we found upregulation of anti-apoptotic BCL-2 family members
+S8E, F) following VEN treatment for ﬁve weeks. The overall abundance of  MCL1 and BCL-xL on transcriptional as well as protein level in some
+the molecules was heterogeneous and treatment with VEN resulted in sig-    models9,10. Interestingly, all PDX systems with increased MCL-1 expression
+niﬁcant changes in protein expression. Interestingly, different proteins were   also had higher BCL-xL protein levels than the respective controls. To
+regulated in the respective models, with CD9 (MRP-1), NOTCH1, CD148   address this feedback mechanism, a clinical study combined VEN with
+(DEP1), CD26 (DPP4) and CD54 (ICAM-1) all being inﬂuenced in at least   Navitoclax to further target BCL-xL13. Another observed mechanism of
+one system. Protein expression was usually upregulated upon VEN treat-  VEN resistance was a signiﬁcant downregulation of pro-apoptotic mole-
+ment but exceptions were observed, for example a signiﬁcant down-   cules BIM and BAK gene expression was mildly increased, suggesting once
+regulation of CD9 in VEN-treated SEM-CDX mice. Applying a simple  more that posttranslational modiﬁcations or protein degradation play a
+in vitro coculture model and incubating SEM and RS4;11 cells with VEN in   major role in BCL-2 pathway regulation. Overall correlation of gene and
+the presence or absence of human stromal bone marrow cells revealed no   protein expression of most investigated BCL-2 pathway molecules was
+inﬂuence of the feeder layer on blast proliferation and survival (Fig. S9).   rather low, including several cases where biological replicates.
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        7https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+
+
+
+Fig. 5 | Gene expression proﬁling of three patient #0134-derived xenografts using   C5, and C6 were subjected to enrichment analysis and mapped to Reactome path-
+single cell transcriptomics. PDX227 represents a vehicle-treated control animal     ways to identify signiﬁcantly regulated mechanisms. E Volcano plot visualizing the
+while PDX224 and PDX225 continuously received VEN. A Bulk analysis of key      top regulated pathways in PDX225 (Clusters 3, 5, and 6). F Boxplots demonstrating
+BCL-2 pathway genes. B UMAP plot demonstrating the expression proﬁles of the    the expression of genes allocated to the GO term Cell cycle throughout the sample-
+control (blue) and the VEN-resistant animals (reds). C Distribution of speciﬁc       speciﬁc clusters. G UMAP plot visualizing Reactome pathways associated with
+clusters across the three samples. Clusters C3, C5, and C6 of sample PDX225         signiﬁcantly upregulated genes in PDX225-speciﬁc clusters 3, 5, and 6. Larger dots
+represent the further investigated resistance-speciﬁc signatures and are therefore      indicate a higher degree of regulation, and circled dots represent the top-inﬂuenced
+highlighted. D Genes signiﬁcantly overexpressed in PDX225-speciﬁc clusters C3,     pathways.
+
+
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        8https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+    Taking together the data obtained from VEN-resistant cells on the   Coculturing and assessment of proliferation and viability
+genetic, transcriptional, and protein levels demonstrates a very high inter-  SEM or RS4;11 cells were cultivated alone or cocultured with human stro-
+and intra-model heterogeneity. This is also indicated by the fact that the   mal bone marrow cells (HS-5 cell line, ATCC, Manassas, VI, USA) and
+VEN-resistant cell lines in vitro do not resemble patterns observed in the   incubated with DMSO (control) or VEN for 72 h. Absolute cell counts were
+corresponding in vivo xenograft models, underlining the relevance and   assessedbytrypanbluestainingandsubsequentmicroscopicquantiﬁcation.
+importanceofsuitableandrealisticpreclinicalmodels.Previousstudieshave   Cells were then stained for CD19 and Annexin V to determine the ratio
+shown that orthotopic PDX do indeed recapitulate the genetic and tran-   between leukemic blasts and stromal cells as well as the viability of both
+scriptional landscape of the primary tumor to a large extent, suggesting that    cell types.
+the herein observed alterations following PDX VEN treatment might also
+occur in the clinical setting34–37.                                          In vivo model systems
+     Still,samplescollected duringclinicalapplicationusingVENinhuman   All animal experiments were approved by the review board of the federal
+ALL therapy would have increased the translational character of the study.    state Mecklenburg-Vorpommern, Germany (reference number: LALLF
+Another limitation is the small sample size with only ﬁve PDX models   MV/7221.3-1.1-063/20). Eight to twelve weeks old male and female
+investigated and a low numberof biologicalreplicates. This impedesa broad   NOD.Cg-PrkdcscidIl2rgtm1Wjl/Szj (NSG) mice were bred and housed in the
+and holistic analysis of global mechanisms of VEN resistance and requests   accredited laboratory animal Core Facility of the Rostock University
+careful interpretation of the presented results. Together with two CDX   Medical Center with access to water and standard chow ad libitum. All
+models, our cohort comprises a total of 25 controls and 19 VEN-treated   experimentswerecarriedoutinalaboratorysettingandnointerventionwas
+mice with a KMT2A-r karyotype; and even in this small group we observed   performed within the animal housing and breeding rooms. SEM and
+several different and heterogeneous potential mechanisms of VEN resis-   RS4;11 cells lentivirally transduced with GFP and luciferase (SEM–ﬂuc,
+tance on the genetic, transcriptional and translational level, even within the   RS4;11–ﬂuc)42, or primary adult ALL cells ampliﬁed in a patient-derived
+same xenograft model. These results demonstrate, although with low   xenograft (PDX) model system were used for inhibitory experiments. Pri-
+numbers of biological replicates, the extensive biological heterogeneity of  mary cells were isolated as previously described43. The study was performed
+KMT2A-r ALL samples treated with VEN.                                  in accordance to the Declaration of Helsinki and the local ethical standards
+    However, our cohort also featured some VEN-resistant mice that did   of the Rostock University Medical Center. All participants gave informed
+not exhibit any obvious changes compared to the controls. This might be   consent. Detailed patient characteristics can be retrieved from Table S6.
+due to the fact that targeted mutational and expression analyses were  Tumor cell injection, monitoring of blast counts and distribution using
+restricted to only a small subset of genes and proteins, thus missing out on   in vivo bioluminescence imaging and peripheral blood ﬂow cytometry
+relevant alterations. For example, Enzenmüller et al. recently reported  (GFP+ or CD45+/CD19+) were performed as previously described34,43–45.
+resistance-speciﬁc metabolic patterns in VEN-treated B-ALL models38.  Tumor cell doubling cell calculations were performed as explained before15.
+Another possible explanation is the involvement of the TME in resistance
+development.  Single-cell RNAseq  of  patient #0134-derived xenograft   In vivo treatment procedures and study endpoints
+sampleshintsthatTMEgenesareupregulatedinresistance-speciﬁcclusters,   For cell line-derived xenograft model systems, ﬁve to eight animals each
+and proteins responsible for cell-cell interaction were modulated across all   werecontinuouslytreatedwitheitherVENorvehicleonthreedaysperweek
+seven PDX and CDX models. Karjalainen et al. also found that in vitro co-   starting seven days after tumor cell injection (i.v., 2.5 × 106 cells per animal).
+culturing of AML blasts with stromal cells changes the cells’ dependency on   Group sizes were calculated in G*power based on expected effect sizes, a
+BCL-2, suggesting a potential microenvironment-mediated way of BCL2    statistical power of 0.8 and alpha error of 0.05. Only mice with a biolumi-
+inhibitor resistance39. Chemokine axes and mitochondrial priming further   nescence signal indicating successful tumor cell engraftment were included
+contribute to BCL-2 family protein regulation and can thus contribute to   in experiments. Randomization was performed based on sex, age, weight
+resistance development and maintenance40,41. These mechanisms are also a   and bioluminescence signal at day 7 after cell injection. Study groups were
+possible explanation of the differences observed betweenin vitro and in vivo   not blinded to the investigators. VEN was dissolved in 60% Phosal 50 PG
+models in our study.                                                         (Lipoid, Ludwigshafen, Germany), 30% PEG400 (Carl Roth, Karlsruhe,
+     Altogether, our results demonstrate multiple possible mechanisms of   Germany) and 10% ethanol and applied via oral gavage. During the ﬁrst
+VEN resistance arising in ALL xenograft models. VEN resistance appears to   week of treatment, VEN concentrations were increased according to the
+be highly heterogeneous between and within models. Finally, the role of the    clinically applied protocol, starting at 20 mg/kg body weight, and raised to
+TME should be further investigated to analyze the BCL-2-dependent   the maximum dose of 100 mg/kg body weight at day 11. For PDX models,
+crosstalk  between  leukemic  blasts  and  stromal   cells  within  the    six mice per PDX model were injected with cells derived from one patient.
+leukemic niche.                                                    Three mice each were treated with eitherVEN or vehicle as describedabove.
+                                                              Mice were monitored and weighed daily and bioluminescence imaging as
+Methods                                                                 well as peripheral blood blast frequency measurement was performed once
+Cell line cultivation and Venetoclax resistance induction           perweekaspreviouslydescribed43–45.Micewereeuthanizedbynarcotization
+HumanB—ALLcelllinesSEM,RS4;11,REH,andNALM-6werepurchased   (75 mg/kg ketamine, 5 mg/kg xylazine) followed by cervical dislocation
+from DSMZ (Braunschweig, Germany) and maintained at 37 °C and 5%  when blast frequencies reached ≥30% in blood or when mice met pre-
+CO2 in IMDM medium (SEM), Alpha MEM medium (RS4;11) or RPMI   deﬁned humane endpoints.
+medium (REH, NALM-6) supplemented with 10% heat-inactivated fetal       FortheanalysisofcellsurfacemarkersCD148, CD54, CD9, NOTCH1,
+calf serum and 100 µg/ml penicillin/streptomycin  (all PAN—biotech,   and CD26, mice were treated three times a week for ﬁve weeks, and spleen
+Aidenbach, Germany). Medium was changed twice weekly and cells were    cells were isolated when the above-mentioned criteria were reached.
+seededatadensityof3.3×105cellspermlforfurthercultivationorinhibitor
+experiments. Cells were regularly checked for authenticity (cell surface ﬂow  FLT3-ITD analysis
+cytometry) and mycoplasma contamination.                  DNA was isolated using the AllPrep DNA/RNA Mini Kit (Qiagen, Hilden,
+    For resistance induction, Venetoclax (VEN) was purchased from   Germany) according to the manufacturer’s guidelines. An endpoint PCR
+MedChemExpress (Monmouth Junction, NJ, USA) and cell culture media   using  the primers  F: GCACATTCCATTCTTACCAAACTC and  R:
+were continuously supplemented with increasing VEN concentrations  TATCTGCAGAACTGCCTATTCCTA and subsequent agarose gel elec-
+(1 nM to 2.5 µM over 15 weeks). Drug response was evaluated by WST-1   trophoresis was used to investigate insertions within the FLT3-ITD region.
+assay (Roche, Basel, Switzerland) and IC50 values were assessed via non-  The mastermix was prepared using 10x DreamTaq buffer (Thermo Fisher
+linear curve ﬁt using GraphPad Prism 8.0.2.                                   Scientiﬁc, Waltham, MA, USA), 0.0625 U DreamTaq (Thermo Fisher
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                        9https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+Scientiﬁc), 0.2 mM of each dNTP (Hersteller), 0.5 µM of each primer   single Cell 3’ Reagent Kits v3.1, dual index (10x Genomics, Pleasanton, CA,
+(Euroﬁns, Ebersberg, Germany) and 100 ng of DNA in a total volume of  USA) according to the manufacturer’s guidelines. Brieﬂy, approximately
+50 µl.ThePCRprotocolcommencedwithaninitialdenaturationof4 minat   10,000 cells were loaded onto a chip to generate Gel Beads-in-emulsion
+95 °C followed by thirty cycles of 95 °C for 30 sec, 56 °C for 45 sec and 72 °C  (GEMs) reactions using the Chromium Single Cell Controller version 4.0.
+for 30 sec and terminated by a ﬁnal elongation step of 72 °C for 5 min. PCR  The cDNA samples and ﬁnal libraries were quality-checked for fragment
+products were loaded on a 3.5% agarose/TAE buffer (Biozym, Hessisch    size distribution on Agilent Bioanalyzer High Sensitivity Chip. The libraries
+Oldendorf, Germany) gel and stained with Roti-Safe Gel Stain (Carl Roth,   were normalized to a ﬁnal concentration of 650 pM and paired-end
+Karlsruhe, Germany). Electrophoresis was carried out at 160 V for 1 h.      sequenced (Read1 for 28cycles, i7-Index for 10 cycles, i5-Index for 10 cycles
+                                                             and Read2 for 90 cycles) on the NextSeq 2000 system (Illumina) at the NGS
+ABCC gene expression analysis                                                facility of the Research Institute for Farm Animal Biology (FBN), Germany.
+RNA isolation was carried out using the AllPrep DNA/RNA Mini Kit      Raw reads (fastq) were demultiplexed and generated using dragen bcl
+(Qiagen) and followed by cDNA synthesis facilitating High-Capacity   convertv3.10.11.Thedatawereprocessedusingnf-core/scrnaseqpipeline46.
+cDNA Reverse Transcription Kit (Thermo Fisher Scientiﬁc) according   CellRangerv7.1.0wasused foralignmentofthedata tothe GRCh38human
+to the manufacturer’s guidelines. Gene expression was measured in   reference genome (Ensembl, version 109) and generation of count matrix.
+technical triplicates in a ViiA7 Real Time PCR system (Applied Bio-  QC matrices and cell selection and ﬁltration were carried out using Seurat47.
+systems, Foster City, USA) using the TB Green™Premix Ex Taq™II   Data were further processed using Azimuth and the Loupe Browser soft-
+mastermix (Takara Bio Europe, Saint-Germain-en-Laye, France),   ware (version 8.1, 10X Genomics). Enrichment analyses were conducted
+0.4 µM  primers  (ABCC1-F: TTACTCATTCAGCTCGTCTTGTC;   using the Enrichr pipeline48–50. Raw data can be retrieved from the European
+ABCC1-R: CAGGGATTAGGGTCGTGGAT; GAPDH-F: CTGCAC-   Bioinformatics Institute’s (EBI) platform BioStudies (accession number E-
+CACCAACTGCTTAG;  GAPDH-R:  GTCTTCTGGGTGGCAGT-   MTAB-14805).
+GAT) and 20 ng cDNA in a ﬁnal volume of 20 µl. The PCR consisted of
+30 sec initial denaturation at 95 °C followed by 40 cycles of 5 s dena-  Flow cytometric TME marker proﬁling
+turation at 95 °C and 30 s annealing/elongation at 60 °C. ABCC1 gene   For quantiﬁcation of CD148, CD54, CD9, NOTCH1, and CD26, mice were
+expression was normalized to sample-matching GAPDH housekeeping   euthanized and spleen cells were isolated as previously described34. Cells
+gene values.                                                      were harvested and washed in cold PBS, ﬁxed in methanol-free 4% for-
+                                                               maldehyde for 15 min and washed twice in PBS before permeabilization in
+Targeted DNA panel sequencing                                        ice-cold 90% methanol for 30 min. After two steps of PBS washing, cells
+GenomicDNA(gDNA)wasisolatedusingtheAllPrepDNA/RNAMiniKit   were blocked in antibody dilution buffer for 10 min and incubated with the
+(Qiagen) according to the manufacturer’s guidelines. Full gene sequencing   antibodies listed in Table S8 for 35 min at room temperature. Cells were
+of BCL2, BAX, BAK1 and TP53 was performed by sequencing with an   again washed twice in antibody dilution buffer and analyzed using the
+AmpliSeq Custom DNA panel (Thermo Fisher Scientiﬁc). Per primer pool,   FACSLyric™device (BD, Heidelberg, Germany) with FACSuite™software
+10 ng of gDNA were ampliﬁed in a 21 cycle multiplex PCR. Library   (BD; version 1.0.6.5230).
+quantiﬁcation was performed via a Taqman-based real-time PCR using the
+Ion  Library TaqMan™Quantitation  Kit (Thermo  Fisher  Scientiﬁc)   Statistical analyses
+according to the manufacturer’s instructions. Templating and chip loading   All values are expressed as mean ± standard deviation (SD). Gaussian
+were accomplished using an Ion Chef™instrument (Thermo Fisher Scien-   normal distribution was tested in  all cases, determining the following
+tiﬁc). Sequencing runs were conducted on an Ion GeneStudio S5 Plus sys-   parametric or non-parametric with post hoc test. The exact test is indicated
+tem (Thermo Fisher Scientiﬁc). For data analysis, the human genome   in the respective ﬁgure legends. Kaplan–Meier curves and respective sta-
+assembly hg19 was used as the alignment reference sequence. Amplicon    tistics were applied to estimate survival beneﬁts. Statistical analyses were
+coverageandvariantcallingwereanalyzedusingtheTorrentSuite™software   performed using GraphPad PRISM software (version 8). Statistical sig-
+(v5.18.1) and the corresponding allele frequencies were determined using   niﬁcance was deﬁned as *p < 0.05, **p < 0.01 and ***p < 0.001.
+the Ion Reporter™Software (v5.20.8.0) (both Thermo Fisher Scientiﬁc).
+Relevant variants were further investigated and screened for listing in  Data availability
+dbSNP and ClinVar databases.                                              All raw data are available from the corresponding author upon reasonable
+                                                                               request. Single-cell sequencing raw data ﬁles can be retrieved from the
+Targeted RNA panel sequencing                                European Bioinformatics Institute’s (EBI) platform BioStudies (accession
+RNA isolation was carried out using the AllPrep DNA/RNA Mini Kit  number E-MTAB-14805).
+(Qiagen) according to the manufacturer’s guidelines. RNA panel
+sequencing was performed as previously described15. Genes relevant   Received: 20 August 2025; Accepted: 11 December 2025;
+for either apoptotic processes or involved in leukemic signaling were
+included in the panel. A list of the 214 genes investigated can be
+retrieved from Table S1.                                 References
+                                                                                 1.   Topp, M. S. et al. Phase II trial of the anti-CD19 bispeciﬁc T cell-
+Immunoblotting                                                    engagerblinatumomab showshematologic andmolecularremissions
+Protein lysates were prepared using Ripa buffer including protease and         in patients with relapsed or refractory B-precursor acute
+phosphatase inhibitors (both Cell Signaling Technology, Danvers, MA,        lymphoblastic leukemia. J. Clin. Oncol. 32, 4134–4140 (2014).
+USA) and quantiﬁed by Bradford assay. Proteins were separated, blotted,   2.  Maude, S. L. et al. Tisagenlecleucel in Children and Young Adults with
+imaged and quantiﬁed as previously described44. All antibodies and dilu-        B-Cell Lymphoblastic Leukemia. N. Engl. J. Med. 378, 439–448
+tions are listed in Table S7. Uncropped immunoblots are available in the        (2018).
+supplemental material section.                                                 3.   Ottmann, O. G. et al. A phase 2 study of imatinib in patients with
+                                                                           relapsed or refractory Philadelphia chromosome-positive acute
+Single-cell transcriptomics                                           lymphoid leukemias. Blood 100, 1965–1971 (2002).
+Tumor cells isolated from the spleens of PDX animals were washed and   4.   Valentin, R., Grabow, S. & Davids, M. S. The rise of apoptosis:
+diluted to 1 × 106 cells per ml in PBS/0.04% BSA. The Single Cell 3´ Gene        targeting apoptosis in hematologic malignancies. Blood 132,
+Expression libraries were constructed using the Chromium Next GEM       1248–1264 (2018).
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                       10https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+
+5.   DiNardo, C. D. et al. Azacitidine and venetoclax in previously           26.  Jia, Y. et al. Identiﬁcation of NCAPG as an essential gene for
+     untreated acute myeloid leukemia. N. Engl. J. Med. 383, 617–629          neuroblastoma employing CRISPR-Cas9 Screening Database and
+     (2020).                                                                experimental veriﬁcation. Int. J. Mol. Sci. 24 (2023).
+6.   Roberts, A. W. et al. Targeting BCL2 with venetoclax in relapsed       27. Gwon, M.-R., Cho, J. H. & Kim, J.-R. Mitotic centromere-associated
+     chronic lymphocytic leukemia. N. Engl. J. Med. 374, 311–322 (2016).       kinase (MCAK/Kif2C) regulates cellular senescence in human primary
+7.   Blombery, P. et al. Multiple BCL2 mutations cooccurring with                 cells through a p53-dependent pathway. FEBS Lett. 586, 4148–4156
+    Gly101Val emerge in chronic lymphocytic leukemia progression on          (2012).
+     venetoclax. Blood 135, 773–777 (2020).                              28.  Qi, J. et al. Selective inhibition of Aurora A and B kinases effectively
+8.   Moujalled, D. M. et al. Acquired mutations in BAX confer resistance to       induces cell cycle arrest in t(8;21) acute myeloid leukemia. Biomed.
+    BH3-mimetic therapy in acute myeloid leukemia. Blood 141, 634–644       Pharmacother. 117, 109113 (2019).
+     (2023).                                                              29.  Shi, M. et al. Upregulated mitosis-associated genes CENPE, CENPF,
+9.   DiNardo, C. D. et al. Molecular patterns of response and treatment        and DLGAP5 predict poor prognosis and chemotherapy resistance of
+      failure after frontline venetoclax combinations in older patients with        Acute Myeloid Leukemia. Cancer biomarkers 35, 11–25 (2022).
+    AML. Blood 135, 791–803 (2020).                                    30. Byrum, A. K. et al. Mitotic regulators TPX2 and Aurora A protect DNA
+10.  Chyla, B. et al. Genetic biomarkers of sensitivity and resistance to           forks during replication stress by counteracting 53BP1 function. J.
+    venetoclax monotherapy in patients with relapsed acute myeloid            Cell Biol. 218, 422–432 (2019).
+     leukemia. Am. J. Hematol. 93, E202–E205 (2018).                     31.  Li, Y. et al. DYRK1a mediates BAFF-induced noncanonical NF-κB
+11.  Nechiporuk, T.et al.TheTP53apoptoticnetworkisa primarymediator        activation to promote autoimmunity and B-cell leukemogenesis.
+     of resistance to BCL2 inhibition in AML cells. Cancer Discov. 9,           Blood 138, 2360–2371 (2021).
+    910–925 (2019).                                                     32.  Grothusen, G. P. et al. DCAF15 control of cohesin dynamics sustains
+12.  Ebner, J. et al. ABCC1 and glutathione metabolism limit the efﬁcacy of       acute myeloid leukemia. Nat. Commun. 15, 5604 (2024).
+    BCL-2 inhibitors in acute myeloid leukemia. Nat. Commun. 14, 5709   33. Peng, L. et al. Structural maintenance of chromosomes 4 is required
+     (2023).                                                                             for leukemia stem cell maintenance in MLL-AF9 induced acute
+13.  Pullarkat, V. A. et al. Venetoclax and navitoclax in combination with        myeloid leukemia. Leuk. Lymphoma 59, 2423–2430 (2018).
+    chemotherapy in patients with relapsed or refractory acute            34.  Richter, A. et al. The molecular subtype of adult acute lymphoblastic
+    lymphoblastic leukemia and lymphoblastic lymphoma. Cancer             leukemia samples determines the engraftment site and proliferation
+     Discov. 11, 1440–1453 (2021).                                                kinetics in patient-derived xenograft models. Cells 11, 1–22 (2022).
+14.  Short,N. J. etal. Aphase1/2studyof mini-hyper-CVDplusvenetoclax   35.  Richter-Pechańska, P. et al. PDX models recapitulate the genetic and
+      in patients with relapsed/refractory acute lymphoblastic leukemia.          epigenetic landscape of pediatric T-cell leukemia. EMBO Mol. Med.
+    Blood Adv. 8, 909–915 (2024).                                            10, 1–13 (2018).
+15.  Richter, A. et al. Effective tumor cell abrogation via Venetoclax-        36.  Uzozie, A. C. et al. PDX models reﬂect the proteome landscape of
+    mediated BCL-2 inhibition in KMT2A-rearranged acute                      pediatric acute lymphoblastic leukemia but divert in select pathways.
+    B-lymphoblastic leukemia. Cell Death Discov. 8 (2022).                        J. Exp. Clin. Cancer Res. 40, 1–24 (2021).
+16.  Seyfried, F. et al. Prediction of venetoclax activity in precursor B-ALL   37.  Woiterski, J. et al. Engraftment of low numbers of pediatric acute
+    by functional assessment of apoptosis signaling. Cell Death Dis. 10        lymphoid and myeloid leukemias into NOD/SCID/IL2Rcγnull mice
+     (2019).                                                                  reﬂects individual leukemogenecity and highly correlates with clinical
+17.  Benito, J. M. et al. MLL-rearranged acute lymphoblastic leukemias       outcome. Int. J. Cancer 133, 1547–1556 (2013).
+     activate BCL-2 through H3K79 methylation and are sensitive to the   38.  Enzenmüller, S. et al. Venetoclax resistance in acute lymphoblastic
+    BCL-2-speciﬁc antagonist ABT-199. Cell Rep. 13, 2715–2727            leukemia is characterized by increased mitochondrial activity and can
+     (2015).                                                       be overcome by co-targeting oxidative phosphorylation. Cell Death
+18.  Bullock, A. N., Henckel, J. & Fersht, A. R. Quantitative analysis of            Dis. 15, 475 (2024).
+     residual folding and DNA binding in mutant p53 core domain:          39.  Karjalainen, R. et al. JAK1/2 and BCL2 inhibitors synergize to
+     deﬁnition of mutant states for rescue in cancer therapy. Oncogene 19,       counteract bone marrow stromal cell-induced protection of AML.
+    1245–1256 (2000).                                                Blood 130, 789–802 (2017).
+19.  Jansson, M. et al. Arginine methylation regulates the p53 response.    40. Gómez, A. M. et al. Chemokines and relapses in childhood acute
+     Nat. Cell Biol. 10, 1431–1439 (2008).                                     lymphoblastic leukemia: a role in migration and in resistance to
+20.  Kato, S. et al. Understanding the function-structure and function-           antileukemic drugs. Blood Cells. Mol. Dis. 55, 220–227 (2015).
+    mutation relationships of p53 tumor suppressor protein by high-       41.  Chiron, D. et al. Rational targeted therapies to overcome
+     resolution missense mutation analysis. Proc. Natl. Acad. Sci. USA.         microenvironment-dependent expansion of mantle cell lymphoma.
+    100, 8424–8429 (2003).                                            Blood 128, 2808–2818 (2016).
+21.  Tian, X., Dai, S., Sun, J., Jiang, S. & Jiang, Y. Association between     42.  Terziyska, N. et al. In vivo imaging enables high resolution preclinical
+    TP53 Arg72Pro polymorphism and leukemia risk: a meta-analysis of        trialsonpatients’leukemiacells growinginmice.PLoSONE7, e52798
+    14 case-control studies. Sci. Rep. 6, 24097 (2016).                           (2012).
+22. Cheung, L. C. et al. Preclinical efﬁcacy of azacitidine and venetoclax   43.  Roolf, C. et al. Decitabine demonstrates antileukemic activity in B cell
+     for infant KMT2A-rearranged acute lymphoblastic leukemia reveals a        precursor acute lymphoblastic leukemia with MLL rearrangements. J.
+   new therapeutic strategy. Leukemia https://doi.org/10.1038/s41375-       Hematol. Oncol. 11, 62 (2018).
+    022-01746-3 (2022).                                                 44.  Richter, A. et al. Combined Casein Kinase II inhibition and epigenetic
+23. Khaw, S. L. et al. Venetoclax responses of pediatric ALL xenografts        modulation in acute B-lymphoblastic leukemia. BMC Cancer 19, 202
+     reveal sensitivity of MLL-rearranged leukemia. Blood 128, 1382–1395        (2019).
+     (2016).                                                              45.  Richter, A. et al. Inﬂuence of Casein kinase II inhibitor CX-4945 on
+24.  Liu, S. et al. RUNX1 Upregulates CENPE to promote leukemic cell         BCL6-mediated apoptotic signaling in B-ALL in vitro and in vivo. BMC
+     proliferation. Front. Mol. Biosci. 8, 692880 (2021).                      Cancer 20, 184 (2020).
+25. Chen, T., Sun, Y., Ji, P., Kopetz, S. & Zhang, W. Topoisomerase IIα in   46. Marques de Almeida, F. et al. nf-core/scrnaseq: 4.0.0. at (2025).
+    chromosome instability and personalized cancer therapy. Oncogene   47. Hao, Y. et al. Dictionary learning for integrative, multimodal and
+     34, 4019–4031 (2015).                                                    scalable single-cell analysis. Nat. Biotechnol. 42, 293–304 (2024).
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                       11https://doi.org/10.1038/s41698-025-01249-1                                                                             Article
+
+48. Chen, E. Y. et al. Enrichr:interactive and collaborative HTML5gene list  Funding
+    enrichment analysis tool. BMC Bioinformatics 14, 128 (2013).        Open Access funding enabled and organized by Projekt DEAL.
+49.  Kuleshov, M. V. et al. Enrichr: a comprehensive gene set enrichment
+     analysis web server 2016 update. Nucleic Acids Res. 44, W90–W97  Competing interests
+     (2016).                                                    The authors declare no competing interests.
+50.  Xie, Z. et al. Gene set knowledge discovery with Enrichr. Curr. Protoc.
+     1, e90 (2021).                                          Additional information
+                                                              Supplementary information The online version contains
+Acknowledgements                                            supplementary material available at
+The authors would like to thank Prof. Irmela Jeremias for providing transduced   https://doi.org/10.1038/s41698-025-01249-1.
+SEM-ﬂucandRS4;11-ﬂuccelllines.WewouldliketothanktheCoreFacilityfor
+Cell sorting and cell analysis, the Core Facility for Animal housing and the Core   Correspondence and requests for materials should be addressed to
+Facility of Multimodal small animal imaging of the Rostock University Medical   Anna Richter.
+Center for excellent cooperation. This project was ﬁnancially supported by the
+German Federal Ministry of Education and Research (BMBF, Grant No.        Reprints and permissions information is available at
+16LW0298), the Krebsgesellschaft Mecklenburg-Vorpommern, the Rostock    http://www.nature.com/reprints
+University Medical Center (FORUN grant) and the Lieselotte Beutel-Stiftung.
+A.R. is a fellow of the Medical Scientist program of the Rostock School of      Publisher’s note Springer Nature remains neutral with regard to
+Oncology(ROSSO)andtheElseHirschbergprogramoftheRostockUniversity    jurisdictional claims in published maps and institutional afﬁliations.
+Medical Center. C.S. is a fellow of the Clinician Scientist program of the
+Comprehensive Cancer Center Mecklenburg-Vorpommern.              Open Access This article is licensed under a Creative Commons
+                                                                                Attribution 4.0 International License, which permits use, sharing,
+Author contributions                                               adaptation, distribution and reproduction in any medium or format, as long
+A.R. and C.J. conceptualized the study. A.R., S.L., N.T., F.H., S.K.R., and      as you give appropriate credit to the original author(s) and the source,
+H.M.E. provided all necessary methodology. N.T., F.H., K.W., S.K.R., and      provide a link to the Creative Commons licence, and indicate if changes
+H.M.E. provided software. Data validation was conducted by A.R., S.L.,       were made. The images or other third party material in this article are
+H.M.E., and C.J. A.R., S.L., N.T., and F.H. performed formal analysis. All        included in the article’s Creative Commons licence, unless indicated
+investigation and experimentation were carried out by A.R., S.L., N.T., F.H.,     otherwise in a credit line to the material. If material is not included in the
+L.K., C.S., A.S., G.K., S.K.R., M.B., T.S., and S.K.U. Resources were provided    article’s Creative Commons licence and your intended use is not permitted
+by A.R., N.T., C.S., K.W., H.M.E., and C.J. A.R., N.T., F.H., S.K.U., and H.M.E.   by statutory regulation or exceeds the permitted use, you will need to
+took care of data curation. A.R. wrote the original draft and visualized the data.   obtain permission directly from the copyright holder. To view a copy of this
+A.R., S.L., S.K.R., S.K.U., T.S., F.H., N.T., K.W., H.M.E., and C.J. reviewed and   licence, visit http://creativecommons.org/licenses/by/4.0/.
+edited the manuscript. A.R., N.T., H.M.E., and C.J. supervised the study. A.R.
+was responsible for project administration and funding acquisition.       © The Author(s) 2025
+
+
+
+
+
+npj Precision Oncology | (2026)10:47                                                                                       12

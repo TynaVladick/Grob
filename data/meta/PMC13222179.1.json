@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC13222179",
+  "version": 1,
+  "pmid": 39888554,
+  "doi": "10.1007/s10803-025-06726-x",
+  "mid": null,
+  "title": "What Predicts Early Math in Autism? A Study of Cognitive and Linguistic Factors",
+  "citation": "J Autism Dev Disord. 2025 Jan 31;56(6):2136–47. doi: 10.1007/s10803-025-06726-x",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13222179.1/PMC13222179.1.pdf?md5=7b4e2a83a486c25ec5e90a9481bb8cc6",
+  "xml_url": "s3://pmc-oa-opendata/PMC13222179.1/PMC13222179.1.xml?md5=019d5f59894f9164122013fda1343cb1",
+  "text_url": "s3://pmc-oa-opendata/PMC13222179.1/PMC13222179.1.txt?md5=6e5f6680872656a65f5603df7fa20868",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13222179.1/10803_2025_6726_Fig1_HTML.jpg?md5=11ba82d6d10a2a3412b5faf644a9ac2c",
+    "s3://pmc-oa-opendata/PMC13222179.1/10803_2025_6726_Fig2_HTML.jpg?md5=95bf39eb52a22c04376f9770a15ae88e"
+  ]
+}

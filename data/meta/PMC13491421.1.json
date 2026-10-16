@@ -1,0 +1,27 @@
+{
+  "pmcid": "PMC13491421",
+  "version": 1,
+  "pmid": 42638710,
+  "doi": "10.3389/ftubr.2025.1622167",
+  "mid": null,
+  "title": "Optimizing use of data and evidence-related tools to complement routine surveillance systems for tuberculosis program planning",
+  "citation": "Front Tuberc. 2025 Jul 17;3:1622167. doi: 10.3389/ftubr.2025.1622167",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13491421.1/PMC13491421.1.pdf?md5=5f454756fdf690a2a4f3a2c714e35dd4",
+  "xml_url": "s3://pmc-oa-opendata/PMC13491421.1/PMC13491421.1.xml?md5=9891080d2d2a8f13391bdb45aba1a848",
+  "text_url": "s3://pmc-oa-opendata/PMC13491421.1/PMC13491421.1.txt?md5=8ce3e429de61e2a0ada2d648ec298ce0",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13491421.1/Table_1.docx?md5=d8bd7c8033d729b173f9cfab777b6fea",
+    "s3://pmc-oa-opendata/PMC13491421.1/Table_2.docx?md5=beb252eed2456ec5b0c5b437de35c182",
+    "s3://pmc-oa-opendata/PMC13491421.1/Table_3.docx?md5=57d07c9b3e5a339d47a465fffe82f8c2",
+    "s3://pmc-oa-opendata/PMC13491421.1/Table_4.docx?md5=af254b7d6a9565a5b2e62b8097ea3a53",
+    "s3://pmc-oa-opendata/PMC13491421.1/Table_5.doc?md5=c889b468f4026b068e65c5880fdd8ce9",
+    "s3://pmc-oa-opendata/PMC13491421.1/ftubr-03-1622167-g0001.webp?md5=a4dc9efd65c124fece5c7f91506b1fb5",
+    "s3://pmc-oa-opendata/PMC13491421.1/ftubr-03-1622167-g0002.webp?md5=7febffd4a93c8d8020f5edaa7edbb736",
+    "s3://pmc-oa-opendata/PMC13491421.1/ftubr-03-1622167-g0003.webp?md5=610aa3408b79503720397396bb2a11f7"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC13539586",
+  "version": 1,
+  "pmid": 40917023,
+  "doi": "10.2174/0115665232386151250812105845",
+  "mid": null,
+  "title": "Unraveling Etiological Indications and Therapeutic Implications of Familial Cerebral Cavernous Malformations in the Dawn of Gene Therapy for Monogenic Conditions",
+  "citation": "Curr Gene Ther. 2025 Aug 19;26(3):E15665232386151. doi: 10.2174/0115665232386151250812105845",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13539586.1/PMC13539586.1.pdf?md5=a4eebd3f58c1ba7db1bb41e68722ddb3",
+  "text_url": "s3://pmc-oa-opendata/PMC13539586.1/PMC13539586.1.txt?md5=b02fc43052c2e0f19df2d800c95420bd",
+  "xml_url": "s3://pmc-oa-opendata/PMC13539586.1/PMC13539586.1.xml?md5=c9608ab48ff25c07d51be9fb8556bcc1",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13539586.1/CGT-26-3-E15665232386151_F1.webp?md5=e688510ededd7178e021a2e6d6676be6",
+    "s3://pmc-oa-opendata/PMC13539586.1/CGT-26-3-E15665232386151_F2.webp?md5=66a20eaf7bbb965b137a50de07713562",
+    "s3://pmc-oa-opendata/PMC13539586.1/CGT-26-3-E15665232386151_F3.webp?md5=c5ebaa5fb698fcadae0346d06ddf7b5f"
+  ]
+}

@@ -1,0 +1,587 @@
+Folia Microbiologica (2026) 71:863–874
+https://doi.org/10.1007/s12223-025-01289-x
+
+ ORIGINAL ARTICLE
+
+
+Unveiling a sustainable approach to cancer treatment: the antitumor
+activity of amygdalin and cell‑free supernatant of Lacticaseibacillus
+rhamnosus
+
+Omnia Karem M. Riad1     · Hagar F. Forsan2     · Basma Abdulsamad3     · Heba Mohammed Refat M. Selim4     ·
+Wafaa S. Khalaf1 
+
+
+Received: 25 January 2025 / Accepted: 18 June 2025 / Published online: 10 July 2025
+© The Author(s) 2025
+
+Abstract
+The pharmaceutical industry increasingly prioritizes environmental sustainability across its strategies, focusing on devel-
+oping eco-friendly anti-cancer treatments. This is particularly important considering many anti-cancer drugs are not fully
+metabolized and pollute aquatic ecosystems. Amygdalin, a plant-derived compound, and cell-free supernatants (CFS) of
+Lacticaseibacillus rhamnosus show promise as sustainable anti-cancer agents. This study evaluated the potential anti-cancer
+activity of amygdalin and L. rhamnosus CFS against MCF-7 and A549 cancer cell lines. Cell viability was assessed using
+the MTT assay in response to monotherapy and combination therapy treatments. The induction of apoptosis was investigated
+using flow cytometric analyses. The combination demonstrated a synergistic effect on MCF-7 and A549 cell lines, with a
+combination index (CI) value of 0.8159 ± 0.0245 and 0.6422 ± 0.0316, respectively. Further analysis using propidium iodide
+(PI) staining and Annexin V confirmed increased apoptosis in combination-treated cells compared to those treated with
+amygdalin alone. These findings suggest that the combination of amygdalin and CFS of L. rhamnosus exhibits a synergistic
+anti-cancer effect against MCF-7 and A549 cells. Therefore, this combination is considered sustainable, eco-friendly, and
+effective anti-cancer treatment. This is the first study to investigate the anti-cancer effect of amygdalin in combination with
+L. rhamnosus cell-free supernatant (CFS) while considering its potential for environmental sustainability. Further research
+in a xenograft animal model is warranted to validate these findings.
+
+Keywords  Amygdalin · Cancer treatment · Cell-free supernatant of Lacticaseibacillus rhamnosus · Environmental
+sustainability
+
+Introduction                                             frequently not eliminated by wastewater treatment plants,
+                                                         posing a threat to aquatic microbial communities and, con-
+Despite advancements in cancer treatment, the disease    sequently, being harmful to humans (Li et al. 2021).
+remains a leading cause of mortality. Tolerance and adher-      Another neglected issue in producing new drugs is the
+ence are further hampered by the toxicity of traditional    conservation of environmental resources. Integrating sus-
+medicines. Furthermore, both classical and new cancer treat-    tainability principles into the pharmaceutical industry’s
+ment techniques (chemotherapy, surgery, radiation, immu-    microbial processes and product development presents sig-
+notherapy, and targeted therapy) have adverse effects that     nificant challenges and has slowly been gaining popularity.
+negatively affect the quality of human life (Mun et al. 2018;   As a result, the search for new sustainable, effective, and
+Khalaf et al. 2019). Anti-cancer medicines are often poorly    eco-friendly anti-cancer treatments is necessary (Mun et al.
+digested, and patients expel them unaltered into their urine    2018; Wynendaele et al. 2021).
+and feces (Turci et al. 2003; Johnson et al. 2008; Moham-      Amygdalin is one of the promising plant-derived com-
+med et al. 2024). This means that these drugs leak into the   pounds with claimed anti-cancer activity. Amygdalin, a
+aquatic environment, as several anti-cancer medications are    cyanogenic glycoside, is a naturally occurring compound
+                                                       found in almonds and other Rosaceae plant seeds, primarily
+                                                                 in apricot and almond kernels (He et al. 2020). Amygdalin,
+Extended author information available on the last page of the article     a cyanogenic diglucoside, has grown in popularity among
+
+
+                                                                                                                                      Vol.:(0123456789)864                                                                                                                   Folia Microbiologica (2026) 71:863–874
+
+cancer patients as a supplement to or replacement for tra-    immunologic, and defensive processes further contributes to
+ditional therapies. Nonetheless, evidence-based research is    delaying carcinogenesis. For instance, metabolites secreted
+scarce on amygdalin, and its benefits are debatable (Blaheta    by Lactobacillus plantarum YYC-3 inhibit colon cancer cell
+et al. 2016). In vitro studies have demonstrated the anti-    dissemination by suppressing the VEGF-MMP2/9 signaling
+proliferative effects of amygdalin on various cancer cell lines    pathway (Yue et al. 2020).
+(Sireesha et al. 2019). However, statements published by      Research has demonstrated that L. delbrueckii subsp. lac-
+the FDA in the late 1970 s on a patient study (Rosen 1979)     tis suppresses gynecological cancer progression by inhibit-
+contradicted this. Since then, numerous studies have been    ing SiHa cell proliferation and inducing apoptosis (Bi et al.
+published proving both the medicinal, particularly anti-can-    2023). Similarly, Lactiplantibacillus plantarum exerts selec-
+cer, benefits of amygdalin and the toxicity associated with    tive cytotoxicity against KB and OSCC cancer cell lines,
+excessive ingestion of bitter almond-containing amygdalin    triggering apoptosis without significant harm to healthy cells
+(Jaszczak-Wilke et al. 2021). Several studies have stated that   (Nami et al. 2024; Wonglapsuwan et al. 2024).
+amygdalin has anti-cancer, anti-inflammatory, anti-athero-     Due to their selective cytotoxicity against cancer cells
+sclerotic, and antifibrotic activity. It also has immunomod-   and minimal impact on normal cells, Lactobacillus spp.
+ulatory and analgesic properties and can improve cardiac    are promising nutraceutical agents for cancer treatment
+hypertrophy, neurodegeneration, and blood glucose levels   (Nami et al. 2024). This study investigates the combined
+(He et al. 2020). Furthermore, research indicates that the    use of two sustainable green compounds: amygdalin and
+toxicity of amygdalin arises primarily from the release of     cell-free supernatant (CFS) from Lacticaseibacillus rham-
+benzaldehyde and hydrogen cyanide upon oral ingestion.    nosus (formerly L. rhamnosus ATCC 7469), which exhibit
+Intravenous administration exhibits significantly lower tox-    diverse biological activities (Wonglapsuwan et al. 2024). We
+icity compared to oral ingestion. Furthermore, a daily oral    evaluated their anti-cancer effects on MCF-7 and A549 cell
+dose of 0.6 to 1 g appears well tolerated (He et al. 2020).        lines, quantifying cell viability via flow cytometry. Addition-
+   In the current study, we investigated amygdalin for its     ally, we optimized the combination of IC50 doses of both
+potential anti-cancer activity, given its common use as a   compounds to maximize anti-cancer efficacy at minimal
+complementary and alternative medicine (CAM) among    concentrations.
+patients and healers. The selection of amygdalin was moti-
+vated by the well-documented dissatisfaction of patients
+with conventional chemotherapeutics, leading a high per-   Materials and methods
+centage (50–90%) of cancer patients to seek CAM options,
+as reported in Polish, French, Swedish, and German stud-   Amygdalin (vitamin B17)
+ies (Renet et al. 2021; Jędrzejewska et al. 2021; Källman
+et al. 2023; Stöcker et al. 2023). Notably, a German survey                                                   99.5% Organic amygdalin vegetarian (100% Apricot Kernel
+conducted among physicians and healers found that 66%                                                              Extract) was purchased as 100 mg capsule from Wellness
+of respondents purchased amygdalin from pharmacies, with                                                                Extract, USA.
+many encouraging its use. Clinical data revealed that intra-
+venous amygdalin administration achieved 90% disease pro-                                                        Bacterial culturesgression prevention and 55% symptom relief (Markowitsch
+et al. 2024). Additionally, recent studies have demonstrated
+                                                              Lacticaseibacillus rhamnosus (ATCC 7469) was bought asamygdalin’s potent antibacterial activity against multidrug-
+                                                      an active culture from ASUCairo MIRCEN, Ain Sham Uni-resistant S. aureus, a particularly relevant finding given the
+                                                                      versity, Egypt. L. rhamnosus (ATCC 7469) was cultured inhigh susceptibility of malignancy patients to such infections
+                                    MRS broth (Oxoid, England). It was preserved in MRS broth(Wang et al. 2024).
+                                                         with 20% glycerol (V/V) at − 20 °C.  Given the heightened susceptibility of cancer patients to
+infections, we combined amygdalin with a natural, sustain-
+able compound possessing both established antibacterial    Cell lines and culture condition
+properties and emerging evidence of anti-cancer activity—
+specifically, cell-free supernatants (CFS) from lactic acid   Human breast cancer cells (MCF-7) and human alveolar
+bacteria (LAB). This strategic combination aims to enhance    basal epithelial adenocarcinoma cells (A549) were procured
+therapeutic efficacy while potentially reducing the required    from the American Type Culture Collection (ATCC, Manas-
+amygdalin dose and its associated toxicity. Supporting this     sas, VA, USA). Cells were cultured in Dulbecco’s Modified
+approach, in vitro studies demonstrate that LAB exerts anti-    Eagle Medium (DMEM) supplemented with 10% (v/v) heat-
+proliferative effects on multiple human cancer cell lines    inactivated fetal bovine serum (FBS), 100 U/mL penicillin,
+(Abedin-Do et al. 2015). Their influence on metabolic,    and 100 μg/mL streptomycin (Gibco, Billings, MT, USA).Folia Microbiologica (2026) 71:863–874                                                                                       865
+
+All cell lines were maintained at 37 °C in a humidified incu-   was measured using flow cytometric analysis, utilizing the
+bator with 5% CO₂ and 95% air.                        FITC Annexin V Apoptosis Detection Kit (BD Biosciences).
+                                                          Following the manufacturer’s protocol, apoptosis was induced
+Preparation of a CFS                                           in cells by treatment with a concentration of the test compound
+                                                             equal to its IC50 value, as determined through the MTT assay.
+Lacticaseibacillus rhamnosus (ATCC 7469) was cultured    For MCF-7 cells, treatments included 55.93 μg/mL amygdalin,
+aerobically at 37 °C in de Man, Rogosa, and Sharpe (MRS)   354 μg/mL CFS of L. rhamnosus, and combination of both
+broth (Oxoid, UK) for 24 h. Bacterial cells were removed by    (24.86 μg/mL amygdalin + 131.5 μg/mL CFS). For A549
+centrifugation at 10,000 g for 10 min at 4 °C. The superna-     cells, treatments included 54.73 μg/mL amygdalin, 293 μg/
+tant was sterile-filtered through a 0.22-μm pore-size mem-  mL CFS of L. rhamnosus, and combination of both (17.95 μg/
+brane (Millipore, Bedford, MA, USA). For cell treatment,  mL amygdalin + 92.09 μg/mL CFS), which were added and
+lyophilized CFS was reconstituted in RPMI-1640 medium    incubated for 48 h. A total of 1–5 × ­105 cells were harvested
+or dimethyl sulfoxide (DMSO), followed by re-sterilization    via centrifugation and resuspended in binding buffer (500 μL,
+using a 0.22-μm filter.                                              1 ×). Trypsin–EDTA was used to detach adherent cells, then
+                                                   washed with DMEM media. Subsequently, the cells were
+Cytotoxicity assay (MTT assay)                             stained with Annexin V-FITC (5 µL) and propidium iodide
+                                                                   (PI) μL of 50 μg/mL, for 5 min in the dark at 25 °C. Finally,
+The MTT assay is extensively used to assess the cytotoxic-     cellular apoptosis was quantified using a BD FACS Calibur
+ity of treatments to cells (Ghasemi et al. 2023). To form a    flow cytometer.
+confluent monolayer, 1 × ­105 cells per mL (100 µL per well)       Cell apoptosis was analyzed by flow cytometry using the
+of either MCF-7 or A549 cells were seeded in a 96-well   FITC Annexin V Apoptosis Detection Kit (BD Biosciences).
+tissue culture plate and incubated at 37 °C for 24 h. The    Following the manufacturer’s protocol, apoptosis was induced
+cells were then washed twice with PBS. Serial dilutions of   by treating cells with test compounds at their IC50 values
+amygdalin, CFS, and their combinations (covering concen-    (determined by the MTT assay).
+trations including IC₅₀ values) were prepared in RPMI-1640       All treatments lasted 48 h. Cells (1–5 × ­105) were harvested
+medium containing 2% FBS. A volume of 100 µL of each   by centrifugation and resuspended in 500 μL of 1 × binding
+dilution was added to the wells in triplicate, with the control     buffer. Adherent cells were detached using trypsin–EDTA
+wells receiving medium only. The plate was incubated at 5%    and washed with DMEM. Cells were then stained with 5 μL
+CO₂ at 37 °C. Cell morphology was monitored for signs of    Annexin V-FITC and 5 μL propidium iodide (PI, 50 μg/mL) for
+toxicity (e.g., cell detachment, rounding, or granulation).   5 min at 25 °C in the dark. Apoptosis was quantified using a BD
+After incubation, 20 µL of MTT solution (5 mg/mL in PBS;   FACS Calibur flow cytometer. The negative control was estab-
+Bio Basics Canada Inc.) was added to each well, followed    lished using MCF-7 or A549 healthy, untreated cells. These
+by incubation at 37 °C for 1–5 h to allow MTT metabolism.     cells had been cultured under the same conditions to ensure
+The medium containing formazan crystals was removed,    high viability and to minimize any background apoptosis.
+and 200 µL of DMSO was added to each well to dissolve
+the crystals. The plate was shaken for 5 min at 150 rpm    Statistical analysis
+to ensure complete solubilization. Absorbance was meas-
+ured at 560 nm using a microplate reader, with background    Dose–response curves were generated through non-linear
+subtraction at 620 nm. In MTT assay, the negative control    regression analysis using GraphPad Prism 5.02 software. Cell
+consisted of cells cultured under standard conditions with-     viability data, normalized to untreated controls, were plot-
+out any treatment with amygdalin and CFS of L. rhamnosus    ted against logarithmically transformed drug concentrations.
+therapy. These cells were maintained in complete growth    Results are expressed as mean ± standard error (SE). Statistical
+medium and incubated for the same duration as the treat-    significance (p < 0.01) was determined by two-way ANOVA
+ment groups. The purpose of this control was to establish    followed by Bonferroni’s post-hoc test. The combination index
+the baseline metabolic activity and viability of the untreated    (CI) values for amygdalin and L. rhamnosus CFS against A549
+cells, which serves as a reference point for evaluating the    and MCF-7 cell lines were calculated according to the Chou-
+cytotoxic effects of amygdalin.                                Talalay method (Chou 2010).
+
+Apoptosis assay
+                                              Results
+Flow cytometry-based assay is commonly used to identify
+apoptotic cells uses staining with fluorochrome-conjugated    Cytotoxicity of amygdalin and CFS of Lacticaseibacillus
+annexin-V (Lieschke et al. 2022). Accordingly, cell apoptosis   rhamnosus on MCF-7 and A549 cell lines.866                                                                                                                   Folia Microbiologica (2026) 71:863–874
+
+
+
+
+
+Fig. 1   Dose–response curves. MCF-7 and A549 cell lines were treated with L. rhamnosus cell-free supernatant (A and B) or amygdalin (C and
+D) at varying concentrations. Cell viability was assessed using the resazurin assay, with data presented as mean ± standard error (SE)
+
+  The MTT assay was used to calculate the IC50 value of     To evaluate the combinatorial effect, a fixed ratio of amyg-
+each compound individually, before examining the effect    dalin and L. rhamnosus CFS of 1:10 was employed. This ratio
+of amygdalin combined with CFS of L. rhamnosus. The   was based on the IC50 values determined for each agent when
+incubation was done at various doses, and dose–response    used as monotherapy. The combination regimen included con-
+curves were constructed for each drug on two different    centrations both at, above, and below the IC50 values. Figure 2
+cell lines (Fig. 1). Data obtained from the MTT assay   showed enhanced anti-proliferative activity of amygdalin and
+were normalized to the absorbance values of the nega-    L. rhamnosus CFS combination in MCF-7 cells. The combina-
+tive control, which was set at 100% viability, allowing for     tion of amygdalin and CFS exhibited significantly greater anti-
+the calculation of relative cell viability percentages in the     proliferative effects against MCF-7 cells compared to either
+treated groups. Both amygdalin and CFS of L. rhamnosus    agent alone. This combination resulted in a decrease in the
+therapy inhibited MCF-7 and A549 cell growth in a dose-   IC50 values for amygdalin to 24.86 ± 0.185 µg/mL and for CFS
+dependent mode (Fig. 1).                                       to 131.5 ± 0.568 µg/mL, respectively (Table 1).
+  The IC50 of amygdalin and CFS of L. rhamnosus on       In A549 lung cancer cells, amygdalin and L. rhamnosus
+the MCF-7 cell line, were 55.93 ± 2.16 and 354 ± 5.05 µg/   CFS were evaluated as single agents and in combination.
+mL, respectively. While the effect of amygdalin and CFS   The IC50 values for amygdalin and CFS as monotherapies
+of L. rhamnosus on the A549 cell line was 54.73 ± 1.67   were determined to be 54.73 ± 1.67 µg/mL and 293 ± 3.09
+and 293 ± 3.09 µg/mL, respectively (Table 1).             µg/mL, respectively. Upon combination, a significant reduc-
+                                                               tion in IC50 values was observed for both agents, withFolia Microbiologica (2026) 71:863–874                                                                                       867
+
+Table 1   Cytotoxicity of                                          MCF-7                               A549amygdalin and CFS of L.
+rhamnosus on MCF-7 and A549                        Monotherapy (μg/mL)   Combination therapy   Monotherapy   Combination
+cell lines. IC50 values are given                                              (μg/mL)              (μg/mL)        therapy (μg/
+as mean ± SD                                                                                 mL)
+                              Amygdalin                 55.93 ± 2.16          24.86 ± 0.185              54.73 ± 1.67 17.95 ± 0.484
+                         CFS of L. rhamnosus   354 ± 5.05               131.5 ± 0.568           293 ± 3.09      92.09 ± 0.821
+
+
+Fig. 2   Anti-proliferative effects
+of L. rhamnosus cell-free super-
+natant (CFS) and amygdalin as
+single agents and in combina-
+tion on A549 and MCF-7 cell
+lines. Data are presented as
+mean ± standard error (SE).
+*p < 0.01 and **p < 0.001 indi-
+cate statistical significance
+
+
+
+
+
+values decreasing to 17.95 ± 0.484 µg/mL for amygdalin    Synergistic effect of combination
+and 92.09 ± 0.821 µg/mL for CFS (Table 1). Consistent with
+these findings, Fig. 2 demonstrates that the combination of   The combination index (CI) values for the drug combina-
+amygdalin and CFS significantly inhibited the growth of    tion against MCF-7 and A549 cell lines were determined
+both MCF-7 and A549 cell lines and lowered the IC50 of    using the Chou-Talalay method. The calculated CI values
+amygdalin and CFS of L. rhamnosus.868                                                                                                                   Folia Microbiologica (2026) 71:863–874
+
+Table 2   Apoptotic activity of amygdalin and CFS of L. rhamnosus on    organizations (Wynendaele et al. 2021). From this point of
+MCF-7 and A549 cell lines                                     view, this study aimed to test the efficacy of natural prod-
+Sample                   Apoptosis %              Necrosis %     ucts in treating cancer cells by using green, sustainable
+                                                  compounds such as amygdalin and CFS from L. rhamnosus,                         Early       Late                                                    which are plant-derived and bacteria-derived compounds.
+CFS/A549                 26.18         8.59        3.82            Although ecological information about amygdalin is still
+CFS/MCF-7               19.51        11.47        1.63           lacking, the available data confirm that at concentrations of
+Amygdalin/A549            2.59         7.97        4.32         0.1% or greater, amygdalin includes no components that are
+Amygdalin/MCF-7           1.81        11.94        9.81            persistent, bioaccumulative, and toxic (PBT) or very per-
+Combination/A549         23.28         4.32        1.94            sistent and very bioaccumulative (vPvB) (Sigma-Aldrich
+Combination/MCF-7       19.22        12.08        4.43          2025). Although amygdalin is an organocyanide compound,
+Control A549               0.44         0.26        1.34                it does not release its cyanide content in wastewater, whether
+Control MCF-7              0.39         0.17        1.17           chlorinated or not (Yi et al. 2002). Recent research has dem-
+                                                              onstrated that amygdalin exhibits anti-cancer and apoptotic
+                                                                    effects against breast cancer cells by inhibiting cellular pro-
+for MCF-7 and A549 cell lines were 0.8159 ± 2.45 and     teolytic pathways (Cecarini et al. 2022). Amygdalin triggers
+0.6422 ± 3.16, respectively.                                   apoptosis by activating BAX and caspase-3 while downregu-
+                                                                  lating PARP-1 (Saleem et al. 2019; Al-Khafaji and Taskin
+Apoptotic activity of amygdalin and CFS              Tok 2021). Moreover, it reduces the percentage of cells that
+of Lacticaseibacillus rhamnosus                            enter the S and G2/M phases by causing cell cycle arrest at
+                                                              the G0/G1 transition. As a result, limiting cell proliferation
+The apoptotic activity of amygdalin and CFS of L. rham-    and growth is advocated to speed up the slowdown of the
+nosus is summarized in Table 2. CFS of Lactobacillus     cell cycle (Saleem et al. 2019).
+induced apoptosis in 26.18% and 19.51% of cells in A549      However, amygdalin is a cyanogenic glycoside found in
+and MCF-7 cell lines, respectively. In contrast, amygdalin    certain seeds, such as bitter almonds, and undergoes enzy-
+alone induced late apoptosis and necrosis with a higher per-    matic hydrolysis by β-glucosidase, leading to the release of
+centage than apoptosis. Finally, the combination of both    hydrogen cyanide (HCN) (Fernandes and Billa 2025). The
+amygdalin and CFS of L. rhamnosus induced apoptosis in    production of HCN poses serious health risks, including tox-
+23.28% and 19.22% of cells in A549 and MCF-7 cell lines,     icity and poisoning, necessitating strict control measures to
+respectively (Table 2).                                      prevent adverse effects (Kadekar et al. 2024; Huang et al.
+                                                           2025). Cyanide levels in the body are influenced by several
+                                                                      factors, including the gut microbiota composition (Tokpoho-
+Discussion                                                zin et al. 2016). Notably, Bacteroides exhibit high glucosi-
+                                                        dase activity, leading to the release of cyanide during the
+While the current anti-cancer drugs are the best available    symbiotic digestion of amygdalin. Studies by Zhang et al.
+drugs for treating malignancies, they may be an indirect    (2014) have shown that bacteria from the Bacteroidetes phy-
+cause of cancer by polluting the environment due to the diffi-   lum dominate the gut microbiota (Zhang et al. 2014). These
+culty of their decomposition. They are not fully metabolized    bacteria possess a high abundance of the glucosidase gene
+and excreted in patients’ stools and leak into groundwater    (Blaheta et al. 2016). Bacteroidetes, a common colon resi-
+and the environment, representing a hazard to the ecosystem    dent, has been found to produce the enzyme β-glucosidase.
+(Johnson et al. 2008; Li et al. 2021; Turci et al. 2003).        Anaerobic gut bacteria ferment pyruvate to generate lactic
+   Safe disposal of antineoplastic agents increases the eco-    acid (Padayatty et al. 2010). This reduction in pH enhances
+nomic burden, requiring incineration at a high temperature    glucosidase activity, which can be detrimental, as it facili-
+above 1200 °C, immobilization (waste encapsulation), or     tates the hydrolysis of amygdalin into cyanide, contributing
+monetization (WHO 1999). Many developing countries    to its toxic effects. β-glucosidases in the colon are directly
+cannot withstand these expensive methods, and they have    involved in amygdalin hydrolysis (Blaheta et al. 2016).
+become the main cause of environmental contamination.       Additionally, research findings confirm that Lactobacillus
+Therefore, more attention should be paid to sustainability,     strains in the human gut possess both α- and β-glucosidase
+especially in the pharmaceutical field and in developing    inhibitory activities (Panwar et al. 2014). Animal studies
+new anti-cancer agents that are green, sustainable, and eco-    indicated that supplementation with Lactobacillus and its
+friendly chemotherapeutics. This can be achieved by increas-   CFS reduces β-glucuronidase activity, suggesting a decline
+ing awareness of the importance of sustainability among    in β-glucuronidase-encoding Bacteroidetes populations
+research institutions, relevant authorities, and industrial    (Baffoni et al. 2012; Hullar et al. 2014; Duda-Chodak et al.Folia Microbiologica (2026) 71:863–874                                                                                       869
+
+2015) and hence the decrease in amygdalin toxicity. Cyanide    assay confirmed that the IC50 values were 55.93 ± 2.16 and
+produced during amygdalin hydrolysis in low doses is uti-    54.73 ± 1.67 μg/mL for MCF-7 and A549, respectively. The
+lized in complementary and alternative medicine (CAM) due    observed cytotoxic activity aligns with the findings of mul-
+to its ability to bind cytochrome oxidase c and a3, thereby     tiple studies advocating amygdalin’s use in treating various
+inhibiting cellular respiration and DNA synthesis through    malignant diseases, including cancers of the lung, breast,
+reactive oxygen species generation. This process ultimately    prostate, colorectal, cervical, and gastrointestinal systems.
+blocks nutrient uptake and induces cell lysis (Bromley et al.    Research has demonstrated that amygdalin induces apop-
+2005; Kuugbee et al. 2016). However, findings by Blaheta     tosis in cancer cells, thereby inhibiting tumor growth and
+et al. (2016) suggest that cyanide is not the primary fac-    reducing the rate of metastatic spread (Chang et al. 2006;
+tor responsible for amygdalin’s antitumor properties, as its   Chen et al. 2013; Cecarini et al. 2022; Spanoudaki et al.
+effects persist even in the absence of β-glucosidase (Blaheta    2023). The current study tested the anti-cancer ability of L.
+et al. 2016; Kadekar et al. 2024).                         rhamnosus as a natural agent derived from known friendly
+  The L. rhamnosus bacterium has been deemed eligible    bacteria. The cytotoxicity of CFS from L. rhamnosus on
+for a qualified presumption of safety (QPS) evaluation by the   two cancerous cell lines, MCF-7 and A549, revealed good
+European Food Safety Authority (EFSA). This indicates that    anti-cancer activity. MTT assay demonstrated that the IC50
+using this strain as a silage supplement is safe for consum-    values were 354 ± 5.05 and 293 ± 3.09 μg/mL for MCF-7
+ers, animals, and the environment. The strain’s confirmed   and A549, respectively. The newly isolated Lactobacil-
+identity and the lack of any acquired antimicrobial resist-    lus hilgardii was found to have anti-cancer and apoptotic
+ance determinants of concern serve as the foundation for this    capabilities against the Caco-2 cell line (Pourramezan et al.
+evaluation (EFSA 2021). The standard strain L. rhamnosus    2020). Another freshly isolated strain of L. acidophilus was
+ATCC 7469 is used in this study due to its fame for food    proven to induce apoptosis in cancer cells, suggesting its
+production and agricultural research. The American Type    anti-cancer activity (Nami et al. 2014).
+Culture Collection (ATCC) states that it is only intended      However, combination therapy is a therapeutic approach
+to be used in laboratory research and not as a medication,     that leverages the synergistic or additive interactions between
+for human or animal consumption, or for diagnostic pur-   two or more drugs. This synergy often results in enhanced
+poses (ATCC n.d.). Several studies have published research    treatment efficacy compared to individual drugs alone (Mil-
+about the different biological activities of L. rhamnosus    czarek et al. 2021). By administering both compounds at low
+ATCC 7469 as an antibacterial, antifungal, antitoxin, or    doses, combination therapy can reduce toxicity while target-
+immune modulator (Jorjão et al. 2015; Abu-Elfotuh et al.    ing multiple molecular pathways. This multi-target approach
+2023; Abdel-Nasser et al. 2023; Salem-Bekhit et al. 2023;    can also increase drug sensitivity and improve treatment
+Zaghloul et al. 2023; American Type Culture Collection    outcomes (Chen et al. 2020). Conventional chemotherapy
+(ATCC) (2025) Lacticaseibacillus rhamnosus (ATCC®    often involves the simultaneous use of multiple drugs to
+7469TM)).                                                            treat various cancers. However, this combination therapy can
+   Therefore, the combination of amygdalin and CFS of Lac-    lead to significant side effects. Introducing bioactive natural
+tobacillus is considered safe and offers protection against   compounds alongside chemotherapy may enhance treatment
+cyanide toxicity resulting from amygdalin metabolism.    efficacy while reducing toxic adverse effects (Chamberlin
+Accordingly, the current study examined the antitumor activ-     et al. 2019). Patients undergoing side effects associated with
+ity of amygdalin and cell-free supernatant of L. rhamnosus    chemotherapy, such as FOLFOX chemotherapy, the most
+alone and in combination. Breast cancer and lung cancer are   common regimen for colorectal cancer (CRC), often experi-
+the most common and leading causes of death worldwide    ence a range of adverse effects. These include gastrointes-
+(El-Toukhy et al. 2023; Jokhadze et al. 2024; Karim et al.     tinal symptoms, neurological issues, respiratory problems,
+2025). Therefore, the current study selected MCF-7 (human   and skin conditions like hair loss (Salehifar et al. 2019).
+breast cancer cell line) and A549 (human lung cancer cell    Another common chemotherapy combination, DCF (doc-
+line) to test the anti-cancer activity of both amygdalin and    etaxel + cisplatin + 5-FU), is associated with high toxicity.
+CFS of L. rhamnosus. These two cell lines have been used    Patients may suffer from stomatitis, diarrhea, nausea, vomit-
+in many studies to test the efficacy of new compounds as    ing, and neuropathy (Chen et al. 2018).
+anti-cancer agents, e.g., studies by Jeong et al. (2024) and       Natural bioactive compounds such as amygdalin and CFS
+Görmez et al. (2024) who tested the anti-cancer activ-    of L. rhamnosus offer several advantages over synthetic
+ity of Mespilus germanica leaf extract and plant-derived    drugs. We found that both amygdalin and CFS of L. rham-
+Micromonospora sp. M2 by assessing their activity against    nosus inhibit cancer cell growth dose-dependently. Also,
+MCF-7 and A549 cell lines (Jeong et al. 2024; Görmez    their structural diversity allows them to target previously
+et al. 2024). The cytotoxicity of amygdalin on two cell lines,    “undruggable” targets. These compounds often naturally
+MCF-7 and A549, revealed good anti-cancer activity. MTT    target biologically relevant pathways due to their origins as870                                                                                                                   Folia Microbiologica (2026) 71:863–874
+
+secondary metabolites or signaling molecules. The limited    combating cancer progression. Apoptosis is characterized
+overlap between the molecular targets of synthetic drugs and   by morphological changes such as cell shrinkage, chromatin
+natural products suggests the potential for novel therapeutic    condensation, nuclear fragmentation, and membrane bleb-
+approaches to cancer treatment. Moreover, leveraging exist-    bing (Reed 2000). To determine if the growth inhibition in
+ing natural compounds can reduce development costs and   MCF-7 and A549 cell lines induced by combination therapy
+provide alternative options to chemotherapy (Chamberlin   was due to apoptosis, we utilized PI staining and Annexin
+et al. 2019; Gouda et al. 2024). Our study examined the   V-FITC assays. Annexin V binding, assessed through flow
+combined effect of amygdalin and CFS of L. rhamnosus    cytometry with dual-color staining, enables differentiation
+on MCF-7 and A549 cancerous cells. Interaction analysis    between early apoptosis, late apoptosis, and necrosis. Our
+revealed a synergistic effect between amygdalin and CFS of    findings revealed apoptotic morphological features in the
+L. rhamnosus on MCF-7 and A549 cell growth. This com-    treated cells. During early apoptosis, phospholipid asym-
+bination inhibited MCF-7 cell growth more effectively than    metry occurs before membrane disintegration (Vermes et al.
+monotherapy. It led to a significant reduction in the IC50 of    1995; Fadok et al. 2001). This process involves phosphati-
+amygdalin and CFS of L. rhamnosus from 55.93 ± 2.16 and    dylserine (PS) translocations from the inner to the outer
+354 ± 5.05 µg/mL to 24.86 ± 0.185 and 131.5 ± 0.568 µg/     leaflets of the plasma membrane. Annexin V specifically
+mL, respectively. The combination therapy also reduced the    binds externalized PS in a calcium-dependent manner, while
+IC50 of amygdalin and CFS of L. rhamnosus that inhibited    propidium iodide (PI) stains membrane-compromised cells.
+A549 cell growth from 54.73 ± 1.67 and 293 ± 3.09 µg/mL    This combination distinguishes apoptotic (Annexin V +/PI-)
+to 17.95 ± 0.484 and 92.09 ± 0.821 μg/mL, respectively. This    cells from necrotic (Annexin V +/PI +) cells (Chen et al.
+reduction in the IC50 suggests that it could decrease mono-    2018).
+therapy’s toxicity and side effects.                         Flow cytometry was employed to quantify the extent of
+  The National Cancer Institute defines cytotoxicity levels    apoptosis in MCF-7 and A549 cell lines after treatment with
+based on IC50 values. Compounds with IC50 values below    single agents and their combinations. Before analysis, cells
+20 µg/mL are classified as highly cytotoxic. Those with   were stained with Annexin V and propidium iodide (PI).
+IC50 values between 21 and 200 µg/mL exhibit moderate   Combination therapy significantly induced apoptosis at
+cytotoxicity, while those between 201 and 500 µg/mL are   23.28% and 19.22% in A549 and MCF-7 cells, respectively,
+considered weakly cytotoxic. Compounds with IC50 values   compared to 2.59% and 1.81% in amygdalin-treated A549
+exceeding 501 µg/mL are deemed non-cytotoxic (Goldin   and MCF-7 cells. Treatment with CFS induced apoptosis
+et al. 1981; Grever 1992). Consistent with these criteria,     at 26.18% and 19.51% in A549 and MCF-7, respectively,
+our results show that monotherapy with amygdalin and CFS    achieving levels comparable to combination therapy. How-
+of L. rhamnosus exhibited lower cytotoxicity in both cell    ever, the cytotoxicity assay demonstrated that the combi-
+lines. However, the combination of amygdalin and CFS of    nation inhibited cell growth more effectively than mono-
+Lactobacillus demonstrated enhanced cytotoxicity against    therapy, significantly reducing the IC50 of amygdalin and
+the tested cancer cell lines.                        CFS in L. rhamnosus. Thus, combination therapy offers
+  The Chou-Talalay method was used to determine the    the advantage of decreasing the dosage of both compounds
+compound combination’s combination index (CI) values    while reducing side effects compared to monotherapy.
+against MCF-7 and A549 cell lines. The CI values were       Notably, A549 and MCF-7 cells treated with amygda-
+0.8159 for MCF-7 and 0.6422 for A549. A CI value below     lin alone displayed higher necrosis proportions (4.32% and
+1 indicates that combination therapy is more effective than    9.81%, respectively) than combination therapy (1.94% and
+monotherapy at inhibiting cell growth in both cell lines    4.43%, respectively). Chemotherapeutic agents can trig-
+(Chou 2010). These results indicate a synergistic effect of    ger multiple forms of cell death, including apoptosis and
+the combination therapy on both cell lines, suggesting that    necrosis. Necrosis is associated with the release of cellular
+the drugs work together more effectively than when used    contents, leading to inflammation and potential disease exac-
+individually (Chou 2010). Hence, the combination of amyg-    erbations (Ricci and Zong 2006). Therapeutic strategies that
+dalin and CFS of L. rhamnosus has significant potential as     preferentially induce apoptosis are generally more desirable.
+an in vitro anti-cancer agent.                                 Therefore, the eco-friendly combination of amygdalin and
+   Disrupted cell growth and programmed cell death (apop-    L. rhamnosus CFS supports environmental sustainability
+tosis) are directly linked to cancer development. Proper    and provides a clinical advantage by selectively activating
+apoptosis, a natural mechanism that removes undesirable    apoptotic pathways while minimizing necrosis-associated
+or damaged cells, is crucial for maintaining tissue integrity    complications compared to amygdalin monotherapy.
+and preventing uncontrolled cell proliferation (Kroemer and       Generally, several in vivo studies and controlled clinical
+Reed 2000; Khalaf et al. 2019). Consequently, therapeutic     trials are required to determine suitable permitted doses of
+strategies targeting the apoptotic pathway hold promise in    amygdalin, as the current use is based on the experience ofFolia Microbiologica (2026) 71:863–874                                                                                       871
+
+practitioners. As reported in the German survey, physicians     supervision, O.K.R. and W.S.K.; All authors have read and agreed to
+and healers use doses ranging from 3 to 9 g of amygdalin     the published version of the manuscript.
+per day, consistent with former studies (Markowitsch et al.                                                                   Funding  Open access funding provided by The Science, Technology
+2024). Furthermore, male rats’ testicular and liver tissues   & Innovation Funding Authority (STDF) in cooperation with The
+did not show toxic effects from amygdalin at doses of 50 and    Egyptian Knowledge Bank (EKB). This research received no external
+100 mg/kg. However, an oxidative imbalance was observed     funding.
+in mice at 200 mg/kg (Albogami et al. 2020; Barakat et al.    Data availability  The data supporting this study's findings are available
+2022).                                                     upon reasonable request.
+  These findings highlight a recent strategy to mitigate
+amygdalin-induced toxicity using a combination of amygda-    Declarations 
+lin and CFS from L. rhamnosus. Another approach involves                                                            Competing interests  The authors declare no competing interests.controlled-release mechanisms, such as HCN-releasing
+nano-composites, which enable the gradual release of cya-                                                     Open Access  This article is licensed under a Creative Commonsnogenic compounds, thereby reducing the risk of acute cya-                                                                       Attribution 4.0 International License, which permits use, sharing,
+nide toxicity (Elderdery et al. 2022; Barakat et al. 2022;     adaptation, distribution and reproduction in any medium or format,
+Askar et al. 2023; Spanoudaki et al. 2023; Fernandes and     as long as you give appropriate credit to the original author(s) and the
+Billa 2025).                                                          source, provide a link to the Creative Commons licence, and indicate                                                                                                 if changes were made. The images or other third party material in this   Future studies could investigate a combination of amyg-                                                                                  article are included in the article’s Creative Commons licence, unless
+dalin and L. rhamnosus CFS in nano formulations, which     indicated otherwise in a credit line to the material. If material is not
+might provide dual control over cyanogenic compound     included in the article’s Creative Commons licence and your intended
+release. While the nanocomposite could stabilize amygdalin    use is not permitted by statutory regulation or exceeds the permitted                                                                          use, you will need to obtain permission directly from the copyrightand release HCN gradually, the probiotic CFS could further                                                                           holder. To view a copy of this licence, visit http://creativecommons.
+enhance this process by either decreasing the enzymatic deg-     org/licenses/by/4.0/.
+radation of cyanogenic compounds or modulating the pH to
+control the release rate better.
+
+                                           References
+Conclusion
+                                                                 Abdel-Nasser M, Abdel-Maksoud G, Eid AM et al (2023) Antifungal
+Cancer remains a leading global cause of death despite          activity of cell-free filtrate of probiotic bacteria Lactobacillus
+significant therapeutic breakthroughs. Patient tolerance        rhamnosus ATCC-7469 against fungal strains isolated from a                                                                                    historical manuscript. Microorganisms 11:1104. https://​doi.​org/​and adherence are compromised by the systemic toxicity                                                                                  10.​3390/​micro​organ​isms1​10511​04
+of conventional treatments. Furthermore, all current cancer    Abedin-Do A, Taherian-Esfahani Z, Ghafouri-Fard S et al (2015)
+treatment modalities—including chemotherapy, surgery,        Immunomodulatory effects of Lactobacillus strains: emphasis on
+radiation, immunotherapy, and targeted therapy—produce           their effects on cancer cells. Immunotherapy 7:1307–1329. https://​                                                                                              doi.​org/​10.​2217/​imt.​15.​92side effects that adversely affect quality of life.                                                                  Abu-Elfotuh K, Selim HMRM, Riad OKM et al (2023) The protective
+  The novel combination of amygdalin and Lacticaseiba-           effects of sesamol and/or the probiotic, Lactobacillus rhamnosus,
+cillus CFS offers distinct therapeutic advantages such as          against aluminum chloride-induced neurotoxicity and hepatotoxic-
+selective induction of apoptosis in cancer cells, reduction           ity in rats: modulation of Wnt/β-catenin/GSK-3β, JAK-2/STAT-3,                                                                 PPAR-γ, inflammatory, and apoptotic pathways. Front Pharmacolof necrosis-related complications, and enhanced apoptotic                                                                     14:1208252. https://​doi.​org/​10.​3389/​fphar.​2023.​12082​52
+activity. This approach also addresses environmental con-    Albogami S, Hassan A, Ahmed N et al (2020) Evaluation of the effec-
+cerns, as it may reduce the ecological impact of traditional           tive dose of amygdalin for the improvement of antioxidant gene
+chemotherapeutic agents through biodegradable compo-         expression and suppression of oxidative damage in mice. PeerJ                                                                         8:e9232. https://​doi.​org/​10.​7717/​peerj.​9232nents, lower persistence in ecosystems, and reduced toxic                                                                     Al-Khafaji K, Taskin Tok T (2021) Understanding the mechanism of
+by-products.                                                          amygdalin’s multifunctional anti-cancer action using computa-
+                                                                                   tional approach. J Biomol Struct Dyn 39(5):1600–1610. https://​
+                                                                                      doi.​org/​10.​1080/​07391​102.​2020.​17361​59
+Author contributions  Conceptualization, O.K.R. and W.S.K.; method-    American Type Culture Collection (ATCC) (2025) Saccharomyces cer-
+ology, O.K.R., W.S.K, H.M.S., and H.F. F.; software, W.S.K.; formal          evisiae (ATCC® 7469TM). https://​www.​atcc.​org/​produ​cts/​7469
+analysis, W.S.K. and B.M..; investigation, O.K.R., W.S.K, H.M.S.,    Askar MA, El-Sayyad GS, Guida MS et al (2023) Amygdalin-folic
+B.M., and H.F.F; data curation, O.K.R., W.S.K., and B.M.; writing—          acid-nanoparticles inhibit the proliferation of breast cancer and
+original draft preparation, O.K.R., W.S.K, H.M.S., B.M., and H.F.F.;        enhance the effect of radiotherapy through the modulation of
+writing—review and editing, O.K.R., W.S.K, H.M.S., B.M., and H.F.F;         tumor-promoting factors/immunosuppressive modulators in vitro.872                                                                                                                   Folia Microbiologica (2026) 71:863–874
+
+   BMC Complement Med Ther 23:162. https://​doi.​org/​10.​1186/​           is required for phagocytosis of apoptotic cells by macrophages
+     s12906-​023-​03986-x                                            and fibroblasts. J Biol Chem 276:1071–1077. https://​doi.​org/​10.​
+Baffoni L, Gaggìa F, Di Gioia D, Biavati B (2012) Role of intestinal          1074/​jbc.​M0036​49200
+     microbiota in colon cancer prevention. Ann Microbiol 62:15–30.    Fernandes Q, Billa N (2025) Amygdalin in antineoplastic medicine
+     https://​doi.​org/​10.​1007/​s13213-​011-​0306-6                         and the relevance of nanotechnology. Biomed Pharmacother
+Barakat H, Aljutaily T, Almujaydil MS et al (2022) Amygdalin: a         182:117772. https://​doi.​org/​10.​1016/j.​biopha.​2024.​117772
+     review on its characteristics, antioxidant potential, gastrointestinal    Ghasemi M, Liang S, Luu QM, Kempson I (2023) The MTT assay:
+     microbiota intervention, anticancer therapeutic and mechanisms,         a method for error minimization and interpretation in measur-
+     toxicity, and encapsulation. Biomolecules 12:1514. https://​doi.​         ing cytotoxicity and estimating cell viability. In: Friedrich O,
+     org/​10.​3390/​biom1​21015​14                                            Gilbert DF (eds) Cell viability assays. Methods Mol Biol, vol
+Bi Z, Wang Q, Yang T, et al (2023) Effect of Lactobacillus delbrueckii         2644. Humana, New York, NY, pp 15–33. https://​doi.​org/​10.​1007/​
+     subsp. lactis on vaginal radiotherapy for gynecological cancer.         978-1-​0716-​3052-5_2
+     Sci Rep 13:10105. https://​doi.​org/​10.​1038/​s41598-​023-​37241-7     Goldin A, Venditti JM, Macdonald JS et al (1965) (1981) Current
+Blaheta RA, Nelson K, Haferkamp A, Juengel E (2016) Amygdalin,           results of the screening program at the division of cancer treat-
+    quackery or cure? Phytomedicine 23:367–376. https://​doi.​org/​10.​        ment, national cancer institute. Eur J Cancer 17:129–142. https://​
+     1016/j.​phymed.​2016.​02.​004                                                doi.​org/​10.​1016/​0014-​2964(81)​90027-X
+Bromley J, Hughes BG, Leong DC, Buckley NA (2005) Life-threat-    Görmez G, Yüksek V, Usta A et al (2024) Phenolic contents, anti-
+    ening interaction between complementary medicines: cyanide         oxidant activities, LCMS profiles of Mespilus germanica leaf
+     toxicity following ingestion of amygdalin and vitamin C. Ann          extract and effects on mRNA transcription levels of apoptotic,
+    Pharmacother 39:1566–1569. https://​doi.​org/​10.​1345/​aph.​1E634         autophagic, and necrotic genes in MCF7 and A549 cancer cell
+Cecarini V, Selmi S, Cuccioloni M et al (2022) Targeting proteolysis           lines. Cell Biochem Biophys 82:2141–2155. https://​doi.​org/​10.​
+    with cyanogenic glycoside amygdalin induces apoptosis in breast         1007/​s12013-​024-​01321-w
+     cancer cells. Molecules 27:7591. https://​doi.​org/​10.​3390/​molec​   Gouda DE, Abulsoud A, Eldesoky N (2024) Enhanced cytotoxicity
+     ules2​72175​91                                                         of sorafenib in hepatocellular carcinoma through synergistic
+Chamberlin SR, Blucher A, Wu G et al (2019) Natural product target         combination with naringenin: a molecular and cellular perspec-
+    network reveals potential for cancer combination therapies. Front            tive. Azhar Int J Pharm Med Sci 0:0–0. https://​doi.​org/​10.​21608/​
+    Pharmacol 10:557. https://​doi.​org/​10.​3389/​fphar.​2019.​00557             aijpms.​2024.​281074.​1265
+Chang H-K, Shin M-S, Yang H-Y et al (2006) Amygdalin induces    Grever MR, Schepartz SA, Chabner BA (1992) The National Can-
+     apoptosis through regulation of Bax and Bcl-2 expressions in          cer Institute: cancer drug discovery and development program.
+    human DU145 and LNCaP prostate cancer cells. Biol Pharm Bull         In Seminars in oncology. https://​europ​epmc.​org/​artic​le/​med/​
+    29:1597–1602. https://​doi.​org/​10.​1248/​bpb.​29.​1597                      14621​64/​reload=2. Accessed 26 December 1992
+Chen Y, Ma J, Wang F et al (2013) Amygdalin induces apoptosis in   He X-Y, Wu L-J, Wang W-X et al (2020) Amygdalin - a pharmaco-
+    human cervical cancer cell line HeLa cells. Immunopharmacol          logical and toxicological review. J Ethnopharmacol 254:112717.
+    Immunotoxicol 35:43–51. https://​doi.​org/​10.​3109/​08923​973.​           https://​doi.​org/​10.​1016/j.​jep.​2020.​112717
+     2012.​738688                                          Huang X, Nzekoue FK, Wang J et al (2025) A study of bioactivities
+Chen H, Lai Z, Liao H et al (2018) Synergistic antitumor effect of        and composition of a cocktail of supernatants derived from lactic
+     brusatol combined with cisplatin on colorectal cancer cells. Int J         acid bacteria for potential food applications. Probiotics Antimi-
+    Mol Med. https://​doi.​org/​10.​3892/​ijmm.​2018.​3372                     crob Proteins. https://​doi.​org/​10.​1007/​s12602-​024-​10442-w
+Chen S-J, Chung Y-C, Chang H-L et al (2020) Synergistic effect of     Hullar MAJ, Burnett-Hartman AN, Lampe JW (2014) Gut microbes,
+    combined treatment with longan flower extract and 5-fluorouracil           diet, and cancer. In: Zappia V, Panico S, Russo G, Budillon A,
+    on colorectal cancer cells. Nutr Cancer 72:209–217. https://​doi.​        Della Ragione F (eds) Adv Nutr Cancer. Cancer Treat Res, vol
+     org/​10.​1080/​01635​581.​2019.​16227​39                                 159. Springer, Berlin, Heidelberg. https://​doi.​org/​10.​1007/​978-3-​
+Chou T-C (2010) Drug combination studies and their synergy quanti-          642-​38007-5_​22
+     fication using the Chou-Talalay method. Cancer Res 70:440–446.     Jaszczak-Wilke E, Polkowska Ż, Koprowski M et al (2021) Amygda-
+     https://​doi.​org/​10.​1158/​0008-​5472.​CAN-​09-​1947                              lin: toxicity, anticancer activity and analytical procedures for its
+Duda-Chodak A, Tarko T, Satora P, Sroka P (2015) Interaction of         determination in plant seeds. Molecules 26:2253. https://​doi.​org/​
+     dietary compounds, especially polyphenols, with the intestinal          10.​3390/​molec​ules2​60822​53
+     microbiota: a review. Eur J Nutr 54:325–341. https://​doi.​org/​10.​    Jędrzejewska A, Ślusarska B, Szadowska-Szlachetka Z, et al (2021)
+     1007/​s00394-​015-​0852-y                                      Use of complementary and alternative medicine in patients with
+EFSA Panel on Additives and Products or Substances used in Ani-         cancer and their relationship with health behaviours – cross-sec-
+    mal Feed (FEEDAP), Bampidis V, Azimonti G, Bastos MDL,           tional study. Ann Agric Environ Med 28:475–482. https://​doi.​org/​
+     Christensen H, Dusemund B, Revez J (2021) Safety and efficacy          10.​26444/​aaem/​140165
+     of a feed additive consisting of Lacticaseibacillus rhamnosus    Jeong GH, Bak D-H, Lee H et al (2024) Anti-cancer effects of plant-
+     (formerly Lactobacillus rhamnosus) IMI 507023 for all animal         derived Micromonospora sp. M2 against A549 and MCF-7 cell
+     species (ALL-TECHNOLOGY (IRELAND) LIMITED [Alltech           lines. Biosci Biotechnol Biochem 88:608–619. https://​doi.​org/​10.​
+     Ireland]). EFSA J 19(7). https://​doi.​org/​10.​2903/j.​efsa.​2021.​6700          1093/​bbb/​zbae0​36
+Elderdery AY, Alzahrani B, Hamza SMA, et al (2022) Synthesis, char-    Johnson AC, Jürgens MD, Williams RJ et al (2008) Do cytotoxic
+     acterization, and antiproliferative effect of CuO‐TiO2‐chitosan‐         chemotherapy drugs discharged into rivers pose a risk to the envi-
+    amygdalin nanocomposites in human leukemic MOLT4 cells.        ronment and human health? An overview and UK case study. J
+     Bioinorg Chem Appl 2022 https://​doi.​org/​10.​1155/​2022/​14739​22        Hydrol (Amst) 348:167–175. https://​doi.​org/​10.​1016/j.​jhydr​ol.​
+El-Toukhy SE, El-Daly SM, Kamel MM, Nabih HK (2023) The diagnostic          2007.​09.​054
+     significance of circulating miRNAs and metabolite profiling in early    Jokhadze N, Das A, Dizon DS (2024) Global cancer statistics: a healthy
+     prediction of breast cancer in Egyptian women. J Cancer Res Clin         population relies on population health. CA Cancer J Clin 74:224–
+    Oncol 149:5437–5451. https://​doi.​org/​10.​1007/​s00432-​022-​04492-2         226. https://​doi.​org/​10.​3322/​caac.​21838
+Fadok VA, de Cathelineau A, Daleke DL et al (2001) Loss of phos-     Jorjão AL, Oliveira FE, Leão MVP, et al (2015) Live and heat‐killed
+     pholipid asymmetry and surface exposure of phosphatidylserine         Lactobacillus rhamnosus ATCC 7469 may induce modulatoryFolia Microbiologica (2026) 71:863–874                                                                                       873
+
+    cytokine profiles on macrophages RAW 264.7. Sci World J    Pourramezan Z, Oloomi M, Kasra-Kermanshahi R (2020) Antioxi-
+    2015:716749. https://​doi.​org/​10.​1155/​2015/​716749                     dant and anticancer activities of Lactobacillus hilgardii strain
+Kadekar D, Udrea AC, Bak SY, et al (2024) Cell-free culture super-       AG12a. Int J Prev Med 11:132. https://​doi.​org/​10.​4103/​ijpvm.​
+     natant of Lactobacillus acidophilus AG01 and Bifidobacterium         IJPVM_​307_​19
+     animalis subsp. lactis AG02 reduces the pathogenicity of NetB-    Reed JC (2000) Mechanisms of apoptosis. Am J Pathol 157:1415–
+     positive Clostridium perfringens in a chicken intestinal epithelial         1430. https://​doi.​org/​10.​1016/​S0002-​9440(10)​64779-7
+     cell line. Microorganisms 12:839. https://​doi.​org/​10.​3390/​micro​    Renet S, de Chevigny A, Hoacoglu S et al (2021) Risk evaluation of
+     organ​isms1​20408​39                                                    the use of complementary and alternative medicines in cancer.
+Källman M, Bergström S, Carlsson T et al (2023) Use of CAM among       Ann Pharm Fr 79:44–52. https://​doi.​org/​10.​1016/j.​pharma.​2020.​
+     cancer patients. BMC Complement Med Ther 23:51. https://​doi.​         05.​001
+     org/​10.​1186/​s12906-​023-​03876-2                                 Ricci MS, Zong W-X (2006) Chemotherapeutic approaches for tar-
+Karim NA, Rabea AM, Mack PC et al (2025) State of lung cancer         geting cell death pathways. Oncol 11:342–357. https://​doi.​org/​
+     in Egypt: moving towards improved guidelines for prevention,           10.​1634/​theon​colog​ist.​11-4-​342
+     screening, treatment, and clinical care programs. JTO Clin Res    Rosen GM (1979) Laetrile: end play around the FDA. Ann Intern
+    Rep 6:100776. https://​doi.​org/​10.​1016/j.​jtocrr.​2024.​100776          Med 90:418. https://​doi.​org/​10.​7326/​0003-​4819-​90-3-​418
+Khalaf WS, Garg M, Mohamed YS, et al (2019) In vitro generation of    Saleem M, Asif J, Asif M, Saleem U (2019) Amygdalin from apri-
+     cytotoxic T cells with potential for adoptive tumor immunotherapy         cot kernels induces apoptosis and causes cell cycle arrest in
+     of multiple myeloma. Front Immunol 10: https://​doi.​org/​10.​3389/​        cancer cells: an updated review. Anticancer Agents Med Chem
+     fimmu.​2019.​01792                                               18:1650–1655. https://​doi.​org/​10.​2174/​18715​20618​66618​01051​
+Kroemer G, Reed JC (2000) Mitochondrial control of cell death. Nat        61136
+   Med 6:513–519. https://​doi.​org/​10.​1038/​74994                    Salehifar E, Avan R, Janbabaei G, et al (2019) Comparison the inci-
+Kuugbee ED, Shang X, Gamallat Y et al (2016) Structural change        dence and severity of side effects profile of FOLFOX and DCF
+     in microbiota by a probiotic cocktail enhances the gut barrier        regimens in gastric cancer patients. Iran J Pharm Res 18:1032–
+    and reduces cancer via TLR2 signaling in a rat model of colon         1039. https://​doi.​org/​10.​22037/​ijpr.​2019.​11006​63
+     cancer. Dig Dis Sci 61:2908–2920. https://​doi.​org/​10.​1007/​    Salem-Bekhit MM, Riad OKM, Selim HMRM, et al (2023) Box–
+     s10620-​016-​4238-7                                         Behnken design for assessing the efficiency of aflatoxin M1
+Li D, Chen H, Liu H et al (2021) Anticancer drugs in the aquatic          detoxification in milk using Lactobacillus rhamnosus and Sac-
+    ecosystem: environmental occurrence, ecotoxicological effect        charomyces cerevisiae. Life 13: https://​doi.​org/​10.​3390/​life1​
+    and risk assessment. Environ Int 153:106543. https://​doi.​org/​        30816​67
+     10.​1016/j.​envint.​2021.​106543                                 Sigma-Aldrich (2025) Amygdalin safety data sheet.
+Lieschke E, Wang Z, Chang C et al (2022) Flow cytometric sin-     Sireesha D, Reddy B, Reginald B et al (2019) Effect of amygdalin on
+     gle cell-based assay to simultaneously detect cell death, cell          oral cancer cell line: an in vitro study. J Oral Maxillofac Pathol
+     cycling, DNA content and cell senescence. Cell Death Differ         23:104. https://​doi.​org/​10.​4103/​jomfp.​JOMFP_​281_​18
+    29:1004–1012. https://​doi.​org/​10.​1038/​s41418-​022-​00964-7      Spanoudaki M, Stoumpou S, Papadopoulou SK et al (2023) Amygda-
+Markowitsch SD, Binali S, Rutz J et al (2024) Survey of physicians           lin as a promising anticancer agent: molecular mechanisms and
+    and healers using amygdalin to treat cancer patients. Nutrients          future perspectives for the development of new nanoformula-
+    16:2068. https://​doi.​org/​10.​3390/​nu161​32068                            tions for its delivery. Int J Mol Sci 24:14270. https://​doi.​org/​10.​
+Milczarek M, Pogorzelska A, Wiktorska K (2021) Synergistic          3390/​ijms2​41814​270
+     interaction between 5-FU and an analog of sulforaphane—    Stöcker A, Mehnert-Theuerkauf A, Hinz A, Ernst J (2023) Utili-
+    2-oxohexyl isothiocyanate—in an in vitro colon cancer model.         zation of complementary and alternative medicine (CAM) by
+    Molecules 26:3019. https://​doi.​org/​10.​3390/​molec​ules2​61030​19       women with breast cancer or gynecological cancer. PLoS ONE
+Mohammed OGM, Abd-Allah HM, Gabr AGM et al (2024) Inci-        18:e0285718. https://​doi.​org/​10.​1371/​journ​al.​pone.​02857​18
+    dence and risk factors of pulmonary embolism in cancer    Tokpohozin SE, Fischer S, Sacher B, Becker T (2016) β-d-
+     patients. Al-Azhar Assiut Med J 22:211–216. https://​doi.​org/​        Glucosidase as “key enzyme” for sorghum cyanogenic glucoside
+     10.​4103/​azmj.​azmj_​59_​24                                             (dhurrin) removal and beer bioflavouring. Food Chem Toxicol
+Mun EJ, Babiker HM, Weinberg U et al (2018) Tumor-treating fields:        97:217–223. https://​doi.​org/​10.​1016/j.​fct.​2016.​09.​015
+     a fourth modality in cancer treatment. Clin Cancer Res 24:266–    Turci R, Sottani C, Spagnoli G, Minoia C (2003) Biological and
+    275. https://​doi.​org/​10.​1158/​1078-​0432.​CCR-​17-​1117                 environmental monitoring of hospital personnel exposed to anti-
+Nami Y, Abdullah N, Haghshenas B et al (2014) Probiotic potential         neoplastic agents: a review of analytical methods. J Chroma-
+    and biotherapeutic effects of newly isolated vaginal Lactobacil-          togr B 789:169–209. https://​doi.​org/​10.​1016/​S1570-​0232(03)​
+     lus acidophilus 36YL strain on cancer cells. Anaerobe 28:29–        00100-4
+     36. https://​doi.​org/​10.​1016/j.​anaer​obe.​2014.​04.​012             Vermes I, Haanen C, Steffens-Nakken H, Reutellingsperger C (1995)
+Nami Y, Tavallaei O, Kiani A et al (2024) Anti-oral cancer properties      A novel assay for apoptosis: flow cytometric detection of phos-
+     of potential probiotic lactobacilli isolated from traditional milk,          phatidylserine expression on early apoptotic cells using fluores-
+     cheese, and yogurt. Sci Rep 14:6398. https://​doi.​org/​10.​1038/​         cein labelled annexin V. J Immunol Methods 184:39–51. https://​
+     s41598-​024-​57024-y                                                      doi.​org/​10.​1016/​0022-​1759(95)​00072-I
+Padayatty SJ, Sun AY, Chen Q et al (2010) Vitamin C: intravenous   Wang Z, Du H, Wan H et al (2024) Amygdalin prevents multidrug-
+    use by complementary and alternative medicine practitioners          resistant Staphylococcus aureus-induced lung epithelial cell
+    and adverse effects. PLoS ONE 5:e11414. https://​doi.​org/​10.​         injury by regulating inflammation and oxidative stress. PLoS
+     1371/​journ​al.​pone.​00114​14                           ONE 19:e0310253. https://​doi.​org/​10.​1371/​journ​al.​pone.​03102​
+Panwar H, Calderwood D, Grant IR et al (2014) Lactobacillus strains        53
+     isolated from infant faeces possess potent inhibitory activity   WHO (1999) Guidelines for safe disposal of unwanted pharmaceu-
+     against intestinal alpha- and beta-glucosidases suggesting anti-           ticals in and after emergencies.
+     diabetic potential. Eur J Nutr 53:1465–1474. https://​doi.​org/​10.​   Wonglapsuwan M, Pahumunto N, Teanpaisan R, Surachat K (2024)
+     1007/​s00394-​013-​0649-9                                         Unlocking the genetic potential of Lacticaseibacillus rhamnosus874                                                                                                                   Folia Microbiologica (2026) 71:863–874
+
+      strains: medical applications of a promising probiotic for human    Zaghloul SA, Hashem SN, El-Sayed SR, et al (2023) Evaluation of
+    and animal health. Heliyon 10:e29499. https://​doi.​org/​10.​         the cariogenic and anti-cariogenic potential of human colostrum
+     1016/j.​heliy​on.​2024.​e29499                                     and colostrum-derived probiotics: impact on S. mutans growth,
+Wynendaele E, Furman C, Wielgomas B et al (2021) Sustainability         biofilm formation, and L. rhamnosus growth. Life 13: https://​
+     in drug discovery. Med Drug Discov 12:100107. https://​doi.​org/​          doi.​org/​10.​3390/​life1​30918​69
+     10.​1016/j.​medidd.​2021.​100107                            Zhang M, Liu N, Qian C et al (2014) Phylogenetic and functional
+Yi Y, Theis TL, Young TC (2002) The effect of chlorination on         analysis of gut microbiota of a fungus-growing higher ter-
+    organocyanide compounds. Water Environ Res 74:51–56.         mite: Bacteroidetes from higher termites are a rich source of
+     https://​doi.​org/​10.​2175/​10614​3002X​139749                           β-glucosidase genes. Microb Ecol 68:416–425. https://​doi.​org/​
+Yue Y-C, Yang B-Y, Lu J et al (2020) Metabolite secretions of          10.​1007/​s00248-​014-​0388-3
+     Lactobacillus plantarum YYC-3 may inhibit colon cancer
+     cell metastasis by suppressing the VEGF-MMP2/9 signaling
+    pathway. Microb Cell Fact 19:213. https://​doi.​org/​10.​1186/​    Publisher's Note  Springer Nature remains neutral with regard to
+     s12934-​020-​01466-2                                                 jurisdictional claims in published maps and institutional affiliations.
+
+
+Authors and Affiliations
+
+Omnia Karem M. Riad1     · Hagar F. Forsan2     · Basma Abdulsamad3     · Heba Mohammed Refat M. Selim4     ·
+Wafaa S. Khalaf1 
+
+* Wafaa S. Khalaf                                                              1   Department of Microbiology and Immunology,
+    wafaa.khalaf@azhar.edu.eg; wafaasife1@gmail.com                     Faculty of Pharmacy (Girls), Al-Azhar University,
+                                                                   Nasr City, Cairo 11751, Egypt   Omnia Karem M. Riad
+    dr_omniakarem@azhar.edu.eg                                              2   Dairy Chemistry Research Department, Animal Production
+                                                                      Research Institute (APRI), Agricultural Research Center    Hagar F. Forsan                                                                 (ARC), Dokki, Giza, Egypt    hagarfathy@pg.cu.edu.eg; hagarfathy8@gmail.com
+                                                                                      3   Immunology and Allergy Department, Medical Research   Basma Abdulsamad                                                                                          Institute, Alexandria University, Alexandria, Egypt    Basma.m.93@hotmail.com
+                                                                                      4   Department of Pharmaceutical Sciences, College   Heba Mohammed Refat M. Selim                                                                            of Pharmacy, AlMaarefa University, P.O. Box 71666,    hmustafa@um.edu.sa                                                                11597 Riyadh, Saudi Arabia

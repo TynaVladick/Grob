@@ -1,0 +1,845 @@
+Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+https://doi.org/10.1007/s10803-024-06717-4
+
+ ORIGINAL ARTICLE
+
+
+Operationalizing the ICF Core Sets for Autism and ADHD: A Multiple-
+Methods Feasibility Study
+
+Lovisa Alehagen1     · John Hasslinger1,2     · Elina Wessman1,2 · Melissa Black1     · Karl Lundin Remnélius1     ·
+Johan Helander1     · Eric Zander1     · Sven Bölte1,2,3 
+
+
+Accepted: 29 December 2024 / Published online: 30 January 2025
+© The Author(s) 2025, modified publication 2025
+
+Abstract
+The International Classification of Functioning, Disability and Health (ICF) is the World Health Organization’s (WHO)
+standard for assessing individual functioning. Over the last decade, the ICF has been made more accessible for autism and
+ADHD through the development and validation of tailored shorter ICF versions for these diagnoses, ICF Core Sets. To
+further enhance their applicability in research and practice, these Core Sets have been operationalized and implemented on
+an online platform, the ICF CoreSets platform. Here, we describe the iterative development process of the CoreSets plat-
+form. This multiple-methods study examines user feedback on the operationalization of the Core Sets and the feasibility of
+the CoreSets platform as a functional assessment for autism and ADHD. We collected a total of 678 assessments from the
+CoreSets platform. Individuals diagnosed with autism and/or ADHD, their relatives, participants from the general popula-
+tion, and professionals completed and provided feedback on the usability of the CoreSets platform. Qualitative feedback via
+interviews and focus groups were also collected. Qualitative data were analysed via content analysis, while quantitative data
+were examined using univariate and descriptive techniques. Findings show that the ICF CoreSets platform is feasible and
+user-friendly, but areas for improvement were also indicated, leading to additional refinement of the operationalization and
+platform. The operationalization of the ICF Core Sets and their implementation in the CoreSets platform appears adequate
+for use in research and practice, particularly after revisions indicated by future users, and is now ready for psychometric
+standardization.
+
+Keywords  Core sets · Functioning · International classification of functioning, disability and health · ICF · World health
+organization
+
+Neurodevelopmental conditions such as autism and atten-     et al., 2022). Individuals diagnosed with autism and ADHD
+tion-deficit hyperactivity disorder (ADHD) are common    exhibit variable individual functioning profiles which refer
+expressions of diverse maturation and function of the    to how their activities (execution of tasks) and participation
+developing nervous system, being associated with chal-    (involvement in life situations) unfold as a result of a com-
+lenges complying with mainstream societal demands and    plex interplay between their individual potentials as well
+expectations (Bölte et al., 2023; Thomas et al., 2015; Zeidan    as facilitators and barriers in the environment. Research
+                                                         demonstrates that clinical diagnosis is a too crude indica-
+                                                                   tor of individual functioning and support needs in major
+* Lovisa Alehagen                                                        life arenas, like education, employment, leisure, and family    lovisa.alehagen@ki.se                                                                (Pellicano & den Houting, 2022). Thus, relying primarily on
+1   Center of Neurodevelopmental Disorders (KIND),               diagnoses when seeking to achieve sustainable social par-
+    Department of Women’s and Children’s Health, Centre              ticipation, mental and somatic health, and quality of life for
+     for Psychiatry Research, Karolinska Institutet & Region              autistic individuals and those with ADHD is short-sighted,    Stockholm, Stockholm, Sweden                                                            as it does not account for the heterogeneity of the target
+2   Child and Adolescent Psychiatry, Stockholm Health Care           group, the complexity of individual life situations, and dif-    Services, Region Stockholm, Stockholm, Sweden                                                                     ferential environmental impacts.
+3   Curtin Autism Research Group, Curtin School of Allied
+    Health, Curtin University, Perth, Australia
+
+
+Vol:.(1234567890)Journal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2433
+
+  Although evaluating an individual’s functioning is cru-    biomedical and neurodiversity views of neurodevelopmental
+cial for obtaining a personalized perspective, the concept    conditions (Bölte et al., 2021; Leonardi et al., 2022). The ICF
+of functioning has historically received little attention and    has influenced the development of policies and assessment
+continues to be regarded merely as an accessory to diagno-    frameworks for autism such as through the Federal German
+sis. In addition, the concept of functioning is often confused    Participation Law (Bundesteilhabegesetz, 2016) and the
+with impairment or dysfunction, which conveys a negative    Australian guidelines for autism assessment (AutismCRC,
+perspective of the construct and fails to consider resource-    2018). Additionally, the ICF is currently being evaluated in
+oriented approaches or strategies to enhance participation.    diagnostic and post-diagnostic services for autistic individu-
+For instance, though assessment of functioning is included     als in the United Kingdom (Autistica, 2021). Despite a grow-
+when considering a diagnosis of autism or ADHD, its pri-    ing body of research, the use of the ICF remains limited,
+mary purpose lies in informing decisions about the presence   which may be explained by several factors, primarily a lack
+of qualitative impairment rather than examining individual    of awareness among professionals, its comprehensive nature,
+functioning profiles which includes strengths, challenges and    and insufficient tailoring to specific diagnoses in its standard
+environmental influences. Thus, the recommended tools to    form. Efforts have been made to enhance the usability of
+support this decision-making in the core diagnostic manuals    the ICF, including the creation of ICF documentation tools
+(i.e., DSM-5 and ICD-11), such as the World Health Organi-    (Selb Glässel & Escorpizo, 2015b), and the development
+zation Disability Assessment Schedule (WHODAS) (Üstün    of short lists of ICF codes specific to particular diagnoses.
+et al., 2010) and the ICF generic code set (Prodinger et al.,    These so-called Core Sets improve diagnostic fit while at the
+2016) have been developed with an impairment focus and   same time reducing burden and complexity of use. Core Sets
+are not tailored to specific diagnoses. Even other popular    are developed using a standardized and rigorous procedure
+instruments with widespread use in research and practice    established by the WHO and the ICF Research Branch (Selb,
+that assess functioning often lack a holistic perspective on    Escorpizo, et al., 2015a), with many Core Sets now available
+functioning. These commonly used assessments fail to con-     for several conditions and contexts. Still, these initiatives do
+sider environmental impact, potential individual strengths, or    not operationalize ICF codes; thus challenges to implementa-
+social participation (D’Arcy et al., 2022; Gleason & Coster,    tion remain.
+2012), and are often generic in make-up, potentially being        Initial comprehensive Core Sets for autism and ADHD
+inadequate to capture diagnosis-specific factors that may    were developed some years ago (Bölte et al., 2018, 2019).
+influence functioning. These characteristics may limit their   To support accessibility and to simplify application, a brief
+use for support planning and their acceptance by the target    version was also developed, along with brief Core Sets tai-
+group (D’Arcy et al., 2022). In summary, for both diagnostic    lored to specific age groups (preschool, 0–5 years; school-
+and intervention purposes in research and practice, as well    age, 6–16 years; older adolescent and adult, ≥ 17 years.
+as for a more individualized understanding of autism and    Since their publication, the validity of the autism and ADHD
+ADHD, there is a need for an assessment of functioning using   Core Sets have been endorsed in several contexts, such as in
+an internationally accepted standard that adopts a holistic   employment and school environments (Black et al., 2019;
+approach, capturing essential facets of functioning relevant    Dreaver et al., 2020; Lee et al., 2020, 2023; Leifler et al.,
+to the target populations.                                  2021; Scott et al., 2019) as a means to evaluate measures
+  More than two decades ago, the World Health Organi-   on functioning (D’Arcy et al., 2022; Hayden-Evans et al.,
+zation (WHO) developed the International Classification of    2022), to explore the effects of the COVID-19 pandemic on
+Functioning, Disability and Health (ICF), a biopsychosocial    the autistic community (Fridell et al., 2022), and to investi-
+framework of health-related functioning, aligning with a    gate functional gender differences in autism (Lundin et al.,
+holistic and individualized view of a person’s potential and    2021). The comprehensive and age-appropriate brief autism
+performance in light of their individual (body functions and    and ADHD Core Sets recently underwent their first revisions.
+body structures), personal (e.g., worldview, attitudes, age,   The revised comprehensive Core Sets for autism and ADHD
+gender), and external (social, attitudinal and physical) con-   now contain 121 and 98 ICF codes respectively (Bölte et al.,
+texts (WHO, 2001, 2007). The ICF classification encom-    2024a, 2024b). While these Core Sets are evidence-based
+passes almost 1700 codes for body functions, body struc-    standard selections of all ICF codes for assessing function-
+tures, activities and participation, and environmental factors    ing in autism and ADHD, the utilization of the Core Sets
+enabling the generation of comprehensive individual func-    remains constrained. To maximize usability and accessibility
+tional profiles, comprising an individual’s strengths and chal-    in research and practice for different groups of informants,
+lenges, and environmental facilitators and barriers (Bölte,   ICF codes need to be operationalized into scorable items.
+2023). The ICF has the authority of the WHO and enjoys    Therefore, we operationalized the ICF Core Sets codes into
+the trust of all its 194 member states. It is also part of many    items and implemented them as rating scales on a digital
+national guidelines and legislation and bridges gaps between    platform, the ICF CoreSets platform. In piloting the ICF2434                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+CoreSets platform, we conducted both a quantitative valida-    keep the questions brief, and create a shared introduction to
+tion study of the assessments and a multiple-methods study    sections of questions. If the 2nd level ICF codes in the Core
+of user experiences and the feasibility of the platform. The    Sets included 3rd and 4th level coding details, these were
+quantitative validation is detailed elsewhere (Alehagen et al.,    consulted and transformed into questions to maximize the
+2025). Here, we focus on the development and initial usabil-    content validity of the generated items. Some codes yielded
+ity and user experiences of the Core Sets operationalization    a single item (e.g., d130 “Copying” [Imitating or mimick-
+and ICF CoreSets platform.                                       ing]), while others were broader and more complex, result-
+                                                           ing in multiple questions (e.g., d350 “Conversation” with 7
+                                                                 questions). Insights from the development of the autism and
+Methods                            ADHD Core Sets (Bölte et al., 2018, 2019) also informed
+                                                                     this operationalization process. Subsequently, an open and
+Design                                                             iterative process followed, involving an international group
+                                                            of professionals experienced with both ICF and neurode-
+In this multiple-methods feasibility study, we evaluated the    velopmental conditions from Australia, Germany and Swe-
+ICF CoreSets platform for autism and ADHD. Following    den, as well as stakeholders and clinicians from Sweden.
+the operationalization of codes contained in the ICF Core    Their feedback and opinions were considered, resulting in a
+Sets to scorable items and their implementation on the Core-    revision of the items. A total of 123 codes from the autism
+Sets platform, feedback on design, item clarity, flow, and   and ADHD Core Sets were operationalized into 286 items.
+overall user-friendliness was collected from Swedish autistic    Operationalization of the age-specific Core Sets resulted in
+people, those with ADHD, professionals, other stakehold-    between 141 (ADHD, age 0 to 5) and 233 items (autism and
+ers, and the general population. Feasibility was also tested  ADHD combined, age > 16,) which were derived from 62
+in autistic adults in the United Kingdom and is described    to 89 ICF codes.
+elsewhere (Freeth et al., 2024). Data were collected via vari-      For quantification of functioning, the ICF recommends
+ous sources, including (1) written feedback provided within    qualifiers (WHO, 2001) in the form of five-point scales to
+the ICF CoreSets platform, (2) interviews and focus groups,    rate functional abilities and disabilities in an individual’s
+and (3) a quantitative evaluation rating form. Based on the    daily life. However, these qualifiers have limitations in
+feedback received, both the platform and the Core Sets rating    assessing overall functioning, as they primarily measure
+scales were revised to enhance usability and acceptability.    impairment and do not adequately capture strengths. In
+The steps of the process are illustrated in Fig. 1.                addition, standard ICF qualifiers lack both space for broader
+   Written informed consent was collected from all partici-    quantification of functioning and elasticity to assess func-
+pants and/or their parents or legal guardians prior to partici-    tional change. To address this, the ICF CoreSets platform
+pation. Ethical approval for the study was obtained from the   employs an adapted numeric rating scale (McCaffery &
+Swedish Ethical Review Authority (2021-03998 ), and the    Beebe, 1989), whereby an 11-point Likert Scale is used,
+study was pre-registered on the Open Science Framework    assessing both hindering factors/challenges and facilitating
+(https://​doi.​org/​10.​17605/​OSF.​IO/​TNDZ2).                    factors/strengths. Participants scored items on an ordinal
+                                                               scale from 0 to 10 for body functions and activities and par-
+                                                                      ticipation, with 0 to 5 indicating challenges, 6 to 8 indicating
+CoreSets Platform Development                  normative functioning, and 9 to10 indicating that the factor
+                                                             represents a strength. Environmental factors were scored
+Operationalization of Core Sets                       from − 5 to + 5 (increasingly hindering: −1 to-5, increas-
+                                                             ingly facilitating: 1 to 5, “0” for neutral). The body func-
+The ICF Core Set codes for autism and ADHD were oper-    tion sensory processing was also scored from − 5 to + 5 and
+ationalized into a set of items for both self- and inform-    unusual movements from 0 to −5.
+ant report. Given the absence of universal guidelines for
+operationalizing ICF codes, an iterative process involving   Implementation on Platform
+stakeholders and professionals from different countries was
+undertaken, using common questionnaire design principles  A cloud-based assessment platform, the ICF CoreSets plat-
+(Krosnick & Presser, 2010). First, two authors (SB, EZ)    form, was developed. The platform integrates the opera-
+transformed the codes into assessable items guided by the    tionalized ICF Core Sets in the form of scorable items as
+principle of generating as few items as possible but also as    online rating scales. The platform was designed to be self-
+many as needed to adequately and closely reflect the relevant    explanatory, with no need for informant training or instruc-
+construct described in the ICF manual. The authors sought    tions given by a professional. On the platform, there are
+to focus on one item in each question, use simple language,   15 functional assessment versions corresponding to theJournal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2435
+
+Fig. 1   Flow-chart over the study
+process
+                                                               Operationalization
+
+
+
+
+
+                                                     Implementation
+                                                 on digital
+                                                             platform
+
+
+
+
+                               Focus groups                                                                                         Pilot of platform                              and interviews                                                                           (k=681)                                      (n=35)
+
+
+
+
+                                                                    Written                                         Qualitative                                          Evaluation
+                                       verbal data              responses                  rating form
+
+
+
+
+                                                                                           Univariate and                                                 Content                                                                                                 descriptive                                                      analysis                                                                                                              statistics
+
+
+
+
+                               Feedback from
+                        UK study (n=20)
+                                             (Freeth et al., 2024))
+
+
+
+                                                                     Revision of
+                                                                            platform
+
+
+
+respondent type (self or proxy), age range, and diagnosis.    comprising age-appropriate self-reports (6–16 years and
+These include five versions for autism and ADHD, each    adult) and proxy-rating versions (0–5 years, 6–16 years,2436                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+and adult). There are also five additional autism and ADHD    providers such as child and adolescent and adult psychiatry.
+combined scales (6–16 years and adult as self-reports and    Individuals from the general population were recruited in
+0–5 years, 6–16 years and adult as proxy report). Partici-    cooperation with the data collection and marketing com-
+pants gain access to an assessment upon receiving a link    pany PFM Research, who selects individuals from nationally
+to the platform by invitation of a professional. In addition    representative panels. Inclusion criteria for individuals diag-
+to Likert-scale ratings, each item includes a comment box    nosed with autism and/or ADHD was a community diagno-
+for participant feedback or clarification of replies. Partici-     sis of autism, ADHD, or both, or a self-identified diagnosis
+pants can complete the entire assessment at one point in    of autism and/or ADHD. Relatives were required to be a
+time or save their progress and continue at a later time of    caregiver or guardian of an individual with a community
+their choice. Before the revisions, the assessment included a    diagnosis of autism and/or ADHD. There were no exclu-
+single open-ended question positioned at the end, where the    sion criteria for the general population group, except for the
+participant could provide any additional functional informa-    self-reported presence of an autism or ADHD diagnosis.
+tion of importance from their perspective.                      Participants could undergo assessment by multiple relatives,
+                                                     and they could also conduct more than one assessment. For
+                                                                 instance, a participant might complete both a self-report and
+User Experience and Feasibility Evaluation       a proxy-report for a relative. In total, 678 assessments were
+                                                               collected, including 311 assessments of individuals with
+Participants                                             autism and/or ADHD and 367 assessments of neurotypical
+                                                                individuals, see Table 1.
+Individuals diagnosed with autism and/or ADHD (self-       Individuals who completed the ICF Core Sets platform
+report), relatives of autistic individuals and/or those with    were also invited to engage in an interview or focus group
+ADHD (proxy-report), and individuals from the general    about their user experience of the platform. A group of par-
+population (self or proxy-report) were eligible to participate    ticipants who had consented to focus group participation
+in the study. Autistic individuals, individuals with ADHD,   were contacted. A total of 35 participants engaged in the
+and their caregivers/guardians were recruited through coop-    interviews/focus groups, including 12 neurodivergent people
+eration with interest organisations, a clinical unit attached     (2: male, 9: female, 1: non-binary) and 11 relatives who were
+to the research centre, and via collaborations with service    partners, friends, and parents of neurodivergent individuals.
+
+
+Table 1   Overview of raters’ sociodemographic data per ICF core set versions
+Core Set – age-version                           Self-rating                             Proxy-rating
+                                Ratings      Female: male     Age              Female: male     Age              Missing ­datab
+                                                    (othera)          mean (sd)           (othera)          mean (sd)
+ADHD – 6–16 years              k = 17        1:3                12.00 (2.58)       6:0                42.17 (1.47)      7
+(156 items)
+ADHD – adult                    k = 49       18:3 (3)           37.37 (12.78)      13:7               46.05 (18.03)     5
+(170 items)
+ASD – 0–5 years                   k = 2        –                –                  1:1                40.50 (9.19)      0
+(185 items)
+ASD – 6–16 years                 k = 19        2:4 (1)             14.00 (1.53)       8:3                44.27 (10.01)     1
+(202 items)
+ASD - adult                      k = 78       34:8 (3)           39.20 (12.33)      15:11             47.19 (18.58)     7
+(218 items)
+ASD + ADHD – 6–16 years       k = 31        1:3                13.50 (2.65)       14:6               46.80 (11.88)     7
+(213 items)
+ASD + ADHD - adult             k = 115      47:13 (3)          37.68 (12.91)      22:10             47.56 (14.31)     20
+(232 items)
+ASD + ADHD – ­commonc        k = 367      110:101 (1)        43.31 (15.79)      79:72 ­(4a)          45.10 (15.27)     0
+(170 items)
+No Core Sets for the ADHD – 0–5 years, nor the ASD + ADHD – 0–5 version were completed
+a Includes responses: non-binary, other, unsure and don’t want to answer
+b Missing data from Sociodemographic survey
+c Used for the general populationJournal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2437
+
+For privacy considerations, only data pertaining to gender    positive opinion, whereas a mean score of 2,5 and below
+and the relative’s relationship to the assessed individual     reflects an increasingly critical view.
+were gathered. Additionally, a subgroup of professionals
+(psychologists and special education teachers, (n = 11) was   Procedure
+recruited to participate in individual interviews or focus
+groups. The professionals only engaged with the platform    Prior to participating individuals received study information
+for evaluation purposes, hence, their assessment responses   and were required to provide written informed consent (or
+were not included in the overall count of 678 assessments.    assent with guardian consent). Subsequently, participants
+They were recruited via professional networks.                received a link to the ICF CoreSets platform. Within the ICF
+                                                        CoreSets platform, participants completed the most appro-
+Data Collection Materials                                    priate version of the rating scale in accordance with their
+                                                         respondent type. The general population group responded
+Online Comments: Comments made regarding specific items    to a version containing 170 items (brief autism/ADHD com-
+or the whole platform during the assessment via comment    bined version), while the number of items for neurodivergent
+boxes within the ICF CoreSets platform were collected from    group and their relatives/guardians, varied between 156 and
+all responders (diagnosed participants, their relatives, and    232, depending on age and diagnosis, and thus correspond-
+general population) if provided by participants. This par-    ing ICF CoreSet operationalization. Participants were also
+ticipant feedback was reviewed for any opinions or com-    sent a sociodemographic form and the evaluation rating
+ments concerning the construction and contents of the rating    form. Following the completion of the ICF CoreSets plat-
+scales.                                                    form, individuals diagnosed with autism and/or ADHD and
+  Focus Groups and Individual Interviews: A combination    relatives were invited to participate in an interview or focus
+of focus groups and interviews were conducted in order    groups after completing the ICF assessment. For those who
+to enrich the data and broaden understanding (Lambert    could not attend focus groups or preferred other formats,
+& Loiselle, 2008). Between five and 10 participants were    individual interviews were offered. A select number of pro-
+invited per group (Kreuger, 1994; Morgan, 1997), how-    fessionals were also invited to view the platform and provide
+ever, in instances where smaller groups of two participants    feedback via an interview or focus group. Eight focus groups
+occurred, the sessions were conducted as planned. Focus    and five interviews were conducted, with group sizes rang-
+groups and individual interviews were conducted online via    ing between 2 and 7 participants.
+Zoom. The video feature was recommended but participants
+could choose not to use it. The first author moderated the   Data Analysis
+meetings while a research assistant (JHe) took notes. Focus
+groups and interviews followed a semi-structured format,    Qualitative Data
+allowing for flexibility in question order while maintaining
+consistent overall content. The primary focus was on evalu-    Qualitative data comprised both written text collected from
+ating the wording and content of the rating scales, as well as    the ICF CoreSets platform and verbal data from interviews/
+the design of the ICF CoreSets platform. Sample questions    focus groups. Written responses from the ICF CoreSets plat-
+included: “How did you find the wording of the questions?”,   form were exported for analysis. First, text within the text
+“Is there anything related to your daily functioning that was    boxes of the rating scales was analysed. Sub-domains of
+not covered in the form?”, “How well did you understand    the assessment were grouped, and comments related to each
+the questionnaire?”, “What would facilitate understanding?”.    item were reviewed. The focus was on opinions specific to
+Phrases such as “Explain more” or “How do you mean?”    the items, excluding any personal matters. Furthermore, the
+were used to clarify comments and deepen understanding.      last text box in the rating scale was analysed. Meaning units
+  Standard Evaluation Form: A standardised evaluation    were identified, condensed, and coded until categories and
+form, developed by the research team for the purposes of the    sub-categories were developed. The findings were discussed
+study and inspired by the System Usability Scale (Brooke,   among the authors (LA, JHa and SB), which laid the basis
+1996) captured information concerning the operationaliza-    for revisions on the ICF CoreSets platform. Finally, quali-
+tion and platform’s feasibility for: (i) time spent to complete    tative data generated from the feedback derived from the
+assessment, (ii) navigation, (iii) familiarity, (iv) consistency,  UK study (Freeth et al., 2024), which exhibited significant
+(v) visual clarity, (vi) flexibility and efficiency, (vii) over-    overlap with the feedback from Sweden, was evaluated and
+all feasibility. Items were scored on a scale from 1 to 4,    added to the revision process.
+with higher scores indicating a more user-friendly experi-       Interviews and focus groups were transcribed verbatim
+ence. Hence, a mean score above 2,5 reflects an increasingly   by the first author (2 interviews) and by an external tran-
+                                                              scriber (11 interviews). Transcripts were cross-checked2438                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+against the original recordings to ensure accuracy. The    of considering diverse behaviours within diagnostic catego-
+focus groups and interviews were analyzed using qualita-     ries was emphazised. The majority of professionals believed
+tive content analysis (Graneheim & Lundman, 2004; Elo &    the ICF CoreSets platform could aid in assessments and
+Kyngäs, 2008) with a primary focus on the manifest content     facilitate a shift away from a purely diagnostic approach
+level of the text (Given, 2008). Initially, two authors (LA,    toward a more individualized perspective. One professional
+JHa), read each transcript and then re-read them and iden-    expressed: “I believe there’s great value in… if we can just
+tified meaning units that were condensed and coded. The    get this out on a broader scale, we can move away from
+codes were then sorted into categories and sub-categories.    the notion that an assessment is solely about assigning a
+The analysis of all following transcripts utilized catego-    diagnosis. What’s stated in the assessment is a diagnosis,
+ries and sub-categories that had been established during    but then that’s something very general. We want the help to
+the analyses of previous transcripts as well as establishing   move forward.” (P8). Discussions highlighted the potential
+new ones. When new categories emerged, meaning units    of the platform as a tool for interprofessional communication
+from previous transcripts were reassessed in the light of the   and overall, the work was deemed relevant by all groups.
+new categories. Hence, the analysis process combined both    “I think it’s incredibly relevant, and I’m really happy that
+an inductive and a deductive approach. To ensure rigor,    you’re working on this. I’m very excited to see what the
+findings from each author (LA, JHa) were compared across     results will be.” (R11).
+sources (neurodivergent, relative, professional) before all      Feedback: A prevailing opinion was the desire to receive
+results were consolidated. In case of disagreement, the    a summary of the answers and some form of assessment
+categories, sub-categories, and codes were discussed until     results. Some participants indicated a desire for a review,
+consensus was reached.                                      as they had forgotten their answers or wanted to reflect on
+                                                        them, as one participant stated: “Something I missed a lit-
+Quantitative Data                                                      tle was perhaps that you could go back to your answers so
+                                                  you could reflect on it.” (N5). Others sought to show or
+Data collected via the standardized evaluation form were   compare their responses with others, like this relative said:
+analyzed quantitatively. Six questions addressing various   “One doesn’t receive a summary of one’s responses; it would
+aspects of user-friendliness on the standardized evaluation    be interesting to compare my answers with my children’s.”
+form were examined using a descriptive univariate analysis.    (R9).
+Ratings from the different diagnostic and age-group versions      Enhanced accessibility: Participants emphasized improv-
+of the ICF Core Sets were consolidated into a single group,    ing platform accessibility to enable a broader range of indi-
+regardless of the number of items. Mean scores were then    viduals to participate. Recommendations included allowing
+compared to those of the general population group, with    users to customize colors for better clarity in the response
+separate analyses for self-ratings and proxy ratings.            scale and implementing a screen reader to enhance acces-
+                                                                        sibility for those with visual impairments. One participant
+                                                            expressed: “I think about people who don’t have complete
+Results                                                   color vision. Isn’t it impossible for many people to dis-
+                                                             tinguish between red and green?“ (R5). A dialogue about
+Qualitative Results                                             this arose between two other focus group participants:“I
+                                                 was wondering, was there support for resolution or audio
+Content analysis yielded 4 categories and 11 sub-categories.    description for those who…?”, “Yes, I think that would
+A summary of the categories along with illustrative quotes    have been helpful. Especially if it read out the questions, for
+are presented in Supplementary material (table S1). To sup-    example.”, “Because that excludes quite a few people from
+port the categories, participant type (N = neurodivergent,    participating, given that it doesn’t exist.” (N12 and N10).
+R = relative, or P = professional) was used as an identifier
+for each quote.                                      Items
+
+Usability                                             Appreciated items: Several positive opinions emerged
+                                                          regarding the items. Participants appreciated the compre-
+The platform: Many participants expressed a positive view    hensive coverage across various domains and the inclusion
+of the platform, citing easy navigation, clear instructions,    of strengths alongside challenges. The incorporation of
+and visual appeal. As illustrated by two participants: “The    environmental factors was mentioned as a positive aspect
+text is clear, and… I think so too, especially with the fonts   by all groups, given their significant impact on overall
+and such. So, I thought it was good.” (N8) and “It’s very    functioning. For example, one neurodivergent participant
+neat and it’s very clear what to do.” (P9). The importance    said: “I think it was good that questions were asked aboutJournal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2439
+
+how one is affected by different aspects of society.” (N3),     lifestyle than personally desired. For example, one partici-
+while a relative expressed: “I would say, it’s a really crucial    pant said: “Is it really better to be more outgoing and social?
+area… because the environment makes all the difference,     I might not want to be super social all the time, but I don’t
+and context and surroundings are where difficulties arise.”    see it as a problem.” (N8). Specific traits, such as sociability
+(R8). Also the professionals lifted this as an important area:    and extraversion, were rated as strengths, while stereotypic
+”Recognizing that the disability arises in relation to the envi-   movements (e.g., hand-wringing, flapping, finger-waving,
+ronment is crucial, and it should be considered as something    rocking, stimming), were rated as being associated with
+that needs attention.” (P8). Other items that were appreciated   low functioning, which some perceived as indicative of this
+were those for social participation, sleep and perception, as     bias. One participant expressed: “…stimming is perceived as
+described by this participant: “You have quite a few ques-    something negative…even though it is natural and healthy.”
+tions related to participation, self-determination, and the    (N9). Some critiqued the rating scales’ underlying design,
+ability to influence society. I think those aspects are very   which involves individuals comparing themselves to others
+important because they’re not always thoroughly considered   on various items. Like one participant said: “If others engage
+in typical assessments.” (P10).                                 in doing those things, it’s quite irrelevant to me…” (N7).
+  Length: Although opinions varied, many participants   They contended that this approach lacks neurodiversity-
+expressed that the rating scales were overly comprehen-    friendliness. Instead of conforming to societal expectations
+sive, illustrated by these two quotes: “…she [the daughter]    of functionality, they advocated for exploring one’s preferred
+thought there were a lot of rephrasing, like asking about     lifestyle and values, emphasizing that others’ behaviours or
+the same thing with different sentences and from different    values should not necessarily be relevant.
+angles…it became too cumbersome and repetitive. But as I
+said, that was her perspective… I didn’t react to it because
+I love forms.” (R11) and “It also depends on how sensitive   To Respond
+one is to answering these kinds of questions. I think perhaps
+people who are supposed to answer this might be more okay   Response challenges: Numerous participants highlighted
+with it than I am; I just get tired of these things and feel like     difficulties in rating their functioning at all, owing to its
+enough is enough.” (P9).                                     variable nature, and mentioned factors such as situational
+  Recommendations for condensing the rating scales    context, motivation, and mood. Consequently, assigning a
+included creating different assessment versions based on    single numerical score to each item may be misleading, as
+expected levels of functioning or more clearly categorizing    functioning levels can fluctuate significantly from day to
+questions suitable for different age groups. Consolidating    day. Participants expressed: “It’s one answer when I have
+related topics into single questions and removing unneces-    energy and feel fully… well and all that, but it’s a completely
+sary ones were also suggested.                                   different answer if I’m overstimulated or exhausted.“(N7),
+   Requested additional items: Participants identified several    and: “It varies depending on where he is. Whether he’s
+topics that were either absent or deserving more emphasis.    with me or someone outside the home, it’s like dealing
+Two recurring themes emerged: masking and energy regula-    with two completely different people.” (R1). Additionally,
+tion. Many participants believed that these themes signifi-   some respondents found the items overly broad or general in
+cantly influenced their functioning and should be integrated     their formulation, leading to challenges in providing accu-
+into the assessment process. Some participants expressed    rate answers. Specific issues included unclear wording, and
+that masking - adopting behaviours to appear more neu-    instances of compound questions (e.g., “I am X and Y”).
+rotypical in the presence of neurotypical individuals - and   One participant said: “I also thought that certain questions
+managing volatile energy levels had a substantial impact on    with double assertions were challenging to evaluate. They
+their responses to assessment items. Consequently, answers    weren’t quite the same thing, which made them difficult to
+could vary significantly based on whether an individual was    answer.” (R9). Some participants also experienced ambigu-
+masking and the level of energy they experienced on a given     ity regarding the timeframe (e.g., questions related to school
+day or moment. These themes were correlated for many par-    functioning when the respondent was not currently attend-
+ticipants, highlighting how masking behavior can lead to a    ing school), like this participant said: “It was formulated in
+more rapid depletion of energy. Like one participant said:    such a way that it was difficult to know whether one should
+“It doesn’t address things that aren’t very visible externally,    answer based on how it was when they were in school or if
+such as masking and the fatigue that can occur during the      it only applied to those currently attending school. So, it was
+overload…” (R10).                                        a bit difficult to answer, you know.” (N12).
+   Neurotypical perspective: Some participants raised con-      Item scaling: The response scale elicited both positive
+cerns about potential bias towards favouring a neurotypical   and negative opinions. A majority of respondents found
+perspective. For example, valuing a more socially active    the use of colors helpful, as these participants described:2440                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+“I thought it was good that it was divided like this in colors    Quantitative Results
+because it made it a bit clearer to overview.” (N12), and
+“So, I think it’s pedagogical to use different colors. And    In both neurodivergent and general population groups,
+it also becomes clear what falls within the normal range,    including both self- and proxy ratings, the mean scores gen-
+which gives you an idea of how the scale is graded.” (R7).    erally indicate an acceptable view of the platform. Items
+Moreover, most participants appreciated the comment field    related to design (items 2–5) were consistently rated highly
+alongside each item, allowing them to provide clarifications    across all groups, with mean scores ranging from 2.9 to 3.41
+when necessary. However, some users found the comment   (max score of 4), indicating a favorable view of the plat-
+field too small for expressing their thoughts fully, like this    form’s design. Item 1 (“What do you think about the time
+participant said: “I wrote a lot of comments, but the char-      it took to answer the questionnaire?”) received the lowest
+acters didn’t always suffice for me. However, I understand    scores across all groups, suggesting that respondents found
+that you don’t want essays for every little question.” (R5).    the rating process somewhat extensive with mean scores
+The omit buttons beneath the response scale (‘Not applica-   from 2.32 to 2.59. Approximately 60% of the neurodiver-
+ble’ and ‘Unknown’) raised questions, as many individu-    gent groups, both self-and proxy-rated assigned this item
+als did not understand their intended functions and found    with a score of 1 or 2. The summarizing item 6 (“In sum-
+the wording difficult to understand: “What is the difference    mary, how user-friendly was the ICF CoreSets tool?”) was
+between ‘unknown’ and ‘not applicable’?” (N8). It was    scored between 2.94 and 3.26 and around 80–90% of all
+recommended to either simplify the wording or to provide    participants rated the overall user-friendliness as either 3 or
+explicit instructions on their usage. Opinions on the steps in    4. For more information, see Table 2.
+the response scale were mixed. Some participants found the
+scale too detailed, making it hard to distinguish differences    Revisions
+between steps. One participant said: “There are so many
+steps, how are you supposed to determine whether it’s a one,    Following data analysis, decisions were made regarding the
+two, or three; perhaps there are too many steps involved.”    implementation of suggested revisions to improve the ICF
+(R10). Others deemed the 11-point scale appropriate. Fur-    CoreSets platform. These decisions were deliberated by
+thermore, concerns arose about the scale’s asymmetry, with    three authors (LA, JHa, SB) based on the following criteria:
+more space allocated to challenges than strengths. The words    (a) Alignment of suggestions with the original ICF code
+underneath the scale “Atypical-Typical-High function” were    and overarching ICF philosophy, (b) Frequency of reiterated
+confusing too many. Some also found them marginalising    suggestions, (c) Practical feasibility of incorporating sug-
+and judgemental.                                             gestions into the rating scales (including collaboration with
+                                                     IT technicians to assess proposed design enhancements).
+                                                         Subsequently, all suggestions underwent scrutiny by the
+Instructions                                               authors (LA, JHa, SB) who made the final decisions regard-
+                                                           ing the revisions. Moreover, a language custodian reviewed
+Clarity: Participants generally found the instructions clear    the instructions for the ICF Core Sets rating scales, focusing
+and the rating scale description adequate, like this partici-   on enhancing language accessibility. The recommendations
+pant: “I thought the instructions were good. I understood   were collectively evaluated by the authors (LA, JHa, SB) to
+what I was supposed to do.” (N3). Suggestions for improve-    determine which should be integrated into the final version
+ment included providing guidance on how to approach the    of the ICF CoreSets platform. Lastly, a test trial took place
+assessment questions, adding a feature for requesting further     at the research centre, involving professionals who were
+explanations, and giving more details on the rating scales’    asked to complete the assessment and provide feedback on
+length and content. One participant expressed: “For my part,    the revised version. This process resulted in additional minor
+it would be good to have a bit more overview of the test    adjustments.
+layout before I started. Something like a button that says,
+‘Look here to see what type of questions are coming.” (R7).    ICF Core Set Operationalization to Rating Scales
+   Progress bar: The progress bar was well-liked and found
+to be helpful by some participants: “It was like a progress    Findings led to several revisions to the rating scales. For
+bar at the top, and that was comforting.” (N5). However,    example, in response to feedback regarding a neurotypical
+some suggested enhancement for the progress bar, like    perspective on behaviors such as stereotypic or repetitive
+showing the remaining number of items instead of pages.     movements (e.g., stimming), the response scale for that item
+                                                 was modified. As a result, the presence of such behaviors
+                                                       can now be rated as both hindering and helping. While the
+                                                comment field for each item remained unchanged, additionalJournal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2441
+
+                                                                                                                                while                                                                                           (20.4) (19.4) (23.3) (44.7) (27.2)         (8.5) (29.2) (23.1) (23.1) (39.2) (31.5)                                                                       (3.9)
+             4 4 21 20 24 46 28    11 38 30 30 51 41
+                                                         (33) (55.3) (60.2) (66) (49.5) (63.1)           (39.2) (53.8) (58.5) (63.1) (50) (53.8)             3 34 57 62 68 51 65    51 70 76 82 65 70       user-friendly)
+                                                                             not
+                                                                                     (54.4)                                                                                           (21.4)                                                                                                 (18.4)                                                                                      (9.7)                                                                                                                              (7.7)                                                                                                                                   (9.2)                                                                                                                                                                    (11.5)                                                                                                                                long,                                                                                           (5.8)                                                                                                 (8.7)                                                                                         response
+             2                            56                              22                                19                                   10                  6                   9 k = 130    (43.8)57 (13.8)18 (15.4)20                                                  10                                                     12                                                       15                                                                     k = 103 per                                            too
+                                  (%)                                                                                        (e.g.,                                                                                                                                                                                                                                       ­populationd
+                                                                       (8.7) (2.9) (1.9) (1) (0) (1)         (8.5) (3.1) (3.1) (6.2) (1.5) (3.1)                                                                                                     Frequency 1 9 3 2 1 0 1                                            11 4 4 8 2 4    opinion                                                                                                                                                   ­neurodivergentc                                                                                                                                                general
+                                             (sd)            (0.69) (0.73) (0.68) (0.60) (0.60) (0.61)           (0.77) (0.74) (0.72) (0.75) (0.69) (0.73)                                                                                                                                                                                                            negative
+
+                          a                                                                                                                      Proxy-rating  Mean        2.32 2.93 2.97 3.12 3.39 3.17  Proxy-rating  2.48 3.09 3.02 3.03 3.27 3.14
+                                                                                                                                                                                                            indicate                                          (9) (22.1) (17.9) (19.3) (36.6) (17.9)           (12.8) (44.6) (23.6) (28.2) (48.2) (35.4)                              version
+             4 13 32 26 28 53 26    25 87 46 55 94 69  2.5
+                                                                                                                                below                                                                                                                                                 (63.1) (58.5)                                                                                                                                                                    (56.4)                                       diagnosis                                                                                                                                                              (45.1)                                                         (31) (55.2) (60) (64.1) (51.7) (62.1)           (42.1) (45.1)
+             3 45 80 87 93 75 90    82 88 123 114 88 110             and                                                                                                                                                         scores
+                                                                                        age
+                                                           on                                                                                     (46.9) (19.3) (16.6) (13.1) (9) (16.6)           (36.9) (8.7) (11.8) (12.3) (6.2) (7.2)  Mean                                                                                         response                                                                                                                                                     diagnosis             2 68 28 24 19 13 24                                                                                                                                                k = 195 72 17 23 24 12 14                                  per                                                                     k = 145
+                                  (%)                                                                                                                                                                                                                                                                                         experience.                         depending                                                                                                                                                                                                                                       ­populationd                                                                                     (13.1)                                                                                                               (8.2)                                                                            (3.4) (5.5) (3.4) (2.8) (3.4)                                                                                                                    (1.5) (1.5) (1) (0.5) (1)                                neurodivergent     211),                                                                                                     Frequency 1 19 5 8 5 4 5    16 3 3 2 1 2                                                                                                                                                   ­neurodivergentc                                                                    general                                                                                  ­populationb
+                          ,                                                                                                                                                                                                                                          (average                                                                                                                                                                                                                          reported                                             (sd)            (0.82) (0.74) (0.75) (0.68) (0.72) (0.70)           (0.82) (0.70) (0.64) (0.66) (0.63) (0.63)
+                           a                                                   general    Self-rating  Mean        2.36 2.96 2.90 2.99 3.22 2.94  Self-rating  2.59 3.33 3.09 3.14 3.41 3.26           positive/satisfactory                                                       of      156–232items                      vs.                                                                  170                                                                                                      moreuser-friendly) absence diagnosis  of
+                          a  the       between
+                                                       to
+                                                                                  due      varied                                                                                                                                                                                                      questionnaire?                                                                                                  questionnaire?                                              indicatedlength,                           consisted                                                                                                             ­neurodivergenta                                                                        good                                                                                                                                                                                                                                                                                                                                                                                                            neurodivergent                                                                                                                                                                                      always                            a items                                          the           tool?            the           tool?              scores(e.g., k = 4                                                          ratings,                                                                                     answer    you?                             answer    you?                                                                                  and of of group
+                            to                                                                         for CoreSets     tool?                                                 for CoreSets     tool?    to                                                                                                                                                                                                                                                                                                                                    questionnaire?                                                                                                                                                                                                                     questionnaire?                                                                                                                                                         Higher   data                                                                                                                                                                                        opinion                                    proxy                                                                            ICF                                                    ICF                                                                                                 tool                                                                 tool                                                                                                                                                                                number                                                                                        took                                                         took                                                                     the                                              the                                                                                                                                   page?                                                                                           page?                                                                                                                                                                                                                                                               reporting
+                                            it                            it                                                                                                      1–4.                                                                            the                                                    the                      and                                                                                        the                                                                               the                                                       the                                                                                                                                                                                                                          CoreSets                                                                                                                                                           CoreSets                                                                                     the                                                                                                                                                                                               missing                                                                                                                                                                                                                                                                                                               population                                                                                        time                                                         time                                                     on                                     on                                                                            was                                                    was                                                                                                                                                                                                                  positive                                                                                                                                           around                                                                                           around                             self                                                         to                                                       to                                                                                                                                scale                                                                                  ICF                                                          ICF                                                                                                                                                                                                  CoreSets                                                                                                                                  CoreSets                          a                                          the                     the     a              group
+                                                                                  the                                                          the                                                                                  due due                                                                         ICF                                                 ICF                                                   on                                                                                                                                                       design                                                                                                        design                                                                                                                                                                                                                    general                                            scores                        about navigate                                                                                  was                                                          was         about navigate                                                                         the                                                 the                                                                            its orientate                                                    its orientate                                                                                                                                                                                                                  indicate                                                                                           the                                              it was in toit       rated                              it was in toit              think to                                                                       think to                                                                                           for                                                                               2.5 excluded excluded                                              was      was            was      was                                          you                     you                    were                                                                                                                                                                                                                                                                                                                                                                                                                          neurodivergent                                                                                 Evaluation         do easy intuitive consistent easy user-friendly    do easy intuitive consistent easy user-friendly       above were were                                                                                        the version                                                                                                                                items
+                                                                               Table 2                     What1. How2. How3. How4. How5. How6.       What1. How2. How3. How4. How5. How6.  Allscoresa k = 59b k = 42c Ford The2442                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+free-text boxes were introduced after each domain, to allow    both self-assessed individuals and those assessing a relative.
+for more additional information. After each section of items    For further details on implemented revisions, please refer to
+for ICF domains for body functions, activities and participa-    Supplementary material (table S5).
+tion, and environmental factors, two open-ended questions,
+allowing participants to provide additional personal informa-   Feedback not Implemented
+tion related to the domain and describe their primary support
+needs in that area, were added. The final open-ended ques-   Some suggestions could not be implemented due to various
+tion in the assessment was retained, allowing participants to     factors. These considerations included practical limitations,
+provide any additional functional information they consid-    incompatibility with other suggestions, and alignment issues
+ered important from their perspective. In total, 54 items were    with the existing ICF Core Sets. For instance, incorporating
+reworded, 17 were removed and 14 were added (for example   new areas not covered by the Core Sets was not viable. Con-
+regarding masking and energy regulation). See Table 3 and    sequently, requests to include items related to, for example,
+Supplementary material (table S2-S4) for more information.    school settings, mental health, and coping strategies were
+                                                           not integrated. Additionally, it was not possible to remove
+Platform                                             themes or codes from the scale to shorten it, as these codes
+                                                     were determined through a rigorous global process and fall
+Several revisions were also made to the platform following    outside the scope of this feasibility study. Therefore, the rat-
+participant feedback. For instance, an accessibility tool was    ing scale remained comprehensive. However, instructions
+implemented with possibility to change for example contrast,    regarding the option to pause the assessment were clarified,
+text spacing, add a reading mask and a screen reader. The    and automatic reminder emails were implemented to encour-
+colors of the response scale were clarified and the words    age participants to complete the assessment later. Moreover,
+underneath the scale (Atypical- Typical – High function-    the response scale remained unchanged for most items, with
+ing) were removed. Instructions and items were clarified to    greater emphasis on challenges and hindering factors than
+better match the requests, for example the time frame of the   on strengths and helping factors. The number of scale steps
+assessment. The wording of the omit buttons was changed   was also retained.
+from “Unknown” and “Not applicable” to “I don’t know”
+and “Not relevant” and instructions on how to use them were
+added. Further, a completely new feature, a result summary,   Discussion
+was added. An algorithm was created to extract information
+about reported strengths, challenges, hindering factors, and    Traditionally, neurodevelopmental conditions have been
+helping factors. Additionally, the summary incorporates the    predominantly conceptualized as categorical entities apply-
+text from the free text box at the end of each domain, specifi-    ing a medical model. However, research and lived experi-
+cally focusing on primary support needs. The result sum-    ence accounts highlight that clinical diagnosis alone is too
+mary gives an overview of the ICF assessment, applicable to    simplistic to capture phenotypic heterogeneity, exemplify-
+                                                           ing why using a biopsychosocial model of individual func-
+                                                                 tioning, particularly as a basis to plan support measures for
+Table 3   Changes to items, per type and domain                                                           achieving participation is meaningful. Currently, endorsed
+Type of change    Body function  Activity &   Environ-    Total    by the WHO and its 194 member states, the ICF serves as the
+                                       participa-    mental             global standard for health-related functioning assessment.                                      tion           factors                                                     However, there are multiple barriers to implementation of
+Clarified examples  3            11         1          15       the ICF, such as limited awareness among professionals, but
+Rephrasing        13           17         6          36       also its complexity and lack of diagnoses link. Thus, for over
+Rewording        23           29         2          54      a decade, our research centre in collaboration with WHO,
+New items        2            9          3          14      the ICF Research Branch, and researchers, clinicians and
+Removed items    1            15         1          17      stakeholders around the world have worked to enhance the
+Other               2a              1b            4c         7        accessibility of the ICF for autism and ADHD (Bölte et al.,
+Total             44           82         17         143     2024a, 2024b; Bölte et al., 2018; Bölte et al., 2019). This
+                                                                      effort involved developing and validating Core Sets tailored
+Rephrasing entails more comprehensive changes to the item, while                                                                    for these diagnoses. In order to further enhance applicabilityRewording entails simple changes such as editing single words. Clari-
+fied examples entails changes or additions to examples given            of the ICF in autism and ADHD, we continued our efforts
+a sub-domain renamed and change of response scale in on sub-domain    by operationalizing the codes of these Core Sets and imple-
+b addendum to header                                     mented them on a platform as digital rating scales. In this
+c preamble added                                             multiple-methods study, we evaluated the operationalizationJournal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2443
+
+and implementation for feasibility in terms of clarity, flow,    offers many free-text boxes (after each item, domain, after
+and user-friendliness. Feedback from study participants     all items) to add individual perspective and information to
+(neurodivergent, relatives, professionals, general population)    compensate for these limitations.
+informed revisions of the items and the platform.               Another example of complying with the perspectives of
+  Consensus from both qualitative and quantitative data    potential users, particularly neurodivergent informants, were
+indicates that the ICF CoreSets platform and its aims were    our efforts to modify and add items to better capture mask-
+generally received positively. Qualitative data indicated    ing and energy regulation. Although achieving a comprehen-
+that participants appreciated the comprehensive coverage    sive understanding of how these factors affect functioning
+of functioning domains and its ability to capture strengths    in detail remains a matter of research (Lundin Remnélius
+and environmental impacts on functioning, while quantita-  & Bölte, 2024; Strauß et al., 2018) and therefore may not
+tive data indicates that it is generally acceptable and user-    be fully addressed by a limited number of additional items
+friendly. A recurring theme revolved around the diagnostic    in the operationalization. Recent research on how autistic
+approach, with neurodivergent individuals and their relatives    individuals experience various rating scales highlights simi-
+emphasizing the importance of recognizing the uniqueness     lar challenges in accurately measuring fluctuating energy
+of individuals irrespective of diagnosis. Professionals con-     levels, mood, or roles (Stacey & Cage, 2022). These issues
+curred and expressed that relying solely on diagnostic infor-    are not easily resolved by common metrics and standard-
+mation was insufficient for designing effective interventions,    ized assessments, thus reinforcing why ICF platform users
+reinforcing a need for more individualized functional assess-    are encouraged to provide clarifications using the free-text
+ment. These findings align with research that challenges an    boxes when needed.
+exclusively diagnostic perspective, highlights the importance      Although efforts were made to incorporate participant
+of the neurodiversity perspective in the context of neurode-    feedback, some challenges arose in several instances, primar-
+velopmental conditions (Bölte et al., 2021), and reaffirms     ily where different groups held varying perspectives, or the
+the potential of the functional assessments contained in the    feedback was incongruent with the ICF framework. In some
+ICF CoreSets platform.                                        instances, perceptions were partly conflicting; while some
+   Despite a generally positive reception of the ICF CoreSets    individuals expressed a desire for more detailed instruc-
+platform, other aspects received mixed feedback and there    tions and more specific items, others favored a streamlined
+were many areas of improvement identified by the partici-    approach. A recurring request was to break down broader
+pants. Much of this feedback was incorporated into revisions    items into more detailed items or to include specific exam-
+of the ICF CoreSets platform. For example, the item about     ples. However, addressing these requests posed challenges,
+repetitive behaviors, including stimming, was modified so    particularly due to practical and conceptual considerations,
+that participants are given the opportunity to report whether    such as the length of an already comprehensive assessment
+they perceive these behaviours as functional, rather than    or implementing details or examples not specified in the ICF
+conceptualizing them as exclusively non-functional. This    framework, which would result in an inaccurate representa-
+revision aligns with research emphasizing that stimming can    tion of the original codes.
+be experienced by autistic individuals as a useful self-regu-      Various participant groups aiming to represent all poten-
+latory behavior observed in neurotypical and atypical indi-     tial users were included to provide feedback, which imma-
+viduals (Charlton et al., 2021), despite the potential negative    nently increases the likelihood of receiving diverse opinions
+attention it may attract from others (Kapp et al., 2019). From    due to their unique perspectives. While diversity of experi-
+a professional classification point of view, this means that    ence is a strength of the study, it also presented a challenge
+stimming is classified as a potentially impairing symptom of    in synthesizing the feedback. Consequently, there was a
+autism in DSM-5 and ICD-11 (American Psychiatric Asso-    need to strike a balance between accommodating incom-
+ciation, 2013; World Health Organization, 2022), while in    ing requests, practical feasibility, and, foremost, fidelity to
+ICF nomenclature, it might both be classified as a disabling    the content of the original ICF codes and ICF framework
+and enabling body function. The crucial distinction appar-    as such. In implementing changes, we complied with the
+ently lies in whether stimming is experienced as a burden    ICFs’ ethical principles requiring that we prioritize the
+or serves as a helpful self-regulatory behaviour. Despite    perspectives of the target group (neurodivergent people).
+being a biopsychosocial framework including almost 1700   However, it is also of paramount importance to achieve a
+functionally descriptive codes allowing individual charac-    viable compromize between the perspectives and requests
+terization of an advanced level, even the ICF framework    of neurodivergent individuals, relatives, and professionals.
+currently embodies a certain disability bias and struggles   The acceptance and utility of the ICF Core Sets platform
+to fully capture nuances. Thus, the scoring of this specific    across relevant arenas, including healthcare, education, and
+ICF item operationalizing the ICF code b147 was modified.    employment, are essential for final use in research and prac-
+The ICF CoreSet operationalization and platform in general     tice. Importantly, the goal of the authors is not to develop2444                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+from scratch a functional assessment that is optimized for    in mind (Leonardi et al., 2022). This comes with the consid-
+any specific group or context but to make an internationally    erable strengths of worldwide consensus, but also implicit
+adopted framework for function usable in real life across    limitations when the ICF is applied in a more specified
+groups and arenas.                                             context. Pivotally, the ICF is intentionally a diagnoses free
+  We received feedback requesting items about personal    nomenclature (WHO, 2001), which is why adaptations to
+information such as gender and coping strategies. These par-    certain conditions will encounter limitations. This is also
+ticular aspects are encompassed within the domain of per-    true for ICF adaptations to autism and ADHD. On balance,
+sonal factors in the ICF. Currently, this domain is uncoded   whenever possible within the ICF framework, actions are
+due to its multifaceted nature and the wide variability in its    taken in the development of the ADHD and autism Core
+impact on functioning (WHO, 2001). However, in an ongo-    Sets to comply with specificities of the conditions and pref-
+ing project, efforts are being made to code personal factors    erences of potential users, particularly general and neurodi-
+(Grotkamp et al., 2020) which would enable their inclusion    vergent people. Aside, from conducting the present study,
+in future assessments. Indeed, while the ICF is comprehen-    the development of the Core Sets and their validations have
+sive, it does not encompass all life aspects or essential ele-    seen substantial involvement of stakeholders (Bölte et al.,
+ments, such as quality of life (Bölte, 2023). Consequently,    2024a, 2024b). Preparatory studies of the Core Sets both
+depending on context and specific needs, other instruments    also highlighted challenges and strengths observed in autism
+may be valuable complements to the ICF.                  and ADHD (Mahdi et al., 2017, 2018). We also abandoned
+  Some critiques were raised regarding the ICF-based    scoring according to ICF qualifiers, which have a disability
+rating scales’ alignment with neurotypical perspectives    format, in favor of a numeric scale capturing a continuum
+on autism and ADHD, particularly highlighting concerns   from ability to disability. Finally, free-text boxes enable that
+regarding the comparative nature of scoring some function-    any additional relevant content can be added by respondents.
+ing dimensions, and the view of certain normative behav-
+iours as strengths. Nonetheless, acknowledging behaviours   Strengths and Limitations
+such as relationship-building, social participation, and health
+prioritization as strengths is vital, even if it may provoke   The current study includes feedback only from Sweden and
+concerns, as lack of physical activity and social isolation is    the United Kingdom, two high-income Western European
+related to poorer mental health in neurodivergent individu-    countries. The feedback from these two countries had con-
+als (Schiltz et al., 2021; Zang, 2019). The notion of making    siderable overlap, still, it cannot be considered necessarily
+rating scales more neurodivergent-friendly by moving away    representative of a global population, and a different sample
+from comparative norms is certainly a valid argument and    might yield other feedback. In saying this, the development
+demand. However, utilizing some form of standard or norm    of the ICF Core Sets for autism and ADHD was a global
+is also crucial for understanding functioning and for distin-    endeavour, capturing perspectives across all WHO regions,
+guishing differences between sub-groups. This practice can    and has been validated in several countries and regions. As
+enhance comprehension and support for diverse populations    such, there can be some confidence that at least the factors
+and is a vital component of effective compensation systems.    covered by the ICF CoreSets platform are likely globally
+Furthermore, it is inconceivable to disregard the existence of    applicable. Nevertheless, most studies validating ICF Core
+social, economic, or legal norms in society, and they are ulti-    Sets have been conducted in Europe (Karlsson & Gustafs-
+mately essential for societal functionality and cohesion. Still,    son, 2022), it is imperative to extend validation efforts to a
+critique is surely legitimate as ICF classification originates   more diverse array of countries, encompassing both high-
+from a disability tradition with a support-oriented focus.    and low-income countries. It is worth emphasizing that this
+Consequently, a more or less subtle “disability perspective”     is still a rigorous feasibility study, involving two countries
+is inherent. One fundamental goal of the ICF is to identify   and three types of informants in a relatively large sample,
+functional disabilities to provide appropriate support and    with relatively consistent feedback.
+enhance participation (Kostanjsek, 2011). This rationale also         It is also worth noting the composition of the focus
+explains why we retained the skewed rating scale, allowing    groups with neurodivergent individuals that included par-
+more space to describe nuances of difficulties for effective    ticipants with both autism, ADHD, and both. Only the feed-
+intervention tracking. In practice, capturing difficulties and    back received from the UK was exclusively from autistic
+even minor changes in them is prioritized over highlighting     adults. Hence, we created similar item-based versions for all
+small differences in strengths.                               neurodivergent groups, despite variations in item composi-
+  The ICF is a framework taking an international approach     tion. This aligns with the overarching principles applicable
+across countries, cultures, settings and informants to achieve    to these groups, such as the benefits of clarity and structure
+a global perspective on functioning, taking into account    for both.
+research and keeping organization of services and practiceJournal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2445
+
+  A limitation in evaluating the length of the assessment    tailored information on support. The ICF, in general, and
+is that the general population and neurodivergent groups   ICF Core Sets for autism and ADHD are a work in progress
+responded to different versions. The version received by the    and we expect future developments in this space to further
+general population group contained 170 items, whereas the    enhance the usefulness of the ICF CoreSets platform.
+versions encountered by the neurodivergent group ranged
+                                                              Supplementary Information  The online version contains supplemen-from 156 to 232 items. Consequently, the general population                                                                            tary material available at https://​doi.​org/​10.​1007/​s10803-​024-​06717-4.
+group’s evaluation of the assessment as less cumbersome
+compared to the neurodivergent group may have been influ-    Funding  Open access funding provided by Karolinska Institute. This
+enced by this discrepancy. Another limitation is the limited    work was funded by grants from FORTE (2022-01072), Trygg Hansa,
+                                                              Folksam, Clas Groschinskys Minnesfond (SF2068), Sunnerdahlssociodemographic profile we were able to develop for the                                                              Handikappfond (F520), Stiftelsen Promobilia (18007).
+participant sample, owing to missing data and technical
+issues in the original platform pertaining to this information.    Declarations 
+  A strength of this study lies in the intricate flowchart,
+which integrates data from diverse sources. Further, employ-     Conflict of interest  The authors report no conflict of interest related
+                                                                             to the work presented. Sven Bölte discloses that he has in the last 3ing multiple-methods design can enhance accuracy and com-                                                                        years acted as an author, consultant, or lecturer for Medice, and Li-
+prehensiveness (Zhang & Creswell, 2013). While validated     nusBio. He receives royalties from Hogrefe, UTB, Ernst Reinhardt,
+survey instruments for autistic adults remain scarce (Nico-    Kohlhammer, and Liber. Bölte is partner in NeuroSupportSolutions
+laidis et al., 2020), our study actively engages with autis-     International.
+tic individuals and those with ADHD. With their valuable     Ethical Approval  Ethical approval was obtained from Swedish Ethical
+feedback and additional support from a language custodian,    Review Authority (Dnr 2021-03998). All participants provided indi-
+we have made revisions that align with research priorities     vidual written informed consent prior to participating in the study.
+for the neurodivergent community. These revisions include,    Neurodivergent individuals and relatives who participated in focus
+                                                                  groups or interviews were provided with a SEK 250 retail gift voucher.for example, clearer item wording and enhanced response
+options (Nicolaidis et al., 2020). During focus groups, the
+                                                       Open Access  This article is licensed under a Creative Commons Attri-question “what happens next?” emerged as a valid concern.                                                                      bution 4.0 International License, which permits use, sharing, adapta-
+To address this, we created a summary report as an initial     tion, distribution and reproduction in any medium or format, as long
+step, providing tangible outcomes for participants. Looking     as you give appropriate credit to the original author(s) and the source,
+ahead, improving result reporting is essential. Standardizing     provide a link to the Creative Commons licence, and indicate if changes
+                                                              were made. The images or other third party material in this article arerating scales would allow for more sophisticated analyses by                                                                     included in the article's Creative Commons licence, unless indicated
+establishing norms. Additionally, integrating features into     otherwise in a credit line to the material. If material is not included in
+reports for cross-participant comparisons and longitudinal     the article's Creative Commons licence and your intended use is not
+analysis would be advantageous. As a second step, we aim     permitted by statutory regulation or exceeds the permitted use, you will
+                                                                need to obtain permission directly from the copyright holder. To view ato link assessment results to effective, personalized inter-                                                              copy of this licence, visit http://​creat​iveco​mmons.​org/​licen​ses/​by/4.​0/.
+ventions. This involves connecting specific challenges and
+strengths with evidence-based interventions from research
+and guidelines. Automatically associating interventions with                                           Referencesfunctional profiles would enhance the practical utility of ICF
+across domains like education, employment, and healthcare.                                                                  Alehagen, L., Hasslinger, J., Wessman, E., Lundin Remnélius, K., &
+                                                                             Bölte, S. (2025). (in prep.) Validation of the ICF Core Sets for
+                                                                       autism and ADHD: A quantitative study.
+Conclusion                                          AutismCRC (2018). Australia’s First National guideline for the assess-
+                                                               ment and diagnosis of autism spectrum disorders. https://​www.​
+                                                                                           autis​mcrc.​com.​au/​access/​natio​nal-​guide​line
+The operationalized Core Sets for autism and ADHD, along     Autistica (2021). Autistica support plan. https://​www.​autis​tica.​org.​uk/​
+with the first version of the ICF CoreSets platform, have           downl​oads/​files/​Autis​tica-​Suppo​rt-​Plan.​pdf
+been deemed acceptable and user-friendly by neurodiver-     Black, M. H., Mahdi, S., Milbourn, B., Thompson, C., D’Angelo, A.,
+                                                                      Strom, E., Falkmer, M., Falkmer, T., Lerner, M., Halladay, A.,gent individuals, their relatives, and professionals in neu-                                                                        Gerber, A., Esposito, C., Girdler, S., & Bolte, S. (2019). Per-
+rodevelopmental conditions. Leveraging their feedback,          spectives of key stakeholders on employment of autistic adults
+which includes suggestions for revising both rating scales          across the United States, Australia, and Sweden. Autism Research,
+and the platform, the user-friendliness is likely to improve.          12(11), 1648–1662. https://​doi.​org/​10.​1002/​aur.​2167
+                                                                         Bölte, S. (2023). A more holistic approach to autism using the Inter-These revisions will be investigated in an upcoming study.                                                                               national classification of functioning: The why, what, and how of
+Furthermore, usability is expected to improve following          functioning Editorial. Autism, 27(1), 3–6. https://​doi.​org/​10.​1177/​
+the development of norms, allowing for more sophisticated         13623​61322​11364​44
+result analyses, as well as linking individual ICF profiles to2446                                                                         Journal of Autism and Developmental Disorders (2026) 56:2432–2447
+
+Bölte, S., Mahdi, S., Coghill, D., Gau, S. S., Granlund, M., Holtmann,         Functioning (ICF) CoreSets platform for Autistic Adults: A UK
+    M., Karande, S., Levy, F., Rohde, L. A., Segerer, W., de Vries,           pilot study.
+      P. J., & Selb, M. (2018). Standardised assessment of functioning     Fridell, A., Norrman, H. N., Girke, L., & Bölte, S. (2022). Effects
+     in ADHD: Consensus on the ICF core sets for ADHD. European         of the early phase of COVID-19 on the autistic community in
+    Child & Adolescent Psychiatry, 27(10), 1261–1281. https://​doi.​        Sweden: A qualitative multi-informant study linking to ICF. Inter-
+     org/​10.​1007/​s00787-​018-​1119-y                                        national Journal of Environmental Research and Public Health.
+Bölte, S., Mahdi, S., de Vries, P. J., Granlund, M., Robison, J. E.,           https://​doi.​org/​10.​3390/​ijerp​h1903​1268
+    Shulman, C., Swedo, S., Tonge, B., Wong, V., Zwaigenbaum, L.,    Gleason, K., & Coster, W. (2012). An ICF-CY-based content analysis
+     Segerer, W., & Selb, M. (2019). The Gestalt of functioning in         of the Vineland Adaptive Behavior Scales-II. Journal of Intel-
+    autism spectrum disorder: Results of the international conference          lectual & Developmental Disability, 37(4), 285–293. https://​doi.​
+     to develop final consensus international classification of func-          org/​10.​3109/​13668​250.​2012.​720675
+     tioning, disability and health core sets. Autism, 23(2), 449–467.    Graneheim, U. H., & Lundman, B. (2004). Qualitative content analysis
+     https://​doi.​org/​10.​1177/​13623​61318​755522                                in nursing research: Concepts, procedures and measures to achieve
+Bölte, S., Lawson, W. B., Marschik, P. B., & Girdler, S. (2021). Recon-          trustworthiness. Nurse Education Today, 24(2), 105–112. https://​
+     ciling the seemingly irreconcilable: The WHO’s ICF system inte-           doi.​org/​10.​1016/j.​nedt.​2003.​10.​001
+     grates biological and psychosocial environmental determinants of    Grotkamp, S., Cibis, W., Nüchtern, E., von Mittelstaedt, G., & Seger,
+     autism and ADHD: The International classification of functioning       W. (2020). Personal factors classification revisited: A proposal
+     (ICF) allows to model opposed biomedical and neurodiverse views          in the light of the biopsychosocial model of the World Health
+     of autism and ADHD within one framework. Bioessays, 43(9),         Organization (WHO). The Australian Journal of Rehabilitation
+    e2000254. https://​doi.​org/​10.​1002/​bies.​20200​0254                       Counselling, 26(2), 73–91. https://​doi.​org/​10.​1017/​jrc.​2020.​14
+Bölte, S., Neufeld, J., Marschik, P. B., Williams, Z. J., Gallagher, L., &    Hayden-Evans, M., Milbourn, B., D’Arcy, E., Chamberlain, A.,
+     Lai, M. C. (2023). Sex and gender in neurodevelopmental condi-         Afsharnejad, B., Evans, K., Whitehouse, A. J. O., Bölte, S., &
+     tions. Nature Reviews Neurology, 19(3), 136–159. https://​doi.​org/​          Girdler, S. (2022). An evaluation of the overall utility of measures
+     10.​1038/​s41582-​023-​00774-6                                          of functioning suitable for school-aged children on the autism
+Bölte, S., Alehagen, L., Black, M. H., Hasslinger, J., Wessman, E.,         spectrum: A scoping review. International Journal of Environ-
+    Lundin Remnélius, K., Marschik, P. B., D’Arcy, E., Crowson, S.,         mental Research and Public Health, 19(21), 14114. https://​doi.​
+     Freeth, M., Seidel, A., Girdler, S., & Zander, E. (2024a). The           org/​10.​3390/​ijerp​h1921​14114
+     gestalt of functioning in autism revisited: First revision of the    Kapp, S. K., Gillespie-Lynch, K., Sherman, L. E., & Hutman, T.
+     international classification of functioning, disability and health         (2019). ‘People should be allowed to do what they like’: Autistic
+     core sets. Autism. https://​doi.​org/​10.​1177/​13623​61324​12288​96            adults’ views and experiences of stimming. Autism, 23(7), 1782–
+Bölte, S., Alehagen, L., Black, M. H., Hasslinger, J., Wessman, E., Lun-         1792. https://​doi.​org/​10.​1177/​13623​61319​829628
+     din Remnélius, K., Marschik, P. B., Arcy, D., Seidel, E., Girdler,     Karlsson, E., & Gustafsson, J. (2022). Validation of the International
+     A., & Zander, E. (2024b). Assessment of functioning in ADHD          Classification of Functioning, Disability and Health (ICF) core
+     according to world health organization standards: First revision of           sets from 2001 to 2019 – a scoping review. Disability and Reha-
+     the international classification of functioning, disability and health           bilitation, 44(14), 3736–3748. https://​doi.​org/​10.​1080/​09638​288.​
+     core sets. Developmental Medicine & Child Neurology, 66(9),          2021.​18785​62
+    1201–1214. https://​doi.​org/​10.​1111/​dmcn.​15865                    Kostanjsek, N. (2011). Use of the International classification of Func-
+Brooke, J. (1996). SUS- a quick and dirty usability scale. Usability           tioning, disability and health (ICF) as a conceptual framework and
+     Evaluation in Industry, 189(194), 4–7.                         common language for disability statistics and health information
+Bundesteilhabegesetz (2016). https://​www.​bfarm.​de/​Share​dDocs/​         systems. Bmc Public Health, 11(Suppl 4), S3. https://​doi.​org/​10.​
+     Downl​oads/​DE/​Kodie​rsyst​eme/​BTHG.​pdf?__​blob=​publi​catio​          1186/​1471-​2458-​11-​S4-​S3
+     nFile                                                          Kreuger, R. A. (1994). Focus groups. A practical guide for applied
+Charlton, R. A., Marini, C., & von Károlyi, C. (2021). “It feels like         research (2 ed.). Sage Publications Inc.
+    holding back something you need to say”: Autistic and non-    Krosnick, J. A., & Presser, S. (2010). Question and questionnaire
+     autistic adults’ accounts of sensory experiences and stimming.          design. In P. V. Marsden, & J. D. Wright (Eds.), Handbook of
+    Research in Autism Spectrum Disorders, 89. https://​doi.​org/​10.​         survey research. Emerald Group Publishing.
+     1016/j.​rasd.​2021.​101864                                     Lambert, S. D., & Loiselle, C. G. (2008). Combining individual
+D’Arcy, E., Wallace, K., Chamberlain, A., Evans, K., Milbourn, B.,         interviews and focus groups to enhance data richness. Journal
+     Bölte, S., Whitehouse, A. J., & Girdler, S. (2022). Content vali-          of Advanced Nursing, 62(2), 228–237. https://​doi.​org/​10.​1111/j.​
+     dation of common measures of functioning for young children          1365-​2648.​2007.​04559.x
+     against the International Classification of Functioning, disability     Lee, E. A. L., Black, M. H., Falkmer, M., Tan, T., Sheehy, L., Bölte, S.,
+    and health and code and core sets relevant to neurodevelopmental     & Girdler, S. (2020). We can see a bright future: Parents’ percep-
+     conditions. Autism, 26(4), 928–939. https://​doi.​org/​10.​1177/​13623​         tions of the outcomes of participating in a strengths-based pro-
+     61321​10368​09                                              gram for adolescents with autism spectrum disorder. Journal of
+Dreaver, J., Thompson, C., Girdler, S., & Adolfsson, M. (2020). Suc-         Autism and Developmental Disorders, 50(9), 3179–3194. https://​
+     cess factors enabling employment for adults on the autism spec-           doi.​org/​10.​1007/​s10803-​020-​04411-9
+    trum from employers’ perspective. Journal of Autism and Devel-     Lee, E. A. L., Scott, M., Black, M. H., D’Arcy, E., & Tan, T. (2023).
+    opmental Disorders, 50(5), 1657–1667. https://​doi.​org/​10.​1007/​      He sees his autism as a strength, not a deficit now: A repeated
+     s10803-​019-​03923-3                                                      cross-sectional study investigating the impact of strengths-based
+Elo, S., & Kyngäs, H. (2008). The qualitative content analysis process.        programs on autistic adolescents. Journal of Autism and Devel-
+    Journal of Advanced Nursing, 62(1), 107–115. https://​doi.​org/​10.​        opmental Disorders. https://​doi.​org/​10.​1007/​s10803-​022-​05881-9
+     1111/j.​1365-​2648.​2007.​04569.x                                         Leifler, E., Carpelan, G., Zakrevska, A., & Bölte, S. (2021). Does the
+Freeth, M., Crowson, S., Leporcher, K-L., Day, M., Scargill, K., Poole,          learning environment ‘make the grade’? A systematic review of
+     D., Alehagen, L., Hasslinger, J., & Bölte, B. (2024). (in prep.)        accommodations for children on the autism spectrum in main-
+     Short report: Evaluation of the International Classification of         stream school. Scandinavian Journal of Occupational Therapy,
+                                                                                28(8), 582–597. https://​doi.​org/​10.​1080/​11038​128.​2020.​18321​45Journal of Autism and Developmental Disorders (2026) 56:2432–2447                                                              2447
+
+Leonardi, M., Lee, H., Kostanjsek, N., Fornari, A., Raggi, A., Mar-         impacting employment for people with autism spectrum disor-
+     tinuzzi, A., Yáñez, M., Almborg, A. H., Fresk, M., Besstrashnova,          der: A scoping review. Autism, 23(4), 869–901. https://​doi.​org/​
+     Y., Shoshmin, A., S. Castro, S., S. Cordeiro, E., Cuenot, M., Haas,          10.​1177/​13623​61318​787789
+     C., Maart, S., Maribo, T., Miller, J., Mukaino, M., & Kraus de     Selb, M., Escorpizo, R., Kostanjsek, N., Stucki, G., Üstün, B., & Cieza,
+    Camargo, O. (2022). 20 years of ICF-international classification        A. (2015a). A guide on how to develop an international classifi-
+     of functioning, disability and health: Uses and applications around          cation of functioning, disability and health core set. European
+     the world. International Journal of Environmental Research and         Journal of Physical and Rehabilitation Medicine, 51(1), 105–117.
+     Public Health. https://​doi.​org/​10.​3390/​ijerp​h1918​11321                    https://​doi.​org/​10.​1007/​s10067-​014-​2603-0
+Lundin, K., Mahdi, S., Isaksson, J., & Bolte, S. (2021). Functional     Selb, M., Glässel, A., & Escorpizo, R. (2015b). ICF-Based tools in
+    gender differences in autism: An international, multidisciplinary          rehabilitation toward return to work: Facilitating inter-profes-
+     expert survey using the international classification of functioning,          sional communication and comprehensive documentation. In R.
+      disability, and Health model. Autism, 25(4), 1020–1035. https://​         Escorpizo, S. Brage, D. Homa, & G. Stucki (Eds.), Handbook of
+     doi.​org/​10.​1177/​13623​61320​975311                                   Vocational Rehabilitation and Disability Evaluation: Application
+Lundin Remnélius, K., & Bölte, S. (2024). Camouflaging in autism:        and Implementation of the ICF. New York: Springer International
+    Age effects and cross-cultural validation of the camouflaging          Publishing. https://​doi.​org/​10.​1007/​978-3-​319-​08825-9_​22
+     autistic traits questionnaire (CAT-Q). Journal of Autism and     Stacey, R., & Cage, E. (2022). Simultaneously vague and oddly spe-
+    Developmental Disorders, 54(5), 1749–1764. https://​doi.​org/​10.​           cific: Understanding autistic people’s experiences of decision
+     1007/​s10803-​023-​05909-8                                       making and research questionnaires. Autism in Adulthood. https://​
+Mahdi, S., Viljoen, M., Massuti, R., Selb, M., Almodayfer, O.,           doi.​org/​10.​1089/​aut.​2022.​0039
+    Karande, S., de Vries, P. J., Rohde, L., & Bölte, S. (2017). An     Strauß, M., Ulke, C., Paucke, M., Huang, J., Mauche, N., Sander, C., Stark,
+     international qualitative study of ability and disability in ADHD            T., & Hegerl, U. (2018). Brain arousal regulation in adults with atten-
+    using the WHO-ICF framework. European Child & Adoles-           tion-deficit/hyperactivity disorder (ADHD). Psychiatry Research,
+     cent Psychiatry, 26(10), 1219–1231. https://​doi.​org/​10.​1007/​         261, 102–108. https://​doi.​org/​10.​1016/j.​psych​res.​2017.​12.​043
+     s00787-​017-​0983-1                                        Thomas, R., Sanders, S., Doust, J., Beller, E., & Glasziou, P. (2015).
+Mahdi, S., Viljoen, M., Yee, T., Selb, M., Singhal, N., Almodayfer, O.,         Prevalence of attention-deficit/hyperactivity disorder: A system-
+     Granlund, M., de Vries, P. J., Zwaigenbaum, L., & Bölte, S. (2018).           atic review and meta-analysis. Pediatrics, 135(4), e994–1001.
+   An international qualitative study of functioning in autism spec-           https://​doi.​org/​10.​1542/​peds.​2014-​3482
+    trum disorder using the World Health Organization international     Üstün, T. B., Kostanjesek, N., Chatterji, S., Rehm, J., & World Health,
+     classification of functioning, disability and health framework.         Organization. (2010). &. Measuring health and disability: man-
+    Autism Research, 11(3), 463–475. https://​doi.​org/​10.​1002/​aur.​1905          ual for WHO Disability Assessment Schedule (WHODAS 2.0)
+McCaffery, M., & Beebe, A. (1989). Pain: Clinical manual for nursing              / edited by T.B. Üstün, N. Kostanjsek, S. Chatterji, J.Rehm.
+     practice. Mosby.                                                 Geneva: World Health Organization.
+Morgan, D. L. (1997). Focus Groups as Qualitative Research (2 ed.).   WHO. (2001). International classification of functioning, disability
+    Sage Publications Inc.                                          and health: ICF. World Health Organization.
+Nicolaidis, C., Raymaker, D. M., McDonald, K. E., Lund, E. M., Leotti,   WHO. (2007). International classification of functioning, disability
+      S., Kapp, S. K., Katz, M., Beers, L. M., Kripke, C., Maslak, J.,        and health: Children and Youth Version; ICF-CY. World Health
+     Hunter, M., & Zhen, K. Y. (2020). Creating accessible survey         Organization.
+     instruments for use with autistic adults and people with intel-    Zang, Y. (2019). Impact of physical exercise on children with attention
+     lectual disability: Lessons learned and recommendations. Autism           deficit hyperactivity disorders: Evidence through a meta-analysis.
+     in Adulthood, 2(1), 61–76. https://​doi.​org/​10.​1089/​aut.​2019.​0074         Medicine, 98(46), e17980. https://​doi.​org/​10.​1097/​MD.​00000​
+Pellicano, E., & den Houting, J. (2022). Annual research review: Shift-         00000​017980
+     ing from ‘normal science’ to neurodiversity in autism science.     Zeidan, J., Fombonne, E., Scorah, J., Ibrahim, A., Durkin, M. S., Sax-
+    Journal of Child Psychology and Psychiatry, 63(4), 381–396.          ena, S., Yusuf, A., Shih, A., & Elsabbagh, M. (2022). Global prev-
+      https://​doi.​org/​10.​1111/​jcpp.​13534                                     alence of autism: A systematic review update. Autism Research,
+Prodinger, B., Cieza, A., Oberhauser, C., Bickenbach, J., Üstün, T. B.,          15(5), 778–790. https://​doi.​org/​10.​1002/​aur.​2696
+     Chatterji, S., & Stucki, G. (2016). Toward the international clas-    Zhang, W., & Creswell, J. (2013). The use of “mixing” procedure of
+      sification of functioning, disability and health (ICF) rehabilitation        mixed methods in health services research. Medical Care, 51(8),
+      set: A minimal generic set of domains for rehabilitation as a health         e51–e57. https://​doi.​org/​10.​1097/​MLR.​0b013​e3182​4642fd
+     strategy. Archives of Physical Medicine and Rehabilitation, 97(6),
+    875–884. https://​doi.​org/​10.​1016/j.​apmr.​2015.​12.​030                  Publisher’s Note  Springer Nature remains  neutral with regard  to
+Schiltz, H. K., McVey, A. J., Wozniak, D., Haendel, B., Stanley, A.     jurisdictional claims in published maps and institutional affiliations.
+     D., Arias, R., Gordon, A., N., & Van Hecke, A. V. (2021). The
+     role of loneliness as a mediator between autism features and men-
+      tal health among autistic young adults. Autism, 25(2), 545–555.
+     https://​doi.​org/​10.​1177/​13623​61320​967789
+Scott, M., Milbourn, B., Falkmer, M., Black, M., Bölte, S., Hal-
+     laday, A., Lerner, M., Taylor, J. L., & Girdler, S. (2019). Factors

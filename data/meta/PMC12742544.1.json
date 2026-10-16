@@ -1,0 +1,22 @@
+{
+  "pmcid": "PMC12742544",
+  "version": 1,
+  "pmid": null,
+  "doi": "10.1002/alz70856_103242",
+  "mid": null,
+  "title": "Cortical asymmetry index in Autosomal Dominant Alzheimer's Disease: insights from the Clínic Barcelona and DIAN cohorts over time",
+  "citation": "Alzheimers Dement. 2025 Dec 26;21(Suppl 2):e103242. doi: 10.1002/alz70856_103242",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC12742544.1/PMC12742544.1.xml?md5=5870f390609abacdaed8056554201313",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12742544.1/PMC12742544.1.pdf?md5=76a8456a000f8502cfda39ded9747cfc",
+  "text_url": "s3://pmc-oa-opendata/PMC12742544.1/PMC12742544.1.txt?md5=d428bc06d0612c71d2b32e9c6c080515",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12742544.1/ALZ-21-e103242-g001.jpg?md5=645721dd4fa690cf2fd7244bbfb6e1ad",
+    "s3://pmc-oa-opendata/PMC12742544.1/ALZ-21-e103242-g002.jpg?md5=f9de31844f510c71af89d305151d391d",
+    "s3://pmc-oa-opendata/PMC12742544.1/ALZ-21-e103242-g003.jpg?md5=fd0a0bd1dce3c4ae41cebaf5c9349eaa"
+  ]
+}

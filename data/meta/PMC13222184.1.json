@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC13222184",
+  "version": 1,
+  "pmid": 39883295,
+  "doi": "10.1007/s10803-024-06717-4",
+  "mid": null,
+  "title": "Operationalizing the ICF Core Sets for Autism and ADHD: A Multiple-Methods Feasibility Study",
+  "citation": "J Autism Dev Disord. 2025 Jan 30;56(6):2432–47. doi: 10.1007/s10803-024-06717-4",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC13222184.1/PMC13222184.1.xml?md5=f4b06778b82ed6d67c1f03414a03a116",
+  "text_url": "s3://pmc-oa-opendata/PMC13222184.1/PMC13222184.1.txt?md5=601299708b0a213dedb0c4a27e55735b",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13222184.1/PMC13222184.1.pdf?md5=4b4c035e2a635c8aee4726294be20e63",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13222184.1/10803_2024_6717_Fig1_HTML.jpg?md5=010cee5c0aa778867d343de8073b5570",
+    "s3://pmc-oa-opendata/PMC13222184.1/10803_2024_6717_MOESM1_ESM.pdf?md5=a5335c3a3ee4086928f4e307923b2834"
+  ]
+}

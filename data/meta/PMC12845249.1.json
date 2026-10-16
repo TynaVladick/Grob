@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC12845249",
+  "version": 1,
+  "pmid": 41599115,
+  "doi": "10.3390/pharmaceutics18010007",
+  "mid": null,
+  "title": "Targeting Redox Homeostasis and Cell Survival Signaling with a Flavonoid-Rich Extract of Bergamot Juice in In Vitro and In Vivo Colorectal Cancer Models",
+  "citation": "Pharmaceutics. 2025 Dec 20;18(1):7. doi: 10.3390/pharmaceutics18010007",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC12845249.1/PMC12845249.1.xml?md5=855539b62b71b495d48db13c30012f9b",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12845249.1/PMC12845249.1.pdf?md5=ba7ee0ccdee44d1525815c0c4bdf5630",
+  "text_url": "s3://pmc-oa-opendata/PMC12845249.1/PMC12845249.1.txt?md5=c591840192d5ecf6120030447252ca65",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g001.jpg?md5=e1631fad8c7cbbe322ae171aafe6e21b",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g002.jpg?md5=e01b9eb175b542a0b70a17bc0db2c6ba",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g003.jpg?md5=681ad165470e1d5f39728693b4d19e0f",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g004.jpg?md5=70ee0ea7947135a21a0f5690163f7f4c",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g005.jpg?md5=531698ed0ce8c1de2892e24f4f8ebd06",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g006.jpg?md5=7b91a3368ac0eccf33bdbfcc694c75ec",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g007.jpg?md5=e3a5c460880e3dc2b6da901e86fe629b",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g008.jpg?md5=4e4de61766bf5fb1656e7b00151ef96c",
+    "s3://pmc-oa-opendata/PMC12845249.1/pharmaceutics-18-00007-g009.jpg?md5=a8c4b5bc08c55a2dab140b6682a105b7"
+  ]
+}

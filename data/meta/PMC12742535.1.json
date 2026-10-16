@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC12742535",
+  "version": 1,
+  "pmid": null,
+  "doi": "10.1002/alz70858_103959",
+  "mid": null,
+  "title": "Perception of Quality of Life in patients with mild to moderate Dementia: A comparison between patients and caregivers evaluation",
+  "citation": "Alzheimers Dement. 2025 Dec 26;21(Suppl 4):e103959. doi: 10.1002/alz70858_103959",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC12742535.1/PMC12742535.1.txt?md5=823198c2657e55e21a366918e46dcdec",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12742535.1/PMC12742535.1.pdf?md5=1f44eb45f25710db8b7dd981db66626c",
+  "xml_url": "s3://pmc-oa-opendata/PMC12742535.1/PMC12742535.1.xml?md5=ee9289a6754a3387282705971ad13f8c",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12742535.1/ALZ-21-e103959-g001.jpg?md5=04ede8f743ff70dda5ba27911a5f8b2d",
+    "s3://pmc-oa-opendata/PMC12742535.1/ALZ-21-e103959-g002.jpg?md5=deed9bed5799840483fd79dff69bcb75"
+  ]
+}

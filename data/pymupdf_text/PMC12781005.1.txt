@@ -1,0 +1,1270 @@
+                                                                                                         Rev. Cardiovasc. Med. 2025; 26(12): 45417
+                                                                                                   https://doi.org/10.31083/RCM45417
+
+Review
+Endothelin as a Treatment Target in Cardiovascular Diseases: A
+Recent Step Forward
+
+Aleksandra Cole1   , Kajetan Kiełbowski1   , Aleksandra Dach1   , Jacek Szulc1,
+Estera Bakinowska1, Andrzej Pawlik1,*
+
+1Department of Physiology, Pomeranian Medical University, 70-111 Szczecin, Poland
+*Correspondence: pawand@poczta.onet.pl (Andrzej Pawlik)
+ Academic Editor: Brian Tomlinson
+ Submitted: 30 July 2025   Revised: 15 October 2025  Accepted: 21 October 2025   Published: 22 December 2025
+
+
+Abstract
+
+Cardiovascular diseases (CVDs) are a leading cause of mortality, significantly influencing quality of life and causing a burden on the
+healthcare system. Current treatment strategies utilize modern therapeutics, such as sodium–glucose cotransporter 2 (SGLT2) inhibitors
+and proprotein convertase subtilisin/kexin type 9 (PCSK9) inhibitors, which are both effective and safe. However, despite current
+medicines, acute cardiovascular events and chronic complications of CVDs remain significantly prevalent. Furthermore, CVDs are
+strongly linked to metabolic and inflammatory conditions that create a pathophysiological network of interactions, worsening the health
+of individuals. Therefore, identifying novel therapeutic targets and treatment combinations is of great importance to further mitigate the
+harmful effects of CVDs. Recently, aprocitentan, an endothelin-1 inhibitor, was approved to treat arterial hypertension. Meanwhile,
+endothelin has become a therapeutic target in CVDs, with inhibitors previously registered and used to treat pulmonary hypertension.
+Thus, this review aims to comprehensively discuss the role of endothelin-1 as a therapeutic target in CVDs and related disorders.
+
+Keywords: cardiovascular diseases; endothelin-1; arterial hypertension; pulmonary hypertension
+
+
+ 1. Introduction                                         angiotensin-converting enzyme inhibitors and Ang II recep-
+                                                                     tor blockers, are widely used to treat patients with CVDs.
+     Cardiovascular diseases (CVDs) represent a broad         Recently, increased attention has focused on the en-
+group of disorders, such as atherosclerosis, ischemic heart    dothelin (ET) system; specifically, ET-1, a 21-amino-acid
+disease, stroke, and arterial hypertension, which are asso-    peptide that plays a crucial role in regulating vascular
+ciated with a significant global burden. Moreover, CVDs     tone. ET-1 functions as a vasoconstrictor and promotes the
+largely contribute to mortality, loss of health quality, and    growth of vascular smooth muscle cells (VSMCs). Further-
+healthcare system costs. Meanwhile, the development of    more, ET-1 is involved in a network of interactions with
+CVDs is strongly influenced by modifiable risk factors, in-    other molecules that regulate vascular behavior, such as ni-
+cluding elevated blood pressure (BP), an unhealthy diet,     tric oxide (NO), Ang II, and neuropeptide Y, among oth-
+metabolic alterations (e.g., high low-density lipoprotein     ers, and the expression of ET-1 is regulated by hypoxia
+(LDL) levels and high glucose concentrations), and low    and shear stress. ET-1 signaling occurs through ET-A and
+physical activity [1].  These disorders lead to vascular    ET-B, specific G protein-coupled receptors (GPCRs) that
+and organ remodeling, as well as inflammatory changes    bind to associated ligands, thereby promoting the release
+that eventually cause major cardiovascular adverse events.    of second messengers and an influx of calcium ions. Fur-
+Hence, risk factor management and broad prevention rep-    thermore, GPCRs can stimulate tyrosine kinase pathways,
+resent key areas that are targeted to lower CVD preva-    such as the mitogen-activated protein kinase (MAPK), Src,
+lence. Nonetheless, the epidemiology of CVDs is concern-    phosphoinositide 3-kinase (PI3K), and Janus kinase (JAK)
+ing, as the occurrence of coronary heart disease, hyper-    pathways, which are typically associated with correspond-
+tension, stroke, and heart failure (HF) in patients over 20    ing effects on VSMCs [4]. ET-1 also exhibits a range of
+years old is 48.6%, the majority of which is attributed to    immunoregulatory properties, modulating both innate and
+hypertension [2]. Currently, a vast array of therapeutics is    adaptive immune responses [5].  Moreover, ET-1 is sug-
+available to manage CVDs, which reduce mortality and in-    gested to play a role in the pathogenesis of conditions in-
+crease quality of life [3]. One of the key pathways involved    cluding fibrosis [6], preeclampsia [7], and cancer [8,9]. Ad-
+in the pathophysiology of CVDs is the renin–angiotensin–     ditionally, dysregulation of ET receptors is associated with
+aldosterone system (RAAS). Notably, angiotensin II (Ang    pathological processes; for example, renal pathologies in-
+II) is the primary factor contributing to hypertension and    crease activity of the ET-1/ET-A axis, promoting inflam-
+vascular and cardiac remodeling, which can lead to HF.    matory responses, fibrosis, and hypertrophy [5].
+Consequently, agents that suppress Ang II activity, such as
+
+
+
+
+              Copyright: © 2025 The Author(s). Published by IMR Press.
+               This is an open access article under the CC BY 4.0 license.
+
+Publisher’s Note: IMR Press stays neutral with regard to jurisdictional claims in published maps and institutional affiliations.     In 2024, aprocitentan, an ET-1 antagonist, was ap-    ated precursor in 60 hypertensive and 20 normotensive pa-
+proved for the treatment of resistant hypertension [10],     tients. The results confirmed that patients in the hyperten-
+thereby highlighting the ongoing importance of ET-1 in-    sion group had significantly higher ET-1 levels than those
+hibitors in CVDs. Therefore, this review aims to discuss     in the control group, while the precursor levels were sim-
+the latest findings on the role of ET-1 in the pathophysiol-     ilar between groups [17]. However, personal factors, in-
+ogy of CVDs.                                              cluding comorbidities, race, salt intake, and specific instru-
+                                                     ments used to determine endothelin levels and their speci-
+ 2. Endothelin and Cardiovascular Diseases:        ficity, can also influence ET-1 concentrations [15].
+An Important Therapeutic Target
+                                                               2.1.1 ET-1 Synthesis and Genetics in Hypertension
+2.1 Endothelin Links to Essential Hypertension
+                                               Many factors have been proven to stimulate ET-1 syn-
+     Despite  being  largely  preventable,  hypertension,
+                                                                   thesis in both experimental and clinical studies, including
+which is highly prevalent, represents an increasingly press-
+                                                            shear stress, hypoxia, acidosis, cytokines (interleukin 1 (IL-
+ing social problem, contributing significantly to CVDs
+                                                                      1), IL-3, transforming growth factor β (TGF-β), interferon-
+worldwide. Prolonged untreated hypertension affects the
+                                                 γ (IFN-γ)), hormones (adrenalin, Ang II, vasopressin, cor-
+kidneys, brain, heart, and peripheral vasculature, and can
+                                                                             tisol), glucose, thrombin, and certain drugs. These stim-
+cause disability and premature mortality. The pathogen-
+                                                                        uli are directly relevant to clinical conditions; for exam-
+esis of hypertension is complex, involving the dysregula-
+                                                                     ple, hypoxia is central to pulmonary hypertension, Ang
+tion of multiple molecular and physiological pathways [11].
+                                                                            II is a key factor in systemic hypertension, and thrombin
+Meanwhile, advanced drug development has highlighted
+                                                                     reflects the link between coagulation and vascular tone.
+the therapeutic potential of targeting the endothelin system
+                                                        Thus, inhibition of the Edn1 gene promoter, which encodes
+in the treatment of arterial hypertension.
+                                                         ET-1, occurs with well-known vasodilators, including NO,
+     Since the discovery of ET-1 in 1988, the molecule has
+                                                             bradykinin, prostacyclin, atrial natriuretic peptide (ANP),
+been attributed vasoconstrictive properties.  Indeed, ET-1
+                                                     and B-type natriuretic peptide (BNP) [18]. At the molecular
+has been suggested to regulate intrinsic vascular tone and
+                                                                     level, transcription of Edn1 is regulated by activator protein
+may contribute to the pathogenesis of hypertension [12].
+                                                   1 (AP-1) and hypoxia-inducible factor-1 (HIF-1).  Other
+Subsequent animal and human studies have demonstrated
+                                                   enzymes known to generate ET-1 include mast cell chy-
+elevated plasma ET-1 levels in individuals with hyperten-
+                                                       mase, matrix metalloproteinase-2 (MMP-2), and neutral en-
+sion compared with normotensive controls. For instance,
+                                                            dopeptidase; however, the functional significance of these
+one of the key experimental studies in rats during the 1990s
+                                                   enzymes remains underexplored and has no current thera-
+found an increase in both ET-1 levels and the basal re-
+                                                              peutic application [19]. The effect of shear stress on ET-1
+lease of ET-1 from mesenteric arteries during weeks 5 and
+                                                          production depends on the nature and intensity of the me-
+6 (the development of hypertension) in spontaneously hy-
+                                                             chanical forces. Acute changes in mechanical stress tran-
+pertensive rats (SHRs) compared with age-matched con-
+                                                                  siently alter vessel diameter, primarily by releasing vasoac-
+trols. However, a concurrent study reported no difference
+                                                                   tive mediators that help restore baseline vascular tone. In
+in ET-1 plasma levels or arterial tissue expression between
+                                                                   contrast, sustained mechanical changes lead to long-term
+6-week-old SHRs and control rats. Interestingly, a signif-
+                                                        remodeling of the vessel wall, involving alterations in the
+icant elevation in plasma, but not tissue, ET-1 levels was
+                                                        shape and cellular or extracellular composition of the wall.
+observed in week 16, thereby indicating enhanced ET-1 re-
+                                                           Vascular remodeling will be covered in more detail in other
+lease in the later stages of disease progression [13]. In the
+                                                               sections of this article. These biomechanical influences are
+context of human trials, data on the pathophysiological role
+                                                                    clinically relevant, since disturbed flow and abnormal shear
+of ET-1 in essential hypertension are limited. Intravenous
+                                                                    stress are central to the pathophysiology of many CVDs.
+administration of ET-1 to healthy subjects was shown to in-
+                                                 The delicate interplay between shear stress and endothe-
+crease BP, which responded to a non-selective ET receptor
+                                                                               lial behavior is regulated by multiple signaling pathways.
+antagonist [14]. Some authors have found that ET-1 lev-
+                                                            Endothelial cell proliferation, migration, and inflammatory
+els were within the normal range in patients with essential
+                                                          response are mediated by the extracellular signal-regulated
+hypertension, but increased ET-1 expression was detected
+                                                           kinase (ERK), p38 MAP kinase (p38), c-Jun N-terminal ki-
+in the vascular wall. The observed discrepancies in these
+                                                         nase (JNK), and MAPK signaling pathways. Activation of
+results regarding circulating endothelin levels could result
+                                                               endothelial nitric oxide synthase (eNOS) reduces inflam-
+from the rapid elimination of ET-1 from the plasma, i.e.,
+                                                           mation, induces vasodilation, and inhibits platelet aggrega-
+ET-1 has a plasma half-life of 1–2 min [15], and the direc-
+                                                                      tion. Shear stress also modulates key transcription factors,
+tional secretion of ET-1 by endothelial cells (ECs) toward
+                                                            including Krüppel-like factor 2 (KLF2) and nuclear factor
+the VSMCs rather than into the circulation [16]. A recent
+                                                            kappa-light-chain-enhancer of activated B cells (NF-κB),
+study by Kostov and Blazhev [17] was designed to clar-
+                                                    which govern the expression of shear-sensitive genes.
+ify whether ET-1 levels are elevated in essential hyperten-
+sion. The researchers measured ET-1 alongside the associ-
+
+
+2    Over the past 20 years, researchers have investigated     sis in VSMCs. A recent study investigated epigenetic alter-
+the role of the Edn1 gene as a potential risk factor for hyper-     ations in VSMCs during hypertensive arterial remodeling,
+tension, yielding inconsistent results. Currently, these asso-    underscoring the role of JMJD3 in maintaining ET-1 recep-
+ciations are considered exploratory rather than established     tor balance and preventing a vascular phenotypic switch.
+risk factors.  Furthermore, the variable impact of genetic   The authors have highlighted the JMJD3 rs62059712 vari-
+polymorphisms on BP regulation may be influenced by en-    ant as the regulator of JMJD3 expression in VSMCs. More-
+vironmental factors such as physical condition, obesity, or     over, JMJD3 enhances ET-B expression, and, in the absence
+socioeconomic status [20]. Several studies have reported a    of the gene, increased ET-A transcription is observed as a
+positive correlation between the ET-1 rs5370 T allele and    compensatory effect. The major rs62059712-T allele de-
+BP and body mass index (BMI) across different popula-    creases JMJD3 transcription, and JMJD3 loss is associated
+tions, including European, Japanese [21], Australian, and    with upregulated endothelin signaling, resulting in subse-
+American [22]. A recent study of the Malay ethnic group    quent HTN-induced arterial remodeling [28]. A separate
+analyzed the ET-1 (rs5370) and endothelin convertase en-    study investigating vascular remodeling in abdominal aortic
+zyme (ECE) (rs212526) gene variants in 177 cases and 196    aneurysms has shown that JMJD3 in macrophages is upreg-
+controls. The authors confirmed significant differences be-    ulated by IFN-β, leading to NF-κB-mediated overexpres-
+tween the groups in both gene polymorphisms, suggesting    sion of inflammatory genes [29]. Although there is no di-
+that these variants may serve as potential genetic risk mark-     rect evidence that JMJD3 amplifies ET-1 signaling through
+ers in this specific population [22].                    NF-κB in the hypertension model, it is reasonable to hy-
+                                                            pothesize that JMJD3 may indirectly contribute to inflam-    Another single-nucleotide mutation, rs9349379, in the
+                                                       mation via this pathway. NF-κB has been shown to upregu-PHACTR1 gene is associated with hypertension and in-
+                                                                      late Edn1 transcriptionally, increasing ET-1 levels in vascu-creased Edn1 gene expression. Interestingly, the link with
+                                                                        lar cells under inflammatory conditions. Conversely, ET-1,hypertension is inverse [23].  The author suggested that
+                                                              acting through ET-A and ET-B receptors, is known to acti-the paradoxical reduction in hypertension, despite increased
+                                                             vate NF-κB pathways, leading to the expression of proin-Edn1 expression, may be explained by enhanced endothe-
+                                                      flammatory cytokines and adhesion molecules that facili-lin B-mediated vasodilation [19,23]. PHACTR1 has been
+                                                                      tate monocyte/macrophage infiltration. Therefore, JMJD3shown to influence the cytoskeleton network, thereby alter-
+                                            may amplify ET-1 signaling both directly, via NF-κB ac-ing arterial stiffness [24]. This single-nucleotide polymor-
+                                                                     tivation, and indirectly, by sustaining macrophage-drivenphism (SNP) in the PHACTR1 gene is of significant interest
+                                                             vascular wall inflammation [30]. Although the literaturein precision medicine, as the SNP may help identify patients
+                                                             discusses the genetic aspects of ET-1, the clinical relevancemost likely to benefit from endothelin receptor antagonist
+                                                             of these studies on ET-1 is not widely applicable.therapy. This is due to increased active ET-1 signaling that
+needs to be blocked. In a study by Al Hageh et al. [25],
+based on a large UK Biobank cohort, the researchers found    2.1.2 ET-1-Induced Vasoconstriction
+a genetic association between carriers of the rs9349379-                                                                  In a healthy organism, the vasoconstrictor effects of
+G allele in the PHACTR1 gene and an increased risk of                                                    ET-1 play an important role in maintaining vascular tone via
+developing severe or multivessel disease. In contrast, the                                                              the ET-A receptor on VSMCs. ET-A receptors are abun-
+rs445925-T variant near the APOC1/APOE locus is asso-                                                           dant in the human body and have been well-documented
+ciated with a reduced risk of severe and multi-vessel coro-                                                                 in the cerebral vasculature, coronary vascular network, and
+nary artery disease [25]. A recent study also identified en-                                                          cardiomyocytes, as well as the pulmonary artery and var-
+dothelial PHACTR1 as a novel corepressor of peroxisome                                                             ious components of the kidney, including the afferent ar-
+proliferator-activated receptor gamma (PPARγ), promoting                                                                        teriole, efferent arteriole, cortical vessels, mesangial cells,
+atherosclerosis in regions exposed to disturbed flow [26].                                                     and renal artery [31,32]. The vasoconstrictive pathway is
+These findings highlight PHACTR1 as a potential therapeu-                                                            believed to involve G protein-coupled signaling. Evidence
+tic target and support the use of genetic profiling to improve                                                                indicates that both ET-A and ET-B receptors can interact
+risk stratification and develop individualized therapies.                                                         with different G protein subtypes, including Gq, Gi, and
+    Genome-wide association studies have identified the    G12/13, leading to diverse intracellular signaling cascades.
+Jumonji domain-containing protein D3 (JMJD3) locus, also    This diversity may potentially explain the wide range of
+known as lysine demethylase 6B (KDM6B), which encodes    physiological and pathological effects mediated by ET-1,
+the histone demethylase JMJD3, as a major player in regu-    including the complex role performed by ET-1 in hyper-
+lating systolic BP [27]. Histone demethylase encodes for a     tension. Receptor stimulation by ET-1 results in phospho-
+macrophage phenotype switch in cardiometabolic diseases,     lipase C (PLC) hydrolyzing phosphatidylinositol biphos-
+modulating inflammatory gene expression.  Importantly,    phate (PIP2) to inositol 1,4,5-triphosphate (IP3) and dia-
+JMJD3 exerts context-specific effects depending on the    cylglycerol (DAG). IP3 increases intracellular Ca2+ levels
+cell type: JMJD3 promotes proinflammatory processes in    while DAG stimulates protein kinase C (PKC), which pro-
+macrophages, whereas JMJD3 supports vascular homeosta-    motes VSMC contractions.
+
+
+                                                                                                 3     Current scientific literature does not provide evidence     secrete various inflammatory mediators and tissue factor
+that ET-A receptor activation directly causes vasodilation.    (TF), amplifying both the local inflammatory response and
+This role is attributed to the ET-B receptor present on    coagulation cascade.  Toll-like receptors (TLRs) are key
+ECs.  In contrast to the ET-A receptor, the ET-B recep-    mediators of this cascade, as are the receptor for advanced
+tor is expressed on both VSMCs and ECs, but the func-    glycation end (RAGE) products and NOD-, LRR- and pyrin
+tion of the ET-B receptor differs for each.  The interac-    domain-containing protein 3 (NLRP3) inflammasome acti-
+tion between ET-1 and ET-B can indirectly promote va-     vation. Fais et al. [37] demonstrated that ET-1 activates
+sodilation due to the activity of NO and prostaglandin    the NLRP3 inflammasome through the calcium-dependent
+I2 (PGI2), whose synthesis is stimulated by intracellular    generation of reactive oxygen species (ROS). ET-1 involve-
+Ca2+. ET-1 and Ang II share a common architecture of    ment in endothelial dysfunction, alongside these afore-
+receptor-mediated signaling with two arms: the first, the    mentioned mechanisms, is thought to alter the function of
+dominant vasoconstrictive/pro-fibrotic arm, and the sec-    various populations of K+ channels.  These are inward-
+ond, the protective vasodilatory arm (ET-B and AT2R). Ang     rectifying (Kir), ATP-sensitive (KATP), voltage-gated (Kv)
+II exerts primary physiological effects through the Ang II    and KCa channels. Among the KCa (Ca2+-activated K+
+type 1 receptor (AT1R). Upon activation, the AT1R pri-    channels), KCa2.3 is essential for NO signaling in the vas-
+marily signals through the Gq/11 protein pathway, lead-    cular bed. Meanwhile, the expression or function of KCa2.3
+ing to vasoconstriction.  Additionally, AT1R stimulation    channels is suppressed in arterial hypertension. Moreover,
+promotes VSMC proliferation, hypertrophy, and migration.    KCa2.3 activation exerts an anti-inflammatory effect and
+These conditions contribute to pulmonary vascular remod-    lowers BP. ET-1-mediated membrane conductance in ECs
+eling and, ultimately, to right ventricular (RV) dysfunction,     is suggested to result primarily from KCa2.2/2.3 inhibition
+as seen in pulmonary hypertension [33].                        [37].
+     In addition to the IP3/DAG pathway, ET-1 and Ang         Endothelial dysfunction is a key contributor to and
+II are recognized activators of the MAPK signaling path-    consequence of hypertension through reciprocal exacerba-
+way, especially ERK1/2, which are tightly linked to vascu-     tion. Impaired endothelial function promotes increased vas-
+lar remodeling. Recently, researchers have identified that    cular tone and inflammation, which, together with shear
+GPCR kinase (GRK2) fine-tunes the signaling cascade that     stress and mechanical injury, accelerates vascular damage.
+mediates vasoconstriction. GRK2-facilitated GPCR phos-    Although current evidence does not clearly establish which
+phorylation can result in either reduced signaling through    process initiates this cycle, the interplay between these pro-
+desensitization or prolonged signaling via β-arrestins. The    cesses ultimately promotes damage to multiple organs [38].
+group of receptors remaining under the influence of GRK2  A retrospective cohort study on 456 patients with essen-
+includes ET-A and ATR1. It is worth noting that GRK2 ex-      tial hypertension showed that endothelial dysfunction was
+pression is elevated in hypertension in both rat models and    a significant risk factor in developing subclinical target or-
+human patients [34].                                   gan damage (STOD). Additionally, early improvement in
+                                                               endothelial function was an independent protective factor
+2.1.3 ET-1 in Endothelial Dysfunction                         against STOD in patients, regardless of the baseline en-
+    The binding of ET-1 to its receptors on VSMCs can     dothelial status of the patient [39].
+activate both proinflammatory and pro-fibrotic processes,        The endothelium is known to self-regulate in an au-
+contributing to endothelial impairment. The term “endothe-     tocrine, paracrine, and endocrine fashion by secreting vaso-
+lial dysfunction” encompasses several pathological condi-     constrictive, prothrombotic, and proliferative substances,
+tions and broadly refers to a disturbance of the homeostatic    including ET-1, Thromboxane A2, ROS, and their opposite
+role of the endothelium in regulating vasodilation and vaso-     effectors, e.g., NO and prostacyclin. Moreover, ECs secrete
+constriction, as well as inflammatory and anticoagulant pro-    multiple inflammatory markers that stimulate blood vessel
+cesses [35].                                                  contraction [40]. The primary ET-1-related contributors to
+     Vascular inflammation is a major contributor to en-    endothelial dysfunction include an imbalance in vasoactive
+dothelial dysfunction and CVDs.  ET-1 plays a pivotal    substances, heightened inflammation, excessive ROS pro-
+role in endothelial cell activation, which includes the se-    duction, and reduced NO synthesis (Table 1; Ref. [41–50]).
+cretion of monocyte chemoattractant Protein-1 (MCP-1)        Another area linking ET-1 and endothelial dysfunction
+after binding to ET-A and ET-B receptors, often via the     is the association with lectin-like oxidized LDL receptor 1
+NF-κB and MAPK signaling pathways. MCP-1 binds to    (LOX-1). This receptor is known to be involved in endothe-
+the C-C chemokine receptor type 2 (CCR2) on circulating      lial dysfunction within the context of atherosclerosis. The
+monocytes.  This interaction promotes chemotaxis, caus-    receptor binds oxidized LDL, promotes the expression of
+ing monocytes to migrate toward the inflamed endothe-    adhesion molecules, and disrupts endothelial vasodilation.
+lium.  Once inside the vessel, monocytes differentiate    Moreover, this interaction disrupts NO signaling and pro-
+into macrophages, producing proinflammatory cytokines    motes ROS release.  Additionally, LOX-1 promotes ET-1
+and oxidative enzymes [36]. Simultaneously, injured ECs    production [51]. Intriguingly, an early study confirmed that
+
+
+4                               Table 1. Processes associated with endothelial dysfunction.
+
+        Category               Main factors contributing to the pathol-    Effects on the endothelium              Reference
+                              ogy
+
+        Vascular resistance         Direct ET-1 effect on VSMCs           Increased tone/vasoconstriction             [41,42]
+
+                               ET-1 decreased eNOS expression        Impaired vasodilation
+
+        Oxidative stress          ET-1 binding to ET-A/ET-B stimulates   Increased ROS, NO degradation, tran-      [43,44]
+                      NADPH oxidase activity and ROS re-    scription,  and  activation  of MMP-
+                                     lease alongside eNOS uncoupling         2, MMP-9, and extracellular matrix
+                                                                          degradation
+                                                                            Further decrease in NO bioavailability
+
+                              Hydrogen peroxide                      Endothelial apoptosis
+                                 Superoxide anion                      Inflammation induction
+
+        G-protein  coupled  sig-   PLC, MAPK, RhoA pathways           Altered vascular tone and permeability      [45,46]
+        naling ET-1 coupled with
+       Gq, Gi, G12-13
+
+        Inflammatory response     Cytokine release (IL-6, TNF-α)         Recruitment of immune cells promot-       [47]
+                                                                           ing chronic vascular inflammation
+                          NF-κB pathway                       Upregulation of inflammatory gene ex-       [48]
+                                                                            pression in macrophages
+                     COX (mainly COX-2) upregulation      Increased PGE2, PGF2α expression,       [49]
+                                                                         decreased PGI2 resulting in vasocon-
+                                                                                       striction
+
+        Vascular remodeling         Initiated by increased KLF4 expres-   Contractile  to  synthetic  phenotypic       [50]
+                                    sion induced by ET-1                   switch
+                               ET-1  activates macrophages  to  re-   Collagen deposition/fibrosis
+                              model the ECM through TGF, IL-13,
+                               and IL-10
+
+      NADPH, the reduced form of nicotinamide adenine dinucleotide phosphate; IL, interleukin; TNF-α, tumor necrosis factor-
+        α; NF-κB, nuclear factor kappa-light-chain-enhancer of activated B cells; COX, cyclooxygenase; COX-2, cyclooxygenase-2;
+       PGE2, prostaglandin E2; PGF2α, prostaglandin F2α; PGI2, prostaglandin I2; KLF4, Krüppel-like factor 4; TGF, transforming-
+       growth factor family; MMP, matrix metalloproteinase.
+
+
+ET-1 upregulates LOX-1 expression and promotes oxLDL      lial dysfunction. Meanwhile, xanthine oxidase (XO) rep-
+uptake in ECs [52].                                            resents another source of ROS in hypertension, which has
+                                                      been historically suggested and trialed as a target therapeu-
+   ROS are important signaling molecules through which
+                                                                            tic approach in hypertension [43]; however, the results were
+vasoactive substances, such as ET-1, Ang  II, and pro-
+                                                                 inconsistent, and there were adverse effects associated with
+teinoids, mediate cellular effects [53]. Under physiological
+                                                              the treatment [55]. ECs function as sensitive mechanore-
+conditions, the majority of the produced NO is facilitated
+                                                                 ceptors, constantly adapting to the physical forces gener-
+by eNOS, making this enzyme critical for effective vascu-
+                                                             ated by blood flow. Additionally, laminar shear stress (LS)
+lar regulation and cardiovascular protection [43]. Indeed,
+                                                        predominates in regions where blood flows smoothly and
+eNOS and the reduced form of nicotinamide adenine dinu-
+                                                                 in a defined direction, such as straight arterial segments.
+cleotide phosphate (NADPH) oxidase play opposing but in-
+                                                         This form of flow promotes endothelial stability and vas-
+terconnected roles. The imbalance between NO and ROS,
+                                                               cular homeostasis. In contrast, oscillatory shear stress (OS)
+resulting, for example, from NADPH oxidase overactivity,
+                                                                   arises at arterial branches and curves due to disturbed flow.
+leads to NO degradation and eNOS uncoupling, which fur-
+                                                         This non-uniform shear pattern fosters a proinflammatory
+ther promotes ROS release. Recent studies using eNOS-
+                                                                     state and is strongly linked to the focal development and
+deficient murine models have shown that the absence of
+                                                            progression of atherosclerotic plaques.  Importantly, OS
+eNOS results in sustained elevation of BP and alterations
+                                                              leads to upregulation of ET-1 via activation of diverse sig-
+in vascular structure associated with endothelial dysfunc-
+                                                             naling cascades involving adaptor proteins, receptors, tran-
+tion, including a reduced inner diameter in the descending
+                                                                 scription factors, kinases, junctional proteins, and adhesion
+thoracic aorta and increased wall thickness [54]. Since ET-1
+                                                        molecules [56].
+has been shown to suppress eNOS function, the expected ef-
+fects are reduced NO availability and exacerbated endothe-
+
+
+                                                                                                 5     In recent years, short non-coding RNAs, also known    shear stress, increased wall tensile stress, or a combination
+as microRNAs (miRNAs), have gained significant atten-    of both. A recent study has highlighted the remarkable plas-
+tion as key modulators of vascular function, particularly     ticity of VSMCs under pathological conditions. VSMCs
+in hypertension and arterial remodeling. One of the most    can undergo phenotypic switching from their native con-
+significant findings is that miRNAs mediate internal com-     tractile state to various other phenotypes as a compensatory
+munication between ECs and VSMCs. Meanwhile, miR-    mechanism in hypertension-driven maladaptive remodeling
+NAs are often packaged into extracellular vesicles, such as     [61]. The loss of TGF-β in upstream signaling, particularly
+microvesicles or exosomes, and released into the circula-   when combined with hyperlipidemia, can trigger the pheno-
+tion. Interestingly, encapsulation makes the miRNAs resis-    typic switch in VSMCs. In animal models, the major fac-
+tant to degradation. Among the studied miRNAs, miR-92a     tor driving the transition was shown to be an approximately
+emerged as a critical regulator of endothelial homeostasis.    100-fold upregulation of Krüppel-like factor 4 (KLF4) and
+A recent study found that miR-92a levels were higher in hy-    other KLF family members [50]. The interaction between
+pertensive patients than in controls. Moreover, the miR-92a    the KLF family and the endothelin system has been well
+levels were positively correlated with systolic and diastolic    documented experimentally [62,63]. The KLF transcrip-
+BPs and ET-1 levels, and negatively correlated with NO lev-     tion factor, expressed in the ECs, exerts anti-inflammatory
+els. Ang II has been shown to increase miR-92a expression    and vasoprotective effects by increasing eNOS and throm-
+in ECs, which, in turn, mediates increased arterial stiffness    bomodulin and suppressing Edn1 gene expression. Con-
+[57].  It has been documented that miRNAs participate in     versely, ET-1 has been shown to increase KLF4 gene ex-
+the macrophage phenotype switch and atherogenesis, in-     pression, potentially establishing a feedback mechanism
+cluding miR-19, miR-21, miR-33, miR-150, miR-223, and     that contributes to vascular homeostasis [64]. The role of
+let-7c. Several miRNAs have been identified that directly   KLF4 in the unique population of adventitial progenitor
+or indirectly influence ET-1 expression or signaling. These     cells was also studied, revealing that KLF4 contributes to
+include miR-125a, miR-125b, miR-199a, miR-155, miR-1,    preventing stem cell differentiation into VSMCs, normal-
+and miR-320, which downregulate ET-1 by targeting Edn1     izes the adventitia-to-media ratio, and mediates collagen
+in most cases. Moreover, some of these miRNAs can ex-    deposition. Thus, the ET-1/KLF4 self-regulatory cycle may
+ert the opposite effect by indirectly upregulating ET-1, as    profoundly influence vascular homeostasis [65]. Overall,
+seen with miR-21 [58]. Recent research has highlighted that    the direct application of these findings to humans remains
+miR-33 exhibits the strongest upregulation in expression     uncertain.
+in exosomes derived from human umbilical vein endothe-                                                                    Essential hypertension is characterized by increased
+lial cells (HUVECs) after stimulation with ET-1. Further-                                                              peripheral vascular resistance, primarily due to functional
+more, the authors observed that nuclear receptor subfamily                                                       changes in small, resistant arteries.  Vasodilation in these
+4, group A (NR4A) has a binding site for miR-33 in the                                                               vessels is mainly mediated by NO, as evidenced by the in-
+3′ untranslated region (UTR), emphasizing the existence                                                                 hibition of vasodilation through eNOS blockers, with ad-
+of the miR-33/NR4A axis. Meanwhile, miR-33 inhibition                                                                  ditional support from NO-independent mechanisms such
+downregulated proinflammatory macrophage genes (IL-6,                                                             as endothelium-dependent hyperpolarization (EDHF). No-
+iNOS, and TNF-α). ET-1 knockdown inhibited proinflam-                                                                     tably, EDHF assumes a compensatory vasodilatory role
+matory macrophage activation. Collectively, these findings                                               when NO bioavailability is low. Thus, remodeling induced
+suggest that the miR-33/NR4A axis is required for ET-1-                                                   by cardiovascular risk factors results in reduced vasodi-
+induced proinflammatory macrophage activation [59].                                                                   lation in response to endothelial agonists, such as acetyl-
+                                                               choline. A recent study on the relationship between re-
+2.1.4 The Role of ET-1 in Vascular Remodeling                 sistant artery remodeling, NO availability, and endothe-
+                                                                               lial function demonstrated that a progressive deficit in NO    The ET-1-induced signaling pathway generates ROS
+                                                                   availability may be a more accurate measure of variousin parallel to Ca2+ liberation and smooth muscle contrac-
+                                                              stages of small resistance artery remodeling than tradi-tion. ROS are the product of multiple enzymatic sources,
+                                                                   tional hemodynamic measures, such as hypertension sever-including NADPH oxidase, xanthine oxidase, uncoupled
+                                                                                  ity.  However, the study did not investigate the poten-eNOS, and mitochondria, in response to growth factor re-
+                                                                               tial interaction between NO availability and other path-ceptor activation. Experimental animal and in vitro mod-
+                                                 ways regulating resistance vessel tone, such as the ET-1 orels suggest that vascular remodeling involves the activa-
+                                       EDHF pathways. These pathways could potentially havetion of c-Src (a non-receptor tyrosine kinase) and MAPK
+                                                      an equally important diagnostic role; however, further re-cascades, which contribute to cellular proliferation and, ul-
+                                                           search is needed to describe these dynamics in resistancetimately, structural changes in the vessel wall [60].  Re-
+                                                              vessel remodeling [66].modeling processes are influenced by hemodynamic forces.
+Diffuse intimal thickening appears to be an adaptive struc-         ET-1-induced oxidative stress in vascular remodeling
+tural response to altered mechanical forces, typically oc-     is primarily mediated by ROS, which activate a family of
+curring in vascular regions characterized by reduced wall     proteolytic MMP enzymes. Hyperactivity of MMPs results
+
+
+6in the degradation of extracellular matrix components. As a     rial hypertension.  However, due to the potent vasocon-
+result of their activity, basement membrane and intracellu-     strictive properties of the endothelin system, these agents
+lar junctions are degraded, along with small proteins such as     offer a promising approach for treating resistant hyperten-
+cell adhesion molecules, peptide growth factors, cytokines,     sion. According to the American Heart Association and the
+chemokines, and tyrosine kinase receptors. MMP-2 and    American College of Cardiology, resistant hypertension is
+MMP-9 are important in vascular remodeling; the activity    diagnosed when three different classes of antihypertensive
+of these proteins is associated with both the early and late    drugs have been applied concurrently, yielding no improve-
+phases of hypertension [43].                            ment in hypertensive status [71]. The PRECISION clini-
+                                                                 cal trial investigated the potential use of a dual ET-A/ET-B
+2.1.5 Link to Salt-Sensitive Hypertension                     endothelin receptor antagonist in patients with resistant hy-
+                                                               pertension. In the initial 4-week double-anonymized phase,    High dietary salt intake can induce BP changes even in
+                                                                 patients receiving aprocitentan once daily experienced re-normotensive individuals, with approximately 26% demon-
+                                                            ductions in office systolic BP of 15.3 mmHg and 15.2strating a salt-sensitive response. Among hypertensive pa-
+                                          mmHg, respectively, compared to an 11.5 mmHg reductiontients, this proportion is even higher, with about 51% ex-
+                                                         with placebo. This corresponds to placebo-adjusted reduc-hibiting BP elevations in response to high salt intake [67].
+                                                                 tions of 3.8 mmHg and 3.7 mmHg for the 12 mg and 25Salt-sensitive hypertension is often associated with im-
+                                        mg doses, respectively. These findings were corroboratedpaired natriuresis, endothelial dysfunction, and heightened
+                                                   by 24-hour ambulatory BP monitoring, which showed re-inflammatory responses.  In this context, recent findings
+                                                            ductions of 4.2 mmHg and 5.9 mmHg for the mentionedfrom a transgenic mouse model provide important mecha-
+                                                             doses, respectively. The BP-lowering effect of aprocitentannistic insights. Mice with selective myeloid ET-B receptor
+                                                 was sustained over the 32-week single-anonymized phaseknockout and Ang II-induced hypertension were assessed
+                                                                [72,73].for BP and end-organ damage (kidneys, eyes, cardiovas-
+                                                     The progression of CVDs can be partially attenu-cular). While the ET-B receptor in the kidneys facilitates
+                                                             ated through the management of cardiovascular risk fac-sodium excretion, ET-B signaling in myeloid cells appears
+                                                                   tors and the use of pharmacological agents targeting variousto promote inflammation and vascular damage during hy-
+                                                         pathways, including ERAs, RAAS inhibitors, and glucose-pertension. Surprisingly, the deletion of ET-B in these im-
+                                                         lowering therapies—all of which have been shown to en-mune cells led to reduced hypertensive organ injury and
+                                                      hance vascular health; combinations of ET-1 inhibitorsimproved endothelial function, thereby lowering BP over
+                                                         with other pharmacological groups are being examined.time. These findings suggest that the immune–endothelin
+                                   A subgroup analysis of the PRECISION trial, which in-axis plays a role in modulating salt-sensitive responses [68].
+                                                        volved aprocitentan and a sodium–glucose cotransporter 2Interestingly, the selective deletion of ET-1 in the collect-
+                                                  (SGLT2) inhibitor in patients with diabetes, was presenteding duct of the nephron has been shown to elevate BP and
+                                                                      at an American College of Cardiology meeting.  Systolicto develop a salt-sensitive hypertensive phenotype. Similar
+                                         BP reductions by week 36 were comparable between theoutcomes were observed following the targeted deletion of
+                                                      aprocitentan+SGLT2 and aprocitentan only groups (11.8ET-B receptors or both ET-A and ET-B receptors in the col-
+                                    mmHg and 13.8 mmHg respectively). The impact on uri-lecting duct [15]. Furthermore, the cross-interactions be-
+                                                         nary albumin–creatinin ratio was greater when aprocitentantween ET-1 and the RAAS amplify the pressor response:
+                                                 was combined with the SGLT2 inhibitor. The data supportAng II stimulates ET-1 production, while ET-1 enhances
+                                                                   that aprocitentan remains effective in reducing systolic BP,the conversion of Ang I to Ang II. Both pathways inde-
+                                                       whether or not SGLT2 inhibitors are co-administered [74].pendently promote the release of aldosterone, another po-
+tent vasoconstrictor, thereby creating a self-reinforcing cy-
+cle that contributes to the pathogenesis of salt-sensitive hy-
+pertension [69]. Becker et al. [70] found that ET-B receptor    Box 1. Overview of endothelin-1.
+activation during high-salt intake impaired baroreflex sen-                                                    • Endothelin-1 is a peptide with primary vasoconstric-
+sitivity and increased BP variability, key features in salt-
+                                                                     tive properties.
+sensitive hypertension. Additionally, ET-B receptors in the                                                    • Endothelin-1 regulates intracellular calcium levels and
+kidney, when stimulated by ET-1, normally promote natri-
+                                                               influences the activity of signaling cascades.
+uresis; thus, dysfunction in this mechanism contributes to                                                    • Endothelin-1 signals through ET-A and ET-B recep-
+volume-dependent hypertension. In salt-resistant hyperten-
+                                                                          tors, which stimulate different responses.
+sion, ET-1 contributes more prominently through sustained                                                    • Endothelin-1  stimulate proinflammatory and pro-
+vasoconstriction and structural vascular changes [70].
+                                                                      fibrotic processes.
+                                                    • Inhibition of endothelin-1, a well-known strategy in
+2.1.6 ET-1 Inhibitors in Arterial Hypertension
+                                                                the treatment of pulmonary hypertension, was recently
+     Until recently, the use of ERAs has been nearly ex-     approved to treat arterial hypertension.
+clusively constrained to the treatment of pulmonary arte-
+
+
+                                                                                                 72.2 ET-1 Inhibitors in Renal Diseases                        ing tubuloglomerular feedback by increasing solute deliv-
+                                                           ery (sodium, chloride, glucose) into the distal part of the     Hypertension is both a cause and a consequence of
+                                                      nephron [80]. Additional benefits may arise from the anti-nephropathy,  characterized by podocyte  loss, glomeru-
+                                                          inflammatory, antioxidant, and hemodynamic effects oflar injury, and mesangial expansion. Many hypertensive
+                                                              these inhibitors [81]. These complementary mechanismspatients—especially those with diabetes—still progress to
+                                                           support the rationale for combining SGLT2 inhibitors withend-stage renal disease despite controlling BP. In a diabetic
+                                          ERAs to enhance outcomes in patients with cardio–renalmouse model of advanced nephropathy (BTBR ob/ob),
+                                                                 disease. Meanwhile, further studies are required despite thecombined treatment with the ET-A receptor antagonist
+                                                                            initial outcomes of the subgroup in the PRECISION trial.atrasentan and the AT-1 receptor antagonist losartan sig-
+                                                         Table 2 (Ref. [72,82–87]) lists the currently approved ET-1nificantly reduced proteinuria and increased the number of
+                                                                    inhibitors.glomerular podocytes, suggesting that podocyte restoration
+likely occurs through parietal epithelial cells. Atrasentan
+                                                             2.3 Atherosclerosis
+alone also showed beneficial effects, though to a lesser ex-
+tent. Both treatments reduced mesangial matrix expansion,         Atherosclerosis is a condition characterized by the de-
+as evidenced by decreased collagen type IV accumulation.    position of lipid and fibrous material in the intima, lead-
+This study supports the notion that combination therapies    ing to the formation of an atheroma. The atherosclerotic
+targeting multiple pathogenic pathways, such as RAAS and    plaque progressively becomes calcified and fibrous. Hence,
+ET-1 in this case, are becoming increasingly rational [75].    as the plaque grows, arterial occlusion occurs and, conse-
+Another study of combined treatment with sparsentan—a     quently, tissue ischemia. Moreover, atherosclerotic plaque
+dual Ang II type 1 and ET-A antagonist (AT-1/ET-A) in-    disruption can form a thrombus and, therefore, cause car-
+hibitor in a single molecule under clinical development—    diovascular events such as stroke and acute coronary syn-
+was tested in a murine model of Alport syndrome. Sparsen-    dromes. The chronic presentations of atherosclerosis in-
+tan significantly improved kidney function, with 5 weeks    clude stable angina, vascular dementia, non-ruptured aortic
+of treatment leading to a GFR comparable to that of wild-    aneurysm, chronic limb ischemia, and chronic mesenteric
+type mice. Several proinflammatory and pro-fibrotic genes    ischemia [88]. In 2020, an estimated 21.2% of people aged
+were downregulated (e.g., Ccl2, Ccr2) as were signaling    30–79 years had atherosclerotic plaques in the carotid artery
+genes (Serpine1, Timp1, Tnxb, Myc). Sparsentan treatment     [89]. In the Miami Heart Study on the U.S. population with
+extended lifespan, even when initiated in mice with renal    a mean age of 53 years, the prevalence of coronary artery
+pathology (week 4), whereas losartan was less effective and    plaques was 49%. In contrast, in the SCAPIS study on the
+delayed the onset of proteinuria compared with controls. In    Swedish population aged 50–64, the prevalence of coronary
+contrast, losartan-treated mice only showed a significant re-     atherosclerosis was 42.1% [90,91]. The onset of chronic
+duction in proteinuria at 8 weeks [76]. Sparsentan is cur-    and acute manifestations of atherosclerotic cardiovascu-
+rently approved to slow the progression of kidney function     lar disease (ASCVD) can be avoided by lifestyle changes
+decline in adults with IgA nephropathy. The New Drug    and pharmacotherapy. Currently, most anti-atherosclerotic
+Application (sNDA) is supported by data from two pivotal    drugs aim to lower LDL plasma concentrations. Accord-
+studies: the Phase 3 DUPLEX study and the Phase 2 DUET    ing to ESC/EAS guidelines, statins are the first-line drugs
+study. Both studies demonstrated that sparsentan led to a     for lowering LDL. Meanwhile, ezetimibe should be added
+rapid, sustained, and significantly greater reduction in pro-   when the maximum tolerated statin dose is reached and
+teinuria compared to the maximum labeled dose of irbesar-    the therapeutic goal remains unmet. Furthermore, the ad-
+tan [77]. There are ongoing interventional studies on pa-     dition of a PCSK9 inhibitor is recommended if the thera-
+tients with focal segmental glomerulosclerosis (FSGS) and    peutic goal is not achieved with the two-drug combination
+sparsentan. The drug has potential use in CVDs due to its     [92].  Inflammation is another therapeutic target that can
+ability to reduce proteinuria and BP.                       be addressed by anti-atherosclerotic drugs. For example,
+     Elevated glucagon and amino acids in the kidney pro-    low-dose colchicine treatment has been shown to reduce
+mote afferent arteriolar vasodilation, while Ang  II and    the risk of cardiovascular events, leading to the approval
+ET-1 increase efferent arteriolar resistance, together rais-    of colchicine use for patients with ASCVD by the United
+ing glomerular pressure. Persistent hyperglycemia further     States Food and Drug Administration [93]. Moreover, an-
+exacerbates this pressure by enhancing SGLT2-mediated     tiplatelet drugs can be used in the secondary prevention of
+sodium and glucose reabsorption, reducing solute deliv-    cardiovascular events [88].
+ery to the macula densa, and blunting tubuloglomeru-        The development of atherosclerosis begins with en-
+lar feedback. The resulting imbalance leads to glomeru-     dothelial cell dysfunction, which is facilitated by factors
+lar hyperperfusion and hyperfiltration [78].  SGLT2 in-    such as hypercholesterolemia, hypertension, diabetes, dis-
+hibitors provide cardiovascular and renal protection largely    turbed blood flow, and oxidative stress [94].  Endothe-
+independent of their glucose-lowering effects [79],  pri-      lial dysfunction  is generally characterized by a change
+marily by reducing glomerular hyperfiltration and improv-     in its phenotype toward vasoconstrictive, prothrombotic,
+
+
+8                                   Table 2. A summary of approved ET-1 inhibitors.
+
+  Drug          Year of approval   Mechanism of action    Registered indication      Adverse events                 References
+
+  Bosentan      FDA 2001     ET-A/ET-B antagonist   PAH                   Abnormal liver function,             [82]
+            EMA 2002                                                          severe anemia, and teratogenicity
+  Sitaxentan         2006         ET-A antagonist    PAH                      Liver failure (was subsequently       [83]
+                                                                                  withdrawn)
+  Ambrisentan    FDA 2007       ET-A antagonist    PAH                    Headache, nasal congestion,         [84]
+            EMA 2008                                                   and peripheral edema
+  Macitentan     FDA 2013     ET-A/ET-B antagonist   PAH                    Anemia, naso-pharyngitis, and       [85]
+            EMA 2013                                                     headache
+  Aprocitentan       2022       ET-A/ET-B antagonist    Resistant hypertension      Peripheral edema/fluid  reten-       [72]
+                                                                                                         tion, anemia, headache
+  Clazosentan      Japan 2022       ET-A antagonist      Prevention   of    cere-   Headache, nausea, and nasal       [86]
+                                                              brovascular spasm after   obstruction
+                                                              surgery for subarachnoid
+                                                       hemorrhage  caused  by
+                                                                  cerebral  aneurysm  and
+                                                           subsequent      cerebral
+                                                                    infarction  and  cerebral
+                                                           ischemic episodes
+  Sparsentan     FDA 2023     ET-A/AT1R antagonist   IgA nephropathy          Hyperkalemia, elevated liver         [87]
+            EMA 2024                                                    enzymes, and hepatotoxicity
+
+
+
+and proinflammatory [35]. LDLs that accumulate in the    oxidative stress. Arginase II also promotes ROS produc-
+intima undergo oxidation; oxidized LDL is a key trig-     tion in macrophages, thereby stimulating inflammatory re-
+ger of EC activation [95].  Activated ECs overexpress    sponses [99,100]. Rafnsson et al. [101] evaluated the in-
+membrane-associated and secreted chemokines, prothrom-    fluence of ET-1 on arginase in atherosclerosis. ET-1 was
+botic molecules, and adhesion molecules, facilitating the   shown to upregulate arginase II in ECs. Moreover, the ET-
+entry of monocytes and T lymphocytes into the subendothe-    1/ET-B axis promotes arginase II activity in macrophages,
+lial space and further promoting local inflammation [94].    thereby enhancing ROS production [101]. NADPH oxidase
+Monocytes and VSMCs accumulate cholesterol, which    1 (NOX1) is another enzyme that contributes to atheroscle-
+leads to the formation of foam cells and, together with ex-     rosis development by producing ROS [102]. Ouerd et al.
+tracellular cholesterol deposition, contributes to the devel-    [103] demonstrated that endothelium-specific overexpres-
+opment of atherosclerotic lesions. Further steps in plaque    sion of ET-1 accelerates diabetes-induced atherosclerosis
+development include the formation of a necrotic core and    by increasing NOX1 expression in a murine model; more-
+fibrous cap and eventually plaque calcification [96].           over, ET-1 overexpression reduced atherosclerotic plaque
+                                                                       stability [103]. In line with this finding, Płoński et al. [104]
+     Several studies investigated the role of ET-1 in the de-
+                                                  showed that plasma ET-1 levels were significantly higher in
+velopment of atherosclerosis. Zhang et al.  [97] demon-
+                                                                 patients with unstable carotid atherosclerotic plaques than
+strated that ET-1, via the ET-A receptor (which is ab-
+                                                                 in those with stable plaques. Furthermore, ET-1 mediates
+sent in non-dysfunctional ECs), increases the production
+                                                             age-associated vascular stiffness by promoting fibrosis and
+of chemokines and adhesion molecules by activated ECs
+                                                              the aforementioned effects on vascular dysfunction [15].
+in HUVECs and mouse models of atherogenesis. This fa-
+cilitates monocyte migration and promotes the proinflam-         Since ET-1 plays a role in atherosclerosis develop-
+matory M1 macrophage phenotype, both of which con-    ment, several studies have evaluated the potential use of
+tribute to the progression of atherosclerosis [97,98].  In    both selective and non-selective endothelin receptor antag-
+a subsequent in vitro study, Zhang et al.  [59] showed     onists in the treatment of atherosclerosis. To begin with,
+that exosomal non-coding RNA is engaged in the ET-1-     atrasentan, an ET-A-selective antagonist, was shown to
+induced interaction between ECs and macrophages. ECs    ameliorate the development of early atherosclerosis. Af-
+stimulated by ET-1 release exosomes containing miR-33,     ter 6 months, significant reductions in normalized per-
+which downregulate NR4A in macrophages and, therefore,    cent atheroma volume (PAV) and mean total atheroma vol-
+promote the M1 phenotype, which facilitates atherogene-   ume (TAV) in coronary artery segments with endothelial
+sis [59].  Arginase II is an enzyme that plays a role in    dysfunction were observed in the atrasentan group [105].
+atherosclerosis progression by promoting endothelial dys-    In addition, in an earlier study, atrasentan was reported
+function by decreasing NO bioavailability and increasing     to improve endothelial function in patients with incipi-
+
+
+                                                                                                 9ent atherosclerosis, as reflected by increased endothelium-    monary disease (COPD), can cause pulmonary arterial hy-
+dependent vasodilatation compared with placebo [106].    pertension PAH. The diagnosis is made by catheterizing the
+Houde et al. [107] showed that treatment with macitentan,     right heart; a pressure greater than 20 mmHg is consid-
+a non-selective endothelin receptor antagonist, attenuates    ered hypertension. Subsequently, patients are categorized
+the development of atherosclerotic lesions and improves the    as precapillary, postcapillary, or combined PH. Combining
+plaque stability in ApoE knockout mice. Moreover, the au-     this information with clinical background allows patients to
+thors evaluated the effect of deleting mouse mast cell pro-    be grouped into appropriate clinical groups associated with
+tease 4 (mMCP-4), a murine analog of human chymase, on     potential causative factors. This classification aims to intro-
+atherosclerosis [107]. Chymase is a mast cell-associated    duce more individualized treatment methods depending on
+enzyme that is engaged in the first stage of an alternative    the clinical group of PAH patients [114]. Pathogenesis of
+pathway of ET-1 synthesis. First, chymase converts big ET-   PH involves dysfunction of the endothelium and VSMCs.
+1 to ET-1 (1–31), which is then converted by neprilysin to   The endothelium releases fewer vasodilators, such as NO
+ET-1 (1–21) [108]. Therefore, inhibition of this pathway    and prostacyclin, and promotes the secretion of vasocon-
+is a potential alternative method of reducing ET-1 signal-     strictors, such as ET-1.  Consequently, there is an over-
+ing and its consequences in human disease.  In the study    growth of smooth muscles and a reduction in vascular di-
+by Houde and colleagues [107], mMCP-4 knockout mice    ameter. A prolonged condition leads to impaired cardiac
+exhibited delayed progression of early atherosclerosis and    function and RV HF. An extensive number of echocardio-
+greater plaque stability compared with controls.  Xu et    graphic parameters are altered in patients with PH, includ-
+al. [109] demonstrated that another non-selective endothe-    ing an enlarged right ventricle, an enlarged right atrial area,
+lin receptor antagonist, bosentan, attenuates the develop-    a distended inferior vena cava, or the presence of pericardial
+ment of atherosclerosis in ApoE knockout mice. Moreover,     effusion, demonstrating a significant impact of the disease
+bosentan exerted an anti-apoptotic effect on endothelial    on the functionality of the right heart [115].
+cells. The putative mechanism behind this effect was down-                                                             Treatment of PH can be either interventional or phar-
+regulation of programmed cell death protein 4 (PDCD4) via                                                           macological. The first group greatly depends on the sub-
+miRNA-21 [109]. PDCD4 is a protein known to facilitate                                                           type of hypertension.  Treatment can involve pulmonary
+atherosclerosis development by increasing apoptosis, au-                                                                 artery denervation or even lung transplantation in patients
+tophagy, and inflammation [110]. A recent study corrobo-                                                                    resistant to current treatment methods [116,117]. Pharma-
+rated the anti-atherosclerotic effect of bosentan treatment in                                                        cology offers several options for treating PAH. These op-
+ApoE knockout diabetic mice, as reflected by significantly                                                                 tions highlight the varying effectiveness of drugs across
+reduced lumen stenosis in the bosentan-treated group com-                                                                     clinical groups of patients with PH. Phosphodiesterase 5 in-
+pared with the control group (19.5 ± 2.2% versus 24.6 ±                                                                     hibitors, sildenafil and tadalafil, act by blocking the disin-
+4.8%; p < 0.05).  Furthermore, bosentan in combination                                                                tegration of cyclic guanosine monophosphate, a vasodila-
+with atorvastatin exerted an additive effect in attenuating                                                                              tor. Agents from this group are associated with greater ef-
+the progression of atherosclerosis.  This suggests the po-                                                              ficacy in patients with COPD and PH. In contrast, no ef-
+tential use of endothelin receptor antagonists in combina-                                                              ficacy was observed in a clinical trial including patients
+tion with lipid-lowering drugs for anti-atherosclerotic ther-                                                         with HF [118,119].  Other agents used in the treatment
+apy to address pathogenetic factors beyond LDL-C, such                                                             of PH include calcium channel blockers, prostacyclin ag-
+as inflammation [111]. De Haro et al. [112,113] evaluated                                                                     onists, and sotatercept, a recently approved TGF-β ligand
+the use of bosentan in the treatment of peripheral artery dis-                                                                 trap [114,120]. Bosentan, ambrisentan, and macitentan are
+ease, which can be a manifestation of ASCVD. In a random-                                                       used among the agents that target endothelins. These agents
+ized controlled trial, bosentan treatment improved absolute                                                           prevent and reverse pulmonary vasoconstriction and pul-
+claudication distance, ankle–brachial index, and plasma C-                                                  monary vascular remodeling, thereby improving symptoms
+reactive protein levels. During a 3-year follow-up period of                                                     and exercise capacity and reducing morbidity and mortal-
+bosentan treatment, the risk of major adverse cardiovascu-                                                                        ity (Fig. 2) [121,122].  Bosentan, the first dual ET-1 in-
+lar events was significantly reduced compared with placebo                                                                  hibitor approved in 1995, is associated with hepatotoxicity
+[112,113]. To summarize, the existing literature on ET-1                                                     and numerous drug interactions [123]. Moreover, bosen-
+targeting in atherosclerosis is scarce; however, the results                                                              tan is also teratogenic and causes headaches, flushing, and
+of the aforementioned studies are promising and warrant                                                edema in the lower limbs [82]. Bosentan has antioxidative
+further research.  Fig. 1 demonstrates the involvement of                                                                 properties; in PH mouse models, this drug reduced levels
+ET-1 in the pathogenesis of atherosclerosis.                                                             of advanced oxidation protein products and increased the
+                                                                     ratio of reduced glutathione to oxidized glutathione [124].
+2.4 Pulmonary Hypertension                              Bosentan also showed cardioprotective features in preclin-
+                                                                      ical models of chemotherapy-induced cardiotoxicity [125].    Pulmonary hypertension (PH) is a condition with ab-
+normally high pressure in the pulmonary artery.  Many        Ambrisentan exhibits a similar efficacy but fewer drug
+abnormalities, including HF and chronic obstructive pul-     interactions and a lower risk of hepatic injury compared
+
+
+10Fig. 1. The potential role of endothelin-1 in the pathogenesis of atherosclerosis. Created in BioRender. Physiology, D. (2025)
+https://BioRender.com/2gwupoq.
+
+
+
+
+
+Fig. 2. The role of ET-1 and its inhibitors in pulmonary hypertension. Created in BioRender. Physiology, D. (2025) https://BioRen
+der.com/i0xwrir.
+
+
+
+
+                                                                                                   11with bosentan [126].  However, ambrisentan also causes    a pediatric population, a switch from bosentan with silde-
+headaches, peripheral edema, dizziness, and upper respi-     nafil to ambrisentan with tadalafil was associated with sev-
+ratory system infections [122]. Macitentan, in turn, is the     eral improvements in functional status and echocardiogra-
+most potent dual inhibitor of these three agents. Maciten-    phy [137].
+tan has a longer duration of action and higher antagonistic          Currently, clinical researchers are focused on identi-
+potency in pulmonary smooth muscle cells, as investigated    fying biomarkers associated with response in various fields
+in the SERAPHIN study [121].  Therefore, macitentan    of medicine. Hatano and colleagues [138] analyzed these
+significantly improves 6-minute walking distance and re-    biomarkers in relation to the reaction to ambrisentan. The
+duces mortality [127]. Moreover, macitentan causes fewer    researchers demonstrated that female sex, the use of aldos-
+adverse effects, the most common being nasopharyngitis,    terone antagonists, baseline NT-proBNP, and the 6-minute
+headache, and anemia [128]. Compared to other agents,    walking test were associated with a response to treatment.
+macitentan has a lower potential of promoting the devel-         Macitentan is the third ET receptor inhibitor approved
+opment of peripheral edema and hepatic injury [121].          for the treatment of PH. A recent meta-analysis by Du and
+     Researchers continue to search for proper combina-   Yuan [139] analyzed 11 clinical trials and observational
+tions or treatment strategies to increase the efficacy of     studies to summarize the efficacy of the drug in patients
+ET-1 inhibitors in PH. For instance, a preclinical study    with PH. Pooled analyses demonstrated that the drug effec-
+evaluated the potential of inhaled bosental microparticles     tively reduced pulmonary vascular resistance, cardiac in-
+[129].   Meanwhile,  administering a new drug to  rats    dex, and NT-proBNP levels. Conversely, the meta-analysis
+elicited positive feedback [130]:  the agent reduced pul-    did not find significant results in other hemodynamic pa-
+monary artery systolic deceleration time and right ven-    rameters, such as the 6-minute walking test or mPAP.
+tricular internal diameter compared with animals in the         Recently, extensive investigations were conducted to
+positive control groups, suggesting promising results and    assess the efficacy of macitentan across various combi-
+translational potential.  Other advancements include self-    nations and settings in patients with PH. For instance,
+nanoemulsifying drug delivery systems and the design of    McLaughlin et al. [140] investigated the potential use of
+novel derivatives [131,132]. Another method to improve    combination therapy with macitentan and tadalafil in pa-
+the efficacy of ET-1 antagonists is through appropriate com-     tients with cardiac comorbidities. The authors aimed to as-
+binations.  Indeed, treatment with bosentan and sacubi-    sess the role of these drugs in the cohort recommended for
+tril/valsartan demonstrated improved hemodynamic prop-    treatment with a monotherapy strategy, as outlined in the
+erties in the pulmonary circulation and normalized cardiac    2022 guidelines. The authors analyzed the results of the
+remodeling [133]. Bosentan use was recently studied in pa-   TRITON and REPAIR clinical trials and observed a similar
+tients with chronic thromboembolic pulmonary hyperten-     safety profile and efficacy of the combination across groups
+sion (CTEPH). In those patients with severe preoperative    with and without cardiac comorbidities.
+PH, the use of bosentan as a bridge to the procedure was as-         In an interesting analysis by Paoli and colleagues
+sociated with a significantly higher decrease in pulmonary    [141], the researchers evaluated a large cohort of PH pa-
+vascular resistance compared to patients without bridging     tients treated with macitentan or other endothelin receptor
+medication [134].  Nevertheless, the guidelines state that     antagonists. In the latter group, the majority of patients re-
+preoperative use remains controversial, with the efficacy of    ceived ambrisentan, while only a few received bosentan.
+endothelin receptor antagonists in such settings and delays   The authors retrospectively analyzed 897 patients, among
+in referral for surgery [115].                       whom 518 received macitentan and 379 received other
+    Ambrisentan is another ET-1 inhibitor approved for    agents. Macitentan use was associated with a significantly
+the treatment of PH. Years after approval, studies have con-    lower risk of hospitalization and intensive care unit stays
+tinued to support the positive effects of ambrisentan in pa-    compared with the other cohort. These observations high-
+tients with PH. Indeed, Lan et al. [135] analyzed the initial     light the potential of macitentan to reduce hospitalization-
+use of ambrisentan combined with tadalafil in patients with     related healthcare costs. Nevertheless, regarding the cost
+severe PH. Notably, the use of this strategy for 6 months     analysis, macitentan is more expensive than bosentan, but
+was associated with improvements in functional status, the    provides a better quality of life, which further proves the
+6-minute walk test, NT-proBNP concentrations, and pul-    appropriate cost-effectiveness of the therapy [142].
+monary arterial pressure and right ventricular parameters.
+                                                             2.5 Heart FailureFew studies have examined the efficacy resulting from the
+transition from bosentan to ambrisentan. Published results        The number of studies investigating the role of en-
+appear controversial, suggesting a possible influence of age    dothelin in HF is constantly increasing. Currently, the ef-
+on the response to the switch. In adults, the transition was     fect of ET-1 in HF is equivocal owing to the different re-
+safe and efficacious; however, apart from the left ventric-    ceptors involved. ET-A activation promotes myocardial in-
+ular end-diastolic dimension, no other significant echocar-    flammatory injury, while ET-B has an opposite influence
+diographic differences were observed [136]. In contrast, in    [143]. In HF patients, the level of ET-1 is increased, and
+
+
+12ET-A and ET-B are activated, thus vasoconstriction is pro-    port the potential of low-dose selective ERA–SGLT2i com-
+moted [144]. In turn, endothelial-derived NO-mediated va-    bination therapy as a promising strategy. Ongoing Phase III
+sodilation is attenuated because of endothelial dysfunction      trials, such as ZENITH High-Proteinuria, aim to determine
+induced by excess ET-1 [143]. These processes contribute    whether the decrease in albumin levels in response to zibo-
+to cardiac dysfunction. In addition, ET-1 promotes collagen    tentan and dapagliflozin will have a lasting effect on kid-
+accumulation, resulting in cardiac fibrosis, which impairs    ney protection [155]. A randomized, double-annonymized,
+diastole [145]. ET-1 also attenuates collagenase activity,    placebo-controlled Phase IIa/b trial is currently evaluating
+leading to cardiac hypertrophy [146].                          the efficacy of combining zibotentan with the inhibitor da-
+     In patients with HF and reduced ejection fraction,     pagliflozin in patients with portal hypertension, a condi-
+higher ET-1 levels were correlated with worse clinical out-     tion with a high risk of fluid retention. The addition of da-
+comes, including lower ejection fraction, eGFR, functional     pagliflozin aims to counteract the fluid retention by enhanc-
+status, and laboratory parameters [147]. Macitentan, a dual    ing diuresis and natriuresis. Outcomes will be compared to
+inhibitor, alleviates collagen deposition and decreases car-    the dapagliflozin and placebo groups [156].
+diomyocyte size [144].  Furthermore, macitentan attenu-
+ates oxidative stress and reduces both systolic and dias-     4. Emerging Areas in Other Conditions
+tolic BP. Altogether, Macitentan treatment leads to im-         In the previous sections, this review has focused on
+proved cardiac relaxation and increased myocardial perfu-   CVDs, in which several ET-1 inhibitors have been ex-
+sion [148]. Unfortunately, recently published results of the    amined and registered.  However, extensive investiga-
+SERENADE trial demonstrated no benefit of macitentan     tions are also studying the role of ET-1 in other dis-
+in patients with HF with preserved or mildly reduced ejec-     eases.  For instance, ET-1 was suggested to contribute
+tion fraction [149]. Sitaxsentan, a selective ET-A receptor     to the pathogenesis of metabolic diseases; stimulation of
+blocker, does not alter cardiomyocyte structure nor improve   mouse adipocytes with ET-1 was shown to downregulate
+diastolic function [144].                                      the insulin-sensitizing adiponectin [157]. This activity is
+                                                       mediated by ET-B, as ET-B receptor knockout improved in-
+ 3. Limitations of Endothelin-1 Antagonists:       sulin and glucose tolerance [157]. Furthermore, ET-1 has a
+A Focus on Fluid Retention                            role in the dysfunction of perivascular adipose tissue ob-
+     Fluid retention is a well-known side effect of ERA    served in obesity. ET-1 was identified as contributing to re-
+therapy. In the PRECISION trial, fluid retention was the    duced Nrf2 activity and increased ROS [158]. Additionally,
+most common adverse event, which typically developed     positive correlations between ET-1 levels and waist and hip
+within the first 4 weeks of aprocitentan administration. The    circumferences were recently observed [159].
+severity was mainly mild to moderate, and management in-         Malignancies represent another group of diseases with
+cluded diuretic treatment. Naturally, the complication was    accumulating studies investigating the role of ET-1. Such
+observed more often in the subgroup with chronic kidney     studies highlight the potential of using ET-1 for diagnos-
+disease [73].  Regarding ET-A inhibition, fluid retention     tic purposes, as demonstrated by Irfan et al.  [160]. Re-
+was suggested to result from an adaptive response of ven-    searchers have shown that salivary ET-1 levels were in-
+odilation and increased venous capacity [150]. In a study    creased in patients with premalignant and oral cancer le-
+including patients after subarachnoid hemorrhage, age was    sions compared to healthy controls [160]. These findings
+proposed as an associated factor with fluid retention [151].    suggest that monitoring ET-1 could become a screening
+Furthermore, the simultaneous use of vasospasm fasudil hy-    method for cancer in the future. Nihei and colleagues [161]
+drochloride also constituted a risk factor for the develop-    also evaluated the potential use of ET-1 as a biomarker.
+ment of fluid retention in this population [152]. Thus, un-   The authors demonstrated that monitoring ET-1 in pa-
+derstanding the pathogenesis of fluid retention should be     tients treated with the antiangiogenic bevacizumab (a mon-
+accompanied by management strategies for this complica-    oclonal antibody targeting vascular endothelial growth fac-
+tion.                                                                 tor) could identify those with ≥grade 2 proteinuria, a pos-
+                                                                   sible adverse event of bevacizumab [161].  Additionally,      Initial post hoc data from the SONAR study suggested
+                                                                targeting ET-1 was also evaluated as a potential anticancerthat combining atrasentan with an SGLT2 inhibitor could
+                                                                    strategy.  In tumoroid ovarian cancer models, macitentanmitigate fluid retention, as evidenced by a smaller increase
+                                                          suppressed the stroma-invasive properties of cancer cellsin body weight and B-type natriuretic peptide (BNP) levels,
+                                                               [162], demonstrating translational potential for future in-alongside a greater reduction in albuminuria compared with
+                                                                 vestigations.atrasentan alone [153]. However, higher zibotentan doses
+(5 mg), even when combined with dapagliflozin, still led to
+fluid retention, resulting in early discontinuation of those     5. Conclusions
+arms [154]. This highlights a dose-dependent risk of fluid        ET-1 and its receptors significantly contribute to en-
+retention with ERA therapy that might be attenuated (but     dothelial health by regulating vascular tone. Mechanisms
+not eliminated) by SGLT2 inhibitors. These findings sup-    leading to CVDs frequently involve dysregulation of en-
+
+
+                                                                                                13dothelial functionality by promoting dysfunction and in-   Funding
+flammation. Current evidence demonstrates that ET-1 plays                                                              This research received no external funding.
+a role in the pathogenesis of endothelial dysfunction by me-
+diating vasoconstriction, impairing vasodilation, promot-    Conflict of Interest
+ing vascular remodeling, and contributing to inflammation.
+                                                     The authors declare no conflict of interest.
+These properties indicate that ET-1 contributes to the patho-
+physiology of CVD, prompting preclinical and clinical in-
+                                              Referencesvestigations to determine whether suppressing ET-1 activ-
+ity could be clinically useful. The result of these studies is       [1] Vaduganathan M, Mensah GA, Turco JV, Fuster V, Roth GA.
+the approval of aprocitentan in the treatment of arterial hy-        The Global Burden of Cardiovascular Diseases and Risk: A
+                                                             Compass for Future Health. Journal of the American College
+pertension based on the results of the PRECISION clinical                                                                             of Cardiology. 2022; 80: 2361–2371. https://doi.org/10.1016/j.
+trial. The broadening of potential drugs used in the treat-          jacc.2022.11.005.
+ment of hypertension is a major finding; however, more       [2] Martin SS, Aday AW, Allen NB, Almarzooq ZI, Anderson
+trials are required to address the efficacy of aprocitentan       CAM, Arora P, et al. 2025 Heart Disease and Stroke Statistics:
+in combination with other classic antihypertensive medica-      A Report of US and Global Data From the American Heart As-
+                                                                                   sociation. Circulation. 2025; 151: e41–e660. https://doi.org/10.
+tions and the effectiveness of these combinations against                                                                   1161/CIR.0000000000001303.
+classic agents. Regarding future studies, Professor Allan S.       [3] Ci Mee X, Kheng Lim G, Ibrahim R, Nhat Pham H, Abdelnabi
+Brett highlights the need to evaluate the efficacy of these        M, Allam M, et al. SGLT2 inhibitors and cardiovascular out-
+drugs in patients with higher BP levels in long-term set-         comes in patients with acute myocardial infarction: a retrospec-
+tings, as well as the role of aprocitentan at the individual            tive cohort analysis. European Heart Journal. Cardiovascular
+                                                                       Pharmacotherapy. 2025; 11: 334–342. https://doi.org/10.1093/
+level [163].                                                                          ehjcvp/pvaf026.
+    The use of ET-1 inhibitors is well established in clin-       [4] Houde M,  Desbiens  L,  D’Orléans-Juste  P.  Endothelin-1:
+ical practice in patients with PH, reflected in comprehen-           Biosynthesis, Signaling and Vasoreactivity. Advances in Phar-
+sive clinical guidelines. Nevertheless, ongoing efforts are         macology (San Diego, Calif.). 2016; 77: 143–175. https://doi.or
+                                                                           g/10.1016/bs.apha.2016.05.002.
+increasing the effectiveness of these inhibitors by designing
+                                                                              [5] Brooks AJ, Gallego-López MDC, De Miguel C. Endothelin-1
+novel drug formulations and identifying the most effective           signaling in the kidney: recent advances and remaining gaps.
+therapeutic combinations. Furthermore, the availability of         American Journal of Physiology. Renal Physiology. 2025; 328:
+several drugs in this family allows for switching between         F815–F827. https://doi.org/10.1152/ajprenal.00304.2024.
+therapeutics. However, more clinical trials are needed to       [6] Argentino G, Barbieri A, Beri R, Bason C, Ruzzenente A,
+                                                                                  Olivieri O, et al. Profibrotic Effects of Endothelin-1 on Fi-
+evaluate whether the transition between ET-1 inhibitors is
+                                                                                broblasts Are Mediated by Aldosterone in Vitro: Relevance to
+efficacious and safe. Furthermore, a complex analysis of           the Pathogenesis and Therapy of Systemic Sclerosis and Pul-
+biomarkers is required to identify patients who are more         monary Arterial Hypertension. Biomedicines. 2022; 10: 2765.
+likely to respond to a particular ET-1 inhibitor. More exper-          https://doi.org/10.3390/biomedicines10112765.
+iments are expected as engineered pulmonary artery tissues       [7] Mishima S, Mitsui T, Tani K, Ooba H, Mitoma T, Ohira A, et
+                                                                                             al. Endothelin-1 production via placental (pro)renin receptor in
+develop, enabling disease modeling and drug testing [164].
+                                                                        a mouse model of preeclampsia. Placenta. 2023; 138: 44–50.
+However, fewer studies have investigated the potential of           https://doi.org/10.1016/j.placenta.2023.05.002.
+targeting ET-1 in conditions such as atherosclerosis or HF,       [8] Rodas F, Vidal-Vidal JA, Herrera D, Brown-Brown DA, Vera
+underscoring the need for further research to provide a more         D, Veliz J, et al. Targeting the Endothelin-1 pathway to reduce
+comprehensive understanding of the role of ET-1 inhibitors.          invasion and chemoresistance in gallbladder cancer cells. Can-
+                                                                               cer Cell International. 2023; 23: 318. https://doi.org/10.1186/
+                                                                     s12935-023-03145-9.
+Author Contributions                                           [9] Tocci P, Roman C, Sestito R, Caprara V, Sacconi A, Molineris I,
+                                                                                         et al. The endothelin-1-driven tumor-stroma feed-forward loops
+   KK and AP conceptualized the review paper. AC, KK,
+                                                                                  in high-grade serous ovarian cancer. Clinical Science (London,
+AD, JS, EB, and AP performed a thorough literature search.          England: 1979). 2024; 138: 851–862. https://doi.org/10.1042/
+AC, KK, AD, JS, EB, and AP wrote the paper. All authors         CS20240346.
+contributed to editorial changes in the manuscript. All au-     [10] Topouzis S, Papapetropoulos A, Alexander SPH, Cortese-Krott
+thors read and approved the final manuscript. All authors        M, Kendall DA, Martemyanov K, et al. Novel drugs approved
+                                                                by the EMA, the FDA and the MHRA in 2024: A year in review.
+have participated sufficiently in the work and agreed to be
+                                                                                  British Journal of Pharmacology. 2025; 182: 1416–1445. https:
+accountable for all aspects of the work.                                //doi.org/10.1111/bph.17458.
+                                                                         [11] Zhou B, Perel P, Mensah GA, Ezzati M. Global epidemiol-
+ Ethics Approval and Consent to Participate             ogy, health burden and effective interventions for elevated blood
+                                                                             pressure and hypertension. Nature Reviews. Cardiology. 2021;
+    Not applicable.                                                     18: 785–802. https://doi.org/10.1038/s41569-021-00559-8.
+                                                                       [12] Yanagisawa M, Kurihara H, Kimura S, Tomobe Y, Kobayashi M,
+Acknowledgment                                                 Mitsui Y, et al. A novel potent vasoconstrictor peptide produced
+                                                                by vascular endothelial cells. Nature. 1988; 332: 411–415. https:
+    Not applicable.                                                     //doi.org/10.1038/332411a0.
+
+
+14[13] Ikeda T, Ohta H, Okada M, Kawai N, Nakao R, Siegl PK, et al.          2023; 43: e303–e322. https://doi.org/10.1161/ATVBAHA.122.
+     Pathophysiological roles of endothelin-1 in Dahl salt-sensitive         318173.
+     hypertension. Hypertension (Dallas, Tex.:  1979). 1999; 34:     [27] Giri A, Hellwege JN, Keaton JM, Park J, Qiu C, Warren HR,
+     514–519. https://doi.org/10.1161/01.hyp.34.3.514.                           et al. Trans-ethnic association study of blood pressure determi-
+[14] Vuurmans TJL, Boer P, Koomans HA. Effects of endothelin-          nants in over 750,000 individuals. Nature Genetics. 2019; 51:
+     1 and endothelin-1 receptor blockade on cardiac output, aor-          51–62. https://doi.org/10.1038/s41588-018-0303-9.
+       tic pressure, and pulse wave velocity in humans. Hypertension     [28] Mangum KD, Li Q, Hartmann K, Bauer TM, Wolf SJ, Shadiow
+      (Dallas, Tex.: 1979). 2003; 41: 1253–1258. https://doi.org/10.              J, et al. Epigenetic alteration of smooth muscle cells regulates
+     1161/01.HYP.0000072982.70666.E8.                                  endothelin-dependent blood pressure and hypertensive arterial
+[15] Kostov K. The Causal Relationship between Endothelin-1 and          remodeling. The Journal of Clinical Investigation. 2025; 135:
+     Hypertension: Focusing on Endothelial Dysfunction, Arterial         e186146. https://doi.org/10.1172/JCI186146.
+      Stiffness, Vascular Remodeling, and Blood Pressure Regula-     [29] Davis FM, Tsoi LC, Melvin WJ, denDekker A, Wasikowski R,
+      tion. Life (Basel, Switzerland). 2021; 11: 986. https://doi.org/           Joshi AD, et al. Inhibition of macrophage histone demethylase
+     10.3390/life11090986.                                    JMJD3 protects against abdominal aortic aneurysms. The Jour-
+[16] Wolpe AG, Ruddiman CA, Hall PJ, Isakson BE. Polarized Pro-           nal of Experimental Medicine. 2021; 218: e20201839. https:
+      teins in Endothelium and Their Contribution to Function. Jour-          //doi.org/10.1084/jem.20201839.
+      nal of Vascular Research. 2021; 58: 65–91. https://doi.org/10.     [30] Yu S, Chen X, Xiu M, He F, Xing J, Min D, et al. The regu-
+     1159/000512618.                                                            lation of Jmjd3 upon the expression of NF-κB downstream in-
+[17] Kostov K, Blazhev A. Circulating Levels of Endothelin-1         flammatory genes in LPS activated vascular endothelial cells.
+     and Big Endothelin-1 in Patients with Essential Hypertension.          Biochemical and Biophysical Research Communications. 2017;
+     Pathophysiology: the Official Journal of the International Soci-          485: 62–68. https://doi.org/10.1016/j.bbrc.2017.02.020.
+      ety for Pathophysiology. 2021; 28: 489–495. https://doi.org/10.     [31] Abdul Y, Karakaya E, Chandran R, Jamil S, Ergul A. Endothe-
+     3390/pathophysiology28040031.                                               lin A receptors contribute to senescence of brain microvascu-
+[18] Eroglu E, Kocyigit I, Lindholm B. The endothelin system as            lar endothelial cells. Canadian Journal of Physiology and Phar-
+      target for therapeutic interventions in cardiovascular and renal          macology. 2022; 100: 1087–1096. https://doi.org/10.1139/cjpp
+      disease. Clinica Chimica Acta; International Journal of Clini-          -2022-0071.
+      cal Chemistry. 2020; 506: 92–106. https://doi.org/10.1016/j.cc     [32] van de Lest NA, Bakker AE, Dijkstra KL, Zandbergen M,
+     a.2020.03.008.                                               Heemskerk SAC, Wolterbeek R, et al. Endothelial Endothelin
+[19] Schiffrin EL, Pollock DM. Endothelin System in Hypertension          Receptor A Expression Is Associated With Podocyte Injury and
+     and Chronic Kidney Disease. Hypertension (Dallas, Tex.: 1979).          Oxidative Stress in Patients With Focal Segmental Glomeru-
+     2024; 81: 691–701. https://doi.org/10.1161/HYPERTENSION            losclerosis. Kidney International Reports. 2021; 6: 1939–1948.
+     AHA.123.21716.                                                          https://doi.org/10.1016/j.ekir.2021.04.013.
+[20] Oo WM, Thiha K, Khine MM. Associations of + 138 Ins/del     [33] Ma Z, Viswanathan G, Sellig M, Jassal C, Choi I, Garikipati A,
+   A and + 5665 G/T polymorphisms  of  endothelin-1 gene            et al. β-Arrestin-Mediated Angiotensin II Type 1 Receptor Acti-
+     with hypertension in Burmese people in Magway, Myanmar.          vation Promotes Pulmonary Vascular Remodeling in Pulmonary
+      Clinical Hypertension. 2022; 28:  20. https://doi.org/10.1186/          Hypertension. JACC. Basic to Translational Science. 2021; 6:
+     s40885-022-00201-w.                                            854–869. https://doi.org/10.1016/j.jacbts.2021.09.006.
+[21] Asai T, Ohkubo T, Katsuya T, Higaki J, Fu Y, Fukuda M, et     [34] Alonazi A, Nash CA, Wang CH, Christofidou E, Challiss RAJ,
+       al. Endothelin-1 gene variant associates with blood pressure           Willets JM. GRK2 expression and catalytic activity are essen-
+      in obese Japanese subjects: the Ohasama Study. Hypertension              tial for vasoconstrictor/ERK-stimulated arterial smooth muscle
+      (Dallas, Tex.: 1979). 2001; 38: 1321–1324. https://doi.org/10.            proliferation. Biochemical Pharmacology. 2023; 216: 115795.
+     1161/hy1101.095333.                                                   https://doi.org/10.1016/j.bcp.2023.115795.
+[22] Salim E, Ramachandran V, Ansari N, Ismail P, Mohamed MH,     [35] Gallo G, Volpe M, Savoia C. Endothelial Dysfunction in Hy-
+    Mohamad NA, et al. Association of Endothelin-Converting En-           pertension: Current Concepts and Clinical Implications. Fron-
+    zyme and Endothelin-1 Gene Polymorphisms with Essential Hy-             tiers in Medicine. 2022; 8: 798958. https://doi.org/10.3389/fm
+     pertension in Malay Ethnics. Genetics Research. 2022; 2022:          ed.2021.798958.
+     9129960. https://doi.org/10.1155/2022/9129960.                   [36] Park JY, Park HM, Kim S, Jeon KB, Lim CM, Hong JT, et al.
+[23] Gupta RM, Hadaya J, Trehan A, Zekavat SM, Roselli C, Klarin       Human IL-32θA94V mutant attenuates monocyte-endothelial
+     D, et al. A Genetic Variant Associated with Five Vascular          adhesion by suppressing the expression of ICAM-1 and VCAM-
+     Diseases Is a Distal Regulator of Endothelin-1 Gene Expres-         1 via binding to cell surface receptor integrin αVβ3 and αVβ6
+      sion. Cell. 2017; 170: 522–533.e15. https://doi.org/10.1016/j.           in TNF-α-stimulated HUVECs. Frontiers in Immunology. 2023;
+      cell.2017.06.049.                                                      14: 1160301. https://doi.org/10.3389/fimmu.2023.1160301.
+[24] Wood A, Antonopoulos A, Chuaiphichai S, Kyriakou T, Diaz R,     [37] Fais RS, Comerma-Steffensen SG, Pinilla E, Matchkov VV,
+     Al Hussaini A, et al. PHACTR1 modulates vascular compliance          Tostes RC, Carneiro FS, et al. A KCa2. 2/2.3 opener reverses
+     but not endothelial function: a translational study. Cardiovascu-         ET-1 induced NLRP3 activation in hypertensive mice. bioRxiv.
+      lar Research. 2023; 119: 599–610. https://doi.org/10.1093/cvr/          2024. https://doi.org/10.1101/2024.09.06.611748. (preprint)
+     cvac092.                                                         [38] Kopaliani  I, Elsaid B, Speier S, Deussen A. Immune and
+[25] Al Hageh C, O’Sullivan S, Henschel A, Abchee A, Hantouche          Metabolic Mechanisms of Endothelial Dysfunction. Interna-
+    M, Iakovidou N, et al. PHACTR1 and APOC1 genetic variants            tional Journal of Molecular Sciences. 2024; 25: 13337. https:
+      are associated with multi-vessel coronary artery disease. Lipids          //doi.org/10.3390/ijms252413337.
+      in Health and Disease. 2024; 23: 332. https://doi.org/10.1186/     [39] Huang X, Huang X, Pan M, Lin J, Xie L. Effect of early en-
+     s12944-024-02327-2.                                                      dothelial function improvement on subclinical target organ dam-
+[26] Jiang D, Liu H, Zhu G, Li X, Fan L, Zhao F, et al. Endothelial         age in hypertensives. Scientific Reports. 2024; 14: 16078. https:
+    PHACTR1 Promotes Endothelial Activation and Atheroscle-          //doi.org/10.1038/s41598-024-67143-1.
+      rosis by Repressing PPARγ Activity Under Disturbed Flow     [40] Colás-Algora N, Muñoz-Pinillos P, Cacho-Navas C, Avendaño-
+      in Mice. Arteriosclerosis, Thrombosis, and Vascular Biology.           Ortiz J, de Rivas G, Barroso S, et al. Simultaneous Targeting of
+
+
+                                                                                                15     IL-1-Signaling and IL-6-Trans-Signaling Preserves Human Pul-            lar Biology. 2022; 42: e117–e130. https://doi.org/10.1161/AT
+    monary Endothelial Barrier Function During a Cytokine Storm-        VBAHA.121.317239.
+     Brief Report. Arteriosclerosis, Thrombosis, and Vascular Biol-     [54] Du L, Rodgers J, Gharraee N, Gary O, Shazly T, Eberth JF, et al.
+     ogy. 2023; 43: 2213–2222. https://doi.org/10.1161/ATVBAH          Endothelial dysfunction promotes age-related reorganization of
+     A.123.319695.                                                        collagen fibers and alters aortic biomechanics in mice. American
+[41] Kiowski W, Sütsch G, Hunziker P, Müller P, Kim J, Oechslin E,          Journal of Physiology. Heart and Circulatory Physiology. 2025;
+      et al. Evidence for endothelin-1-mediated vasoconstriction in se-          328: H900–H914. https://doi.org/10.1152/ajpheart.00056.2023.
+     vere chronic heart failure. Lancet (London, England). 1995; 346:     [55] Macdonald AS, McConnachie A, Dickie DA, Bath PM, Forbes
+     732–736. https://doi.org/10.1016/s0140-6736(95)91504-4.             K, Quinn  T,  et  al.  Allopurinol and blood  pressure  vari-
+[42] Arrick DM, Mayhan WG. Inhibition of endothelin-1 receptors            ability following ischemic stroke and transient ischemic at-
+     improves impaired nitric oxide synthase-dependent dilation of           tack:  a secondary analysis of XILO-FIST. Journal of Hu-
+      cerebral arterioles in type-1 diabetic rats. Microcirculation (New        man Hypertension. 2024; 38: 307–313. https://doi.org/10.1038/
+     York, N.Y.: 1994). 2010; 17: 439–446. https://doi.org/10.1111/         s41371-024-00906-5.
+     j.1549-8719.2010.00042.x.                                        [56] Coccarelli A, Pant S. On the Ca2+ elevation in vascular en-
+[43] Pinheiro  LC,   Oliveira-Paula  GH.   Sources  and   Ef-           dothelial cells due to inositol trisphosphate-sensitive store recep-
+      fects   of   Oxidative   Stress   in   Hypertension.   Cur-            tors activation: A data-driven modeling approach. Computers in
+      rent   Hypertension   Reviews.   2020;    16:     166–180.         Biology and Medicine. 2023; 164: 107111. https://doi.org/10.
+     https://doi.org/10.2174/1573402115666190531071924.                 1016/j.compbiomed.2023.107111.
+[44] Badran A, Nasser SA, Mesmar J, El-Yazbi AF, Bitto A, Fardoun     [57] Wang C, Wu H, Xing Y, Ye Y, He F, Yin Q, et al. Endothelial-
+   MM, et al. Reactive Oxygen Species: Modulators of Phenotypic          derived extracellular microRNA-92a promotes arterial stiffness
+     Switch of Vascular Smooth Muscle Cells. International Journal         by regulating phenotype changes of vascular smooth muscle
+     of Molecular Sciences. 2020; 21: 8764. https://doi.org/10.3390/             cells. Scientific Reports. 2022; 12: 344. https://doi.org/10.1038/
+     ijms21228764.                                                   s41598-021-04341-1.
+[45] Gutiérrez A, Gómez Del Val A, Contreras C, Olmos L, Sánchez     [58] Li Q, Yao Y, Shi S, Zhou M, Zhou Y, Wang M, et al. Inhibition
+     A, Prieto D. Calcium handling coupled to the endothelin ETA           of miR-21 alleviated cardiac perivascular fibrosis via repressing
+     and ETB receptor-mediated vasoconstriction in resistance ar-       EndMT in T1DM. Journal of Cellular and Molecular Medicine.
+      teries:  Differential regulation by PI3K, PKC and RhoK. Eu-          2020; 24: 910–920. https://doi.org/10.1111/jcmm.14800.
+     ropean Journal of Pharmacology. 2023; 956:  175948. https:     [59] Zhang  J, Zhao WS, Xu L, Wang X, Li XL, Yang XC.
+     //doi.org/10.1016/j.ejphar.2023.175948.                                Endothelium-specific   endothelin-1   expression   promotes
+[46] Viswanathan G, Mamazhakypov A, Schermuly RT, Rajagopal          pro-inflammatory macrophage activation by regulating miR-
+      S. The Role of G Protein-Coupled Receptors in the Right Ven-        33/NR4A  axis.  Experimental  Cell  Research.  2021;  399:
+       tricle in Pulmonary Hypertension. Frontiers in Cardiovascu-          112443. https://doi.org/10.1016/j.yexcr.2020.112443.
+      lar Medicine. 2018; 5: 179. https://doi.org/10.3389/fcvm.2018.     [60] Wojtera E, Konior A, Fedoryszak-Kuśka N, Beręsewicz A.
+     00179.                                                              Obligatory role of intraluminal O2- in acute endothelin-1 and
+[47] Murray EC, Nosalski R, MacRitchie N, Tomaszewski M, Maf-          angiotensin II signaling to mediate endothelial dysfunction and
+      fia P, Harrison DG, et al. Therapeutic targeting of inflamma-      MAPK activation in guinea-pig hearts. International Journal of
+      tion in hypertension: from novel mechanisms to translational          Molecular Sciences. 2014; 15: 19417–19443. https://doi.org/10.
+      perspective. Cardiovascular Research. 2021; 117: 2589–2609.         3390/ijms151119417.
+      https://doi.org/10.1093/cvr/cvab330.                               [61] Miano JM, Fisher EA, Majesky MW. Fate and State of Vascular
+[48] Guo Q, Jin Y, Chen X, Ye X, Shen X, Lin M, et al. NF-κB in        Smooth Muscle Cells in Atherosclerosis. Circulation. 2021; 143:
+     biology and targeted therapy: new insights and translational im-         2110–2116. https://doi.org/10.1161/CIRCULATIONAHA.120.
+      plications. Signal Transduction and Targeted Therapy. 2024; 9:         049922.
+     53. https://doi.org/10.1038/s41392-024-01757-9.                   [62] Lu YW, Martino N, Gerlach BD, Lamar JM, Vincent PA, Adam
+[49] Mitchell JA, Shala F, Pires MEL, Loy RY, Ravendren A, Ben-         AP, et al. MEF2 (Myocyte Enhancer Factor 2) Is Essential for
+     son J, et al. Endothelial cyclooxygenase-1 paradoxically drives          Endothelial Homeostasis and the Atheroprotective Gene Expres-
+      local vasoconstriction and atherogenesis despite underpinning          sion Program. Arteriosclerosis, Thrombosis, and Vascular Biol-
+      prostacyclin generation. Science Advances. 2021; 7: eabf6054.          ogy. 2021; 41: 1105–1123. https://doi.org/10.1161/ATVBAHA.
+      https://doi.org/10.1126/sciadv.abf6054.                               120.314978.
+[50] Chen PY, Qin L, Li G, Malagon-Lopez J, Wang Z, Bergaya S, et     [63] Lago-Docampo M, Solarat C, Méndez-Martínez L, Baloira A,
+       al. Smooth Muscle Cell Reprogramming in Aortic Aneurysms.          Valverde D. Common Variation in EDN1 Regulatory Regions
+     Cell Stem Cell. 2020; 26: 542–557.e11. https://doi.org/10.1016/          Highlights the Role of PPARγ as a Key Regulator of Endothelin
+     j.stem.2020.02.013.                                                        in vitro. Frontiers in Cardiovascular Medicine. 2022; 9: 823133.
+[51] Pyrpyris N, Dimitriadis K, Beneki E, Iliakis P, Soulaidopoulos          https://doi.org/10.3389/fcvm.2022.823133.
+      S, Tsioufis P, et al. LOX-1 Receptor: A Diagnostic Tool and     [64] Shatat MA, Tian H, Zhang R, Tandon G, Hale A, Fritz JS, et al.
+     Therapeutic Target in Atherogenesis. Current Problems in Car-          Endothelial Krüppel-like factor 4 modulates pulmonary arterial
+      diology. 2024; 49: 102117. https://doi.org/10.1016/j.cpcardiol.          hypertension. American Journal of Respiratory Cell and Molec-
+     2023.102117.                                                              ular Biology. 2014; 50: 647–653. https://doi.org/10.1165/rcmb
+[52] Morawietz H, Duerrschmidt N, Niemann B, Galle J, Sawa-         .2013-0135OC.
+    mura T, Holtz J. Induction of the oxLDL receptor LOX-1 by     [65]  Jolly AJ, Lu S, Strand KA, Dubner AM, Mutryn MF, Nemenoff
+     endothelin-1 in human endothelial cells. Biochemical and Bio-        RA, et al. Heterogeneous subpopulations of adventitial progeni-
+     physical Research Communications. 2001; 284: 961–965. https:            tor cells regulate vascular homeostasis and pathological vascular
+     //doi.org/10.1006/bbrc.2001.5044.                                      remodelling. Cardiovascular Research. 2022; 118: 1452–1465.
+[53] Park JM, Do VQ, Seo YS, Kim HJ, Nam JH, Yin MZ, et al.           https://doi.org/10.1093/cvr/cvab174.
+   NADPH Oxidase 1 Mediates Acute Blood Pressure Response     [66] Masi S, Georgiopoulos G, Chiriacò M, Grassi G, Seravalle G,
+      to Angiotensin II by Contributing to Calcium Influx in Vascular          Savoia C, et al. The importance of endothelial dysfunction in re-
+    Smooth Muscle Cells. Arteriosclerosis, Thrombosis, and Vascu-           sistance artery remodelling and cardiovascular risk. Cardiovas-
+
+
+16      cular Research. 2020; 116: 429–437. https://doi.org/10.1093/cv          108. https://doi.org/10.1111/nep.14130.
+     r/cvz096.                                                         [79] Tuttle KR. Digging deep into cells to find mechanisms of kidney
+[67] Totoń-Żurańska  J, Mikolajczyk TP, Saju B, Guzik TJ. Vas-           protection by SGLT2 inhibitors. The Journal of Clinical Investi-
+      cular remodelling in cardiovascular diseases:  hypertension,           gation. 2023; 133: e167700. https://doi.org/10.1172/JCI167700.
+      oxidation, and inflammation. Clinical Science (London, Eng-     [80] Tuttle KR, Agarwal R, Alpers CE, Bakris GL, Brosius FC,
+      land: 1979). 2024; 138: 817–850. https://doi.org/10.1042/CS         Kolkhof P, et al. Molecular mechanisms and therapeutic targets
+     20220797.                                                                  for diabetic kidney disease. Kidney International. 2022; 102:
+[68] Guyonnet L, Czopek A, Farrah TE, Baudrie V, Bonnin  P,         248–260. https://doi.org/10.1016/j.kint.2022.05.012.
+     Chipont A, et al. Deletion of the myeloid endothelin-B recep-     [81] Blazek O, Bakris GL. Slowing the Progression of Diabetic Kid-
+      tor confers long-term protection from angiotensin II-mediated         ney Disease. Cells. 2023; 12: 1975. https://doi.org/10.3390/cell
+     kidney, eye and vessel injury. Kidney International. 2020; 98:         s12151975.
+     1193–1209. https://doi.org/10.1016/j.kint.2020.05.042.             [82] Krum H, Viskoper RJ, Lacourciere Y, Budde M, Charlon V.
+[69] Rossi GP, Barton M, Dhaun N, Rizzoni D, Seccia TM. Chal-        The effect of an endothelin-receptor antagonist, bosentan, on
+     lenges in the evaluation of endothelial cell dysfunction:  a          blood pressure in patients with essential hypertension. Bosen-
+     statement from the European Society of Hypertension Work-           tan Hypertension Investigators. The New England Journal of
+     ing Group on Endothelin and Endothelial Factors. Journal of          Medicine. 1998; 338: 784–790. https://doi.org/10.1056/NEJM
+     Hypertension. 2023; 41: 369–379. https://doi.org/10.1097/HJH.         199803193381202.
+     0000000000003314.                                              [83] Benedict NJ. Sitaxsentan in the management of pulmonary ar-
+[70] Becker BK, Johnston JG, Young CM, Torres Rodriguez AA, Jin             terial hypertension. American Journal of Health-system Phar-
+     C, Pollock DM. Endothelin B receptors impair baroreflex func-         macy:  AJHP: Official Journal of the American Society of
+      tion and increase blood pressure variability during high salt diet.          Health-System Pharmacists. 2007; 64: 363–368. https://doi.or
+     Autonomic Neuroscience: Basic & Clinical. 2021; 232: 102796.          g/10.2146/ajhp060357.
+      https://doi.org/10.1016/j.autneu.2021.102796.                      [84] Buckley MS, Wicks LM, Staib RL, Kirejczyk AK, Varker AS,
+[71] Carey RM, Calhoun DA, Bakris GL, Brook RD, Daugherty SL,         Gibson JJ, et al. Pharmacokinetic evaluation of ambrisentan. Ex-
+     Dennison-Himmelfarb CR, et al. Resistant Hypertension: De-           pert Opinion on Drug Metabolism & Toxicology. 2011; 7: 371–
+      tection, Evaluation, and Management: A Scientific Statement          380. https://doi.org/10.1517/17425255.2011.557181.
+    From the American Heart Association. Hypertension (Dallas,     [85] Clozel M, Maresta A, Humbert M. Endothelin receptor antag-
+      Tex.: 1979). 2018; 72: e53–e90. https://doi.org/10.1161/HYP.            onists. Handbook of Experimental Pharmacology. 2013; 218:
+     0000000000000084.                                              199–227. https://doi.org/10.1007/978-3-642-38664-0_9.
+[72] Riaz R, Ahmed U, Naqi U, Afaq L, Shaukat A, Khan Y, et     [86]  Idorsia.  Idorsia  receives  Japanese PMDA  approval  of
+       al. Aprocitentan in hypertension management:  clinical effi-       PIVLAZ (clazosentan sodium) 150 mg. 2022. Available at:
+      cacy,  safety, and future prospects. Annals of Medicine and          https://www.idorsia.com/investors/news-and-events/media-rel
+     Surgery (2012). 2025; 87: 1472–1478. https://doi.org/10.1097/          eases/media-release-details?id=2672197 (Accessed:  20 July
+     MS9.0000000000003028.                                             2025).
+[73] Schlaich MP, Bellet M, Weber MA, Danaietash  P, Bakris     [87] Eurpean Medicines Agency. Filspari approval. 2024. Available
+    GL, Flack JM, et al. Dual endothelin antagonist aprociten-             at: https://www.ema.europa.eu/en/medicines/human/EPAR/fils
+      tan for resistant hypertension (PRECISION): a multicentre,           pari#authorisation-details (Accessed: 20 July 2025).
+      blinded, randomised, parallel-group, phase 3 trial. Lancet (Lon-     [88] Libby  P,  Buring  JE, Badimon  L,  Hansson GK,  Dean-
+     don, England). 2022; 400: 1927–1937. https://doi.org/10.1016/            field  J, Bittencourt MS,  et  al. Atherosclerosis. Nature Re-
+     S0140-6736(22)02034-7.                                             views. Disease Primers. 2019; 5: 56. https://doi.org/10.1038/
+[74] Wang JIG, Flack JM, Narkiewicz K, Clozel M, Cornelisse P,          s41572-019-0106-z.
+     Dreier R, et al. EFFECT OF APROCITENTAN ON BLOOD     [89] Song P, Fang Z, Wang H, Cai Y, Rahimi K, Zhu Y, et al. Global
+    PRESSURE AND ALBUMINURIA IN PATIENTS WITH         and regional prevalence, burden, and risk factors for carotid
+    RESISTANT HYPERTENSION TREATED WITH SODIUM-           atherosclerosis: a systematic review, meta-analysis, and mod-
+   GLUCOSE COTRANSPORTER-2 INHIBITORS (SGLT2I).            elling study. The Lancet. Global Health. 2020; 8: e721–e729.
+     Journal of the American College of Cardiology. 2025; 85: 461.          https://doi.org/10.1016/S2214-109X(20)30117-0.
+     https://doi.org/10.1016/S0735-1097(25)00945-3.                   [90] Nasir K, Cainzos-Achirica M, Valero-Elizondo J, Ali SS, Hav-
+[75] Hudkins KL, Wietecha TA, Steegh F, Alpers CE. Beneficial             istin R, Lakshman S, et al. Coronary Atherosclerosis in an
+      effect on podocyte number in experimental diabetic nephropa-         Asymptomatic U.S. Population: Miami Heart Study at Baptist
+     thy resulting from combined atrasentan and RAAS inhibi-          Health South Florida. JACC. Cardiovascular Imaging. 2022; 15:
+      tion therapy. American Journal of Physiology. Renal Physiol-         1604–1618. https://doi.org/10.1016/j.jcmg.2022.03.010.
+     ogy. 2020; 318: F1295–F1305. https://doi.org/10.1152/ajprenal     [91] Bergström G, Persson M, Adiels M, Björnson E, Bonander C,
+     .00498.2019.                                                    Ahlström H, et al. Prevalence of Subclinical Coronary Artery
+[76] Cosgrove D, Gratton MA, Madison J, Vosik D, Samuelson G,           Atherosclerosis in the General Population. Circulation. 2021;
+    Meehan D, et al. Dual inhibition of the endothelin and an-          144:  916–929. https://doi.org/10.1161/CIRCULATIONAHA
+      giotensin receptor ameliorates renal and inner ear pathologies          .121.055340.
+      in Alport mice. The Journal of Pathology. 2023; 260: 353–364.     [92] Mach F, Baigent C, Catapano AL, Koskinas KC, Casula M,
+      https://doi.org/10.1002/path.6087.                               Badimon L, et al. 2019 ESC/EAS Guidelines for the manage-
+[77] Trachtman H, Nelson P, Adler S, Campbell KN, Chaudhuri A,         ment of dyslipidaemias: lipid modification to reduce cardiovas-
+     Derebail VK, et al. DUET: A Phase 2 Study Evaluating the Effi-           cular risk. European Heart Journal. 2020; 41: 111–188. https:
+     cacy and Safety of Sparsentan in Patients with FSGS. Journal of           //doi.org/10.1093/eurheartj/ehz455.
+      the American Society of Nephrology: JASN. 2018; 29: 2745–     [93] Punnanithinont N, Kambalapalli S, Iskander B, Ichikawa K,
+     2754. https://doi.org/10.1681/ASN.2018010091.                       Krishnan S, Lakshmanan S, et al. “Anti-inflammatory Ther-
+[78] Chung EYM, Badve SV, Heerspink HJL, Wong MG. Endothe-           apies in Atherosclerosis  - Where are we going?”. Current
+      lin receptor antagonists in kidney protection for diabetic kidney           Atherosclerosis Reports. 2024; 27: 19. https://doi.org/10.1007/
+     disease and beyond? Nephrology (Carlton, Vic.). 2023; 28: 97–         s11883-024-01267-7.
+
+
+                                                                                                17[94] Gimbrone MA, Jr, García-Cardeña G. Endothelial Cell Dysfunc-         ment in atherosclerotic mice. Life Sciences. 2016; 159: 71–75.
+      tion and the Pathobiology of Atherosclerosis. Circulation Re-           https://doi.org/10.1016/j.lfs.2016.03.018.
+      search. 2016; 118: 620–636. https://doi.org/10.1161/CIRCRE     [108] D’Orléans-Juste P, Houde M, Rae GA, Bkaily G, Carrier E,
+     SAHA.115.306301.                                             Simard E. Endothelin-1 (1-31): from chymase-dependent syn-
+[95] Jebari-Benslaiman  S,  Galicia-García  U,  Larrea-Sebal  A,            thesis to cardiovascular pathologies. Vascular Pharmacology.
+     Olaetxea JR, Alloza I, Vandenbroeck K, et al. Pathophysiology          2008; 49: 51–62. https://doi.org/10.1016/j.vph.2008.06.007.
+     of Atherosclerosis. International Journal of Molecular Sciences.     [109] Xu X, Zhao Z, Li G. The Protective Effect of Bosentan against
+     2022; 23: 3346. https://doi.org/10.3390/ijms23063346.                   Atherosclerosis in Apolipoprotein E-Deficient Mice Is Mediated
+[96] Kowara M, Cudnoch-Jedrzejewska A. Pathophysiology  of         by miRNA-21. BioMed Research International. 2019; 2019:
+     Atherosclerotic Plaque Development-Contemporary Experience         8348430. https://doi.org/10.1155/2019/8348430.
+     and New Directions in Research. International Journal of Molec-     [110] Lu K, Chen Q, Li M, He L, Riaz F, Zhang T, et al. Pro-
+      ular Sciences. 2021;  22:  3513. https://doi.org/10.3390/ijms        grammed cell death factor 4 (PDCD4), a novel therapy target
+     22073513.                                                                  for metabolic diseases besides cancer. Free Radical Biology &
+[97] Zhang J, Wang YJ, Wang X, Xu L, Yang XC, Zhao WS. PKC-          Medicine. 2020; 159: 150–163. https://doi.org/10.1016/j.freera
+     Mediated Endothelin-1 Expression in Endothelial Cell Promotes          dbiomed.2020.06.016.
+     Macrophage Activation in Atherogenesis. American Journal of     [111] Stasinopoulou M, Kostomitsopoulos N, Kadoglou NPE. The
+     Hypertension. 2019; 32: 880–889. https://doi.org/10.1093/ajh/           Anti-Atherosclerotic Effects of Endothelin Receptor Antagonist,
+     hpz069.                                                            Bosentan, in Combination with Atorvastatin-An Experimental
+[98] Sutton G, Pugh D, Dhaun N. Developments in the Role of          Study. International Journal of Molecular Sciences. 2024; 25:
+     Endothelin-1 in Atherosclerosis: A Potential Therapeutic Tar-          6614. https://doi.org/10.3390/ijms25126614.
+     get? American Journal of Hypertension. 2019; 32: 813–815.     [112] De Haro J, Bleda S, Varela C, Esparza L, Acin F, Bosentan
+      https://doi.org/10.1093/ajh/hpz091.                                   Population-Based Randomized Trial for Clinical and Endothe-
+[99] Mahdi A, Kövamees O, Pernow J. Improvement in endothelial              lial Function Assessment on Endothelin Antagonist Therapy in
+     function in cardiovascular disease - Is arginase the target? In-           Patients With Intermittent Claudication CLAU Investigators. Ef-
+      ternational Journal of Cardiology. 2020; 301: 207–214. https:            fect of Bosentan on Claudication Distance and Endothelium-
+      //doi.org/10.1016/j.ijcard.2019.11.004.                              Dependent Vasodilation in Hispanic Patients With Peripheral
+[100] Ming XF, Rajapakse AG, Yepuri G, Xiong Y, Carvas JM,           Arterial Disease. The American Journal of Cardiology. 2016;
+     Ruffieux J, et al. Arginase II Promotes Macrophage Inflam-          117: 295–301. https://doi.org/10.1016/j.amjcard.2015.10.032.
+     matory Responses Through Mitochondrial Reactive Oxygen     [113] De Haro  J, Bleda S, Gonzalez-Hidalgo C, Michel  I, Acin
+     Species, Contributing to Insulin Resistance and Atherogenesis.            F. Long-Term Effects of Bosentan on Cardiovascular Events
+     Journal of the American Heart Association. 2012; 1: e000992.           in Hispanic Patients with Intermittent Claudication:  Four-
+     https://doi.org/10.1161/JAHA.112.000992.                           Year Follow-up of the CLAU Trial: The CLAU Randomized
+[101] Rafnsson A, Matic LP, Lengquist M, Mahdi A, Shemyakin           Trial Long-Term Outcome. American Journal of Cardiovascu-
+     A, Paulsson-Berne G, et al. Endothelin-1 increases expression            lar Drugs: Drugs, Devices, and other Interventions. 2019; 19:
+     and activity of arginase 2 via ETB receptors and is co-expressed         203–209. https://doi.org/10.1007/s40256-018-0307-y.
+     with arginase 2 in human atherosclerotic plaques. Atherosclero-     [114] Maron BA, Abman SH, Elliott CG, Frantz RP, Hopper RK,
+       sis. 2020; 292: 215–223. https://doi.org/10.1016/j.atherosclero         Horn EM, et al. Pulmonary Arterial Hypertension:  Diagno-
+      sis.2019.09.020.                                                                       sis, Treatment, and Novel Advances. American Journal of Res-
+[102] Sheehan AL, Carrell S, Johnson B, Stanic B, Banfi B, Miller           piratory and Critical Care Medicine. 2021; 203: 1472–1487.
+      FJ,  Jr. Role for Nox1 NADPH oxidase in atherosclerosis.          https://doi.org/10.1164/rccm.202012-4317SO.
+      Atherosclerosis. 2011; 216: 321–326. https://doi.org/10.1016/     [115] Humbert M, Kovacs G, Hoeper MM, Badagliacca R, Berger
+      j.atherosclerosis.2011.02.028.                              RM, Brida M, et al. 2022 ESC/ERS Guidelines for the diagno-
+[103] Ouerd S, Idris-Khodja N, Trindade M, Ferreira NS, Berillo O,            sis and treatment of pulmonary hypertension: Developed by the
+     Coelho SC, et al. Endothelium-restricted endothelin-1 overex-           task force for the diagnosis and treatment of pulmonary hyper-
+     pression in type 1 diabetes worsens atherosclerosis and immune           tension of the European Society of Cardiology (ESC) and the
+      cell infiltration via NOX1. Cardiovascular Research. 2021; 117:         European Respiratory Society (ERS). Endorsed by the Interna-
+     1144–1153. https://doi.org/10.1093/cvr/cvaa168.                           tional Society for Heart and Lung Transplantation (ISHLT) and
+[104] Płoński A, Krupa A, Pawlak D, Sokołowska K, Sieklucka B,           the European Reference Network on rare respiratory diseases
+     Gabriel M, et al. The metabolism of big endothelin-1 axis and        (ERN-LUNG). European Heart Journal. 2022; 43: 3618–3731.
+      lipids affects carotid atherosclerotic plaque stability - the possi-           https://doi.org/10.1093/eurheartj/ehac237.
+      ble opposite effects of treatment with statins and aspirin. Phar-     [116] Matias MV, Cruz Z, Figueiredo C, Moita C, Roxo M, Reis JE,
+     macological Reports: PR. 2025; 77: 739–750. https://doi.org/            et al. Lung Transplantation in Pulmonary Arterial Hypertension:
+     10.1007/s43440-025-00714-9.                                  The Portuguese Experience. Transplantation Proceedings. 2024;
+[105] Yoon MH, Reriani M, Mario G, Rihal C, Gulati R, Lennon          56: 1115–1120. https://doi.org/10.1016/j.transproceed.2024.01.
+     R, et al. Long-term endothelin receptor antagonism attenuates          013.
+     coronary plaque progression in patients with early atherosclero-     [117] Leopold JA. Pulmonary Artery Denervation: A New Therapeu-
+       sis. International Journal of Cardiology. 2013; 168: 1316–1321.             tic for Pulmonary Arterial Hypertension? JACC. Cardiovascular
+      https://doi.org/10.1016/j.ijcard.2012.12.001.                              Interventions. 2022; 15: 2424–2426. https://doi.org/10.1016/j.jc
+[106] Reriani M, Raichlin E, Prasad A, Mathew V, Pumper GM, Nel-          in.2022.10.004.
+     son RE, et al. Long-term administration of endothelin receptor     [118] Tello K, Yogeswaran A, Majeed RW, Kiely DG, Lawrie A,
+     antagonist improves coronary endothelial function in patients           Brittain E, et al. Association of Phosphodiesterase-5 Inhibitor
+     with early atherosclerosis. Circulation. 2010; 122: 958–966.          Treatment With Improved Survival in Pulmonary Hypertension
+     https://doi.org/10.1161/CIRCULATIONAHA.110.967406.              Associated With COPD in the Pulmonary Vascular Research
+[107] Houde M, Desbiens L, Schwertani A, Pejler G, Iglarz M,            Institute GoDeep Meta-Registry. Chest. 2025; 167: 224–240.
+     D’Orléans-Juste P. Endothelin receptor antagonist macitentan or           https://doi.org/10.1016/j.chest.2024.08.016.
+      deletion of mouse mast cell protease 4 delays lesion develop-     [119] Hoeper MM, Oerke B, Wissmüller M, Leuchte H, Opitz C, Ha-
+
+
+18     lank M, et al. Tadalafil for Treatment of Combined Postcapil-            et al. Development of novel bosentan analogues as endothelin
+      lary and Precapillary Pulmonary Hypertension in Patients With           receptor antagonists for pulmonary arterial hypertension. Eu-
+     Heart Failure and Preserved Ejection Fraction: A Randomized          ropean Journal of Medicinal Chemistry. 2023; 259: 115681.
+     Controlled Phase 3 Study. Circulation. 2024; 150: 600–610.           https://doi.org/10.1016/j.ejmech.2023.115681.
+     https://doi.org/10.1161/CIRCULATIONAHA.124.069340.         [133] Chaumais MC, Djessas MRA, Thuillet R, Cumont A, Tu L,
+[120] WINREVAIR™(sotatercept-csrk) for injection, for subcuta-          Hebert G, et al. Additive protective effects of sacubitril/valsartan
+     neous use. FDA Label. 2024. Available at: https://www.acce         and bosentan on vascular remodelling in experimental pul-
+     ssdata.fda.gov/drugsatfda_docs/label/2024/761363s000lbl.pdf          monary hypertension. Cardiovascular Research. 2021;  117:
+     (Accessed: 20 July 2025).                                         1391–1401. https://doi.org/10.1093/cvr/cvaa200.
+[121] Pulido T, Adzerikho I, Channick RN, Delcroix M, Galiè N,     [134] Kunihara T, Wilkens H, Halank M, Held M, Nomura R,
+     Ghofrani HA, et al. Macitentan and morbidity and mortality in           Igarashi T, et al. Haemodynamic benefit of bridging use of
+     pulmonary arterial hypertension. The New England Journal of          bosentan prior to pulmonary endarterectomy. European Journal
+     Medicine. 2013; 369: 809–818. https://doi.org/10.1056/NEJM          of Cardio-thoracic Surgery:  Official Journal of the European
+     oa1213917.                                                          Association for Cardio-thoracic Surgery. 2021; 60: 840–847.
+[122] Oudiz RJ, Galiè N, Olschewski H, Torres F, Frost A, Ghofrani           https://doi.org/10.1093/ejcts/ezab137.
+    HA, et al. Long-term ambrisentan therapy for the treatment of     [135] Lan WF, Deng Y, Wei B, Huang K, Dai P, Xie SS, et al.
+     pulmonary arterial hypertension. Journal of the American Col-          Echocardiographic Evaluation of Initial Ambrisentan Plus Phos-
+     lege of Cardiology. 2009; 54: 1971–1981. https://doi.org/10.          phodiesterase Type 5 Inhibitor on Right Ventricular Pulmonary
+     1016/j.jacc.2009.07.033.                                              Artery Coupling in Severe Pulmonary Arterial Hypertension Pa-
+[123] Chen SJ, Chen YF, Meng QC, Durand J, Dicarlo VS, Oparil S.             tients. Frontiers in Cardiovascular Medicine. 2022; 9: 843606.
+     Endothelin-receptor antagonist bosentan prevents and reverses          https://doi.org/10.3389/fcvm.2022.843606.
+     hypoxic pulmonary hypertension in rats. Journal of Applied     [136] Chen J, Luo J, Yang X, Luo P, Chen Y, Li Z, et al. Transition
+     Physiology (Bethesda, Md.: 1985). 1995; 79: 2122–2131. https:         from Bosentan to Ambrisentan in Pulmonary Arterial Hyperten-
+      //doi.org/10.1152/jappl.1995.79.6.2122.                                   sion: A Single-Center Prospective Study. International Journal
+[124] Jasenovec T, Radosinska D, Kollarova M, Vrbjar N, Balis P,          of General Medicine. 2021; 14: 2101–2107. https://doi.org/10.
+     Trubacova S, et al. Monocrotaline-Induced Pulmonary Arterial         2147/IJGM.S304992.
+     Hypertension and Bosentan Treatment in Rats: Focus on Plasma     [137] Morgan C, Idris N, Elterefi K, Di Ienno L, Constantine A,
+     and Erythrocyte Parameters. Pharmaceuticals (Basel, Switzer-       Quyam S, et al. Safety, tolerability, and efficacy of an in-class
+      land). 2022; 15: 1227. https://doi.org/10.3390/ph15101227.             combination therapy switch from bosentan plus sildenafil to am-
+[125] Refaie MMM, Abdel-Gaber SA, Rahman SAAE, Hafez           brisentan plus tadalafil in children with pulmonary arterial hy-
+    SMNA, Khalaf HM. Cardioprotective effects of bosentan in           pertension. Pulmonary Circulation. 2024; 14:  e70011. https:
+     5-fluorouracil-induced cardiotoxicity. Toxicology. 2022; 465:           //doi.org/10.1002/pul2.70011.
+     153042. https://doi.org/10.1016/j.tox.2021.153042.                [138] Hatano M, Abe K, Koike G, Takahashi T, Tunmer G, Kiely
+[126] Zhao Q, Guo N, Chen J, Parks D, Tian Z. Comparative assess-        DG. Positive Predictors for Response to Ambrisentan Combi-
+     ment of efficacy and safety of ambrisentan and bosentan in pa-          nation Therapy in Pulmonary Arterial Hypertension. Interna-
+      tients with pulmonary arterial hypertension: A meta-analysis.            tional Heart Journal. 2022; 63: 99–105. https://doi.org/10.1536/
+     Journal of Clinical Pharmacy and Therapeutics. 2022; 47: 146–           ihj.21-497.
+     156. https://doi.org/10.1111/jcpt.13481.                           [139] Du D, Yuan YD. Efficacy and safety of macitentan for pul-
+[127] Bedan M, Grimm D, Wehland M, Simonsen U, Infanger M,         monary hypertension: A meta-analysis. The Clinical Respira-
+     Krüger M. A Focus on Macitentan in the Treatment of Pul-           tory Journal. 2023; 17: 1117–1129. https://doi.org/10.1111/crj.
+    monary Arterial Hypertension. Basic & Clinical Pharmacology          13621.
+   & Toxicology. 2018; 123: 103–113. https://doi.org/10.1111/bc     [140] McLaughlin VV, Sitbon O, Chin KM, Galiè N, Hoeper MM,
+     pt.13033.                                                           Kiely DG, et al. Initial combination therapy with macitentan
+[128] Boutari C, Siskos F. Novel Dual Endothelin Inhibitors in the         and tadalafil in patients with pulmonary arterial hypertension,
+    Management of Resistant Hypertension. Life (Basel, Switzer-          with and without cardiac comorbidities. European Journal of
+      land). 2023; 13: 806. https://doi.org/10.3390/life13030806.              Heart Failure. 2024; 26: 2379–2391. https://doi.org/10.1002/ej
+[129] Kwon YB, Kang JH, Han CS, Kim DW, Park CW. The Effect          hf.3319.
+     of Particle Size and Surface Roughness of Spray-Dried Bosen-     [141] Paoli CJ, Zhang C, Tang X, Panjabi S, Thompson A, El-Kersh
+      tan Microparticles on Aerodynamic Performance for Dry Pow-         K. A real-world comparative effectiveness analysis of maciten-
+     der Inhalation. Pharmaceutics. 2020; 12: 765. https://doi.org/10.           tan versus ambrisentan and bosentan on hospitalizations and
+     3390/pharmaceutics12080765.                                           healthcare resource utilization in patients with pulmonary ar-
+[130] Lee HJ, Kwon YB, Kang JH, Oh DW, Park ES, Rhee YS,             terial hypertension. Respiratory Medicine. 2025; 243: 108112.
+      et  al. Inhaled bosentan microparticles for the treatment of           https://doi.org/10.1016/j.rmed.2025.108112.
+     monocrotaline-induced pulmonary arterial hypertension in rats.     [142] Ekhlasi M, Sheikhi S, Majd ZK, Peiravian F, Yousefi N.
+     Journal of Controlled Release: Official Journal of the Controlled          Cost-Effectiveness Analysis of Macitentan in Comparison With
+     Release Society. 2021; 329: 468–481. https://doi.org/10.1016/j.         Bosentan in the Treatment of Pulmonary Arterial Hypertension
+     jconrel.2020.08.050.                                                       in Iran. Value in Health Regional Issues. 2023; 34:  78–85.
+[131] Yilmaz Usta D, Olgac  S, Demirel MA, Kula  S, Elmas           https://doi.org/10.1016/j.vhri.2022.10.001.
+     C, Sezginer  P, et  al. Performance of oral Bosentan-loaded     [143] Yang P, Wu Y, Li F, Tang J, Zheng Z, Tian Q. Activation of
+   SNEDDS and S-SNEDDS tablets:  Biodistribution in mice,       ETAR and ETBR in myocardial tissue characterizes heart failure
+     echocardiography and histology studies in pulmonary arterial          induced by experimental autoimmune myocarditis. BMC Car-
+     hypertension rat model. European Journal of Pharmaceutics and          diovascular Disorders. 2024; 24:  11. https://doi.org/10.1186/
+     Biopharmaceutics: Official Journal of Arbeitsgemeinschaft Fur         s12872-023-03658-1.
+     Pharmazeutische Verfahrenstechnik E.V. 2025; 212: 114725.     [144] Valero-Munoz M, Li S, Wilson RM, Boldbaatar B, Iglarz M,
+      https://doi.org/10.1016/j.ejpb.2025.114725.                     Sam F. Dual Endothelin-A/Endothelin-B Receptor Blockade and
+[132] Panchal J, Jaiswal S, Jain S, Kumawat J, Sharma A, Jain P,          Cardiac Remodeling in Heart Failure With Preserved Ejection
+
+
+                                                                                                19      Fraction. Circulation. Heart Failure. 2016; 9: e003381. https:          don, England). 2023; 402: 2004–2017. https://doi.org/10.1016/
+     //doi.org/10.1161/CIRCHEARTFAILURE.116.003381.                S0140-6736(23)02230-4.
+[145] Martos R, Baugh J, Ledwidge M, O’Loughlin C, Conlon C,     [155]  ClinicalTrials.gov. A Phase  III, Randomised,  Multicentre,
+      Patle A, et al. Diastolic heart failure: evidence of increased my-          Double-blind Study to Evaluate the Efficacy, Safety, and Toler-
+      ocardial collagen turnover linked to diastolic dysfunction. Cir-            ability of Zibotentan/Dapagliflozin Compared to Dapagliflozin
+      culation. 2007; 115: 888–895. https://doi.org/10.1161/CIRCUL         Alone in Participants With Chronic Kidney Disease and High
+    ATIONAHA.106.638569.                                                 Proteinuria. 2023. Available at:  https://clinicaltrials.gov/study
+[146] Guarda E, Katwa LC, Myers PR, Tyagi SC, Weber KT. Effects        /NCT06087835 (Accessed: 20 July 2025).
+     of endothelins on collagen turnover in cardiac fibroblasts. Car-     [156] NHS Health Research Authority. A Multicentre, Randomised,
+     diovascular Research. 1993; 27: 2130–2134. https://doi.org/10.          Double-blind, Placebo-controlled, Phase IIb Study to Eval-
+     1093/cvr/27.12.2130.                                                   uate the Safety of Zibotentan/Dapagliflozin in Combination
+[147] Yeoh SE, Docherty KF, Campbell RT, Jhund PS, Hammarst-        Compared to Zibotentan Monotherapy as well as Ziboten-
+      edt A, Heerspink HJL, et al. Endothelin-1, Outcomes in Patients           tan/Dapagliflozin  and  Zibotentan  Monotherapy Compared
+     With Heart Failure and Reduced Ejection Fraction, and Effects           to Placebo in Participants withCirrhosis. 2024. Available at:
+     of Dapagliflozin: Findings From DAPA-HF. Circulation. 2023;          https://www.hra.nhs.uk/planning-and-improving-research/appl
+     147: 1670–1683. https://doi.org/10.1161/CIRCULATIONAHA          ication-summaries/research-summaries/zibotentan-and-dapagli
+     .122.063327.                                                           flozin-combination-evaluated-in-liver-cirrhosis-zeal/?utm_sou
+[148] Lockwood F, Lachaux M, Harouki N, Soulié M, Nicol L,          rce=chatgpt.com (Accessed: 20 July 2025).
+     Renet S, et al. Dual ETA-ETB receptor antagonism improves     [157] Rivera-Gonzalez O, Mills MF, Konadu BD, Wilson NA, Mur-
+     metabolic syndrome-induced heart failure with preserved ejec-         phy HA, Newberry MK, et al. Adipocyte endothelin B receptor
+      tion fraction. Fundamental & Clinical Pharmacology. 2025; 39:           activation inhibits adiponectin production and causes insulin re-
+     e70006. https://doi.org/10.1111/fcp.70006.                                sistance in obese mice. Acta Physiologica (Oxford, England).
+[149] Shah SJ, Bonderman D, Borlaug BA, Cleland JGF, Lack G,          2024; 240: e14214. https://doi.org/10.1111/apha.14214.
+    Lu W, et al. Macitentan for Heart Failure With Preserved or     [158] Lima AFR, Rodrigues D, Machado MR, Oliveira-Neto JT,
+     Mildly Reduced Ejection Fraction and Pulmonary Vascular Dis-          Bressan AFM, Pedersoli CA, et al. Endothelin-1 down-regulates
+      ease: Results of the SERENADE Randomized Clinical Trial and          nuclear factor erythroid 2-related factor-2 and contributes to
+     Open-Label Extension Study. Circulation. Heart Failure. 2025;           perivascular adipose tissue dysfunction in obesity. Clinical Sci-
+     18:  e011381. https://doi.org/10.1161/CIRCHEARTFAILURE          ence (London, England: 1979). 2024; 138: 1071–1087. https:
+     .123.011381.                                                        //doi.org/10.1042/CS20240624.
+[150] Yu H, Greasley  PJ, Lambers Heerspink HJ, Ambery  P,     [159] Hartopo AB, Fachiroh  J, Puspitawati  I, Dewi FST. Serum
+     Ahlstrom C, Hamren B, et al. The role of venous capacity in fluid          endothelin-1 level positively correlates with waist and hip cir-
+      retention with endothelin A antagonism: Mathematical mod-          cumferences in stable coronary artery disease patients. Reviews
+      elling of the RADAR trial. British Journal of Pharmacology.           in Cardiovascular Medicine. 2021; 22: 919–924. https://doi.or
+     2024; 181: 4693–4707. https://doi.org/10.1111/bph.16504.              g/10.31083/j.rcm2203099.
+[151] Okuma Y, Hirahata S, Tanda A, Suzuki K, Shimoda K, Kido     [160]  Irfan S, Zaidi N, Tiwari K, Lal N, Srivastava AN, Singh S. Eval-
+     G, et al. Preventing Fluid Retention After Subarachnoid Haem-          uation of salivary endothelin-1 as a biomarker for oral cancer and
+     orrhage During Administration of Endothelin Receptor Antag-           precancer. Journal of Cancer Research and Therapeutics. 2024;
+      onist. In International Society on Oxygen Transport to Tissue.          20: 1420–1424. https://doi.org/10.4103/jcrt.jcrt_2664_22.
+     Springer International Publishing: Cham. 2024. https://doi.org/     [161] Nihei S, Ikeda T, Aoki T, Murasato F, Yaegashi M, Asahi K, et
+     10.1007/978-3-031-67458-7_28.                                                al. Plasma endothelin-1 may predict bevacizumab-induced pro-
+[152] Ando-Matsuoka R, Kawada K, Niimura T, Fukuda H, Ishida           teinuria in patients with colorectal cancer. Cancer Chemotherapy
+      T, Yoshioka T, et al. Risk factors for clazosentan-induced fluid         and Pharmacology. 2023; 91: 427–434. https://doi.org/10.1007/
+      retention in subarachnoid hemorrhage from the Japanese ad-         s00280-023-04532-9.
+     verse event database. Journal of Stroke and Cerebrovascular     [162] Pape J, Cheema U, Tocci P, Sestito R, Masi I, Loizidou M,
+     Diseases: the Official Journal of National Stroke Association.            et al. Endothelin-1 receptor blockade impairs invasion patterns
+     2025; 34: 108296. https://doi.org/10.1016/j.jstrokecerebrovasd           in engineered 3D high-grade serous ovarian cancer tumouroids.
+     is.2025.108296.                                                           Clinical Science (London, England: 1979). 2024; 138: 1441–
+[153] Heerspink HJL, Kohan DE, de Zeeuw D. New insights from          1450. https://doi.org/10.1042/CS20240371.
+   SONAR indicate adding sodium glucose co-transporter 2 in-     [163] Brett  AS.   Aprocitentan,   a  Newly  Approved  Drug
+      hibitors to an endothelin receptor antagonist mitigates fluid re-           for    Resistant    Hypertension.   2024.    Available     at:
+      tention and enhances albuminuria reduction. Kidney Interna-          https://www.jwatch.org/na57341/2024/04/11/aprocitentan
+      tional. 2021; 99: 346–349. https://doi.org/10.1016/j.kint.2020.          -newly-approved-drug-resistant-hypertension (Accessed:  28
+     09.026.                                                                July 2025).
+[154] Heerspink HJL, Kiyosue A, Wheeler DC, Lin M, Wijk-     [164] Fellows AL, Quigley K, Leung V, Ainscough AJ, Wilkins MR,
+    mark E, Carlson G, et  al. Zibotentan in combination with          Barnett H, et al. Engineered pulmonary artery tissues for mea-
+      dapagliflozin compared with dapagliflozin in patients with          suring contractility, drug testing and disease modelling. British
+     chronic kidney disease (ZENITH-CKD): a multicentre, ran-          Journal of Pharmacology. 2025; 182: 2585–2602. https://doi.or
+     domised, active-controlled, phase 2b, clinical trial. Lancet (Lon-          g/10.1111/bph.17462.
+
+
+
+
+
+20

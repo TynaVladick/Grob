@@ -1,0 +1,21 @@
+{
+  "pmcid": "PMC13541818",
+  "version": 1,
+  "pmid": 40640516,
+  "doi": "10.1007/s12223-025-01289-x",
+  "mid": null,
+  "title": "Unveiling a sustainable approach to cancer treatment: the antitumor activity of amygdalin and cell-free supernatant of Lacticaseibacillus rhamnosus",
+  "citation": "Folia Microbiol (Praha). 2025 Jul 10;71(4):863–74. doi: 10.1007/s12223-025-01289-x",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC13541818.1/PMC13541818.1.txt?md5=283de526ae50671011ed7f29d3cd70a5",
+  "pdf_url": "s3://pmc-oa-opendata/PMC13541818.1/PMC13541818.1.pdf?md5=bbf72f600af4da04af6d693d77fdc37d",
+  "xml_url": "s3://pmc-oa-opendata/PMC13541818.1/PMC13541818.1.xml?md5=37b8d3eeb68794c338492ea252d97b76",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC13541818.1/12223_2025_1289_Fig1_HTML.webp?md5=2e98f1b0543e4220fd22aa35db3ca988",
+    "s3://pmc-oa-opendata/PMC13541818.1/12223_2025_1289_Fig2_HTML.webp?md5=d962d01627297889d7e4726d32cd2857"
+  ]
+}

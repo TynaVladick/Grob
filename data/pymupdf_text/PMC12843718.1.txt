@@ -1,0 +1,749 @@
+Article
+First Assessment of Risk Factors for Giardia spp. Infection in
+Hospitalized Patients from Romania
+
+Rodica Georgiana Dărăbu¸s 1,2, Marius Stelian Ilie 3,*    , Diana Maria Dărăbu¸s 4,*    , Gheorghe Dărăbu¸s 3
+and Tudor Rare¸s Olariu 1,2,5
+
+
+                                            1   Discipline of Parasitology, Department of Infectious Diseases, “Victor Babes” University of Medicine and
+                                   Pharmacy, 300041 Timisoara, Romania; georgiana.darabus@umft.ro (R.G.D.); rolariu@umft.ro (T.R.O.)
+                                            2   Center for Diagnosis and Study of Parasitic Diseases, Department of Infectious Disease, “Victor Babes”
+                                       University of Medicine and Pharmacy, 300041 Timisoara, Romania
+                                            3   Discipline of Parasitology, Faculty of Veterinary Medicine, University of Life Sciences “King Mihai I” from
+                                       Timisoara, 300645 Timisoara, Romania; gheorghe.darabus@fmvt.ro
+                                            4   Oftalmo Sensory-Tumor Research Center—ORL (EYE-ENT), Ophtalmology Department, “Victor Babes”
+                                       University of Medicine and Pharmacy, 300041 Timisoara, Romania
+                                            5   Patogen Preventia, 300124 Timisoara, Romania
+                                     *   Correspondence: mariusilie@usvt.ro (M.S.I.); diana.darabus@umft.ro (D.M.D.)
+
+
+                           Abstract
+
+                           This study aimed to identify and evaluate the risk factors associated with Giardia spp. in-
+                               fection among generally hospitalized patients with various conditions specific to infectious
+                            diseases in Western Romania. A total of 312 patients, ranging in age from 2 months to
+                          90 years and originating from both urban and rural settings, were included in the analysis.
+                             Fecal specimens were collected and analyzed using the Rapid-VIDITEST Crypto Giardia
+                            antigen test, a qualitative chromatographic assay for the detection of Giardia spp. Infection-
+                               related risk factors were assessed through a standardized questionnaire completed by adult
+                             patients or by the guardians of pediatric patients. The overall prevalence of Giardia spp.
+                              infection was 4.8%. Of the risk factors analyzed, only age demonstrated a statistically sig-
+                                nificant association with infection status (p < 0.05). Notably, the highest prevalence (12.5%)
+                       was recorded in the <1-year age group (2–11 months), with a marked decrease in prevalence
+                         observed among patients aged ≥60 years. Other evaluated risk factors—including area
+                             of residence, gender, contact with animals, pet ownership, hand hygiene after animal
+                               contact, type of housing (house or apartment), fruit washing practices, use of potable water,
+                          use of public transportation, international travel, and visits to playgrounds or swimming
+                        pools—did not show a statistically significant association with Giardia spp. infection among
+                             the study participants. The lack of statistical significance for several expected factors may be
+                              related to limited statistical power resulting from the low number of positive cases. These
+                             findings contribute to the current understanding of Giardia spp. transmission dynamics and
+                     may inform future research efforts aimed at elucidating relevant risk factors. Furthermore,
+                             the results may support the development of targeted public health interventions (focusing
+Academic Editor: Giovanni Sgroi
+                       on infants and their caregivers) and prevention strategies.
+Received: 2 December 2025
+Revised: 23 December 2025         Keywords: Giardia spp.; Romania; human prevalence; risk factors
+Accepted: 24 December 2025
+
+Published: 26 December 2025
+
+Copyright: © 2025 by the authors.
+
+Licensee MDPI, Basel, Switzerland.
+This article is an open access article     1. Introduction
+distributed under the terms and            Giardia duodenalis (syn. Giardia lamblia and Giardia intestinalis) is a leading cause of
+conditions of the Creative Commons    parasitic diarrheal disease worldwide. It represents a major public health concern, imposing
+Attribution (CC BY) license.
+
+
+
+Microorganisms 2026, 14, 62                                                                https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      2 of 12
+
+
+
+                               significant economic burdens and contributing to global morbidity and mortality. Accord-
+                           ing to the World Health Organization (WHO) [1,2], approximately one-third of the global
+                           population is infected with intestinal parasitic diseases (IPDs), with most cases occurring in
+                              children. Transmission primarily occurs via the fecal–oral route, with contaminated water
+                            or food, as well as direct contact with infected individuals or animals, serving as a common
+                           source of infection.
+                                G. duodenalis is classified into eight genetic assemblages (A–H) based on host specificity
+                       and molecular variation. Assemblages A and B are known to infect humans, and certain
+                          sub-genotypes within these groups exhibit zoonotic potential. Within the genus Giardia,
+                                six species have been identified: Giardia duodenalis (also known as lamblia and intestinalis),
+                           G. agilis, G. muris, G. microti, G. ardeae, and G. psittaci. Among these, G. duodenalis infects a
+                        wide range of mammalian hosts and is the etiological agent of giardiasis—one of the most
+                            prevalent parasitic enteric diseases [3–5].
+                                Several factors contribute to the widespread prevalence of G. duodenalis, including
+                                     its low infectious dose, rapid spread following excretion, and the high environmental
+                               resistance of its cysts—particularly in contaminated water and food sources [6]. Companion
+                            animals, such as cats and dogs, may also act as zoonotic reservoirs [7].
+                                  Globally, over 280 million people are estimated to suffer annually from giardiasis-
+                             associated diarrhea, with children in unsanitary environments being particularly vulnera-
+                              ble [3,8]. Clinical manifestations range from profuse, fatty diarrhea and abdominal cramps
+                              to nausea and fatigue. However, infections may also be asymptomatic. Chronic giardiasis
+                          can disrupt gut homeostasis, leading to changes in the microbiota, villous atrophy, increased
+                               intestinal permeability, nutrient malabsorption, and growth retardation. Post-infectious
+                           complications may include food allergies, irritable bowel syndrome, and chronic fatigue
+                          syndrome. Although Giardia infection elicits robust innate and adaptive immune responses,
+                                          it is often associated with a low-grade inflammatory profile, distinguishing it from many
+                            other intestinal pathogens [9,10].
+                            The prevalence of G. duodenalis varies across countries due to differences in risk factors.
+                            In developing nations, these include limited education [11], inadequate access to treated
+                           drinking water [12,13], unsafe water storage [14,15], poor hand hygiene [14,16,17], lack of
+                           proper sanitation [18], rural residency [19], poverty, household crowding, and substandard
+                          food hygiene [18–21]. In contrast, in developed countries, institutionalization, homosexual-
+                                       ity, international travel, and immigration have been identified as key risk factors [22,23].
+                             Additionally, independent variables such age [24,25] and seasonal variation [14] may also
+                             influence infection rates.
+                              There is little information regarding giardiasis in the human population from Ro-
+                          mania. The few available data are based only on prevalence surveys conducted among
+                               institutionalized children or their medical staff [26,27]. However, no studies concerning the
+                               risk factors for human giardiasis were previously performed. Therefore, in this study, we
+                          decided to assess the prevalence and risk factors for Giardia infection among hospitalized
+                              patients from Western Romania.
+
+                             2. Materials and Methods
+
+                                   2.1. Samples and Data Collection
+
+                                 In 2024, a total of 312 fresh fecal samples were collected using sterile stool containers
+                       and promptly transported to the laboratory for analysis. These samples were obtained
+                        from patients admitted to the Victor Babes, Infectious Diseases Hospital in Timis,oara,
+                            located in Western Romania. The study population comprised all generally hospitalized
+                               patients, with various conditions specific to infectious diseases, between February and
+                           April 2024. The only exclusion criterion was refusal to participate; however, no patients
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      3 of 12
+
+
+
+                            declined involvement. Consequently, all eligible individuals during the study period were
+                           interviewed and examined. Each participant received medical treatment for the primary
+                            condition that necessitated their hospitalization.
+
+                                   2.2. Study Population
+
+                           The study population comprised both male and female patients, with ages ranging
+                        from 2 months to 90 years. Participants were stratified into seven age groups: <1 year,
+                          1–5 years, 6–10 years, 11–17 years, 18–39 years, 40–59 years, and ≥60 years. All hospitalized
+                             patients resided in either urban or rural areas of Western Romania. At the time of fecal
+                         sample collection, some participants exhibited digestive symptoms (diarrhea), while others
+                        were asymptomatic. In our study, symptomatic versus asymptomatic was defined only in
+                                relation to gastrointestinal signs, specifically the presence or absence of diarrhea at the time
+                             of fecal sample collection. Was included this variable in the analysis and compared the
+                           prevalence of Giardia between participants with diarrhea and those without diarrhea as
+                            part of the risk-factor assessment. This comparison is clinically relevant because Giardia
+                               infection can be associated with diarrhea but may also occur without overt gastrointestinal
+                                signs, and restricting attention to symptomatic individuals could underestimate circulation
+                       and transmission.
+                           Animal exposure (household pet ownership/contact—yes/no and farm animal
+                          contact—yes/no) varied among individuals, ranging from direct ownership of animals to
+                              incidental contact with various animal species not owned by the participants.
+
+                                   2.3. Laboratory Tests
+
+                           The diagnosis of human giardiasis was performed using rapid tests. The Rapid-
+                       VIDITEST Crypto Giardia is a qualitative chromatographic immunoassay test for the
+                          simultaneous detection Cryptosporidium and Giardia antigen in human feces specimens.
+                           This test has a sensitivity of 95.6% (95% CI, 84.9–99.5%) and a specificity of 97.5%
+                              for Giardia (95% CI, 91.4–99.7%) (Rapid-VIDITEST, VIDIA spol.s r.o., Nad Safinou II
+                             365, 252 50 Vestec, Czech Republic).  The procedure was performed according to the
+                           manufacturer’s instructions.
+
+                                   2.4. Risk Factors
+
+                             To assess potential risk factors associated with infection, all study participants—or the
+                            parents or legal guardians in the case of pediatric patients—were asked to complete a de-
+                                  tailed, structured questionnaire. This instrument was designed to gather epidemiologically
+                              relevant information across several domains. Specifically, the questionnaire included items
+                              related to:
+
+                         •   Demographic characteristics, including area of residence (urban or rural) and gender;
+                         •    Clinical information, such as the presence or absence of digestive symptoms;
+                         •   Animal exposure, including ownership of domestic pets, direct or indirect contact
+                              with animals;
+                         •   Hygiene practices, particularly handwashing behavior following contact with animals;
+                         •   Water and food safety, including the source and treatment of drinking water, and
+                                  habits related to the washing of fruits prior to consumption;
+                         •   Environmental and recreational exposure, including visits to swimming pools and
+                                   children’s playgrounds;
+                         •   Public transportation usage;
+                         •    International travel history, including the occurrence of travel outside the country.
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      4 of 12
+
+
+
+                           The aim of the questionnaire was to comprehensively document potential environ-
+                           mental, behavioral, and demographic risk factors that could be associated with infection
+                        dynamics in the study population.
+                           The questionnaire was not previously validated in a comparable sample, and was an
+                        ad hoc tool developed by a multidisciplinary team comprising epidemiologists, physicians,
+                              veterinarians, and infectious disease specialists. Its design was informed by established
+                            guidelines and protocols from the European Centre for Disease Prevention and Control
+                      (ECDC) [28], particularly those pertaining to the surveillance and risk assessment of giar-
+                                  diasis. This methodological approach ensured that the questionnaire was both scientifically
+                            robust and aligned with international standards for evaluating risk factors associated with
+                              Giardia infection. The inclusion of expertise from diverse disciplines further enhanced the
+                              questionnaire’s validity and comprehensiveness in capturing relevant epidemiological and
+                          environmental data.
+
+                                   2.5. Statistical Analyses
+
+                                       Statistical analyses were conducted using Epi Info™software, version 7.2.6 (Centers
+                                for Disease Control and Prevention, Atlanta, GA, USA, 2023). The Fisher Exact and Mantel–
+                          Haenszel tests (two-tailed) was applied to evaluate the statistical significance of associations
+                         between potential risk factors and Giardia infection. For the initial univariate associations
+                    we applied Fisher’s exact test (two-tailed) for 2 × 2 contingency tables. Additionally, the
+                         Mantel–Haenszel stratified procedure was also used in the univariate screening, but the
+                               results were not statistically significant, so the tables show the results of the first test. A
+                            p-value ≤0.05 was considered indicative of statistical significance.
+                                 In addition, multivariate logistic regression analyses were performed to control for
+                          confounding variables and assess the strength of associations. These analyses were carried
+                          out using the Stats Models library in Python version 3.9 and IBM SPSS Statistics, version
+                             20.0 (IBM Corp., Armonk, NY, USA). All statistical procedures were conducted using
+                            validated and widely accepted methods, and the results, including their interpretation,
+                        were thoroughly reviewed and confirmed by the authors to ensure accuracy and reliability.
+
+                                   2.6. Ethical Approval
+
+                            The study was conducted in accordance with the principles outlined in the Declaration
+                             of Helsinki and was approved by the Ethics Committee of the Victor Babes, University of
+                         Medicine and Pharmacy, Timis,oara, Romania (Approval No. 12/17 March 2023). Written
+                         informed consent was obtained from all participants prior to their inclusion in the study.
+                           For participants under the age of 18, consent was obtained from a parent or legal guardian.
+
+                             3. Results
+
+                                   3.1. Age and Gender
+
+                                  Giardia spp. was detected in all age groups, except for those aged 6–10 years and
+                          11–17 years (Table 1).
+                            The highest prevalence of Giardia spp. was observed in the <1-year age group (12.5%).
+                A statistically significant difference in prevalence was found among individuals aged
+                      ≥60 years (p < 0.05). The youngest positive case was a 4-month-old female infant from
+                        an urban area who lived in a house and presented with diarrhea at the time of sample
+                                collection. The oldest infected individual was a 76-year-old woman from a rural area, also
+                               living in a house, who exhibited febrile symptoms. No significant difference in Giardia spp.
+                           prevalence was observed between males and females.
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      5 of 12
+
+
+
+                             Table 1. Distribution by age and gender of positive cases with Giardia spp.
+
+                                    Number of Patients
+                         Number of
+                                            with Positive Test
+           Variable            Tested Patients                   OR 95%CI            p-Value
+                                                     Results
+                              n = 312
+                                             n = 15 (%)
+
+                   <1             32              4 (12.5)                             Ref.
+
+                    1–5            64              2 (3.1)            4.428 (0.765–25.614)          0.093
+
+                    6–10            18                0                 Undefined               0.282
+  Age group
+                   11–17            4                 0                 Undefined               1.000
+     (years)
+                   18–39           38              4 (10.5)            1.214 (0.278–5.299)           1.000
+
+                   40–59           43              2 (4.7)            2.928 (0.501–17.092)          0.392
+
+                 ≥60            113              3 (2.7)            5.238 (1.108–24.763)          0.042
+
+                  Female          166              7 (4.2)
+    Gender                                                                 0.759 (0.268–2.148)           0.609
+                  Male           146              8 (5.5)
+
+                                Legend: OR = Odds ratio; CI = Confidence interval; Ref. = reference.
+
+
+                                   3.2. Environmental and Lifestyle Risk Factors
+
+                            The prevalence of infection was not significantly different between participants living
+                              in urban areas (5.0%) and those in rural areas (4.7%) (Table 2).
+
+
+                            Table 2. Prevalence and associated risk factors of Giardia spp. infection in humans from Romania
+                                ascertained by questionnaire.
+
+                              Number of  Number of Patients
+               Variables               Tested Patients  with Positive Test     OR 95%CI         p-Value
+                                     n = 312      Results n = 18 (%)
+
+                          Rural           193             9 (4.7)
+  Area of residence                                                             0.921 (0.319–2.656)        1.000
+                       Urban           119             6 (5)
+
+                      House           210            13 (6.2)                          Ref.
+
+      Housing         Apartment         99              2 (2)           3.200 (0.708–14.465)       0.156
+
+                         Institutionalized        3                0              Undefined            1.000
+
+Digestive symptoms in       Yes            168            11 (6.5)
+                                                                                 2.452 (0.763–7.976)        0.183
+   the last 6 months       No            144             4 (2.8)
+
+                           Yes            196            12 (6.1)                          Ref.
+
+ Potable water source      No             26               0              Undefined            0.368
+
+                       Don’t know         90             3 (3.3)           1.891 (0.520–6.875)        0.403
+
+                           Yes            224            11 (4.9)                          Ref.
+ Fruits washed before
+                    No             18               0              Undefined            1.000
+    consumption
+                      Sometimes          70             4 (5.7)           0.852 (0.262–2.765)        0.760
+
+                           Yes             22             1 (4.5)                          Ref.
+     Frequenting
+                    No            248            13 (5.2)          0.860 (0.107–6.906)        1.000
+  swimming pools
+                      Sometimes          42             1 (2.4)         1952 (0.116–32.798)        1.000
+
+                           Yes             83             1 (1.2)                          Ref.
+Frequenting children’s
+                    No            185            12 (6.5)          0.175 (0.022–1.375)        0.070
+    playgrounds
+                      Sometimes          44             2 (4.5)           0.256 (0.022–2.906)        0.275
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      6 of 12
+
+
+
+                             Table 2. Cont.
+
+                              Number of  Number of Patients
+               Variables               Tested Patients  with Positive Test     OR 95%CI         p-Value
+                                     n = 312      Results n = 18 (%)
+
+                           Yes             43              3 (7)                           Ref.
+
+Using public transport     No            206            11 (5.3)          1.297 (0.346–4.857)        0.717
+
+                      Sometimes          63             1 (1.6)          4.536 (0.456–45.128)       0.303
+
+                           Yes             26               0                             Ref.
+  Frequenting travel                    No            270            13 (4.8)            Undefined            0.613
+       abroad
+                      Sometimes          16             2 (12.5)            Undefined            0.139
+
+                                Legend: OR = Odds ratio; CI = Confidence interval; Ref. = reference.
+
+
+                             Although the prevalence of Giardia spp. was higher among individuals living in houses
+                            (6.2%) compared to those living in apartments (2.0%), the difference was not statistically
+                                significant. None of the three institutionalized individuals included in the study tested
+                              positive for Giardia spp. Among the 312 patients, 168 reported experiencing diarrhea within
+                            the past six months, and Giardia infection was detected in 11 of these individuals (11.5%).
+                        However, some Giardia-positive patients did not report any episodes of diarrhea.
+                           Most patients reported consuming potable water; however, Giardia spp. was detected
+                              in 12 of them (6.1%). Some patients—both infected and non-infected—were unsure about
+                            the potability of their water supply or whether it had been tested.
+                       When asked about fruit-washing practices prior to consumption, most patients (224;
+                          96.3%) reported doing so regularly. Giardia spp. was detected in both individuals who
+                             consistently washed fruits and those who did so only occasionally or not at all. Most
+                             patients (79.5%) reported infrequent use of swimming pools; however, Giardia spp. was
+                                        still detected within this group. A lower prevalence of infection was observed among
+                             patients who reported visiting children’s playgrounds. While only a small proportion of
+                              participants used public transportation (13.8%), Giardia spp. infection was more frequently
+                           detected among this subgroup. Few participants had traveled abroad, yet Giardia spp.
+                              infection was identified in both travelers and non-travelers.
+
+                             4. Discussion
+
+                              Limited information regarding human giardiasis in Romania is currently available
+                             to the international medical community. This study represents the first report assessing
+                               risk factors for Giardia spp. infection in Western Romania. The survey evaluated multiple
+                             potential risk factors among hospitalized patients admitted to two departments of the
+                              Infectious Diseases Hospital in Timis,oara. The overall prevalence of Giardia spp. infection
+                      was 4.8%. This prevalence may be influenced by the presence of various underlying
+                          medical conditions among the study population, which could act as potential risk factors
+                        by increasing individual susceptibility to Giardia spp. infection.
+                   A similar study conducted in northwestern Romania reported a Giardia spp. preva-
+                            lence of 2.82% among hospitalized patients [29]. Higher prevalence rates have been
+                           recorded in low-income countries, including Iran (10.6%) [30], Pakistan (17%) [16], Nepal
+                            (18.9%) [31], Ecuador (12.6%) [32], Brazil (17.3%) [33], Algeria (14.6%) [34], and Mozam-
+                          bique (44%) [35].
+                              Regarding differences among age groups, taking the <1-year category as the reference
+                      group—which exhibited the highest prevalence (12.5%)—a statistically significant differ-
+                          ence (p < 0.05) was observed when compared to the ≥60-year age group, which showed a
+                           prevalence of 2.7%. However, in two age groups (6–10 years and 11–17 years), Giardia spp.
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      7 of 12
+
+
+
+                               infection was not detected in any of the patients, making it impossible to calculate the odds
+                                ratio for these categories.
+                            The high prevalence observed among infants under one year of age may be attributed
+                              to primary infections that contribute to reduced immune resistance. This is supported by
+                            findings from a previous study indicating that children are 17.9 times more susceptible
+                             to Giardia infection compared to adults and that the risk of coinfection is higher among
+                      immunocompromised individuals [25]. However, our results contradict those of Fakhri
+                                et al. (2021) [24], who reported that age does not play a significant role as a risk factor
+                              for Giardia infection. Nonetheless, other authors, such as Krumrie et al. (2022) [36], have
+                               identified outbreaks associated with diaper-wearing children attending outpatient settings,
+                       which is consistent with the four young children included in our study. A recent study
+                         conducted among children in Nicaragua reported a higher incidence of Giardia infection
+                              in the 12–24-month age group [37]. These differences may reflect the influence of distinct
+                               risk factors, as well as variations in study methodologies. The findings of the present
+                           study are consistent with data reported by the World Health Organization, which estimates
+                              that approximately 450 million children and infants are infected with Giardia and similar
+                                intestinal parasites worldwide [1,2].
+                           The prevalence of Giardia spp. infection appeared to be higher among male patients
+                       compared to females; however, the difference was not statistically significant, suggesting
+                              that gender cannot be considered a risk factor in this context.  Similarly, Fakhri et al.
+                             (2021) [24] concluded that neither age nor gender showed a significant association with
+                              Giardia infection.
+                            The prevalence of Giardia spp. infection observed in this study showed no statistically
+                               significant differences between patients from urban and rural areas. In contrast, a study
+                         conducted in Argentina reported a higher prevalence of Giardia infection in peri-urban
+                               settings [38]. Another study from Ethiopia, conducted among elementary school students
+                        aged 6–21 years, reported a Giardia prevalence of 13.2%, with rural residence identified
+                            as a significant risk factor. This association was linked to poor hygiene practices, such as
+                             lack of handwashing before meals, inadequate nail hygiene, improper use of latrines, and
+                             limited family education [39]. Moreover, increased prevalence in rural areas has also been
+                              attributed to the potential for zoonotic transmission [40]. In contrast to these findings, our
+                           study did not identify any residence-related differences in Giardia spp. infection prevalence.
+                         From an epidemiological perspective, both in rural and urban areas of developing
+                              countries, sociocultural factors—such as socioeconomic and educational levels, as well as
+                          hygiene practices—are recognized as key determinants of parasitic infections in general,
+                       and Giardia infection in particular [41].
+                            Although the prevalence of Giardia spp. infection was three times higher among
+                             patients living in houses compared to those residing in apartments, the difference was
+                           not statistically significant. It is possible that living conditions, particularly more frequent
+                            contact with the outdoor environment, may have contributed to the increased risk of
+                                infection. Conversely, other researchers [42] have reported higher prevalence and intensity
+                              of endoparasite infections—including Giardia—in areas dominated by apartment buildings.
+                           Their explanation suggests that dogs living in houses are typically confined to private
+                          yards with limited exposure to public spaces, whereas dogs in apartments are usually
+                        walked at least once daily by their owners. In addition, higher human and pet population
+                              densities in apartment-dense neighborhoods may contribute to increased environmental
+                            contamination, particularly in green areas surrounding these buildings.
+                         Some studies have demonstrated a higher prevalence of subclinical Giardia infection
+                                          (i.e., without overt symptoms) among infected individuals [43]. However, Alemu et al.
+                             (2023) [44] reported that children without current diarrhea but with a history of diarrhea
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      8 of 12
+
+
+
+                           within the past month had higher odds of testing positive for Giardia compared to children
+                          without such a history. In our study, the difference in Giardia spp. prevalence between
+                             patients with and without diarrhea was not statistically significant. Nevertheless, the
+                           prevalence among patients with diarrhea (6.5%) was more than double that of patients
+                          without diarrhea (2.8%). This finding should be interpreted in the context of the study
+                           population, the majority of whom were undergoing antibiotic therapy at the time of
+                         sample collection.
+                             Based on a systematic review and meta-analysis by Tawana et al. (2023) [45], which
+                          included studies conducted in Algeria, India, Libya, and Madagascar, the prevalence of
+                             Giardia spp. was found to be 12.3% among individuals with diarrhea and 9.7% among
+                           those without diarrhea. In contrast, the same review reported higher prevalence rates
+                     among asymptomatic individuals in studies from Thailand, Bangladesh, Mozambique,
+                       and Tanzania. These differences have been attributed to variations in individual immune
+                           responses to Giardia infection.
+                                Several studies in the scientific literature have indicated that water can serve as a
+                            source of Giardia infection [46–48]. In the present study, Giardia spp. infection was identified
+                     among patients who reported consuming potable water or who were unsure about the
+                               potability of their drinking water, but not among the smaller group of patients who reported
+                        consuming non-potable water. However, the differences in infection prevalence among
+                             these three categories were not statistically significant.
+                                    Parasitic infections represent a significant public health concern, as they can lead to
+                           complications such as behavioral disturbances, growth retardation, weight loss, anemia,
+                       and other health issues. A systematic review and meta-analysis by Fakhri et al. (2021) [24]
+                          concluded that the prevalence of giardiasis is influenced by multiple risk factors, including
+                             lack of access to safe drinking water, inadequate hand hygiene, sex, age, limited access to
+                            education, and absence of proper sanitation facilities.
+                                             It is well established that fruits and vegetables provide essential nutrients and min-
+                               erals important for human health; however, they can also serve as vectors for pathogenic
+                           organisms. The contamination of raw fruits and vegetables with human pathogenic para-
+                                   sites, including Giardia, poses a global public health threat despite the recognized health
+                               benefits of these foods [49]. In the present study, Giardia spp. infection was identified only
+                      among patients who reported washing their fruits regularly or occasionally. Notably, none
+                             of the 18 patients who reported never washing fruits tested positive for Giardia infection.
+                          According to some authors, such as Zeynudin et al. (2024) [50], fruits and vegetables from
+                            peri-urban areas appear to be more heavily contaminated and may represent a significant
+                           source of infection in humans.
+                             Although several authors [18,20,21] have identified multiple factors contributing to the
+                            increased prevalence of giardiasis, in our study, some of these potential risk factors—such
+                             as fruit washing, swimming pool visits, use of public transportation, and visits to children’s
+                        playgrounds—did not show statistically significant associations with Giardia infection.
+                                  International travel was not found to have a statistically significant impact on the
+                            prevalence of Giardia spp. infection in our study. However, a higher proportion of positive
+                            cases was observed among patients who reported occasional international travel. In this
+                              context, several authors have acknowledged the increased susceptibility to giardiasis
+                     among international travelers [22,23].
+                             While the prevalence of giardiasis was slightly higher among patients who had contact
+                         with animals, the difference was not statistically significant. Similarly, pet owners exhib-
+                              ited a higher prevalence of Giardia infection, though this difference also lacked statistical
+                                significance. When different animal groups were analyzed separately in relation to Giardia
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                      9 of 12
+
+
+
+                            spp. infection among their owners, no statistically significant associations were observed.
+                        However, higher infection rates were noted among patients who owned cats and dogs.
+                              These findings suggest that certain animal species may represent potential risk factors
+                              for Giardia spp. infection. In fact, two groups of patients who owned birds, and birds in
+                          combination with sheep, showed even higher infection prevalence than those who owned
+                         dogs and cats. The presence of Giardia spp. in galliform birds and sheep has been confirmed
+                              in previous studies [51,52]; however, less is known about their zoonotic potential and the
+                               role they may play in human transmission.
+                           Handwashing, as a fundamental hygiene practice, is recognized as an important
+                            preventive measure against Giardia infection [24,53]. However, some patients in this study
+                           reported washing their hands only occasionally or not at all after contact with animals.
+                           This may partially explain the higher infection prevalence (7.8%) observed among those
+                    who practiced hand hygiene inconsistently. Nevertheless, the differences in Giardia spp.
+                           prevalence between individuals who adhered to proper hand hygiene and those who did
+                           not were statistically significant.
+                                  Overall, this epidemiological evaluation presents certain limitations, as it was con-
+                          ducted on patients from a single medical institution, with a relatively small sample size in
+                       some age groups and relied on a single diagnostic approach. The lack of significance of sev-
+                                eral anticipated risk factors (diarrhea, rural residence, poor hygiene) is probably due to the
+                        low overall prevalence (4.8%) and sample size (n = 312), which may be another limitation.
+                           Despite these constraints, the findings contribute valuable insights into the epidemiology
+                              of diseases and may inform the implementation of effective preventive strategies.
+
+                             5. Conclusions
+
+                               This study provides the first evaluation of risk factors associated with Giardia spp.
+                              infection in hospitalized patients in Western Romania. The overall prevalence of Giardia
+                               infection was 4.8%, with the highest infection rate observed in infants under one year of age.
+                     Age was the only statistically significant risk factor identified, highlighting the particular
+                             vulnerability of this group, possibly due to immature immune responses and increased
+                          exposure to primary infections.
+                             Although higher prevalence rates were observed in males, rural residents, pet owners,
+                       and patients with diarrhea, the differences were not statistically significant. Similarly,
+                             potential risk factors such as type of housing, use of potable water, international travel,
+                        handwashing habits, and contact with animals did not show significant associations with in-
+                               fection status. Interestingly, Giardia was more frequently detected in patients who reported
+                              irregular fruit washing, occasional handwashing after animal contact, and inconsistent
+                          hygiene practices, although these trends were not statistically significant either.
+                           The findings align with global studies indicating a wide range of contributing factors
+                             to giardiasis prevalence, including water and food safety, hygiene behavior, and animal
+                             contact [18,20,21,50]. While previous studies have emphasized the potential zoonotic role
+                              of companion animals, our data suggest a possible association (a numerical, non-significant
+                               association) between Giardia infection and ownership of birds and sheep, although further
+                             research is needed to assess the zoonotic potential of these species.
+                                  Overall, these results underscore the complexity of Giardia transmission dynamics
+                       and suggest that no single factor fully accounts for the observed prevalence. The study
+                             highlights the need for broader, multicenter investigations with larger sample sizes, along
+                         with molecular studies, to better understand the epidemiology and zoonotic potential of
+                               Giardia spp. in Romania and similar settings. Enhanced public health education on hygiene
+                       and food safety may also help reduce the burden of this infection.
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                     10 of 12
+
+
+
+                          Author Contributions: Conceptualization, R.G.D., G.D. and T.R.O.; methodology, R.G.D., D.M.D.
+                         and T.R.O.; software, M.S.I. and G.D.; validation, G.D., M.S.I. and T.R.O.; formal analysis, M.S.I.;
+                                 investigation, R.G.D., D.M.D. and G.D.; resources, G.D. and T.R.O.; data curation, R.G.D. and
+                               G.D.; writing—original draft preparation, R.G.D. and G.D.; writing—review and editing, M.S.I.
+                         and T.R.O.; visualization, T.R.O.; supervision, T.R.O.; project administration, R.G.D. and T.R.O.;
+                             funding acquisition, R.G.D. and T.R.O. All authors have read and agreed to the published version of
+                                the manuscript.
+
+                             Funding: This research was internally funded by Victor Babes, University of Medicine and Pharmacy
+                                 in Timis,oara from a doctoral grant of Rodica Georgiana Dărăbus,.
+
+                                 Institutional Review Board Statement: The study was conducted in accordance with the principles
+                               outlined in the Declaration of Helsinki and was approved by the Ethics Committee of the Victor
+                                  Babes, University of Medicine and Pharmacy, Timis,oara, Romania (Approval No. 12/17 March 2023).
+
+                           Informed Consent Statement: Informed consent was obtained from all subjects involved in the study.
+
+                           Data Availability Statement: The original contributions presented in this study are included in the
+                                       article. Further inquiries can be directed to the corresponding authors.
+
+                          Acknowledgments: We would like to acknowledge Victor Babes University of Medicine and Phar-
+                        macy Timisoara for their support in covering the costs of publication for this research paper.
+
+                                Conflicts of Interest: Author Tudor Rare¸s Olariu was employed by the Patogen Preventia. The
+                            remaining authors declare that the research was conducted in the absence of any commercial or
+                                   financial relationships that could be construed as a potential conflict of interest.
+
+References
+
+1.   World Health Organization. World Health Report 2000—Conquering Suffering, Enriching Humanity; World Health Organization:
+     Geneva, Switzerland, 2000. Available online: https://www.who.int (accessed on 1 February 2025).
+2.   World Health Organization. Guidelines for Drinking-Water Quality, 3rd ed.; WHO: Geneva, Switzerland, 2004. Available online:
+     https://www.who.int/publications (accessed on 1 February 2025).
+3.   Masangkay, F.R.; Milanez, G.D.; Tsiami, A.; Hapan, F.Z.; Somsak, V.; Kotepui, M.; Tangpong, J.; Karanis, P. Waterborne protozoan
+     pathogens in environmental aquatic biofilms: Implications for water quality assessment strategies. Environ.  Pollut. 2020,
+     259, 113903. [CrossRef]
+4.   Ryan, U.M.; Feng, Y.; Fayer, R.; Xiao, L. Taxonomy and molecular epidemiology of Cryptosporidium and Giardia—A 50 year
+     perspective (1971–2021). Int. J. Parasitol. 2021, 51, 1099–1119. [CrossRef]
+5.   Ligda, P.; Claerebout, E.; Kostopoulou, D.; Zdragas, A.; Casaert, S.; Robertson, L.J.; Sotiraki, S. Cryptosporidium and Giardia in
+     surface water and drinking water: Animal sources and machine-learning prediction of contamination. Environ. Pollut. 2020,
+     264, 114766. [CrossRef]
+6.   Anuar, T.S.; Azreen, S.N.; Salleh, F.M.; Moktar, N. Molecular epidemiology of giardiasis among Orang Asli in Malaysia using
+     triosephosphate isomerase gene. BMC Infect. Dis. 2014, 14, 78. [CrossRef] [PubMed]
+7.   Sun, J.; Qin, Z.; Fu, Y.; Qin, H.; Sun, M.; Dong, H.; Chao, L.; Zhang, L.; Li, J. Assessment of potential zoonotic transmission of
+     Giardia duodenalis from dogs and cats. One Health 2023, 17, 100651. [CrossRef] [PubMed]
+8.   Popruk, S.; Abu, A.; Ampawong, S.; Thiangtrongjit, T.; Tipthara, P.; Tarning, J.; Sreesai, S.; Reamtong, O. Mass spectrometry-based
+     metabolomics reveals effects of metronidazole on Giardia duodenalis. Pharmaceuticals 2023, 16, 408. [CrossRef] [PubMed]
+9.   Adam, R.D. Giardia duodenalis: Biology and pathogenesis. Clin. Microbiol. Rev. 2021, 34, e00024-19. [CrossRef]
+10.  Groudan, K.; Gupta, K.; Chalhoub, J.; Singhania, R. Giardia lamblia diagnosed incidentally by duodenal biopsy. J. Investig. Med.
+     High Impact Case Rep. 2021, 9, 23247096211001649. [CrossRef]
+11.  Naz, A.; Nawaz, Z.; Rasool, M.H.; Zahoor, M.A. Cross-sectional epidemiology of Giardia lamblia in Pakistani children. Sao Paulo
+     Med. J. 2018, 136, 449–453.
+12.  Moussa, A.S.; Ashour, A.A.; Soliman, M.I.; Taha, H.A.; Al-Herrawy, A.Z.; Gad, M. Fate of Cryptosporidium and Giardia through
+     water treatment plants. Parasitol. Res. 2023, 122, 2491–2501. [CrossRef]
+13.  Puebla, L.E.J.; Núñez, F.A.; Rivero, L.R.; Hernández, Y.R.; Millán, I.A.; Müller, N. Intestinal parasites and molecular characteriza-
+      tion of Giardia duodenalis in dogs from Havana. Vet. Parasitol. Reg. Stud. Rep. 2017, 8, 107–112.
+14.   Cifuentes, E.; Suárez, L.; Espinosa, M.; Juárez-Figueroa, L.; Martínez-Palomo, A. Risk of Giardia intestinalis infection in Mexican
+     children in groundwater recharge zone. Am. J. Trop. Med. Hyg. 2004, 71, 65–70. [CrossRef]
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                     11 of 12
+
+
+
+15.  Erismann, S.; Diagbouga, S.; Odermatt, P.; Knoblauch, A.M.; Gerold, J.; Shrestha, A.; Grissoum, T.; Kaboré, A.; Schindler, C.;
+     Utzinger, J.; et al. Intestinal parasites in schoolchildren in Burkina Faso. Parasites Vectors 2016, 9, 554. [CrossRef] [PubMed]
+16.  Karim, A.; Zartashia, B.; Khwaja, S.; Akhter, A.; Raza, A.A.; Parveen, S. Intestinal parasitic infections in rural and urban Quetta.
+      Braz. J. Biol. 2023, 84, e266898. [CrossRef] [PubMed]
+17.  Ashagre, A.; Misganaw, T.; Abebe, W.; Dejazmach, Z.; Amare, G.A.; Wondmagegn, Y.M.; Worku, K.M.; Adugna, A.; Ahmed, H.;
+     Gedifie, S.; et al. Intestinal parasitic infections among food handlers in East Africa: Systematic review and meta-analysis. Acta
+      Parasitol. 2025, 70, 3. [CrossRef]
+18.   Bello, J.; Núñez, F.A.; González, O.M.; Fernández, R.; Almirall, P.; Escobedo, A.A. Risk factors for Giardia infection in hospitalized
+     children in Cuba. Ann. Trop. Med. Parasitol. 2011, 105, 57–64. [CrossRef]
+19.   El-Wakil, E.S.; Zalat, R.S.; El-Badry, A.A. Mapping gut parasitism in Egyptians. Sci. Rep. 2023, 13, 9961. [CrossRef]
+20.  Holzhauer, M.; Wennink, G.J. Zoonotic risks of pathogens from dairy cattle and milk-borne transmission. J. Dairy Res. 2023,
+      90, 325–331. [CrossRef]
+21.   ¸Sahin, M.; Ödemi¸s, N.; Yılmaz, H.; Beyhan, Y.E. Parasites in food handlers in Turkey. Foodborne Pathog. Dis. 2023, 20, 381–387.
+     [CrossRef] [PubMed]
+22.  Dunn, N.; Juergens, A.L. Giardiasis. In StatPearls; StatPearls Publishing: Treasure Island, FL, USA, 2025.
+23.  Love, N.K.; Jenkins, C.; McCarthy, N.; Baker, K.S.; Manley, P.; Wilson, D. International travel as a risk factor for gastrointestinal
+      infections in residents of North East England. Epidemiol. Infect. 2024, 152, e97. [CrossRef]
+24.   Fakhri, Y.; Daraei, H.; Ghaffari, H.R.; Rezapour-Nasrabad, R.; Soleimani-Ahmadi, M.; Khedher, K.M.; Rostami, A.; Thai, V.N. Risk
+      factors for intestinal Giardia infection: Global systematic review and meta-analysis. Acta Trop. 2021, 220, 105968. [CrossRef]
+25.  Han, M.; Xiao, S.; An, W.; Sang, C.; Li, H.; Ma, J.; Yang, M. Co-infection risk assessment of Giardia and Cryptosporidium with HIV
+     considering synergistic effects and age sensitivity using disability-adjusted life years. Water Res. 2020, 175, 115698. [CrossRef]
+26.   Olariu, T.R.; Mazilu, O.; Mihaescu, R.; Ududec, T.; Timar, R.; Bolintineanu, S.; Petrescu, C.; Gurban, C.V. Assessment of
+     Giardia lamblia prevalence using Lugol’s iodine staining. Rev. Chim. 2018, 69, 665–667. [CrossRef]
+27.   Olariu, T.; Cretu, O.; Marincu, I.; Jurovits, O.; Tirnea, L.; Neghina, R.; Iacobiciu, I.; Koreck, A.; Petrescu, C. Intestinal parasitic
+      infections among children and staff in a Romanian pediatric care unit. Int. J. Infect. Dis. 2008, 12, e395–e396. [CrossRef]
+28.  European Centre for Disease Prevention and Control.  Giardiasis: Annual Epidemiological Report for 2022; European Centre
+      for Disease Prevention and Control: Stockholm, Sweden, 2024. Available online: https://www.ecdc.europa.eu (accessed on
+     1 February 2025).
+29.   Ionică, A.M.; Ieremia, A.; Kalmár, Z.; Lups,e, M.; Flonta, M.; Muntean, M.; Cismaru, C.; Horvat, M.; Rădulescu, A.; Topan, A.; et al.
+     Water- and food-borne protozoans (Giardia duodenalis, Cryptosporidium spp.) in hospitalized patients from Northwestern Romania.
+     Microorganisms 2024, 12, 762. [CrossRef] [PubMed]
+30.  Abbaszadeh Afshar, M.J.; Barkhori Mehni, M.; Rezaeian, M.; Mohebali, M.; Baigi, V.; Amiri, S.; Hamidinia, R.; Samimi, M.
+     Prevalence and risk factors of intestinal parasitic infections in southeastern Iran. BMC Infect. Dis. 2020, 20, 12. [CrossRef]
+31.  Tandukar, S.; Sherchand, J.B.; Xue, J.; Uprety, S.; Sherchan, S.P.; Bhandari, D.; Malla, B.; Ghaju Shrestha, R.; Parajuli, L.; Poudel, S.;
+      et al. Giardia duodenalis in Nepalese schoolchildren: Prevalence and risk factors. Parasitol. Res. 2018, 117, 287–293. [CrossRef]
+    [PubMed]
+32.  Tapia-Veloz, E.; Gozalbo, M.; Guillén, M.; Dashti, A.; Bailo, B.; Köster, P.C.; Carmena, D.; Trelis, M. Intestinal parasites in
+     Ecuadorian schoolchildren with molecular characterization of Giardia duodenalis, Blastocystis sp. and E. bieneusi. PLoS Negl. Trop.
+      Dis. 2023, 17, e0011339. [CrossRef]
+33.   Jeske, S.T.; Macedo, M.R.P.; Bianchi, T.; Leon, Í.F.; Pinheiro, N.B.; Borsuk, S.; Villela, M. Molecular characterization of Giardia
+      lamblia and risk factors among immunocompromised patients in Brazil. Braz. J. Biol. 2022, 82, e265055. [CrossRef]
+34.   Sebaa, S.; Behnke, J.M.; Baroudi, D.; Hakem, A.; Abu-Madi, M.A. Protozoan infections in rural and urban Algeria: Prevalence and
+      risk factors. BMC Infect. Dis. 2021, 21, 888. [CrossRef]
+35.  Muadica, A.S.; Balasegaram, S.; Beebeejaun, K.; Köster, P.C.; Bailo, B.; Hernández-de-Mingo, M.; Dashti, A.; Dacal, E.; Saugar,
+      J.M.; Fuentes, I.; et al. Risk factors for intestinal parasites in Mozambican schoolchildren. Clin. Microbiol. Infect. 2021, 27, 624–629.
+     [CrossRef]
+36.  Krumrie, S.; Capewell, P.; Smith-Palmer, A.; Mellor, D.; Weir, W.; Alexander, C.L. Risk factors and transmission routes in human
+      giardiasis outbreaks in high-income settings: Scoping review. Curr. Res. Parasitol. Vector-Borne Dis. 2022, 2, 100084. [CrossRef]
+37.   Gutiérrez, L.; Vielot, N.A.; Herrera, R.; Reyes, Y.; Toval-Ruíz, C.; Blandón, P.; Rubinstein, R.J.; Mora, J.; Bartelt, L.A.; Bucardo, F.;
+      et al. Giardia lamblia burden in Nicaraguan children with acute gastroenteritis. PLoS Negl. Trop. Dis. 2024, 18, e0012230. [CrossRef]
+38.  Rivero, M.R.; Feliziani, C.; De Angelo, C.; Tiranti, K.; Salomon, O.D.; Touz, M.C. Giardia in Argentina: 40-year survey review.
+      Parasitol. Res. 2020, 119, 3181–3201. [CrossRef]
+39.  Damtie, D.; Sitotaw, B.; Menkir, S.; Kerisew, B.; Hussien, K. Intestinal parasites in Ethiopian schoolchildren. J. Parasitol. Res. 2021,
+     2021, 8894089.
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062Microorganisms 2026, 14, 62                                                                                                     12 of 12
+
+
+
+40.  Elhadad, H.; Abdo, S.; Tolba, M.; Salem, A.I.; Mohamed, M.A.; El-Abd, E.A.; El-Taweel, H.A. Assemblages A and B of Giardia
+      intestinalis in Egyptian children. J. Parasit. Dis. 2021, 45, 655–663. [CrossRef] [PubMed]
+41.  Scavuzzo, C.M.; Campero, M.N.; Oberto, M.G.; Porcasi, X.; Periago, M.V. Intestinal parasites among indigenous children of Salta,
+     Argentina. Colomb. Med. 2024, 55, e2025948. [CrossRef] [PubMed]
+42.   Tull, A.; Moks, E.; Laurimaa, L.; Keis, M.; Süld, K. Endoparasite hotspots in Estonian urban areas. J. Helminthol. 2019, 94, e104.
+     [CrossRef]
+43.  Dougherty, M.; Bartelt, L.A. Giardia and growth impairment in children: Causality vs coincidence. Curr. Opin. Infect. Dis. 2022,
+      35, 417–423. [CrossRef]
+44.  Alemu, Y.; Abdissa, A.; Mekonnen, Z.; Sharew, B.; Johansen, Ø.H.; Bjørang, O.; Langeland, N.; Hanevik, K.; Moyo, S.J. Prevalence
+    and assemblages of Giardia duodenalis in Ethiopian children under five: Case–control study. Parasitol. Res. 2023, 123, 38. [CrossRef]
+    [PubMed]
+45.  Tawana, M.; Onyiche, T.E.; Ramatla, T.; Thekisoe, O. One Health distribution and prevalence of Giardia species in humans,
+     animals and waterbodies across Africa: Systematic review and meta-analysis. Parasitology 2023, 150, 769–780. [CrossRef]
+46.   Hajare, S.T.; Betcha, A.; Sharma, R.J.; Bhosale, S.B.; Upadhye, V.J.; Kuddus, M.; Eriso, F. Giardia lamblia infection and associated
+      risk factors among Ethiopian patients. Infect. Dis. Now 2022, 52, 311–314. [CrossRef]
+47.  Myint, Y.Y.; Aung, W.P.P.; Wanchai, M.; Intapan, P.M.; Sanpool, O.; Wai, A.P.; Maw, W.W. Giardia intestinalis prevalence, risk
+      factors and assemblages among monastery schoolchildren in Yangon, Myanmar. Cureus 2024, 16, e64155.
+48.  Imre, K.; Morar, A.; Ilie, M.S.; Plutzer, J.; Imre, M.; Emil, T.; Herbei, M.V.; Dărăbus,, G. Giardia duodenalis and Cryptosporidium spp.
+      in wastewater and surface waters of Western Romania. Vector-Borne Zoonotic Dis. 2017, 17, 685–691. [CrossRef]
+49.   Li, J.; Wang, Z.; Karim, M.R.; Zhang, L. Detection of human intestinal protozoan parasites in vegetables and fruits: A review.
+      Parasites Vectors 2020, 13, 380. [CrossRef]
+50.  Zeynudin, A.; Degefa, T.; Belay, T.; Mumicha, J.B.; Husen, A.; Yasin, J.; Abamecha, A.; Wieser, A. Parasitic contamination of
+     vegetables and fruits in open-air markets of Jimma City, Ethiopia. PLoS ONE 2024, 19, e0290655. [CrossRef] [PubMed]
+51.  Talazadeh, F.; Razijalali, M.H.; Masaee Manesh, M.; Khajeh, F. Enteric parasites—Including zoonotic species—In feces of galliform
+      birds. Arch. Razi Inst. 2024, 79, 379–386. [PubMed]
+52.  Dos Santos, T.S.; Meireles, G.R.; da Silveira, C.G.; de Mello, G.T.C.; da Silva, S.V.N.; Lignon, J.S.; Martins, N.S.; Pinto, D.M.;
+     Pappen, F.G. Diagnosis of Giardia spp. in ruminants in Southern Brazil. Braz. J. Vet. Med. 2024, 46, e006524. [CrossRef] [PubMed]
+53.   Lette, A.; Negash, G.; Kumbi, M.; Hussen, A.; Kassim, J.; Zenbaba, D.; Gezahgn, H.; Bonsa, M.; Aman, R.; Abdulkadir, A.
+     Predictors of intestinal parasites among food handlers in Goba, Ethiopia. J. Parasitol. Res. 2022, 2022, 3329237. [CrossRef]
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+
+
+
+                                                                                        https://doi.org/10.3390/microorganisms14010062

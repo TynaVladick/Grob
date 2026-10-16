@@ -1,0 +1,23 @@
+{
+  "pmcid": "PMC12845504",
+  "version": 1,
+  "pmid": 41599011,
+  "doi": "10.3390/pathogens15010028",
+  "mid": null,
+  "title": "Taming Superbugs: Current Progress and Challenges in Combating ESKAPE Pathogens",
+  "citation": "Pathogens. 2025 Dec 24;15(1):28. doi: 10.3390/pathogens15010028",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "xml_url": "s3://pmc-oa-opendata/PMC12845504.1/PMC12845504.1.xml?md5=1f00c49fde49588663ed7d037df0ef6b",
+  "text_url": "s3://pmc-oa-opendata/PMC12845504.1/PMC12845504.1.txt?md5=454d139cf60826aa84f1471274587633",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12845504.1/PMC12845504.1.pdf?md5=a11e6094c5a63e0788d593e9ced63561",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12845504.1/pathogens-15-00028-g001.jpg?md5=1e7ea0245261e55c578e232de70674c3",
+    "s3://pmc-oa-opendata/PMC12845504.1/pathogens-15-00028-g002.jpg?md5=f5b90f782092e2359191353a38f5447d",
+    "s3://pmc-oa-opendata/PMC12845504.1/pathogens-15-00028-g003.jpg?md5=f4bb572017cebcf23d0f8608811640d5",
+    "s3://pmc-oa-opendata/PMC12845504.1/pathogens-15-00028-g004.jpg?md5=556ee683d504948c760e825b23b2e8e5"
+  ]
+}

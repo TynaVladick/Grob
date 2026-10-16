@@ -1,0 +1,614 @@
+                                                                                                                      TYPE Original Research
+                                                                                                                      PUBLISHED 20 June 2025
+                                                                                                                   DOI 10.3389/ftubr.2025.1615486
+
+
+                Trends and impact of
+OPEN ACCESS          government prevention policies
+
+EDITED BY
+Kirankumar Rade,             on pulmonary tuberculosis
+World Health Organisation, India
+
+REVIEWED BYBhavesh Modi,            notiﬁcation and mortality in
+All India Institute of Medical Sciences, India
+Srinath Satyanarayana,                Ningbo, China (2004–2021)
+Independent Consultant, New Delhi, India
+
+*CORRESPONDENCE
+Tianfeng He                        Tianfeng He1*†, Lin Lin2†, Xujun Qian3, Weitao Yao1, Guoxing Li4
+  hetfnbcdc@163.com
+                           and Jing Huang4
+†These authors have contributed equally to
+this work                                      1Department of Infectious Disease Prevention and Control, Ningbo Municipal Center for Disease
+                                                 Control and Prevention, Ningbo, China, 2Department of Economics and Management, School of
+RECEIVED 21 April 2025                               Public Management, East China Normal University, Shanghai, China, 3Department of Primary Health
+ACCEPTED 02 June 2025                         Management, The First Aﬃliated Hospital of Ningbo University, Ningbo, China, 4Department of
+PUBLISHED 20 June 2025                           Occupational and Environmental Health Sciences, Peking University School of Public Health, Beijing,
+CITATION                                       China
+He T, Lin L, Qian X, Yao W, Li G and Huang J
+(2025) Trends and impact of government
+prevention policies on pulmonary tuberculosis     Background: Tuberculosis (TB) is a major global health threat, with Ningbo
+notiﬁcation and mortality in Ningbo, China
+(2004–2021). Front. Tuberc. 3:1615486.           reporting over 3,000 annual cases of pulmonary tuberculosis (PTB). This study
+doi: 10.3389/ftubr.2025.1615486                analyzes the notiﬁcation and mortality rates of PTB in Ningbo from 2004 to 2021.
+
+COPYRIGHT                            Methods: We calculated age-standardized annual notiﬁcation and mortality
+© 2025 He, Lin, Qian, Yao, Li and Huang. This       rates for PTB per 100,000 population and employed interrupted time series
+is an open-access article distributed under the
+terms of the Creative Commons Attribution        regression to evaluate the impact of government policies on these rates.
+License (CC BY). The use, distribution or           Results:  From 2004 to 2021, Ningbo recorded 68,392 PTB cases and 236
+reproduction in other forums is permitted,
+provided the original author(s) and the            deaths. The unstandardized notiﬁcation and mortality rates were 51.31 and
+copyright owner(s) are credited and that the       0.18 per 100,000 population, respectively. Joinpoint trend analysis showed a
+original publication in this journal is cited, in        signiﬁcant decline in PTB notiﬁcation from 2007 to 2016 (APC = −7.3%, P
+accordance with accepted academic practice.
+                         < 0.05). Although mortality decreased from 2017 to 2021, this reduction wasNo use, distribution or reproduction is
+permitted which does not comply with these      not statistically signiﬁcant (APC = −20.5%, P = 0.106). Interrupted time series
+terms.                                       analysis indicated that government policies led to an estimated reduction of
+                                        three cases in age-standardized PTB notiﬁcation and about 0.025 deaths per
+                                     100,000 population.
+
+                                     Conclusion: Between 2004 and 2021, Ningbo saw a notable decrease in both
+                                       the notiﬁcation and mortality rates of PTB due to eﬀective control measures.
+                                  To achieve the End TB Strategy targets for 2035, it is crucial to enhance eﬀorts
+                                              in diagnosing and treating PTB—especially among males, adolescents, and
+                                        older adults.
+
+
+
+                                             KEYWORDS
+
+                                             notiﬁcation,  mortality,  joinpoint  regression,  interrupted time  series, pulmonary
+                                             tuberculosis (PTB)
+
+
+                      1 Background
+
+
+                                  TB remains a signiﬁcant cause of global mortality, substantially impacting public health
+                                          worldwide. Prior to the COVID-19 pandemic, TB held the position of being the foremost
+                                            cause of mortality resulting from a solitary infectious agent, surpassing HIV/AIDS in its
+                                           ranking (1). TB is caused by the bacillus Mycobacterium tuberculosis (M.tb), which is
+                                             transmitted through airborne dissemination of bacteria expelled by individuals suﬀering
+                                      from active TB, typically via coughing. The disease primarily targets the pulmonary system,
+
+
+
+
+Frontiers in Tuberculosis                                          01                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+
+causing TB in the lungs; however, it can also manifest other organs.    risk factors contributing to the occurrence of TB. The demographic
+Most cases (∼90%) occur in adults, with higher notiﬁcation among    characteristics of Ningbo are representative of the population
+males. M.tb infection aﬀects approximately one-quarter of the   composition of well-developed city cities in China. Therefore, our
+global population (1).                                             study focused on the notiﬁcation and mortality rates of PTB in
+    Multiple policies have been implemented to control pulmonary   Ningbo from 2004 to 2021 to assess the eﬀectiveness of PTB control
+tuberculosis (PTB) spread. In 1995, the World Health Organization    projects in the city.
+(WHO) introduced the Directly Observed Therapy, Short Course       This study utilizes the tuberculosis notiﬁcation rate as the
+(DOTS) strategy as a comprehensive approach to combat TB   primary indicator, based on two main considerations. Firstly, while
+and  improve  access  to  quality  care  globally.  This  strategy     it is essential for incidence data to encompass extrapulmonary
+addressed challenges in diagnosis and treatment through ﬁve    tuberculosis, such data can only be acquired through specialized
+key components: political commitment with increased funding,    surveys that are often challenging to conduct and ﬁnancially
+case detection through quality-assured bacteriology, standardized   burdensome. Secondly, in China’s infectious disease reporting
+treatment with direct observation, uninterrupted drug supply, and    system, only pulmonary tuberculosis  is classiﬁed as a  legally
+robust monitoring systems (2).                                       reportable condition; extrapulmonary tuberculosis falls outside the
+   The WHO’s End TB  Strategy was adopted by  the 67th   mandatory reporting framework. Consequently, the reporting data
+World Health Assembly 2014 (3). The 2035 targets encompassed    for pulmonary tuberculosis oﬀers advantages in terms of systematic
+approach: achieving a remarkable 95% reduction in mortality    collection and continuity, thereby providing a stable and reliable
+rates compared to 2015, attaining an impressive 90% decrease    source of information for trend analysis.
+in TB notiﬁcation rate, and ensuring that no aﬀected families
+encounter catastrophic ﬁnancial burdens due to TB (2, 3). The
+global cumulative reduction in the notiﬁcation of PTB from 2015  2 Methods
+to 2020 amounted to only 11%, falling short of the milestone set by
+                                              2.1 Study population and data
+the End TB Strategy for 20% reduction between 2015 and 2020 (1).
+Although PTB disproportionately aﬀects middle- and low-income
+                                                         The study population comprised Ningbo residents diagnosed
+countries, economically developed regions are also vulnerable (4).
+                                                               with PTB and  registered  in  the  Tuberculosis Management
+Thus, development of interventions against the TB epidemic is an
+                                                               Information System (TBIMS), an online platform operated by
+urgent public health priority globally (5).
+                                                                   the China Center for Disease Control and Prevention (CDC),
+   According to the estimation by the WHO, China has witnessed
+                                                         from January  1, 2004, to December 31, 2021. Data on PTB
+a consistent decline in TB notiﬁcation. In 2020, China’s TB
+                                                                      cases and population estimates were sourced from the Ningbo
+notiﬁcation rate was estimated at 59 per 100,000 population,
+                                                                Centers for Disease Control and Prevention. Non-residents and
+placing it lower than that of the other 30 high-burden countries
+                                                                     duplicate registrations were excluded from the study. Notiﬁcation
+(1). However, China still remains one of the countries with the
+                                                        and mortality data were stratiﬁed by age groups: 0–4, 5–9, 10–
+most severe TB epidemics worldwide  (6,  7). In 2020, China
+                                                                        14, 15–19, 20–24, 25–29, 30–34, 35–39, 40–44, 45–49, 50–54, 55–
+had an estimated 842,000 TB cases, ranking second among high-
+                                                                        69, 70–74, 75–79, 80–84, and 85 years and above. Raw and age-
+burden countries  (1). Ningbo, a  city  in southeastern China,
+                                                                  standardized notiﬁcation and mortality rates were calculated were
+boasts commendable economic development and experiences an
+                                                                      calculated using R version 3.5.1 (https://www.r-project.org/). Rates
+intermediate notiﬁcation rate of PTB within the country (8). With
+                                                                     are presented per 100,000 population and standardized according
+a population exceeding 9.4 million, Ningbo has reported over 3,000
+                                                                      to the 1982 Chinese population and the World Segi population
+PTB cases annually in recent years.
+                                                                     standards, respectively.
+   To  date,  there  is  limited  data  available on  the  speciﬁc
+notiﬁcation and mortality  rates  of PTB in  cities or  regions.
+Furthermore, the trends in PTB notiﬁcation vary across cities,
+                                              2.2 Statistical analyses
+provinces, and countries, and may even be contradictory. For
+instance, Cui  et  al.  (9) reported an increasing trend in the
+                                                       2.2.1 Jointpoint regression
+standardized reported notiﬁcation rate of PTB in Xi’an City from
+                                           We analyzed notiﬁcation and  mortality trends using the
+2011 to 2020, which contrasts with the trends observed in China
+                                                                   Joinpoint Regression Program (version  4.9.1.0), developed by
+and Zhejiang (2, 10, 11). As Ningbo is a well-developed city along
+                                                                   the National Cancer  Institute.1 This method enables detailed
+the eastern coast of China, characterized by a large population and
+                                                                 trend analysis and calculation of annual percent change (APC),
+a high number of migrant individuals, both of which constitute
+                                                                        precisely identifying trend shift points. The analysis used natural
+                                                                logarithm of rates as the response variable and diagnosis year
+                                                                      as the independent  variable. APCs  for PTB notiﬁcation andAbbreviations: PTB, pulmonary tuberculosis; TB, tuberculosis; CI, conﬁdence
+interval; APC, annual percentage changes; CNR, crude notiﬁcation rate;    mortality were estimated using a piecewise linear regression model,
+CMR, crude  mortality  rate; ASNRC, age-standard  notiﬁcation  rate by   assuming a constant rate of change within each segment (2, 12).
+Chinese Standard Population; ASMRC, age-standard  mortality  rate by   The grid search method (GSM) was employed to determine the
+Chinese Standard Population; ASNRW, age-standard notiﬁcation rate by   number of joinpoints in the datasets, with up to one joinpoint
+
+World Standard Population; ASMRW, age-standard mortality rate by World
+
+Standard Population.                                                1  http://www.surveillance.cancer.gov/joinpoint/
+
+
+
+
+Frontiers in Tuberculosis                                          02                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+for datasets containing seven to 11 observations, two for datasets   TABLE 1 The age-speciﬁc crude incidence and mortality rates (per
+                                                                        100,000) of pulmonary tuberculosis in Ningbo, 2004–2021.
+with 12–16  observations, and  three  for  datasets with 17 or
+more observations (12). The optimal model was selected using    Age group             CIR         CMR
+the Bayesian Information Criterion (BIC). For each segment of
+                                                                            0–4 years                            0.61                        0.07
+the data, we reported the APC estimates along with their 95%
+conﬁdence intervals. Statistical signiﬁcance was determined if the      5–9 years                            1.06                        0.00
+conﬁdence interval did not include zero (P <  0.05), with a      10–14 years                          3.80                        0.00
+signiﬁcance level set at 0.05.
+                                                                             15–19 years                         51.09                       0.05
+
+                                                                             20–24 years                         92.80                       0.06
+2.2.2 Key policy intervention measures and their         25–29 years                         88.34                       0.06
+time points
+                                                                             30–34 years                         67.50                       0.05
+   Based on a review of existing  literature and  local health
+policy documents,  this study posits that the following policy      35–39 years                         52.72                       0.04
+interventions may  signiﬁcantly inﬂuence  the  trends  in PTB      40–44 years                         45.43                       0.11
+notiﬁcation.  (1) In 2005, Ningbo City implemented a  direct                                                                             45–46 years                         40.19                       0.09
+reporting system for TB; (2) In 2007, Zhejiang Province initiated
+the Global Fund Tuberculosis Control  Project;  (3) In 2011,      50–54 years                         42.36                       0.15
+Ningbo City launched a free screening and HIV co-infection      55–59 years                         43.21                       0.16
+management program targeting the ﬂoating population; (4) In      60–64 years                         52.93                       0.26
+2016, the Ministry of Health of China collaborated with the
+                                                                             65–69 years                         63.06                       0.38
+Gates Foundation to promote molecular diagnostic technologies
+for TB; and (5) In 2019, COVID-19 prevention and control      70–74 years                         85.21                       0.73
+measures were introduced (including restrictions on gatherings      75–79 years                         81.92                       1.30
+and mandatory mask-wearing). Joinpoint regression analysis will
+                                                                             80–84 years                         79.90                       2.02
+be employed  to  assess whether  these time  points  represent
+potential turning points in trends related to PTB notiﬁcation      85 years and older                   71.14                       2.29
+and mortality.                                                                   CIR, crude incidence rate; CMR, crude mortality rate.
+
+
+2.2.3 Interrupted time series regression         3 Results
+    Interrupted time series (ITS) analysis is a powerful research
+design utilized to assess the impact of population-level health   3.1 Crude notiﬁcation rate and mortality
+interventions introduced at a speciﬁc point in time. This approach   rate
+is  increasingly being applied  to  evaluate a  diverse range  of
+interventions, spanning from clinical therapies to national public      The crude rates of notiﬁcation and mortality for PTB from 2004
+health  policies. In an ITS study, a time  series of a speciﬁc    to 2021 were 51.31 and 0.18 per 100,000 population, respectively.
+outcome  is  utilized  to  establish an underlying  trend, which    Table 1 displays the crude notiﬁcation and mortality rates of PTB
+is then  “interrupted” by an  intervention  at a known  point    across various age groups. Notably, the highest crude notiﬁcation
+in time.                                                                  rate was observed in the age group 20–24 years, with a rate of
+   Our  study  focuses on  the pneumonia  prevention  policy    92.80 per 100,000. Conversely, the highest crude mortality rate was
+implemented by the Ningbo government in 2011. In response   recorded in individuals aged 85 years or older, at 2.29 per 100,000.
+to the spread of TB among the migrant population, Ningbo   The basic characteristics of tuberculosis patients are described in
+initiated several measures. Free TB screenings were oﬀered to    the Appendix.
+this group, along with  referrals and follow-ups for suspected
+cases  and  conﬁrmed   patients.  Furthermore,  routine  TB
+screenings were conducted among employed  migrants,  with
+referrals provided as necessary. Additionally, in the same year,   3.2 Age-standardized notiﬁcation and
+Ningbo launched a program aligned with Zhejiang Province’s   mortality rates by year
+initiative to control co-infections of TB and HIV. This program
+intensiﬁed eﬀorts to identify,  treat, and manage patients with       Table 2  presents  the  age-standardized  notiﬁcation  and
+co-infections, aiming to curb the further transmission of both TB    mortality rates for PTB. For comparative purposes, the crude
+and HIV/AIDS.                                                          rates  before age  standardization, using both  the China and
+   The dependent variables in this study include the notiﬁcation   World standard  populations,  are  also  reported. The  average
+and mortality of PTB, standardized for the 1982 population. The    age-standardized notiﬁcation rate, standardized to the Chinese
+independent variables consist of a policy dummy variable that takes    population (ASNRC), was 43.33 per 100,000, while the  rate
+the value of one starting in 2011 and 0 for other years, a recentered    standardized to the World population (ASNRW) was 44.25 per
+year variable, and their interaction.                                  100,000. Similarly, the average age-standardized mortality rate
+
+
+
+
+Frontiers in Tuberculosis                                          03                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+
+
+TABLE 2 The age-standard incidence and mortality rates (per 100,000) of pulmonary tuberculosis, 2004–2021.
+
+ Standardized population           Ningbo           China standard population   World standard population
+
+ Year                        CIR       CMR        ASIRC      ASMRC      ASIRW     ASMRW
+
+  2004                                         53.66                0.10                44.02                 0.07                 46.41                 0.07
+
+  2005                                         63.75                0.21                53.96                 0.11                 55.65                 0.14
+
+  2006                                         62.38                0.13                54.27                 0.08                 55.55                 0.10
+
+  2007                                         73.34                0.22                63.93                 0.12                 65.48                 0.15
+
+  2008                                         68.88                0.12                60.82                 0.13                 62.18                 0.16
+
+  2009                                         65.56                0.21                58.98                 0.11                 59.71                 0.14
+
+  2010                                         60.62                0.28                56.68                 0.17                 56.92                 0.22
+
+  2011                                         55.48                0.21                49.33                 0.12                 49.39                 0.17
+
+  2012                                         56.08                0.16                45.03                 0.10                 45.67                 0.12
+
+  2013                                         49.29                0.10                39.82                 0.07                 40.42                 0.08
+
+  2014                                         49.06                0.17                38.92                 0.11                 39.72                 0.13
+
+  2015                                         45.32                0.20                35.60                 0.11                 36.75                 0.13
+
+  2016                                         41.85                0.23                33.15                 0.11                 33.97                 0.14
+
+  2017                                         43.26                0.25                33.93                 0.12                 34.93                 0.16
+
+  2018                                         43.17                0.17                33.21                 0.08                 34.53                 0.11
+
+  2019                                         43.77                0.24                37.87                 0.09                 38.44                 0.12
+
+  2020                                         36.41                0.08                32.16                 0.04                 32.60                 0.05
+
+  2021                                         32.80                0.12                27.99                 0.05                 28.53                 0.06
+
+  Total                                         51.31                0.18                43.33                 0.10                 44.25                 0.12
+
+CIR, crude incidence rate; CMR, crude mortality rate; ASIRC, age-standard incidence rate by Chinese Standard Population; ASMRC, age-standard mortality rate by Chinese Standard
+Population; ASIRW, age-standard incidence rate by World Standard Population; ASMRW, age-standard mortality rate by World Standard Population.
+
+
+
+standardized to the Chinese population (ASMRC) was 0.10 per   −11.2 to 20.0, P = 0.631) during 2016–2019, and −12.4% (95%
+100,000, and the  rate standardized to the World population    CI: −26.4 to  4.2, P = 0.114) during 2019–2021 (Figure 1A;
+(ASMRW) was 0.12 per 100,000.                                    Table 3).
+   From 2004 to 2021, both the notiﬁcation and mortality rates       Regarding the age-standardized mortality rate (ASMRW) of
+exhibited a declining trend after reaching peaks in 2007 and   PTB in Ningbo, it decreased from 0.07 to 0.06 per 100,000 during
+2010, respectively. Speciﬁcally, the age-standardized notiﬁcation    the period 2004–2021. We identiﬁed one joinpoint (2017), dividing
+rate (both ASNRC and ASNRW) peaked in 2007 at 63.93 and 65.48    the trend into two periods with the following annual percentage
+per 100,000, respectively. Similarly, the age-standardized mortality    changes: 1.3% (95% CI: −3.6 to 6.3, P = 0.588) during 2004–2017,
+rate (both ASMRC and ASMRW) peaked in 2010 at 0.17 and 0.22   and −20.5% (95% CI: −40.2 to 5.8, P = 0.106) during 2017–2021
+per 100,000, respectively.                                            (Figure 1B; Table 3).
+
+
+3.3 The trend of PTB notiﬁcation and         3.4 The impact of Ningbo 2011 PTB policy
+mortality
+                                                                       Figures 2A, B illustrate the estimated trend changes in PTB
+   Our study examined the trend of notiﬁcation and mortality    notiﬁcation and mortality in Ningbo following the implementation
+in PTB  using  age-standardized  rates  based on  the World    of prevention policies in 2011. A notable reduction is observed in
+Standard Population. Notably, the results remained consistent    notiﬁcation and mortality rates after introducing these policies. Our
+when alternative age-standardized rates were utilized. Over the    regression estimates indicate a decrease of 3.11 cases per 100,000
+entire period from 2004 to 2021, the notiﬁcation of PTB decreased    population in notiﬁcation, representing a 7% reduction from the
+from 46.41 per 100,000 to 28.53 per 100,000. We identiﬁed    average of 43.33 cases. Mortality rates decreased by 0.025 deaths
+three joinpoints (2007, 2016, and 2019), resulting in four distinct    per 100,000 people, marking a 25% reduction from the average
+periods with the following annual percentage changes:12.6% (95%    mortality rate of 0.10 deaths per 100,000 people. These results
+CI: 4.8–21.0, P < 0.05) during 2004–2007, −7.3% (95% CI:    suggest that the 2011 prevention policies in Ningbo were highly
+−8.7 to −5.9, P < 0.05) during 2007–2016, 3.3% (95% CI:    eﬀective in reducing PTB notiﬁcation and mortality.
+
+
+
+
+Frontiers in Tuberculosis                                          04                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+
+
+    FIGURE 1
+    Notiﬁcation and mortality trend graph of PTB in Ningbo during 2004–2021. *Indicates that the annual percent change (APC) is signiﬁcantly diﬀerent
+   from zero at the alpha = 0.05 level. Final selected model: (A) 3 joinpoints. (B) 1 joinpoint.
+
+
+4 Discussion                                                 cases and revealing distinct epidemiological characteristics. Such
+                                                             developments have provided critical insights into the dynamics
+    Utilizing a web-based database sourced from  the oﬃcial    of tuberculosis transmission within the country. We analyzed
+Tuberculosis Management  Information  System, we  gathered    these trends using age-standardized notiﬁcation and mortality
+comprehensive data on PTB cases registered in Ningbo City, China,    rates within an a joinpoint regression model. Notably, the PTB
+spanning from 2004 to 2021. From 2004 to 2021, China signiﬁcantly    notiﬁcation rate peaked at 65.48 per 100,000 in 2007 and thereafter
+enhanced its surveillance of PTB through the implementation of    witnessed a gradual decline at an annual average rate of 7.3%
+key policies and technological advancements. Notable initiatives    until 2016. Similarly, Zhejiang province exhibited a comparable
+included the establishment of an online reporting system in 2005,    pattern, with a peak notiﬁcation of 89.5 per 100,000 in 2007,
+the introduction of a multidrug-resistant tuberculosis management    followed by a decline at an average annual rate of 4.8% from
+plan in 2007, the initiation of targeted population screening in   2007  to 2015  (2). Our ﬁndings  align  with  a  recent  study
+2011, and the adoption of molecular diagnostic techniques in 2016.   conducted in China between 2004 and 2019, which reported a
+These enhancements improved both the sensitivity and speciﬁcity    decrease in the PTB notiﬁcation rate from 84.67 per 100,000
+of  detection  methods,  resulting  in  ﬂuctuations  in  reported    in 2004 to 53.43 per 100,000 in 2019, with an average annual
+
+
+
+
+Frontiers in Tuberculosis                                          05                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+
+
+TABLE 3 Joinpoint incidence and mortality trend analysis of pulmonary tuberculosis.
+
+ Type    Segment  Lower endpoint  Upper endpoint  APC   Lower CI  Upper CI   Test statistic (t)   P-value
+
+  Incidence         1                 2004                   2007               12.6∗           4.8              21.0                   3.9               <0.05
+
+                   2                 2007                   2016             −7.3∗        −8.7          −5.9              −11.9              <0.05
+
+                   3                 2016                   2019                3.3         −11.2            20.0                   0.5                0.631
+
+                   4                 2019                   2021           −12.4        −26.4             4.2              −1.8                0.114
+
+  Mortality         1                 2004                   2017                1.3         −3.6              6.3                   0.6                0.588
+
+                   2                 2017                   2021           −20.5        −40.2             5.8              −1.7                0.106
+
+∗Indicates that the annual percent change (APC) is signiﬁcantly diﬀerent from zero at the alpha = 0.05 level. CI, conﬁdence interval.
+
+
+                                                                In 2005, the Ningbo government further mandated  all non-
+                                                                  designated hospitals to implement a network direct reporting
+                                                        and referral system for TB patients and suspected cases, coupled
+                                                               with strengthened patient tracking mechanisms. Additionally, the
+                                                                              city leveraged the world’s largest internet-based TB management
+                                                                information system for reporting and managing conﬁrmed TB
+                                                                      cases  (13). This  internet-based  reporting system  signiﬁcantly
+                                                                   mitigated  delays and incomplete  reporting  in communicable
+                                                                           diseases, thereby  facilitating eﬀective PTB control.  It enabled
+                                                                          swift identiﬁcation of PTB cases and ensured timely diagnosis
+                                                        and treatment for aﬀected patients (14, 15). With these three
+                                                                               initiatives  in  place, coupled with government funding, more
+                                                PTB cases were detected and reported, potentially contributing
+                                                                      to  the temporary  rise  in PTB  notiﬁcation  rates  in Ningbo
+                                                               during 2004–2007.
+                                                                      Since 2007, the age-standardized notiﬁcation rates of PTB have
+                                                                    exhibited a gradual decline over time, potentially attributable to
+                                                                 a series of government interventions and policies implemented.
+                                                                In 2007, Zhejiang Province successfully secured the Global Fund
+                                                                  Tuberculosis Control project. The objective of this project is to
+                                                           enhance the management and treatment strategies for multidrug-
+                                                                           resistant TB (MDR-TB) patients, aiming to eﬀectively control
+                                                                   the escalating number of MDR-TB cases (2). Since then, Ningbo
+                                                                has made signiﬁcant advancements in optimizing, augmenting,
+                                                        and expanding screening procedures while also implementing
+                                                            measures to reduce or eliminate the ﬁnancial burden associated
+                                                               with infectious disease treatment (16).
+                                                              Between 2016 and 2019, the notiﬁcation rate of PTB declined
+                                                                    gradually in numerous countries (17, 18). During this period,
+                                                        Ningbo witnessed an average annual increase of 3.3% in age-
+    FIGURE 2
+    (A, B) An analysis of the impact of PTB policies in Ningbo City in           standardized PTB notiﬁcation rates, which can be attributed to the
+   2011.                                                      implementation of the China MOH-Gates Foundation TB Control
+                                                                         Project. This project introduced advanced diagnostic technologies
+                                                                        for PTB, including rapid molecular detection techniques  like
+                                                              Xpert MTB/RIF, which improved the accuracy and reduced the
+percentage change (APC) of −4.2%. Speciﬁcally, the notiﬁcation    detection time for Mycobacterium TB (M.tb) (19). Consequently,
+rate slightly increased during 2004–2007 before declining steadily   more patients with conﬁrmed bacterial infections were identiﬁed
+from 2007 to 2019, with the highest and lowest rates observed   and treated (2). Since the COVID-19 pandemic began, the TB
+in 2005 (104.16 per 100,000) and 2019 (53.43 per 100,000),    notiﬁcation rate has decreased by an average of 12.4% between 2019
+respectively (10).                                           and 2021, potentially due to preventive measures such as reducing
+     It  is pertinent to mention that the rising PTB notiﬁcation    gatherings and encouraging mask-wearing, which may have curbed
+in Ningbo during 2004–2007 may be attributed to previously   TB transmission (20).
+underreported cases. Ningbo initiated the “Ningbo Tuberculosis      The PTB age-standardized mortality rate of Ningbo increased
+Control  Project”  in  2002, aiming  to enhance  the  detection    at an average rate of 1.3% during 2004–2017 and then decreased at
+rate of TB patients and ensure they receive regular treatment.   an average rate of 20.5% during 2017–2021, the changes however
+
+
+
+
+Frontiers in Tuberculosis                                          06                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+
+were not statistically signiﬁcant. In contrast, the age-standardized    targets outlined in the End TB Strategy. Reinforcement of existing
+mortality China, as measured by PTB, exhibited a downward trend   measures and the development of novel strategies for prevention,
+from 2005 to 2017, with an average annual percent change of    diagnosis, and treatment are imperative to further reduce the
+−5.8%. This ﬁgure was peaked in 2005 (0.3 per 100,000) and was    notiﬁcation of PTB. Moreover, males and elderly individuals appear
+at its lowest in 2015 (0.15 per 100,000) (10). The inconsistent    to be more vulnerable to both the notiﬁcation and mortality of PTB,
+phenomenon may be because the number of TB deaths was rare    highlighting the need for targeted implementation of future control
+in Ningbo and there is large randomness.                         measures within these speciﬁc population cohorts.
+   The highest crude notiﬁcation  rate was reported  for the
+age group of 20–29 years followed by the age group of 70–
+79 years (>80 per 100,000). Adolescence is characterized by an  Data availability statement
+elevated susceptibility to TB. Although the precise mechanisms
+remain incompletely elucidated, it is postulated that sex hormones,      The original contributions presented in the study are included
+alterations in social contact patterns, and immunological changes    in the article/supplementary material, further inquiries can be
+may each have exerted a contributory inﬂuence (21). The crude    directed to the corresponding author.
+mortality rate increases with age, and people over 75 years of age
+are vulnerable. Older individuals with pulmonary TB, characterized
+                                         Ethics statementby compromised immune function and a higher prevalence of
+chronic comorbidities, exhibit an increased notiﬁcation of atypical
+                                                         The study was approved by the Ningbo Municipal Center for
+manifestations, heightened susceptibility to adverse drug reactions,
+                                                                 Disease Control and Prevention. Consents from the participants
+and elevated mortality rates associated with TB compared to their
+                                                           were not required due to the anonymous nature of the data.
+younger counterparts (22–24). The aging process is expected to
+continue exerting a signiﬁcant impact on the escalation of PTB-
+related mortality (25, 26). The data indicates that elderly patients  Author contributions
+with PTB exhibit a higher mortality rate compared to those without
+PTB. However, if promptly diagnosed and appropriately treated,
+                                                        TH:  Data   curation,  Methodology,   Validation,   Project
+these elderly patients with PTB do not exhibit higher mortality rates
+                                                                    administration,  Conceptualization,  Writing  –  original  draft,
+compared to those without the condition (27).
+                                                          Funding acquisition, Supervision, Writing – review & editing,
+   The advantages of our study are as follows: (1) this is the
+                                                                        Investigation, Resources. LL: Formal analysis, Writing – review
+ﬁrst study to investigate the age-standardized notiﬁcation and
+                                        & editing, Software. XQ: Formal analysis, Writing – review &
+mortality rates of PTB in Ningbo. (2) This study covered all the
+                                                                           editing, Software. WY: Writing – review & editing, Validation,
+newly diagnosed PTB and death cases in long term, which could
+                                                           Data curation. GL: Formal analysis, Validation, Writing – review &
+represent the epidemiological trend of PTB in Ningbo. (3) Our
+                                                                           editing, Supervision. JH: Validation, Supervision, Formal analysis,
+ﬁndings provided direct evidence of PTB control and prevention
+                                                              Writing – review & editing.
+for Ningbo Municipal Center for Disease Control and Prevention.
+However, our study had some limitations. First, our data came
+from the yearbook, and more detailed demographic information  Funding
+of each patient was not available, meaning we cannot examine the
+association of notiﬁcation rate with these characteristics. Second,      The author(s) declare that ﬁnancial support was received for the
+only intervention and policy factors aﬀecting notiﬁcation and    research and/or publication of this article. This work was supported
+mortality were analyzed, and environmental and social factors were   by Medical Technology Program Foundation of Zhejiang (CN; No.
+not analyzed. Third, this study used PTB notiﬁcation rates rather   2021KY334), the Project of Zhejiang Public Welfare Fund (CN;
+than total TB incidence rates because China’s infectious disease   No. LGF19H260010; No. LGF22H260003), Ningbo Natural Science
+reporting system does not mandate EPTB reporting. This approach   Fund (Nos. 2022J173; 2023Z174; 2023S038), Ningbo Top Medical
+may underestimate the overall TB burden, particularly among   and Health Research Program (No. 2023020713). The funding
+children who have a higher proportion of EPTB cases, potentially   body/bodies did not provide any assistance in the design of the
+aﬀecting policy evaluation for speciﬁc populations. Additionally,    study and collection, analysis, and interpretation of data and in
+we did not diﬀerentiate between drug-sensitive and drug-resistant    writing the manuscript.
+TB cases, which limits our assessment of targeted interventions
+like the 2007 MDR-TB control project. Future studies should
+incorporate drug resistance data to enhance policy evaluations.    Acknowledgments
+
+
+                                           We are grateful to all individuals who contributed to this work.
+5 Conclusion
+
+    Since  2004,  the  notiﬁcation and  mortality  rates  of PTB  Conﬂict of interest
+in  Ningbo  have  witnessed  a  decline  due  to  the  eﬀective
+implementation of various measures and projects. However, there      The  authors  declare  that  the  research  was  conducted
+still exists a substantial disparity when compared to the 2035    in   the   absence    of   any   commercial   or   ﬁnancial
+
+
+
+
+Frontiers in Tuberculosis                                          07                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+
+relationships   that   could  be   construed   as   a   potential  Publisher’s note
+conﬂict of interest.
+                                                                           All claims expressed in this article are solely those of the
+                                                                 authors and do not necessarily represent those of their aﬃliated
+Generative AI statement                             organizations, or those of the publisher, the editors and the
+                                                                      reviewers. Any product that may be evaluated in this article, or
+   The author(s) declare that no Gen AI was used in the creation    claim that may be made by its manufacturer, is not guaranteed or
+of this manuscript.                                             endorsed by the publisher.
+
+
+
+References
+
+
+  1. World Health  Organization.  Global  Tuberculosis  Report.  (2021).  Available       15. Jiang Y, Dou X, Yan C, Wan L, Liu H, Li M, et al. Epidemiological characteristics
+online  at:  https://www.who.int/publications/digital/global-tuberculosis-report-2021    and trends of notiﬁable infectious diseases in China from 1986 to 2016. J Glob Health.
+(accessed March 18, 2024).                                                           (2020) 10:020803. doi: 10.7189/jogh.10.020803
+
+  2. Zhu W, Wang Y, Li T, Chen W, Wang W. Gap to end-TB targets in eastern China:       16. Yang S, Wu J, Ding C, Cui Y, Zhou Y, Li Y, et al. Epidemiological features of
+a joinpoint analysis from population-based notiﬁcation data in Zhejiang Province,    and changes in incidence of infectious diseases in China in the ﬁrst decade after the
+China, 2005-2018. Int J Infect Dis. (2021) 104:407–14. doi: 10.1016/j.ijid.2021.01.007     SARS outbreak: an observational trend study. Lancet Infect Dis. (2017) 17:716–25.
+                                                                                               doi: 10.1016/S1473-3099(17)30227-X
+  3. World Health Organization. The End TB Strategy 2022. Geneva: World Health
+Organization (2014).                                                                         17. Schwartz NG, Price SF, Pratt RH, Langer AJ. Tuberculosis - United States, 2019.
+                                            MMWR Morb Mortal Wkly Rep. (2020) 69:286–9. doi: 10.15585/mmwr.mm6911a3
+  4. Alagna R, Besozzi G, Codecasa LR, Gori A, Migliori GB, Raviglione M, et al.
+Celebrating world tuberculosis day at the time of COVID-19. Eur Respir J. (2020)       18. Narita M,  Sullivan Meissner  J, Burzynski  J. Use  of modeling to inform
+55:2000650. doi: 10.1183/13993003.00650-2020                                            tuberculosis elimination strategies. Am J Respir Crit Care Med. (2020) 201:272–4.
+                                                                                               doi: 10.1164/rccm.201910-2061ED
+  5. Wang YS, Zhu WL, Li T, Chen W, Wang WB. Changes in newly notiﬁed cases
+and control of tuberculosis in China: time-series analysis of surveillance data. Infect       19. Rasool G, Khan AM, Mohy-Ud-Din R, Riaz M. Detection of Mycobacterium
+Dis Poverty. (2021) 10:16. doi: 10.1186/s40249-021-00806-7                                 tuberculosis  in AFB  smear-negative sputum  specimens  through MTB  culture
+                                                                                                                         R⃝
+  6. Zuo  Z, Wang M, Cui H, Wang  Y, Wu   J, Qi   J,  et  al.  Spatiotemporal    and  GeneXpert   MTB/RIF  assay.  Int   J  Immunopathol  Pharmacol.  (2019)
+characteristics and  the  epidemiology  of  tuberculosis  in China from 2004  to    33:2058738419827174. doi: 10.1177/2058738419827174
+2017 by the nationwide surveillance system. BMC Public Health. (2020) 20:1284.       20. Kant  S, Tyagi  R. The impact  of COVID-19 on  tuberculosis:  challenges
+doi: 10.1186/s12889-020-09331-y                                              and   opportunities.   Ther  Adv   Infect   Dis.   (2021)   8:20499361211016973.
+  7. Wang  H,  Tian CW, Wang WM,  Luo  XM.  Time-series  analysis  of     doi: 10.1177/20499361211016973
+tuberculosis from 2005  to 2017  in China. Epidemiol  Infect. (2018) 146:935–9.       21. Snow  KJ, Cruz  AT, Seddon  JA,  Ferrand RA, Chiang  SS, Hughes  JA,
+doi: 10.1017/S0950268818001115                                                                et  al.  Adolescent  tuberculosis.  Lancet  Child  Adolesc  Health.  (2020)  4:68–79.
+  8. Chen YP, Liu LF, Che Y, Huang  J, Li GX, Sang GX, et  al. Modeling and     doi: 10.1016/S2352-4642(19)30337-2
+predicting pulmonary tuberculosis incidence and its association with air pollution and       22. Di Gennaro F, Vittozzi P, Gualano G, Musso M, Mosti S, Mencarini P, et al.
+meteorological factors using an ARIMAX model: an ecological study in Ningbo of     Active pulmonary tuberculosis in elderly patients: a 2016-2019 retrospective analysis
+China. Int J Environ Res Public Health. (2022) 19:5385. doi: 10.3390/ijerph19095385      from an Italian referral hospital. Antibiotics. (2020) 9:489. doi: 10.3390/antibiotics90
+  9. Cui C, Gao F, Bai R, Li Y, Ceng L. Joinpoint regression analysis on prevalence    80489
+trend of pulmonary tuberculosis in Xi’an City from 2011–2020. Occup Health. (2022)       23. Li SJ, Li YF, Song WM, Zhang QY, Liu SQ, Xu TT, et al. Population aging and
+38:649–53 (in Chinese). doi: 10.13329/j.cnki.zyyjk.2022.0098                             trends of pulmonary tuberculosis incidence in the elderly. BMC Infect Dis. (2021)
+  10. Wang L, Wang W. Temporal trends in notiﬁcation and mortality of tuberculosis     21:302. doi: 10.1186/s12879-021-05994-z
+in China, 2004-2019: a joinpoint and age-period-cohort analysis. Int J Environ Res                                                                                              24. Negin   J,  Abimbola  S,  Marais  BJ.  Tuberculosis  among  older  adults–
+Public Health. (2021) 18:5607. doi: 10.3390/ijerph18115607                                                                                time to take  notice.  Int  J  Infect  Dis. (2015) 32:135–7.  doi:  10.1016/j.ijid.2014.
+  11. Li H, Wang Y, Zhu C, Wang X, Du L. Incidence and mortality of laryngeal cancer     11.018
+in Zhejiang cancer registry, 2000–2011. J Cancer Res Ther. (2015) 11(Suppl. 2):C15560.
+                                                                                              25. Dhamnetiya D, Patel P, Jha RP, Shri N, Singh M, Bhattacharyya K. Trends
+doi: 10.4103/0973-1482.168177
+                                                                                          in  incidence and  mortality  of  tuberculosis  in  India over  past  three  decades:
+  12. Kim HJ, Fay MP, Feuer EJ, Midthune DN. Permutation tests for joinpoint     a  joinpoint and  age-period-cohort  analysis. BMC Pulm Med.  (2021)  21:375.
+regression  with  applications  to  cancer  rates.  Stat  Med.  (2000)  19:335–51.     doi: 10.1186/s12890-021-01740-y
+doi: 10.1002/(sici)1097-0258(20000215)19:3<335::aid-sim336>3.0.co;2-z
+                                                                                              26. Ananthakrishnan  R, Kumar  K,  Ganesh M, Kumar AM,  Krishnan  N,
+  13. Jiang WX, Huang F, Tang SL, Wang N, Du X, Zhang H, et al. Implementing    Swaminathan S, et al. The proﬁle and treatment outcomes of the older (aged 60
+a new tuberculosis surveillance system in Zhejiang, Jilin and Ningxia: improvements,     years and above) tuberculosis patients in Tamilnadu, South India. PLoS ONE. (2013)
+challenges and implications for China’s national health information system. Infect Dis     8:e67288. doi: 10.1371/journal.pone.0067288
+Poverty. (2021) 10:22. doi: 10.1186/s40249-021-00811-w
+                                                                                              27. Salvadó M,  Garcia-Vidal  C, Vázquez  P,  Riera M,  Rodríguez-Carballeira
+  14. Wang   L,  Liu    J,  Chin  DP.  Progress  in  tuberculosis  control  and    M,  Martínez-Lacasa   J,  et  al.  Mortality  of  tuberculosis  in  very  old  people.
+the  evolving   public-health  system   in  China.   Lancet.  (2007)  369:691–6.      J  Am   Geriatr   Soc.   (2010)   58:18–22.   doi:   10.1111/j.1532-5415.2009.0
+doi: 10.1016/S0140-6736(07)60316-X                                                  2619.x
+
+
+
+
+
+Frontiers in Tuberculosis                                          08                                                                frontiersin.orgHe et al.                                                                                                           10.3389/ftubr.2025.1615486
+
+
+Appendix                                                        Tableand deaths.A1 Baseline characteristics of the pulmonary tuberculosis cases
+
+    Characteristics of patients with TBP                           Variables   Group     Incidence cases  Death cases
+    Table A1 presents the baseline characteristics of pulmonary                                                                             Total          68,392         236
+tuberculosis (PTB) cases and deaths from 2004 to 2021. A total of
+68,392 PTB notiﬁcation cases were recorded, with 68.12% being      Gender         Male               46,592 (68.12%)         192 (81.36%)
+males. During the same period, there were 236 deaths, 81.36% of                      Female             21,800 (31.88%)         44 (18.64%)
+which were males. The mortality rate among PTB cases was 0.35%      Age           Aged ≤14           337 (0.49%)            4 (1.69%)
+(236/68,392). The majority of PTB cases were observed in adults
+                                                                                            15–34              28,967 (42.35%)          21 (8.90%)
+aged 15–34 (∼42%) and 35–64 (∼43%). A minimal number of
+cases (0.49%) were aged 14 or younger, while ∼15% were aged 65                     35–64              29,097 (42.54%)         79 (33.47%)
+or above.                                                                      ≥65                9,991 (14.61%)         132 (55.93%)
+   Regarding deaths, more than half occurred in individuals
+aged 65 or above. The remaining deaths were distributed among
+those  aged  35–64  (33.47%),  15–34  (8.90%), and  below  15
+(1.69%). In summary, the demographic information highlights the
+predominance of PTB cases and deaths among older adults, with a
+slight majority being male.
+
+
+
+
+
+Frontiers in Tuberculosis                                          09                                                                frontiersin.org

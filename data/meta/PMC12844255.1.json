@@ -1,0 +1,26 @@
+{
+  "pmcid": "PMC12844255",
+  "version": 1,
+  "pmid": 41597586,
+  "doi": "10.3390/microorganisms14010066",
+  "mid": null,
+  "title": "HS-Associated Pasteurella multocida Infection Disrupts Gut Microbiota and Metabolism in Mice",
+  "citation": "Microorganisms. 2025 Dec 28;14(1):66. doi: 10.3390/microorganisms14010066",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12844255.1/PMC12844255.1.pdf?md5=bb0945f2c5827705f8114dc3f501d7f7",
+  "text_url": "s3://pmc-oa-opendata/PMC12844255.1/PMC12844255.1.txt?md5=67840bec73a5d578623fed54c3f5c941",
+  "xml_url": "s3://pmc-oa-opendata/PMC12844255.1/PMC12844255.1.xml?md5=21d0109876da730c26fe594e085a433b",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g001.jpg?md5=207306cd973207b4a4bb060ebcff241d",
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g002.jpg?md5=31792d93e70eaba553d8154377386436",
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g003.jpg?md5=a1da38386504c4b8c99019f39136143b",
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g004.jpg?md5=0adbb63a33c041ac0346c6c0844e2070",
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g005.jpg?md5=cf974ad4438729e0d7c2a0d13dd3d210",
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g006.jpg?md5=7df396b20702c1684d0ae6afbb90d070",
+    "s3://pmc-oa-opendata/PMC12844255.1/microorganisms-14-00066-g007.jpg?md5=c4f0c43f324b579ee1af19be0eaf8b65"
+  ]
+}

@@ -1,0 +1,983 @@
+                                                                                     Send Orders for Reprints to reprints@benthamscience.net
+
+                                                                        Current Gene Therapy, 2026, 26, e15665232386151
+              REVIEW ARTICLE
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      ,11,11  ..  DBB  BCC
+                Unraveling Etiological Indications and Therapeutic Implications of Familial
+
+
+
+                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                 C & .
+               Cerebral Cavernous Malformations in the Dawn of Gene Therapy for                                                                                                                               =!*,8#!*
+              Monogenic Conditions
+
+
+         Ke Ma1,2,3,#, Moksada Regmi1,2,3,4,#, Shikun Liu1,2,3, Ying Xiong1,2,3, Yingjie Wang1,2, Weihai
+               Liu1,2,3, Yuwei Dai1,2,3, Guozhong Lin1,2, Jun Yang1,2 and Chenlong Yang1,2,4,*
+
+             1Department of Neurosurgery, State Key Laboratory of Vascular Homeostasis and Remodeling, Peking University
+              Third Hospital, Beijing 100191, China; 2Center for Precision Neurosurgery and Oncology of Peking University Health
+              Science Center, Peking University, Beijing 100191, China; 3Peking University Health Science Center, Beijing 100191,
+             China; 4Center for Oculocranial Pressure Instability Disorders (COPID), Henan Academy of Innovations in Medical
+              Science (AIMS), Zhengzhou 450003, China
+
+                                             Abstract: Cerebral Cavernous Malformations (CCMs) are vascular anomalies in the central nerv-
+                                            ous system that arise from both genetic and non-genetic factors, and can cause hemorrhage, sei-
+                                                    zures, and neurological deficits. Approximately 80% of CCMs are sporadic, while 20% are Familial
+                                        (FCCMs), an autosomal dominant, monogenic disorder characterized by multiple lesions and severe              A R T I C L E H I S T O R Y
+                                                        clinical manifestations. Over the past three decades, linkage analyses have identified KRIT1/CCM1,
+                       Received: February 24, 2025          MGC4607/CCM2, and PDCD10/CCM3 as major pathogenic genes in FCCMs. However, existing
+                       Revised:                       May                                      10,                                   2025
+                      Accepted:                        May                                        21,                                    2025                  surgical and pharmacological treatments have not adequately prevented disease progression, under-
+                                                 scoring the need for more effective strategies. Recent advancements in gene editing tools and deliv-
+                   DOI:                             ery systems have transformed gene therapy from a laboratory concept to a clinical reality, offering
+                     10.2174/0115665232386151250812105845
+                                          renewed hope for FCCM patients. Given the multifactorial nature, complexity, and neurological
+                                                comorbidities of FCCMs, exploring non-surgical gene therapies provides a promising approach for
+                                                addressing these cerebrovascular lesions. This review summarizes the latest progress in gene editing
+                                                     for FCCMs and examines its therapeutic potential, while acknowledging both the promising bene-
+                                                                fits and the remaining uncertainties in this evolving field.
+
+            Keywords: Cerebral cavernous malformations, gene therapy, monogenic disease, CRISPR Cas9, base editing, central nervous
+              system.
+
+                1. INTRODUCTION                                          leading to significant familial clustering of FCCMs. Conse-
+                                                                                quently, each generation within an affected family has a
+                 Cerebral Cavernous Malformations (CCMs), also known                                                                         high probability of carrying pathogenic genes [4]. Despite
+               as cavernomas, are characterized by multiple lesions in the                                                                                          this classic autosomal dominant inheritance pattern, some
+              Central Nervous System (CNS), consisting of collections of                                                                                  studies hint at the involvement of secondary genetic or epi-Therapy   structurally abnormal, slow-flowing capillaries [1, 2]. These                                                                               genetic modifiers that may influence the penetrance and
+               lesions are more commonly found in the supratentorial re-     severity of FCCMs. Future work dissecting such modifier
+              gion than in the infratentorial region [2]. The majority of      loci could be pivotal  in understanding cases where the
+        CCM cases, referred to as sporadic CCMs, involve a single    known causal genes do not fully explain the clinical out-
+               lesion and are typically asymptomatic and non-hereditary.    come.
+               In  contrast, Familial Cerebral Cavernous Malformations
+           (FCCMs) are a monogenic disorder characterized by multi-                                                                                       2. METHODOLOGY
+               ple lesions and more severe clinical symptoms. The popula-
+                                                                             This narrative review summarizes existing research onGene   tion incidence of FCCMs is estimated to be between 1 in
+             3,300 and 1 in 10,000 [3]. Affected parents have a 50%     Familial Cerebral Cavernous Malformations (FCCM) and
+             chance of passing the genetic mutation to their offspring,     gene therapy without employing systematic review or meta-
+                                                                                 analysis protocols. Literature was retrieved from PubMed
+                                                                    and Web of Science up to 2025 using a combination of
+                *Address correspondence to this author at the Department of Neurosurgery,   MeSH and free-text terms, including “FCCM,” “Gene Ther-
+                   State Key Laboratory of Vascular Homeostasis and Remodeling, Peking
+                                                                            apy,” “CRISPR,” “Base Editing,” and “Prime Editing,” with                  University Third Hospital, Beijing 100191, China;
+                  E-mail: vik.yang@pku.edu.cn                                   Boolean operators (AND/OR) to structure the search. A
+                   #                  These authors contributed equally to this work.                        snowballing method was also used to identify additional
+
+
+
+                                                         1875-5631/26 $65.00+.00     © 2026 Bentham Science Publishers
+
+
+                                                                                              1Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+relevant studies from reference  lists. Included studies fo-     these proteins and numerous other binding partners [6]. The
+cused on FCCM pathogenesis, gene  editing  tools  (e.g.,     loss of the CCM complex leads to the upregulation of
+CRISPR-Cas9, base editing, prime editing), delivery sys-   MEKK3 signaling, which subsequently triggers the patho-
+tems (e.g., AAV, LNP), and preclinical or translational re-     logical overexpression of downstream transcription factors,
+search. Priority was given to recent peer-reviewed publica-    namely KLF2 and KLF4, along with an increase in Rho-
+tions from the past five years, with foundational studies on     associated protein kinase (ROCK) activity. These molecular
+KRIT1, CCM2, and PDCD10 genes included where rele-     events contribute to the development of endothelial cell pa-
+vant. Exclusion criteria comprised studies lacking relevance,     thology  [20].  Notwithstanding  the  prominence  of  the
+non-English  publications,  duplicates, and  those  without    MEKK3–KLF2/4 pathway,  additional  overlaps with  the
+primary data. The literature was organized according to the    PI3K-mTOR or Wnt–β-catenin cascades may exist, and this
+sequence: FCCM pathogenesis, gene editing technologies,     cross-talk could be  particularly relevant when exploring
+delivery systems, and clinical considerations. Where find-     combination therapies or understanding different  clinical
+ings were inconsistent, comparisons were made based on     courses in patients.
+methodological differences, sample sizes, and experimental
+models. The review emphasizes key challenges in FCCM      4. CLINICAL MANIFESTATIONS AND CELLULAR
+gene therapy—such as blood-brain barrier delivery, correc-   PATHOLOGY
+tion thresholds for mosaic lesions, and immunogenicity—
+                                           CCMs can occur at various locations within the CNS,and discusses the potential applicability of newer gene edit-
+                                                            with supratentorial lesions being more prevalent than in-ing tools like glycosylase base editing and RNA editors,
+                                                                        fratentorial lesions [2]. Pathologically, FCCM lesions do notsuch as Cas13a, in addressing these issues.
+                                                  show significant differences from sporadic CCM. However,
+                                                                    familial cases are more likely to affect multiple organs, par-
+3. PATHOGENIC GENES OF FCCMs                                                                        ticularly the brain, retina, skin, vertebrae, liver, and kidneys
+   Familial Cerebral Cavernous Malformations (FCCMs)      [21]. Patients with FCCM may experience symptoms such
+are recognized as an autosomal dominant monogenic genet-     as seizures (40%-70%), focal neurological deficits (25%-
+ic  disorder,  which  follow  a  two-hit  mutation  model:    50%) without intracranial bleeding, nonspecific headaches
+germline mutation plus a secondary somatic event (Fig. 1).    (10%-30%), and intracranial hemorrhage (25%-32%), which
+Through linkage analysis, pathogenic genes associated with    may be confined to the lesion or extend beyond it. Hemo-
+FCCMs, including KRIT1/CCM1, MGC4607/CCM2, and      siderin deposits surrounding individual cavernomas indicate
+PDCD10/CCM3, have been identified [5, 6]. However, the-     remote leakage caused by abnormal capillaries [7, 22, 23].
+se three mutations are not found in more than 5% of FCCM     Early detection of FCCM is challenging, with a significant
+cases [7]. Global gene sequencing studies have identified     proportion of cases (20%-50%) remaining asymptomatic
+over one hundred mutation sites within these three chromo-    and often being incidentally discovered during head imaging
+somal regions. Significant genetic heterogeneity is observed      [24].  Nevertheless,  as  lesions  evolve,  recurrent  micro-
+in the mutation sites across different populations (such as     hemorrhages may gradually accumulate iron deposits, po-
+Hispanic, Latino, and Mexican populations), and notable      tentiating both local neurotoxic effects and inflammation.
+differences exist in the proportion of FCCMs caused by    Most non-bleeding lesions are asymptomatic, resulting in a
+KRIT1, MGC4607, and PDCD10 mutations [8]. In the Han    low clinical diagnosis rate. However, when bleeding occurs
+population, nearly ten mutation sites have been identified in     within a lesion, it can manifest as symptoms such as head-
+FCCM families, with the vast majority located within the     aches, seizures, stroke, or neurological dysfunction. Lesions
+KRIT1 gene [9-15]. Mutations in CCM genes lead to loss of     located in the brainstem or critical functional areas can lead
+protein function, resulting in cellular dysfunction and dis-                                                                     to paralysis, aphasia, respiratory disorders, and even death,
+ease. The most common mutation type is protein truncation,                                                            posing a serious threat to the life and well-being of affected
+although missense mutations, leading to protein misfolding,                                                                  individuals  [25].  Significantly,  the mosaic  structure  of
+are also rare [6]. Notably, a residual subset of FCCM pa-                                            CCMs—where not all endothelial cells harbor the primary
+tients (estimated to be 5% or more) remains genetically un-                                                      mutation—adds further complexity to predicting which le-
+explained, suggesting that large deletions, cryptic regulatory                                                                sions will become symptomatic. FCCMs are characterized
+variants, or even newly discovered genes might be implicat-                                                     by multiple lesions, an earlier age of onset in children, and
+ed. Establishing uniform standards for variant interpreta-                                                                      relatively severe symptoms. CCMs are the second most
+tion—via functional assays or advanced long-read sequenc-                                             common vascular malformation of the CNS, after develop-
+ing—will be essential in narrowing this gap.                                                          mental venous anomalies [2]. Recent studies report a preva-
+   Extensive laboratory research spanning 20 years has     lence of CCM ranging from 0.1% to 0.8% [26, 27]. The
+explored the molecular mechanisms underlying CCM de-     population-based  Scottish  Intracranial  Vascular  Malfor-
+velopment [16, 17]. The three genes, KRIT1, CCM2, and     mation Study (SIVMS) estimated an annual incidence rate
+PDCD10, collectively regulate cell proliferation, network     of 0.56 per 100,000 individuals aged 16 years and older
+formation, and endothelial growth within a larger signaling      [28]. Currently, most treatment strategies for CCM focus
+pathway. These genes directly interact as part of a hetero-     primarily on the sporadic form, aiming to stabilize the lesion
+trimeric adaptor complex known as the CCM complex,    and prevent its growth and bleeding [22]. Unfortunately, a
+which explains how mutations in three distinct genes can      significant proportion of patients still face the challenge of
+result  in  the same  disease  while  encoding  three  non-     experiencing at least one stroke event during their lifetime
+homologous proteins [18, 19]. Mutations in the CCM genes      [21]. With advancements in neuroimaging technology, it is
+are believed to impair critical surface interactions between    now possible to accurately assess the number, location, and
+2Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+
+
+
+
+Fig. (1). Pathogenic Mechanism of FCCMs. The pathogenesis of FCCMs arises from a two-hit mutation mechanism. The first hit is a
+germline mutation, while the second hit is a somatic mutation, leading to multifocal lesions. Mutations in CCM genes result in impaired pro-
+tein expression and function, disrupted cell-cell connections, and increased cellular proliferation, ultimately causing vascular malformations
+and rupture. (A higher resolution / colour version of this figure is available in the electronic copy of the article).
+
+bleeding stage of CCM lesions using gradient echo se-     promise for the treatment and potential cure of FCCM, of-
+quences or Magnetic Resonance Imaging (MRI). However,     fering a glimmer of hope for alleviating symptoms.
+the unpredictable nature of bleeding and the lack of effec-
+tive preventive measures indicate that FCCM patients re-      5. GENE EDITING AS A THERAPEUTIC STRATEGY
+quire lifelong monitoring for the risk of bleeding in their                                                                   Familial Cerebral Cavernous Malformation (FCCM) is a
+brain lesions.                                                         monogenic, loss-of-function disorder, making  it an ideal
+   The exploration of new therapies has faced significant      target for precision gene repair rather than gene knockout.
+challenges. Clinical trials conducted by a joint team from    Contemporary editing platforms  fall  into two functional
+the University of Chicago and Johns Hopkins University      classes: disruptive editors, which silence genes, and correc-
+investigated the role of Atorvastatin, a RhoA/ROCK inhibi-      tive  editors, which  restore wild-type sequence. Because
+tor, in controlling the progression and bleeding of CCM   FCCM pathogenesis arises from truncated or misspliced
+lesions. However, no effective evidence has been demon-   CCM proteins, corrective tools—especially Base Editing
+strated so far [29, 30]. In 2021, a collaborative study be-    (BE) and Prime Editing (PE)—are preferred; they can repair
+tween the United States and Germany, published in Nature,     single-nucleotide  errors without generating double-strand
+suggested that CCM development is driven by the function-     breaks or disruptive indels.
+al deletion of the KRIT1 gene and the activation of the       The most frequently mutated locus, KRIT1, spans 19
+PI3K-mTOR signaling pathway. The study also proposed     exons; exon 16 encodes Ankyrin repeats, an NPXY motif,
+that Sirolimus, a specific inhibitor of mTOR, could inhibit    and a FERM domain  that together anchor RAP1A and
+the progression of CCM lesions. However, clinical trials in    ICAP1α, preserving endothelial junctions [33-36]. Similar
+this area have not produced ideal results. Researchers at the     loss-of-function variants in CCM2 and PDCD10 converge
+University of California discovered that Propranolol, a β1    on the same pathway. Importantly, FCCM lesions are mosa-
+adrenergic receptor antagonist, could improve CCM lesions.       ic, meaning that only a proportion of endothelial cells carry
+Building on this finding, an Italian research team proposed a     the germline + somatic “second hit.” Modelling studies and
+clinical  trial program called "Treat_CCM," but the latest      preclinical data indicate that correcting as little as 15–30 %
+results published in 2023 were unsuccessful [3, 31, 32].     of these  cells can  re-establish  barrier  integrity, dampen
+Such setbacks show the complexity of targeting downstream   ROCK signalling, and halt lesion enlargement. Thus, even
+pathways in CCM biology. Even if a candidate drug shows      partial, high-fidelity repair by BE or PE may deliver clinical
+mechanistic promise in preclinical models, inter-patient het-     benefit while minimizing vector load and off-target risk.
+erogeneity and the mosaic nature of CCM lesions can com-                                                           Long-term efficacy depends on whether the chosen plat-
+plicate  real-world  efficacy. Given  the  current  treatment                                                       form confers a permanent (DNA-level) or transient (RNA-
+strategies and ongoing research, gene editing tools still hold                                                                      level) correction. BE and PE write permanent changes and
+                                                                                                                                3Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+
+
+
+
+Fig. (2). Stepwise Development Pipeline for Personalized Gene Therapies Targeting FCCMs. The process begins with gene target confirma-
+tion, focusing on pathogenic variants in KRIT1, CCM2, and PDCD10. Disease models are then constructed using humanized animal models
+and vascularized brain organoids derived from patient-specific iPSC-endothelial cells. Delivery system optimization involves evaluating
+various vectors, including nanoparticles, liposomes, AAV, and lentivirus, for CNS targeting and efficient intracellular uptake. Efficacy veri-
+fication is conducted through transcriptomic profiling, protein detection, and lesion monitoring in preclinical models. Safety assessments
+include off-target analysis, barrier integrity evaluation, and neurotoxicity testing. The final stage—clinical validation—progresses through
+Phase I–III trials, which assess safety, dose, and therapeutic benefit across diverse patient cohorts. (A higher resolution / colour version of this
+figure is available in the electronic copy of the article).
+
+therefore suit one-time or limited-dosing strategies; RNA-      transient rescue but would require periodic redelivery—an
+guided editors, such as Cas13-ADAR, act only on tran-     important trade-off when planning lifelong management.
+scripts and will require redosing, but carry a lower risk of                                                                    In vivo work  is technically demanding: vectors must
+irreversible off-target effects. The sections below compare                                                         evade immunity, scale to multilesion dosing, and remain
+these options in detail.                                                                    effective  if neutralizing antibodies emerge with redosing
+                                                                     [46]. Nanoparticles or virus-like particles—possibly com-
+5.1. In Vivo vs. Ex Vivo Editing                              bined with transient immunosuppression—are under active
+                                                                   investigation to meet these criteria. Continued optimization   Developing FCCM therapies begins with determining
+                                                                     will determine whether durable, one-time BE/PE therapy orwhether corrections are made outside the body (ex vivo) or
+                                                                   repeatable, transcript-level RNA editing (with its inherentlydirectly in the patient (in vivo) (Fig. 2).
+                                                          lower permanent off-target risk) becomes the frontline strat-
+   Ex vivo editing—successfully applied in blood disorders    egy for FCCM.
+and lymphomas [37-39] —relies on harvesting cells, editing
+them, and reinfusing them. That workflow is impractical for                                                                       5.2. Delivery Strategies
+FCCM: endothelial cells would need to be isolated from
+multiple CNS  lesions,  expanded,  and  surgically  re-        For in vivo therapies to succeed in FCCM, delivery vec-
+implanted, all with high immunologic risk [40, 41].                tors must be stable in circulation, resist immune clearance,
+                                                                 cross the BBB, and efficiently target affected endothelial
+    In  vivo  editing  delivers  CRISPR-based  tools  (or                                                                         cells [40]. This is especially challenging given the architec-
+mRNA/RNP equivalents) straight to the cerebrovasculature
+                                                                     ture of FCCM lesions—clusters of distended, thin-walled[42]. It has already demonstrated clinical benefits in neuro-
+                                                                       capillaries devoid of normal tissue support [2].muscular and retinal diseases and, more recently, in a one-
+shot lipid-nanoparticle therapy for sickle-cell disease [43-      Among  delivery  vehicles, Adeno-Associated  Viruses
+45]. For FCCM, the same concept must be adapted to cross    (AAVs) and Lipid Nanoparticles (LNPs) are the most stud-
+the Blood-Brain Barrier (BBB), reach distributed lesions,      ied. AAV-BI30 has shown strong tropism for CNS endothe-
+and limit exposure of healthy vasculature. Permanent edi-     lium at low doses in mice, making it a leading candidate for
+tors, such as BE or PE, are attractive here: if even 15-30 %     CNS-targeted gene editing. However, AAVs have draw-
+of mutant endothelial cells are corrected, junctional integrity     backs, including immunogenicity, limitations in cargo size,
+can be restored and lesion growth can be arrested, reducing    and the challenge of redosing due to neutralizing antibodies
+the need for repeat dosing. By contrast, RNA editors offer      [47].
+4Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+   Non-viral systems, particularly lipid- or polymer-based       The most widely used system, Cas9, introduces Double-
+nanoparticles, are emerging as attractive alternatives. These     Strand Breaks (DSBs) at specific DNA loci via its RuvC
+carriers are tunable, low in immunogenicity, and capable of    and HNH nuclease domains [50-52]. Repair typically occurs
+encapsulating large editing complexes [48]. Some preclini-     through Non-Homologous End Joining (NHEJ), which  is
+cal work suggests that transient induction of Endothelial-to-      fast but error-prone, or Homology-Directed Repair (HDR),
+Mesenchymal Transition (EMT) may increase nanoparticle    which is more precise but less efficient in post-mitotic cells
+uptake, though safety concerns remain regarding EMT in-      like brain endothelium [53-55].
+duction in the CNS.
+                                                   To improve specificity and reduce genotoxicity, modi-
+   Ultimately,  carrier  systems  must  achieve  sufficient     fied enzymes like Cas9 nickase (Cas9n) and Cas12a/b have
+transduction coverage across dispersed lesions while main-     been developed. These generate single-strand nicks or stag-
+taining high selectivity for mutant endothelial cells. Strate-     gered  ends,  potentially  minimizing  off-target  activity.
+gies may  include  ligand-directed  nanoparticles  or  engi-    Cas12a also recognizes T-rich PAM sequences, broadening
+neered AAVs with improved endothelial tropism. In FCCM,     the genome’s editable regions. Meanwhile, Cas13 enzymes
+even a small margin of off-target uptake may carry a serious     offer RNA-targeting activity, opening the door for transient
+risk, so precise targeting is critical (Table 1).                       transcript-level modulation rather than permanent edits [56,
+                                                                   57].
+6. GENE EDITING TOOLS                                                                Despite its utility, the risk of large deletions or chromo-
+   Gene editing holds promise for correcting the diverse    somal rearrangements from DSBs remains a serious limita-
+mutations implicated in FCCM, including  transition and      tion for CNS applications. Thus, for FCCM, especially in
+transversion point mutations, small deletions, and indels.     mosaic lesions located in critical brain regions, tools that
+Transition mutations are implicated in disorders like proge-     avoid DSBs—like base editors or prime editors—are in-
+                                                                creasingly favored. These newer tools offer more controlria; transversions underlie diseases like sickle cell anemia;
+                                                            over editing outcomes while still enabling permanent cor-and insertions or deletions are the basis of conditions such
+                                                                      rection, a key therapeutic advantage for inherited cerebro-as Tay-Sachs and cystic fibrosis. In FCCM, the predominant
+                                                                vascular diseases.mutation types  are  loss-of-function  variants,  particularly
+protein-truncating  mutations   in  KRIT1,  CCM2,  and
+                                                                       6.2. Base EditingPDCD10. The heterogeneity of FCCM lesions—including
+their mosaic structure and variable penetrance—places a       Base editing enables precise, single-nucleotide changes
+premium on tools that combine precision, flexibility, and     without creating DSBs, making it ideal for treating mono-
+delivery compatibility with the CNS. A comparative over-     genic diseases like FCCM. It relies on a fusion of a catalyti-
+view of major editing tools is provided in Fig. (3) and fur-     cally inactive or nickase Cas9 (dCas9/Cas9n) with a cyti-
+ther detailed in Table 2, summarizing their mutation scope,     dine or adenine deaminase, which converts specific bases
+durability, feasibility of CNS delivery, and suitability for     within a targeted window [58, 59].
+mosaic FCCM lesions.                                                                 Cytidine Base Editors (CBEs) convert C→T (or G→A),
+   Tools must also address an important pathophysiological     while  adenine  base  editors (ABEs) mediate A→G  (or
+constraint: in FCCM, correcting only a subset of cells within    T→C). These  transitions cover a substantial fraction of
+                                                 known FCCM  mutations  across  KRIT1, CCM2,  anda lesion may be sufficient to stabilize local vasculature.
+                                               PDCD10. Advanced versions, such as BE4max and ABE8e,Thus, tools that achieve partial correction with high fidelity
+                                                                    offer enhanced  fidelity, broader PAM compatibility, andcan be therapeutically effective, even without universal cor-
+                                                           reduced off-target rates [58, 60-63].rection.
+                                                            For FCCM, BE offers several advantages: (i) it can cor-
+   Additionally, the permanence of correction varies de-                                                                       rect pathogenic mutations at the DNA level, offering per-
+pending on  the  tool.  DNA-targeting  systems,  such  as                                                      manent restoration of gene function; (ii) It is non-disruptive,
+CRISPR-Cas9, Base  Editors  (BEs), and Prime  Editors                                                             avoiding the complications of DSBs; and crucially, (iii)  it
+(PEs), induce lasting genomic changes but carry risks of off-                                                             allows correction of mosaic lesions, where editing even a
+target DNA   alterations,   especially  concerning  non-                                                                subset of endothelial cells may be sufficient to restore local
+regenerating CNS tissue. In contrast, RNA editing systems,                                                                vascular integrity and suppress inflammatory pathways.
+including Cas13-ADAR platforms, offer transient, reversi-
+                                                         However, base editing has limitations. The editing win-ble correction of mutant transcripts—safer for sensitive tis-
+                                              dow is narrow and sequence-and context-dependent. Theresues but requiring repeated delivery [49].
+                                                                                is a risk of bystander edits at adjacent cytidines or adenines,
+                                                      which must be  carefully  evaluated,  especially  in non-6.1. CRISPR-Based Platforms
+                                                                regenerating tissues like the brain. Moreover, while BE is
+   CRISPR-Cas systems have revolutionized gene editing     generally more efficient than PE, it is limited to transition
+by enabling the precise and programmable manipulation of     mutations and cannot address indels or transversions [64].
+genetic material. For FCCM, the choice of the CRISPR tool                                                                 Nonetheless, for FCCM patients with amenable point
+must consider mutation type, editing  precision, delivery                                                               mutations, BE offers a compelling balance of efficiency,
+compatibility with the CNS, and risks associated with off-                                                                      safety, and therapeutic durability.
+target effects.
+                                                                                                                               5Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+Table 1. Gene delivery vectors targeting endothelial cells for therapeutic genome editing.
+
+
+                                                        Cargo
+           Vector                Mod / Tropism Tag                          Primary Target      Intended Indication     References
+                                                                     (Gene / editor)
+
+                                           VIRAL VECTORS
+
+                                   7-aa VP1 loop (transfer-       NLS-mScarlet;
+      AAV-BI-hTFR1                                                             Brain ECs (hTfR)      CNS disorders            [94]
+                                           rin-binding)                 luciferase
+
+       AAV-BR1               Brain-EC-tropic capsid      HEXA; HEXB          Cerebral ECs        Tay-Sachs / Sandhoff       [95, 96]
+
+                      QVLVYRE glomerular
+       AAV2-GEC                                               IdeS            Glomerular ECs     Inflammatory nephritis        [97]
+                                            peptide
+
+       AAV-GDF11          —               GDF11             ECs               Atherosclerosis            [98]
+
+   AAV-PHP.eB-NeuroD1        —                 NeuroD1             ECs              Ischaemic stroke           [99]
+
+       AAV9-sFLT1            Soluble FLT1 ectodomain      —               Vascular ECs            Brain AVM            [100]
+
+                      NNSTRGG brain-EC pep-                          Brain microvascular     Endothelial dysfunc-
+        AAV-BI30                                    NLS-GFP; luc                                                            [47]
+                                                   tide                                   ECs                      tion
+
+                        TALKPFL brain-EC pep-                          Brain microvascular
+       AAV-PHP.V1                                          Cre                   —                 [101]
+                                                   tide                                   ECs
+
+                      NDVRAVS EC-binding
+    AAV2/9-NDVRAVS                                eGFP           ECs (HSPG)       —                 [102]
+                                            peptide
+
+                      ESGHGYF lung-EC pep-
+     rAAV2-ESGHGYF                                        Luc; GFP         Pulmonary ECs       —                 [103]
+                                                   tide
+
+                                                                                                               Diabetic retinopathy /
+  rAAV2/2[QuadYF-TV]-EC5      Heptameric EC motif        Mutant rep-cap          Retinal ECs                                    [104]
+                                                                AMD
+
+                                    Endothelium-targeting
+      Hybrid AAV (ETP)                            VWF           HUVECs        von Willebrand disease       [105]
+                                            peptide
+
+                        ICAM2 promoter restricts
+   AAV1-pICAM2-SpCas9                                   SpCas9              Retinal ECs            Retinopathy            [106]
+                                      Cas9
+
+                                                                                                                Pancreatic cancer ves-
+        Oncolytic AdV            CD40L trimer            CD40L-IZ      HUVECs (CD40)                                 [107]
+                                                                                                                                       sels
+
+                                                             HUVECs
+    AdV-VEGF-DΔNΔC        Truncated VEGF-D insert     VEGF-DΔNΔC                               Placental insufficiency       [108]
+                                                                         (VEGFR2/3)
+
+          rFVIII-LV           —                 ABE / PE tools         BOECs            Haemophilia A           [109]
+
+       VE-cadherin LV           VE-cadherin promoter      VEGFR2 shRNA          Retinal ECs            Retinopathy            [110]
+
+         GP64-LV            Bac-GP64 + CD47 cloak            FVIII               Liver ECs           Haemophilia A           [111]
+
+        LV.VEC               miRT-shielded FVIII             FVIII            LSEC             Haemophilia A           [112]
+
+                                         NON-VIRAL VECTORS
+
+                                                                                  Nasal epithelium
+      CaP nanoparticle           Calcium-phosphate core       dCas9-Sirt1 RNP                             Ischaemic stroke          [113]
+                                                                       (MCT1)
+
+                                                   eGFP; ZNF580
+      PEI copolymer NP         P(MMD-co-LA)-g-PEI                               Generic ECs       —                 [114]
+                                                                 plasmid
+
+                                                   eGFP; ZNF580
+    mPEG-PLGA-PEI NP     CREDVW homing peptide                           ECs         —                 [115]
+                                                                 plasmid
+
+                                                         Cas9 + gRNA                              Cerebrovascular dis-
+      PEG-PLGA NP            Brain-EC-target polymer                              Vascular ECs                                   [116]
+                                               (CDH5 promoter)                                    ease
+
+     G2CNN-AAV9‡       G2 dendrimer + EC peptides          Cre            Microvascular ECs    Atherosclerosis models       [117]
+
+                                                                                                                     Post-injury intimal
+  CDG2-cRGD plasmid[^120]      α_vβ_3-binding cRGD        VEGF       HUVECs (α_vβ_3)                                 [118]
+                                                                                                                    thickening
+
+Note: ‡ An AAV capsid coated with a synthetic dendrimer. Abbreviations: ABE – adenine base editor; AdV – adenovirus; AMD – age-related macular degeneration; AVM –
+arteriovenous malformation; BOEC – blood-outgrowth endothelial cell; CaP – calcium phosphate; EC – endothelial cell; HSPG – heparan-sulfate proteoglycan; HUVEC – human
+umbilical-vein EC; LSEC – liver sinusoidal EC; LV – lentiviral vector; NP – nanoparticle; PE – prime editor; RNP – ribonucleoprotein.
+6Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+
+
+
+
+Fig. (3). The Working Principles of Different Gene Editing Technologies. FCCMs are associated with the functional deficiency of CCM pro-
+teins. Current approaches to address these deficiencies include DNA editing, RNA editing, and protein editing. DNA editing technology is the
+most advanced, with the potential to cure diseases. Although RNA and protein editing cannot yet achieve curative outcomes, they are rapidly
+developing and offer higher safety profiles. (A higher resolution / colour version of this figure is available in the electronic copy of the article).
+
+
+Table 2. Comparative analysis of gene-editing platforms for FCCM.
+
+
+                   Mutation Types                                Delivery                               Suitability for         Best use Case in
+    Platform                                   Precision                         Permanence
+                     Addressed                                      Feasibility                       Mosaic Lesions        FCCM
+
+                                                                                                                         Large insertions or
+                                                                  Challenging due
+  CRISPR-Cas9    All (including large     Moderate (DSBs →                                        Risk of genotoxicity;      knock-ins; limited
+                                                                            to size and off-      Permanent
+     (DSB)         indels or insertions)     NHEJ or HDR)                                                not ideal in CNS     CNS utility due to
+                                                                                 target risk
+                                                                                                                                   genotoxic risk.
+
+                                                                                                                        Long-term lesion
+                                                                 High, especially                        Excellent: partial cor-      stabilization; effec-
+                     Transition mutations    High (no DSBs, nar-
+     BE                                                         with AAV or       Permanent        rection can stabilize       tive when ≥15–20%
+                 (C→T, A→G)         row window)
+                                                  LNP                                     lesions            of mutant endothelial
+                                                                                                                                                           cells are corrected.
+
+                                                                                                                                           Precise repair of
+                                                                                                                    complex or rare
+                                                                 Moderate–high,
+                     All point mutations,    Very high (program-                                              Excellent: can target      variants; ideal when
+     PE                                                             delivery is still a     Permanent
+                        small indels         mable pegRNA)                                                diverse mutations         multiple or com-
+                                                                        challenge
+                                                                                                                  pound mutations
+                                                                                                                                                                       exist.
+
+                                                                                                                                 Rapid, reversible
+                                                                                                                                                      transcript correction;
+                                                                High; packaging
+  Cas13 / ADAR   A→I (RNA level                                                                 Useful for dynamic or      ideal for high-risk
+                                     High (transcript-level)     improving with       Transient
+     Fusion               only)                                                                             acute modulation       lesions or early inter-
+                                                                       smaller Cas13s
+                                                                                                                                    vention in pediatric
+                                                                                                                                                       cases.
+
+                                                                                                                                                 Allele-specific si-
+                                                                                                                                      lencing with minimal
+              A→I (via native
+   Endogenous                         Moderate (depends on     Very high (no                   Lower efficiency but    immune risk; suited
+               ADARs, no protein                                                     Transient
+  RNA Editors                   ADAR levels)         foreign protein)                    low immunogenicity      for long-term modu-
+                            delivery)
+                                                                                                                                                     lation with repeated
+                                                                                                                            low-dose delivery.
+
+Abbreviations: BE – base editor; PE – prime editor; DSB – double-strand break; ADAR – adenosine deaminase acting on RNA; CNS – central nervous system; FCCM – familial
+cerebral cavernous malformation. “Genome altered?” refers to whether permanent DNA changes occur. “Best use-case” describes the clinical niche where each tool is most effec-
+tive, particularly considering mosaic correction thresholds.
+
+                                                                                                                               7Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+6.3. Glycosylase-Based Editor                                higher editing efficiencies and lower indel levels, PE pro-
+                                                               vides greater versatility, precision, and targeting scope [77,
+   To overcome the limitations of CBEs and ABEs, Glyco-                                                                   78].
+sylase Base Editors (GBEs) have been developed to intro-
+duce non-transition substitutions, such as C-to-G, enabling         In the context of FCCM, prime editing could be particu-
+the correction of a broader range of pathogenic variants      larly useful in lesions with compound or multi-site muta-
+[65]. GBEs use a fusion of a cytidine deaminase, a nickase      tions, or in patients whose mutations lie outside the editable
+Cas9, and Uracil DNA Glycosylase (UNG) to catalyze mul-    windows of conventional BEs. Moreover,  its potential to
+tistep base conversion through targeted DNA repair path-     correct small indels or reintroduce correct splice sites aligns
+ways [66].                                                    well with the mutation profiles observed in truncating vari-
+                                                                       ants.
+   Unlike standard BEs, GBEs: (i) enable purine↔pyrimidine
+switching, expanding the types of editable mutations;  (ii)      As with other DNA-targeting methods, PE offers perma-
+offer a narrow, high-fidelity editing window, reducing by-     nent correction, which is desirable for long-term manage-
+stander effects; and (iii) maintain compatibility with dCas9    ment of FCCM, especially in pediatric cases. However, its
+or Cas9n backbones, aiding delivery and modularity.             effectiveness may vary in low-proliferation cells like brain
+                                                                  endothelial cells. In such contexts, the capacity of PE to
+   Experimental data have shown editing efficiencies up to                                                                        partially restore function in only a subset of mosaic cells
+72.1% with specificity exceeding 90% in mammalian sys-                                              may still suffice to prevent lesion progression, reduce in-
+tems [67]. Integration with transcriptional Pioneer Factors                                                         flammatory signaling, or restore vascular integrity.
+has further expanded editing windows and improved access
+to otherwise inaccessible genomic loci [68].                        Nonetheless,  the  complexity  of  PE’s  machinery—
+                                                                 requiring multiple hybridization steps and a relatively large
+   For FCCM, GBEs are particularly valuable when a non-                                                                 delivery payload—makes efficient and brain-specific deliv-
+transition point mutation is identified. As with BE, correct-                                                               ery a major translational hurdle. Strategies involving dual-
+ing even a portion of the mutant endothelial cells may be                                     AAV systems, self-replicating RNA, or LNPs will need
+enough  to  normalize  local  vascular  signaling,  reduce                                                               optimization for CNS use.
+KLF2/4 activation, and prevent lesion growth.
+   While GBE platforms are still under active development      6.5. RNA Editing: Cas13a
+and remain less validated than BEs, their ability to fill gaps
+                                                              Unlike DNA editing tools, RNA editors offer transientin editing scope makes them important candidates in per-
+                                                                 correction by targeting mutant transcripts without alteringsonalized FCCM therapy, especially when used alongside
+                                                                 the genome. This feature  is particularly attractive in thedelivery methods tailored to vascular tissues [69-71].
+                                                CNS, where avoiding permanent off-target damage is a key
+                                                              concern. In FCCM, RNA editing could serve as a safe and6.4. Prime Editing
+                                                                   reversible intervention, particularly when treating lesions in
+   Prime Editing (PE) represents a versatile and highly pro-      critical brain regions or when long-term expression of ther-
+grammable gene editing strategy capable of introducing     apeutic proteins is not yet justified.
+targeted base substitutions, small insertions, and deletions                                                      The Cas13a and Cas13b enzymes recognize  specific
+without the need for Double-Strand Breaks (DSBs) or donor                                                                 single-stranded RNAs via CRISPR RNA (crRNA) guidance,
+DNA templates. It integrates a Cas9 nickase (Cas9n) with                                                       and can be fused to adenosine deaminases (e.g., ADAR2) to
+an engineered Reverse Transcriptase (RT) and a prime edit-                                                             enable A-to-I (read as G) conversions [79-81]. Fusion con-
+ing guide RNA (pegRNA), which encodes the desired edit                                                                          structs, such as REPAIR and RESCUE, have demonstrated
+and directs it to the target locus [66, 72, 73]. This broad ver-                                                                        efficient RNA editing in mammalian cells, although early
+satility is particularly relevant for FCCM, given the range of                                                           systems were large and challenging to package into AAVs.
+known and emerging mutations that might require more
+than simple transitions.                                        Recent innovations have focused on minimizing Cas13
+                                                                 constructs  for  delivery  efficiency.  Systems  like  mini-
+   Unlike base editing, which is limited to transition muta-                                               Cas13X-ADAR2dd and Cas13bt are small enough to fit into
+tions, PE can theoretically generate all 12 possible base-to-                                                                   single AAVs while maintaining strong editing activity and
+base conversions, as well as targeted indels. This broad edit-                                                     low off-target effects [82-84]. These tools have demonstrat-
+ing range makes it especially promising for FCCM, which                                                         ed A-to-I and C-to-U editing with high fidelity, opening
+involves  diverse  mutations  across KRIT1, CCM2,  and                                                            doors for transient, CNS-targeted interventions with mini-
+PDCD10. The system’s flexibility is further enhanced by its                                                     mal risk of permanent genome disruption.
+ability to introduce edits up to 34 base pairs downstream of
+the nicking site, increasing its reach across patient-specific     A  critical challenge remains the control of collateral
+mutations [74].                                                 cleavage, a known issue with Cas13 enzymes where unin-
+                                                            tended RNAs are degraded once the enzyme is activated.
+   While PE is slightly less efficient than BE in some set-                                                                  High-fidelity variants, such as hfCas13d, which have been
+tings,  it carries several advantages: a reduced risk of by-                                                                  recently used to treat retinitis pigmentosa, dramatically re-
+stander edits, less susceptibility to sequence context, and a                                                        duce this effect [85].
+much higher edit-to-indel  ratio compared to HDR-based
+systems [75]. In murine blastocysts, editing frequencies of         In FCCM, Cas13-based RNA editing could be applied in
+1.1%-18.5% have been reported, with precision far exceed-     scenarios where short-term suppression of pathogenic tran-
+ing that of Cas9-HDR approaches [76]. While BE offers      script expression may delay or reduce lesion development.
+
+8Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+For example, transcript-level correction of mutated KRIT1      6.6.2. Editing Tools for Nonsense Mutations
+in high-risk brainstem lesions might provide functional res-
+                                                          Although missense and truncating mutations are morecue without long-term risk. However, this approach would
+                                                               prevalent  in FCCM, nonsense mutations  that introducerequire repeat dosing, and delivery strategies must be tuned
+                                                         Premature Termination Codons (PTCs) also contribute toto reach diffuse cerebrovascular targets with high precision
+                                                            pathogenesis in some patients. These can produce non-[85].
+                                                                  functional, truncated proteins, making them attractive tar-
+                                                                 gets for correction via stop codon readthrough technolo-
+6.6. CRISPR-Free Gene Editing Tools                                                                      gies.
+6.6.1. Endogenous RNA Editing                                                  One such tool is RESTART, a programmable RNA base
+   CRISPR-free RNA editing platforms offer a strategy for      editor developed by Yi Chengqi’s team. RESTART intro-
+transient, non-permanent  correction  of  pathogenic  tran-     duces pseudouridine modifications at PTCs, enabling ribo-
+scripts without modifying the genome. These tools recruit    somes to bypass stop signals and restore translation of full-
+native human enzymes, such as ADAR (adenosine deami-     length proteins [92]. This strategy has been validated in
+nase acting on RNA) or APOBEC, to catalyze base conver-    mammalian cells and could be applicable to FCCM variants
+sions in target mRNAs. Because no exogenous protein is      that truncate KRIT1, CCM2, or PDCD10.
+introduced, immunogenicity  is minimized—a major  ad-                                                            Another  approach  involves  engineered tRNA/tRNA-
+vantage in CNS applications like FCCM.                                                                synthetase pairs (tRNA-aaRS) that suppress stop codons by
+   One prominent system is LEAPER (Leveraging Endog-     inserting the correct amino acid during translation. In 2022,
+enous ADAR for Programmable Editing of RNA), first in-    Xia Qing’s team demonstrated that AAV-delivered tRNA-
+troduced in 2019. LEAPER uses short engineered RNA    aaRS complexes restored dystrophin expression in both mu-
+guides (arRNAs) to recruit endogenous ADARs to convert      rine and patient-derived muscle cells, leading to functional
+Adenosine (A) to Inosine (I), which is interpreted as Guano-     rescue in Duchenne muscular dystrophy models [93].
+sine (G) during translation. However, early LEAPER con-
+                                                           These strategies do not edit the underlying DNA orstructs exhibited low editing efficiency and occasional by-
+                                             RNA, making them non-mutagenic and theoretically repeat-stander effects, especially when arRNA lengths were subop-
+timal.                                                          able with minimal genomic risk. However, key challenges
+                                                             remain: (i) Specificity: Ensuring readthrough only occurs at
+   To address these limitations, LEAPER 2.0 was devel-                                                            pathogenic PTCs without misreading normal stop codons;
+oped, utilizing circular arRNAs (circ-arRNA) to resist exo-                                                                                       (ii) Efficiency: Achieving sufficient protein restoration to
+nuclease degradation and extend editing duration. Delivered                                                                reverse pathology; (iii) Delivery: Targeting brain endotheli-
+via AAV, these guides enabled stable RNA editing in hu-                                                                          al cells, which are dispersed and often embedded in lesion
+man primary cells and organoids [86, 87].                                                                   cores.
+   Several complementary innovations have emerged:  (i)                                                         Given that PTC mutations are relatively rare in FCCM
+CLUSTER, a gRNA optimization platform developed by                                                      compared to missense variants, the immediate application of
+Thorsten’s group, achieved up to 45% on-target editing in
+                                                                 these tools is limited. Nonetheless, they provide an addi-cell culture and 10% in mouse liver with minimal off-target
+                                                                      tional therapeutic avenue and may complement DNA/RNAactivity;  (ii) cadRNA, developed by Prashant Mali’s lab,
+                                                                   editing in future multi-modal strategies. For FCCM casesuses highly stable circular guide RNAs and has demonstrat-
+                                                             harboring nonsense mutations, tRNA-based or pseudouri-ed 53% editing of the PCSK9 transcript and 12% correction
+                                                            dine-mediated readthrough could enable partial protein res-of a nonsense mutation in IDUA in mouse models of muco-
+                                                                 cue, potentially mitigating lesion progression without need-polysaccharidosis;  (iii) In primates, AIMers delivered via
+                                                              ing full genetic correction.GalNAc conjugation enabled 50% editing of  liver  tran-
+scripts without bystander effects and persisted for over a
+month [88-90].                                                       7. OUTLOOK AND CHALLENGES
+   Despite these promising results, translation to FCCM       The  localized nature of Cerebral Cavernous Malfor-
+remains challenging. The CNS vasculature presents a more     mations (CCMs) may offer some convenience for drug ad-
+complex environment, where achieving  efficient,  lesion-     ministration. However, the mosaic structure, multifocal dis-
+specific delivery and sufficient editing coverage across mo-      tribution, and delicate location of CCMs in the Central
+saic lesions is more difficult. Furthermore, RNA editing is    Nervous System (CNS) also create formidable challenges
+inherently transient, requiring repeated administration for     for safety and therapeutic delivery. Although CCM lesions
+sustained therapeutic benefit.                                    are focal, not all cells harbor the disease-causing mutations.
+                                                            This mosaicism complicates treatment strategies, as partial    Still, endogenous editing holds key advantages: no vec-
+                                                                 correction of mutant cells may be insufficient to curb dis-tor-encoded proteins, lower immune activation, and reversi-
+                                                              ease progression, and uniform editing across  all affectedble modulation of gene function. For FCCM, particularly in
+                                                                  endothelial cells remains difficult. In many disease models,high-risk or surgically inoperable lesions, transient  tran-
+                                                               surpassing a minimum threshold of corrected cells can stabi-script correction could reduce lesion activity or hemorrhagic
+                                                                          lize the pathology; however, for Familial Cerebral Cavern-risk without risking permanent off-target damage. Future
+                                                         ous Malformations (FCCMs), determining  this thresholdimprovements  in  cell-type-selective delivery and  editing
+                                                                  requires advanced in vivo models capable of mirroring theefficiency in the CNS endothelium will determine clinical
+                                                 human lesion’s heterogeneity.viability [91].
+                                                                                                                               9Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+   Equally pressing is the inflammatory dimension of CCM         Overall, continued progress in gene editing tools and
+pathology. Loss-of-function mutations in KRIT1, CCM2, or     delivery systems, alongside a deeper understanding of CCM
+PDCD10 can compromise the endothelium’s antioxidant     biology, will be pivotal for effective FCCM therapies. By
+and anti-inflammatory defenses, allowing neuroinflammato-     successfully targeting the core genetic deficits underlying
+ry astrocytes and other immune mediators to exacerbate   CCM lesions, clinicians could one day offer a non-surgical,
+lesion growth. Links between inflamed CCM endothelium,     neuron-sparing alternative that not only lowers hemorrhagic
+leukocyte recruitment, and immunothrombosis indicate that      risk but also improves long-term neurological outcomes.
+neuroinflammation plays a central role in lesion evolution.                                                        Should these strategies succeed, FCCM may stand as a pio-
+Thus, a dual therapeutic approach—integrating precise gene                                                              neering example for treating other monogenic or multifacto-
+editing with anti-inflammatory interventions—may reduce                                                                                rial cerebrovascular diseases, ultimately ushering in a new
+lesion burden and hemorrhagic risk more effectively than                                                                 era of personalized, precision medicine for complex CNS
+gene manipulation alone.                                                                    disorders.
+   From a technical perspective, FCCM presents a compel-
+ling testbed for gene editing, given that it stems from rela-   CONCLUSION
+tively well-defined, monogenic disruptions. Multiple plat-
+                                                               This review highlights the promising potential of geneforms (DNA-targeting edits, RNA-based modifications, and
+                                                              therapy for FCCM, a monogenic disorder driven by muta-transcriptional modulation) are under active development.
+Nonetheless, each option must achieve high editing preci-     tions  in KRIT1, CCM2, or PDCD10. Existing evidence
+sion within fragile endothelial cells, where off-target events    shows that gene-editing tools, such as BE and PE, can pre-
+could spur severe neurological consequences. Preclinical     cisely correct pathogenic mutations without inducing dou-
+models—especially those capable of single-base or prime     ble-strand breaks, offering a non-surgical strategy to restore
+editing—show promise but must be refined to address de-     vascular endothelial function. Preclinical studies indicate
+livery efficiency, minimize off-target effects, and ensure the      that partial correction of mutant endothelial cells (as low as
+durability of gene correction.                            15–30%) in mosaic lesions may be sufficient to stabilize
+                                                                vascular barriers and suppress lesion progression, under-   The delivery question remains especially critical. Cross-
+                                                               scoring the feasibility of targeted gene repair.ing the Blood-Brain Barrier (BBB) without damaging  it
+requires careful selection or engineering of viral and non-        Delivery systems, particularly AAVs and LNPs, have
+viral  vectors. Lipid  nanoparticles, exosomes, and novel     advanced to enable CNS targeting, though challenges re-
+AAV serotypes with enhanced BBB permeability may be    main in crossing the BBB and achieving uniform transduc-
+harnessed. Concurrently, strategies for transient BBB dis-     tion across multifocal lesions. The mosaic nature of FCCM
+ruption might be explored, albeit with caution to avoid in-                                                                   lesions and potential immune responses to viral vectors fur-
+advertently promoting hemorrhage. Achieving widespread                                                                    ther necessitate optimization of delivery strategies. Addi-
+transduction across multiple vascular  sites, ensuring ade-                                                                        tionally, the inflammatory cascade associated with CCM
+quate dose accumulation, and addressing potential immune                                                              pathogenesis  highlights  the need  for  combinatorial  ap-
+neutralization during re-administration all demand contin-                                                            proaches that integrate gene editing with anti-inflammatory
+ued innovation.                                                                     therapies.
+   In parallel, personalized therapy becomes increasingly
+                                                         While gene therapy holds transformative promise forrelevant as next-generation sequencing clarifies the genetic
+                                            FCCM, critical hurdles must be addressed, including defin-heterogeneity of FCCM patients. Accurate diagnostic tools
+                                                              ing the minimal threshold of corrected cells required forthat identify each patient’s mutation profile can guide the
+                                                                        clinical efficacy, minimizing off-target effects in sensitivechoice of gene editor (e.g., single-base editors vs. prime
+editors), further elevating treatment efficacy and mitigating   CNS tissues, and developing durable, safe delivery methods.
+off-target concerns. Additionally, combination therapies that     Translational success will depend on integrating precision
+stabilize endothelial junctions or dampen inflammatory cas-     editing  with  personalized  medicine,  leveraging  patient-
+cades may synergize with gene correction, offering more     specific mutation profiles to tailor therapeutic approaches.
+comprehensive outcomes and improving patient quality of     Ultimately, overcoming these challenges may establish gene
+life.                                                          therapy as a cornerstone for treating FCCM and other mon-
+                                                            ogenic cerebrovascular disorders.   Despite these technical hurdles, gene editing remains a
+transformative prospect for FCCM. Advanced editing sys-
+                                        AUTHORS’ CONTRIBUTIONStems have already generated single-base knock-in models
+that facilitate in-depth pathophysiological studies, enabling       The authors confirm their contribution to the paper as
+rigorous testing of both efficacy and safety. However, scal-     follows: Writing – original draft: KM and MR; Visualiza-
+ing up from bench to bedside necessitates overcoming major      tion: KM and MR; Writing – review & editing: KM, MR,
+regulatory and manufacturing hurdles, ensuring consistent     SL, YW, CY; Literature search & data curation: YX; For-
+vector production, meeting stringent safety standards, and    mal analysis: YW, WL, YD; Validation: YW, WL, YD;
+navigating ethical considerations tied to editing the CNS.     Supervision: GL and JY; Conceptualization: CY; Funding
+Immune responses to repeated dosing, as well as the poten-      acquisition: CY. KM and MR contributed equally to this
+tial for late-arising genetic alterations, also mandate strict     work. CY is the corresponding author. All authors read and
+long-term monitoring.                                      approved the final manuscript.
+
+10Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+LIST OF ABBREVIATIONS                      pamRNA   =  Prime Editing gRNA Scaffold
+
+ABE       =  Adenine Base Editor                   PBS       =  Primer Binding Site
+AA        =  Amino Acid                        PCSK9     =  Proprotein Convertase Subtilisin/Kexin
+                                                                  Type 9
+ADAR     =  Adenosine Deaminase Acting on RNA
+                                           PDCD10    =  Programmed Cell Death 10
+AAV      =  Adeno-Associated Virus
+                                              PE        =  Prime Editing
+AIMers     =  Antisense-Interfering Molecules
+                                             pegRNA    =  Prime Editing Guide RNA
+ANK      =  Ankyrin
+                                            PTC       =  Premature Termination Codon
+APOBEC   =  Apolipoprotein B mRNA Editing Catalytic
+                 Polypeptide                       RAP1A     =  Ras-Associated Protein 1A
+AVM      =  Arteriovenous Malformation             REPAIR    = RNA Editing for Programmable A-to-I
+                                                                       ReplacementBBB       =  Blood-Brain Barrier
+                                         RESCUE   = RNA Editing for Specific C-to-U Ex-BE        =  Base Editing
+                                                                       change
+CaP       =  Calcium Phosphate
+                                     RHOA     =  Ras Homolog Family Member A
+Cas9n      =  Cas9 Nickase
+                                         RNP       =  Ribonucleoprotein
+CBE       =  Cytidine Base Editor
+                                      ROCK     =  Rho-Associated Protein Kinase
+CNS       =  Central Nervous System
+                                          RT        =  Reverse Transcriptase
+crRNA     =  CRISPR RNA
+                                            sgRNA     =  Single Guide RNA
+DSB       =  Double-Strand Break
+                                                siRNA     =  Small Interfering RNA
+EMT      =  Endothelial-to-Mesenchymal Transition
+                                            tRNA      =  Transfer RNA
+FCCM     =  Familial Cerebral Cavernous Malformation
+                                     UNG      =  Uracil DNA Glycosylase
+FERM     =  Four-point-one, Ezrin, Radixin, Moesin
+                                               ZFNs      =  Zinc Finger Nucleases             Domain
+HDR      =  Homology-Directed Repair            CONSENT FOR PUBLICATION
+HF        =  High Fidelity                               Not applicable.
+HSPG      =  Heparan Sulfate Proteoglycan
+                                        FUNDING
+IDUA      =  Iduronidase Alpha-L
+                                                               This work was supported by the National Natural Sci-
+ICAP1α    =  Integrin Cytoplasmic Domain-Associated                                                          ence Foundation of China (82371319 to CY), Beijing Nova
+                 Protein-1 Alpha                                                      Program (20230484356 & 20240484699 to CY), Beijing
+Indel       =  Insertion or Deletion                          Natural Science Foundation (L246046 to CY; QY24070 to
+                                                  MR), Peking University Clinical Scientist Training Program
+KRIT1     =  Krev-1 Interaction Trapped-1                                                            supported by “The Fundamental Research Funds for the
+LEAPER   =  Leveraging Endogenous ADAR for Pro-       Central Universities” (BMU2025PYJH024 to CY), Capital
+              grammable Editing of RNA                   Health Research and Development of Special Fund (2024-3-
+                                                     3012 to CY), Beijing Chaoyang Digital Health Proof of Con-
+LNP       =  Lipid Nanoparticle
+                                                                 cept Project (2025SLZD013), Henan Academy of Innova-
+LV        =  Lentiviral Vector                                 tions in Medical Science Eye Institute Applied Research Spe-
+                                                                           cial Project (20250204), Research Project of Peking Universi-MAP3K3   =  Mitogen-Activated Protein Kinase Kinase
+                                                                      ty Third Hospital in State Key Laboratory of Vascular Home-               Kinase 3
+                                                                       ostasis and Remodeling (2024-VHR-SY-06 to CY).
+MRI       =  Magnetic Resonance Imaging
+                                        CONFLICT OF INTERESTmRNA     =  Messenger RNA
+                                                      The authors declare no conflict of interest, financial orNBE       =  Next-Generation Base Editor
+                                                                otherwise.
+NHEJ      =  Non-Homologous End Joining
+NP        =  Nanoparticle                   ACKNOWLEDGEMENTS
+NPXY     =  Asn-Pro-X-Tyr Motif                           Declared none.
+
+                                                                                                                              11Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+REFERENCES                                                                    http://dx.doi.org/10.1086/426952 PMID: 15543491
+                                                                                [17]    Couteulx SL, Jung HH, Labauge P, et al. Truncating mutations in
+[1]     Flemming KD, Graff-Radford J, Aakre J, et al. Population-based          CCM1, encoding KRIT1, cause hereditary cavernous angiomas.
+        prevalence of cerebral cavernous malformations in older adults.             Nat Genet 1999; 23(2): 189-93.
+     JAMA Neurol 2017; 74(7): 801-5.                                               http://dx.doi.org/10.1038/13815 PMID: 10508515
+        http://dx.doi.org/10.1001/jamaneurol.2017.0439 PMID: 28492932       [18]     Fisher OS, Boggon TJ. Signaling pathways and the cerebral cav-
+[2]     Dalyai RT, Ghobrial G, Awad I, et al. Management of incidental              ernous malformations proteins: Lessons from structural biology.
+        cavernous  malformations: A  review. Neurosurg Focus  2011;               Cell Mol Life Sci 2014; 71(10): 1881-92.
+         31(6): E5.                                                                     http://dx.doi.org/10.1007/s00018-013-1532-9 PMID: 24287896
+        http://dx.doi.org/10.3171/2011.9.FOCUS11211 PMID: 22133177        [19]    Li X, Zhang R, Zhang H, et al. Crystal structure of CCM3, a cere-
+[3]     Lanfranconi S, Scola E, Meessen JMTA, et al. Safety and efficacy                bral cavernous malformation protein critical for vascular integrity.
+         of propranolol for treatment of familial cerebral cavernous mal-                J Biol Chem 2010; 285(31): 24099-107.
+        formations (Treat_CCM): A randomised,  open-label,  blinded-               http://dx.doi.org/10.1074/jbc.M110.128470 PMID: 20489202
+         endpoint, phase 2 pilot trial. Lancet Neurol 2023; 22(1): 35-44.          [20]    Zhou Z, Tang AT, Wong WY, et al. Erratum: Corrigendum: Cere-
+        http://dx.doi.org/10.1016/S1474-4422(22)00409-4       PMID:                bral cavernous malformations  arise from  endothelial  gain  of
+       36403580                                                 MEKK3–KLF2/4 signalling. Nature 2016; 536(7617): 488.
+[4]     Santos AN, Rauschenbach L, Saban D, et al. Medication intake               http://dx.doi.org/10.1038/nature18311 PMID: 27281211
+       and hemorrhage risk in patients with familial cerebral cavernous      [21]    Weinsheimer S, Nelson J, Abla AA, et al. Intracranial hemorrhage
+        malformations. J Neurosurg 2022; 137(4): 1088-94.                                 rate and lesion burden in patients with familial cerebral cavernous
+        http://dx.doi.org/10.3171/2022.1.JNS212724 PMID: 35213840                  malformation. J Am Heart Assoc 2023; 12(3): 027572.
+[5]    Kim S, Moon J, Jung KH, et al. Clinicoradiologic data of familial              http://dx.doi.org/10.1161/JAHA.122.027572 PMID: 36695309
+         cerebral cavernous malformation with age‐related disease burden.      [22]    Akers A, Al-Shahi Salman R, A Awad I, et al. Synopsis of guide-
+      Ann Clin Transl Neurol 2023; 10(3): 373-83.                                        lines for the clinical management of cerebral cavernous malfor-
+         http://dx.doi.org/10.1002/acn3.51728 PMID: 36629374                         mations: Consensus recommendations based on systematic litera-
+[6]     Li X, Fisher OS, Boggon TJ. The cerebral cavernous malfor-                ture review by the angioma alliance scientific advisory board clin-
+        mations proteins. Oncotarget 2015; 6(32): 32279-80.                                 ical experts panel. Neurosurgery 2017; 80(5): 665-80.
+         http://dx.doi.org/10.18632/oncotarget.5443 PMID: 26356566                    http://dx.doi.org/10.1093/neuros/nyx091 PMID: 28387823
+[7]     Choquet H, Trapani E, Goitre L, et al. Cytochrome P450 and      [23]    Petersen TA, Morrison LA, Schrader RM, Hart BL. Familial ver-
+        matrix metalloproteinase genetic modifiers of disease severity in               sus sporadic cavernous malformations: Differences in develop-
+        Cerebral Cavernous Malformation type 1. Free Radic Biol Med              mental venous anomaly association and lesion phenotype. AJNR
+        2016; 92: 100-9.                                   Am J Neuroradiol 2010; 31(2): 377-82.
+         http://dx.doi.org/10.1016/j.freeradbiomed.2016.01.008    PMID:               http://dx.doi.org/10.3174/ajnr.A1822 PMID: 19833796
+       26795600                                                             [24]    Moore SA, Brown RD, Christianson TJH, Flemming KD. Long-
+[8]     Tang AT, Sullivan KR, Hong CC, et al. Distinct cellular roles for              term natural history of incidentally discovered cavernous malfor-
+      PDCD10 define a gut-brain axis in cerebral cavernous malfor-              mations in a single-center cohort. J Neurosurg 2014; 120(5): 1188-
+        mation. Sci Transl Med 2019; 11(520): eaaw3521.                               92.
+         http://dx.doi.org/10.1126/scitranslmed.aaw3521 PMID: 31776290               http://dx.doi.org/10.3171/2014.1.JNS131619 PMID: 24628608
+[9]    Yang C, Nicholas VHL, Zhao J, et al. A novel CCM1/KRIT1      [25]    Fox CK, Nelson J, McCulloch CE, et al. Seizure incidence rates in
+        heterozygous nonsense mutation (c.1864C>T) associated with fa-              Children and  adults with  familial  cerebral cavernous malfor-
+         milial cerebral cavernous malformation: A genetic insight from an               mations. Neurology 2021; 97(12): e1210-6.
+        8-year continuous observational study.  J Mol Neurosci 2017;              http://dx.doi.org/10.1212/WNL.0000000000012569      PMID:
+         61(4): 511-23.                                                       34389651
+        http://dx.doi.org/10.1007/s12031-017-0893-1 PMID: 28255959          [26]    Haasdijk RA, Cheng C, Maat-Kievit AJ, Duckers HJ. Cerebral
+[10]   Yang C, Zhao J, Wu B, Zhong H, Li Y, Xu Y. Identification of a              cavernous malformations: From molecular pathogenesis to genetic
+        novel deletion mutation (c.1780delG) and a novel splice-site muta-               counselling and clinical management. Eur J Hum Genet 2012;
+         tion (c.1412-1G>A) in the CCM1/KRIT1 gene associated with               20(2): 134-40.
+         familial cerebral cavernous malformation in the chinese popula-               http://dx.doi.org/10.1038/ejhg.2011.155 PMID: 21829231
+          tion. J Mol Neurosci 2017; 61(1): 8-15.                                 [27]    Mouchtouris N, Chalouhi N, Chitale A, et al. Management of
+        http://dx.doi.org/10.1007/s12031-016-0836-2 PMID: 27649701                   cerebral cavernous malformations: From diagnosis to treatment.
+[11]   Yang C, Wu B, Zhong H, Li Y, Zheng X, Xu Y. A novel               ScientificWorldJournal 2015; 2015(1): 808314.
+      CCM1/KRIT1 heterozygous deletion mutation (c.1919delT) in a               http://dx.doi.org/10.1155/2015/808314 PMID: 25629087
+        Chinese family with familial cerebral cavernous malformation.      [28]    Al-Shahi R, Bhattacharya JJ, Currie DG, et al. Prospective, popu-
+        Clin Neurol Neurosurg 2018; 164: 44-6.                                          lation-based detection of intracranial vascular malformations in
+         http://dx.doi.org/10.1016/j.clineuro.2017.11.005 PMID: 29169046                 adults: The  Scottish  intracranial  vascular malformation  study
+[12]   Wang X, Liu X, Lee N, et al. Features of a Chinese family with             (SIVMS). Stroke 2003; 34(5): 1163-9.
+         cerebral cavernous malformation induced by a novel CCM1 gene              http://dx.doi.org/10.1161/01.STR.0000069018.90456.C9  PMID:
+        mutation. Chin Med J 2013; 126(18): 3427-32.                             12702837
+        http://dx.doi.org/10.3760/cma.j.issn.0366-6999.20130590  PMID:      [29]    Richardson BT, Dibble CF, Borikova AL, Johnson GL. Cerebral
+       24034083                                                                 cavernous malformation is a vascular disease associated with acti-
+[13]    Liu W, Liu M, Lu D, et al. A Chinese family with cerebral cav-              vated RhoA signaling. bchm 2013; 394(1): 35-42.
+        ernous malformation caused by a frameshift mutation of  the               http://dx.doi.org/10.1515/hsz-2012-0243 PMID: 23096573
+     CCM1 gene: A Case report and review of the literature. Front      [30]     Polster SP, Stadnik A, Akers AL, et al. Atorvastatin treatment of
+        Neurol 2022; 13: 795514.                                                  cavernous angiomas with symptomatic hemorrhage exploratory
+         http://dx.doi.org/10.3389/fneur.2022.795514 PMID: 35444609                  proof of concept (AT CASH EPOC)  trial. Neurosurgery 2019;
+[14]   Wang H, Pan Y, Zhang Z, et al. A novel KRIT1/CCM1 gene               85(6): 843-53.
+         insertion mutation associated with  cerebral cavernous malfor-               http://dx.doi.org/10.1093/neuros/nyy539 PMID: 30476251
+        mations in a Chinese family. J Mol Neurosci 2017; 61(2): 221-6.         [31]    Li W, Shenkar R, Detter MR, et al. Propranolol inhibits cavernous
+        http://dx.doi.org/10.1007/s12031-017-0881-5 PMID: 28160210                  vascular malformations by β 1 adrenergic receptor antagonism in
+[15]    Zhao Y, Xie L, Li P, et al. A novel CCM1 gene mutation causes              animal models. J Clin Invest 2021; 131(3): 144893.
+         cerebral cavernous malformation in a Chinese family. J Clin Neu-               http://dx.doi.org/10.1172/JCI144893 PMID: 33301422
+         rosci 2011; 18(1): 61-5.                                                [32]    Shenkar R, Moore T, Benavides C, et al. Propranolol as therapy
+         http://dx.doi.org/10.1016/j.jocn.2010.04.051 PMID: 20884211                     for cerebral cavernous malformations: A cautionary note. J Transl
+[16]    Bergametti F, Denier C, Labauge P, et al. Mutations within the          Med 2022; 20(1): 160.
+       programmed cell death 10 gene cause cerebral cavernous malfor-               http://dx.doi.org/10.1186/s12967-022-03360-4 PMID: 35382850
+        mations. Am J Hum Genet 2005; 76(1): 42-51.
+12Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+[33]    Sahoo T, Johnson EW, Thomas JW, et al. Mutations in the gene      [51]    Shen S, Loh TJ, Shen H, Zheng X, Shen H. CRISPR as a strong
+        encoding KRIT1, a Krev-1/rap1a binding protein, cause cerebral             gene editing tool. BMB Rep 2017; 50(1): 20-4.
+        cavernous malformations (CCM1). Hum Mol Genet 1999; 8(12):              http://dx.doi.org/10.5483/BMBRep.2017.50.1.128       PMID:
+        2325-33.                                                           27616359
+        http://dx.doi.org/10.1093/hmg/8.12.2325 PMID: 10545614              [52]    Ran FA, Hsu PD, Lin CY, et al. Double nicking by RNA-guided
+[34]    Zhang J, Basu S, Rigamonti D, Dietz HC, Clatterbuck RE. KRIT1           CRISPR Cas9 for enhanced genome editing specificity. Cell 2013;
+        modulates  β1-integrin-mediated  endothelial  cell  proliferatION.               154(6): 1380-9.
+        Neurosurgery 2008; 63(3): 571-8.                                                 http://dx.doi.org/10.1016/j.cell.2013.08.021 PMID: 23992846
+        http://dx.doi.org/10.1227/01.NEU.0000325255.30268.B0  PMID:      [53]   Wu Y, Zhou H, Fan X, et al. Correction of a genetic disease by
+       18812969                                                            CRISPR-Cas9-mediated gene editing in mouse spermatogonial
+[35]   Swamy H, Glading AJ. Contribution of protein–protein interac-             stem cells. Cell Res 2015; 25(1): 67-79.
+         tions to the endothelial-barrier-stabilizing function of KRIT1. J               http://dx.doi.org/10.1038/cr.2014.160 PMID: 25475058
+         Cell Sci 2022; 135(2): jcs258816.                                      [54]    Fu YW, Dai XY, Wang WT, et al. Dynamics and competition of
+         http://dx.doi.org/10.1242/jcs.258816 PMID: 34918736                     CRISPR–Cas9  ribonucleoproteins  and AAV  donor-mediated
+[36]    Zhang J, Clatterbuck RE, Rigamonti D, Chang DD, Dietz HC.            NHEJ, MMEJ and HDR editing. Nucleic Acids Res 2021; 49(2):
+         Interaction between krit1 and icap1alpha infers perturbation of in-              969-85.
+         tegrin beta1-mediated angiogenesis in the pathogenesis of cerebral               http://dx.doi.org/10.1093/nar/gkaa1251 PMID: 33398341
+        cavernous malformation. Hum Mol Genet 2001; 10(25): 2953-60.        [55]    Ran FA, Hsu PD, Wright J, Agarwala V, Scott DA, Zhang F.
+        http://dx.doi.org/10.1093/hmg/10.25.2953 PMID: 11741838                Genome engineering using the CRISPR-Cas9 system. Nat Protoc
+[37]    Tebas P, Stein D, Tang WW, et al. Gene editing of CCR5 in au-              2013; 8(11): 2281-308.
+        tologous CD4 T cells of persons infected with HIV. N Engl J Med               http://dx.doi.org/10.1038/nprot.2013.143 PMID: 24157548
+        2014; 370(10): 901-10.                                                 [56]    Zetsche B, Gootenberg JS, Abudayyeh OO, et al. Cpf1 is a single
+        http://dx.doi.org/10.1056/NEJMoa1300662 PMID: 24597865                RNA-guided endonuclease of a class 2 CRISPR-Cas system. Cell
+[38]    Shahryari A, Saghaeian Jazi M, Mohammadi S, et al. Develop-              2015; 163(3): 759-71.
+       ment and clinical translation of approved gene therapy products                http://dx.doi.org/10.1016/j.cell.2015.09.038 PMID: 26422227
+         for genetic disorders. Front Genet 2019; 10: 868.                        [57]   Mao Z, Chen R, Wang X, et al. CRISPR/Cas12a-based technolo-
+        http://dx.doi.org/10.3389/fgene.2019.00868 PMID: 31608113                   gy: A powerful tool for biosensing in food safety. Trends Food Sci
+[39]   Ma CC, Wang ZL, Xu T, He ZY, Wei YQ. The approved gene             Technol 2022; 122: 211-22.
+        therapy drugs worldwide: From 1998 to 2019. Biotechnol Adv                http://dx.doi.org/10.1016/j.tifs.2022.02.030 PMID: 35250172
+        2020; 40: 107502.                                                     [58]   Komor AC, Kim YB, Packer MS, Zuris JA, Liu DR. Programma-
+         http://dx.doi.org/10.1016/j.biotechadv.2019.107502      PMID:               ble editing of a target base in genomic DNA without double-
+       31887345                                                                     stranded DNA cleavage. Nature 2016; 533(7603): 420-4.
+[40]    Li T, Yang Y, Qi H, et al. CRISPR/Cas9 therapeutics: Progress               http://dx.doi.org/10.1038/nature17946 PMID: 27096365
+       and prospects. Signal Transduct Target Ther 2023; 8(1): 36.             [59]    Landrum MJ, Lee JM, Benson M, et al. ClinVar: Public archive of
+        http://dx.doi.org/10.1038/s41392-023-01309-7 PMID: 36646687                  interpretations of clinically relevant variants. Nucleic Acids Res
+[41]    Zafar A, Quadri SA, Farooqui M, et al. Familial cerebral cavern-              2016; 44(D1): D862-8.
+        ous malformations. Stroke 2019; 50(5): 1294-301.                               http://dx.doi.org/10.1093/nar/gkv1222 PMID: 26582918
+        http://dx.doi.org/10.1161/STROKEAHA.118.022314     PMID:      [60]    Koblan LW, Doman JL, Wilson C, et al. Improving cytidine and
+       30909834                                                                  adenine base editors by expression optimization and ancestral re-
+[42]    Doudna JA, Charpentier E. The new frontier of genome engineer-                construction. Nat Biotechnol 2018; 36(9): 843-6.
+        ing with CRISPR-Cas9. Science 2014; 346(6213): 1258096.                      http://dx.doi.org/10.1038/nbt.4172 PMID: 29813047
+         http://dx.doi.org/10.1126/science.1258096 PMID: 25430774             [61]    Lee HK, Oh Y, Hong  J, Lee SH, Hur JK. Development of
+[43]    Mendell JR, Al-Zaidy SA, Rodino-Klapac LR, et al. Current clini-           CRISPR technology for precise single-base genome editing: A
+         cal applications of in vivo gene Therapy with AAVs. Mol Ther                brief review. BMB Rep 2021; 54(2): 98-105.
+        2021; 29(2): 464-88.                                                         http://dx.doi.org/10.5483/BMBRep.2021.54.2.217       PMID:
+         http://dx.doi.org/10.1016/j.ymthe.2020.12.007 PMID: 33309881              33298245
+[44]    Breda L, Papp TE, Triebwasser MP, et al. In vivo hematopoietic      [62]    Gaudelli NM, Komor AC, Rees HA, et al. Programmable base
+        stem  cell  modification  by mRNA  delivery.  Science  2023;                editing of A•T to G•C in genomic DNA without DNA cleavage.
+        381(6656): 436-43.                                                        Nature 2017; 551(7681): 464-71.
+         http://dx.doi.org/10.1126/science.ade6967 PMID: 37499029                     http://dx.doi.org/10.1038/nature24644 PMID: 29160308
+[45]     Ferrari S, Naldini L. A step toward stem cell engineering in vivo.      [63]    Richter MF, Zhao KT, Eton E, et al. Phage-assisted evolution of
+        Science 2023; 381(6656): 378-9.                                          an adenine base editor with improved Cas domain compatibility
+         http://dx.doi.org/10.1126/science.adj0997 PMID: 37499013                   and activity. Nat Biotechnol 2020; 38(7): 883-91.
+[46]   Xu Y, Shrestha N, Préat V, Beloqui A. An overview of in vitro, ex               http://dx.doi.org/10.1038/s41587-020-0453-z PMID: 32433547
+         vivo and in vivo models for studying the transport of drugs across      [64]    Liang P, Huang J. Off-target challenge for base editor-mediated
+          intestinal barriers. Adv Drug Deliv Rev 2021; 175: 113795.                 genome editing. Cell Biol Toxicol 2019; 35(3): 185-7.
+         http://dx.doi.org/10.1016/j.addr.2021.05.005 PMID: 33989702                   http://dx.doi.org/10.1007/s10565-019-09474-8 PMID: 31041571
+[47]    Krolak T, Chan KY, Kaplan L, et al. A high-efficiency AAV for      [65]   Lu C, Kuang J, Shao T, et al. Prime editing: An all-rounder for
+         endothelial cell transduction throughout the central nervous sys-            genome editing. Int J Mol Sci 2022; 23(17): 9862.
+        tem. Nat Cardiovasc Res 2022; 1(4): 389-400.                                   http://dx.doi.org/10.3390/ijms23179862 PMID: 36077252
+        http://dx.doi.org/10.1038/s44161-022-00046-4 PMID: 35571675         [66]    Zhao D, Li J, Li S, et al. Glycosylase base editors enable C-to-A
+[48]    Chen F, Alphonse M, Liu Q. Strategies for nonviral nanoparticle‐             and C-to-G base changes. Nat Biotechnol 2021; 39(1): 35-40.
+        based delivery of CRISPR/Cas9 therapeutics. Wiley Interdiscip               http://dx.doi.org/10.1038/s41587-020-0592-2 PMID: 32690970
+       Rev Nanomed Nanobiotechnol 2020; 12(3): 1609.                       [67]    Sun N, Zhao D, Li S, Zhang Z, Bi C, Zhang X. Reconstructed
+        http://dx.doi.org/10.1002/wnan.1609 PMID: 31797562                          glycosylase base editors GBE2.0 with enhanced C-to-G base edit-
+[49]   Weng J, Yang Y, Song D, et al. Somatic MAP3K3 mutation de-               ing efficiency and purity. Mol Ther 2022; 30(7): 2452-63.
+         fines a subclass of cerebral cavernous malformation. Am J Hum               http://dx.doi.org/10.1016/j.ymthe.2022.03.023 PMID: 35381364
+       Genet 2021; 108(5): 942-50.                                           [68]   Yang C, Dong X, Ma Z, Li B, Bi C, Zhang X. Pioneer factor im-
+         http://dx.doi.org/10.1016/j.ajhg.2021.04.005 PMID: 33891857                  proves crispr‐based C‐To‐G and C‐To‐T base editing. Adv Sci
+[50]   Yang H, Ren S, Yu S, et al. Methods favoring homology-directed              2022; 9(26): 2202957.
+         repair choice in response to CRISPR/Cas9 induced-double strand               http://dx.doi.org/10.1002/advs.202202957 PMID: 35861371
+         breaks. Int J Mol Sci 2020; 21(18): 6461.                               [69]   Yeh WH, Shubina-Oleinik O, Levy JM, et al. In vivo base editing
+        http://dx.doi.org/10.3390/ijms21186461 PMID: 32899704                         restores sensory transduction and transiently improves auditory
+
+
+                                                                                                                              13Current Gene Therapy, 2026, Vol. 26, No. 3                 e15665232386151                                     Ma et al.
+
+         function in a mouse model of recessive deafness. Sci Transl Med      [88]    Reautschnig P, Wahn N, Wettengel  J, et al. CLUSTER guide
+        2020; 12(546): eaay9101.                                    RNAs enable precise and efficient RNA editing with endogenous
+         http://dx.doi.org/10.1126/scitranslmed.aay9101 PMID: 32493795          ADAR enzymes in vivo. Nat Biotechnol 2022; 40(5): 759-68.
+[70]    Koblan LW, Erdos MR, Wilson C, et al. In vivo base editing res-               http://dx.doi.org/10.1038/s41587-021-01105-0 PMID: 34980913
+        cues Hutchinson–Gilford progeria syndrome in mice. Nature 2021;      [89]    Katrekar D, Yen J, Xiang Y, et al. Efficient in vitro and in vivo
+        589(7843): 608-14.                                    RNA editing via recruitment of endogenous ADARs using circular
+        http://dx.doi.org/10.1038/s41586-020-03086-7 PMID: 33408413                guide RNAs. Nat Biotechnol 2022; 40(6): 938-45.
+[71]   Ryu SM, Koo T, Kim K, et al. Adenine base editing in mouse               http://dx.doi.org/10.1038/s41587-021-01171-4 PMID: 35145312
+       embryos and an adult mouse model of Duchenne muscular dystro-      [90]    Monian P, Shivalila C, Lu G, et al. Endogenous ADAR-mediated
+        phy. Nat Biotechnol 2018; 36(6): 536-9.                        RNA editing in non-human primates using stereopure chemically
+         http://dx.doi.org/10.1038/nbt.4148 PMID: 29702637                          modified oligonucleotides. Nat Biotechnol 2022; 40(7): 1093-102.
+[72]    Kurt IC, Zhou R, Iyer S, et al. CRISPR C-to-G base editors for               http://dx.doi.org/10.1038/s41587-022-01225-1 PMID: 35256816
+        inducing targeted DNA transversions in human cells. Nat Biotech-      [91]    Baker AR, Slack FJ. ADAR1 and its implications in cancer devel-
+        nol 2021; 39(1): 41-6.                                                 opment and treatment. Trends Genet 2022; 38(8): 821-30.
+        http://dx.doi.org/10.1038/s41587-020-0609-x PMID: 32690971                   http://dx.doi.org/10.1016/j.tig.2022.03.013 PMID: 35459560
+[73]    Chen L, Park JE, Paa P, et al. Programmable C:G to G:C genome      [92]    Song J, Dong L, Sun H, et al. CRISPR-free, programmable RNA
+         editing with CRISPR-Cas9-directed base excision repair proteins.               pseudouridylation to suppress premature termination codons. Mol
+       Nat Commun 2021; 12(1): 1384.                                                Cell 2023; 83(1): 139-155.e9.
+        http://dx.doi.org/10.1038/s41467-021-21559-9 PMID: 33654077                 http://dx.doi.org/10.1016/j.molcel.2022.11.011 PMID: 36521489
+[74]     Scholefield J, Harrison PT. Prime editing – An update on the field.      [93]    Zheng Z, Shi N, Xia Q. Adeno-associated viral delivery of engi-
+       Gene Ther 2021; 28(7-8): 396-401.                                           neered tRNA-enzyme pairs into nonsense mutation mouse models.
+        http://dx.doi.org/10.1038/s41434-021-00263-9 PMID: 34031549           STAR Protoc 2023; 4(1): 101950.
+[75]    Anzalone AV, Randolph PB, Davis JR, et al. Search-and-replace               http://dx.doi.org/10.1016/j.xpro.2022.101950 PMID: 36527714
+       genome editing without double-strand breaks or donor DNA. Na-      [94]    Huang Q, Chan KY, Wu J, et al. An AAV capsid reprogrammed
+         ture 2019; 576(7785): 149-57.                                                      to bind human transferrin receptor mediates brain-wide gene de-
+        http://dx.doi.org/10.1038/s41586-019-1711-4 PMID: 31634902                     livery. Science 2024; 384(6701): 1220-7.
+[76]    Liu Y, Li X, He S, et al. Efficient generation of mouse models               http://dx.doi.org/10.1126/science.adm8386 PMID: 38753766
+        with the prime editing system. Cell Discov 2020; 6(1): 27.               [95]    Dogbevia G, Grasshoff H, Othman A, Penno A, Schwaninger M.
+        http://dx.doi.org/10.1038/s41421-020-0165-z PMID: 32351707                 Brain endothelial specific gene therapy improves experimental
+[77]    Liang R, He Z, Zhao KT, et al. Prime editing using CRISPR-              Sandhoff disease. J Cereb Blood Flow Metab 2020; 40(6): 1338-
+       Cas12a and circular RNAs in human cells. Nat Biotechnol 2024;               50.
+        42(12): 1867-75.                                                            http://dx.doi.org/10.1177/0271678X19865917 PMID: 31357902
+        http://dx.doi.org/10.1038/s41587-023-02095-x PMID: 38200119         [96]    Körbelin J, Dogbevia G, Michelfelder S, et al. A brain microvas-
+[78]   Yan J, Oyler-Castrillo P, Ravisankar P, et al. Improving prime               culature endothelial cell‐specific viral vector with the potential to
+         editing with an endogenous small RNA-binding protein. Nature                 treat neurovascular and neurological diseases. EMBO Mol Med
+        2024; 628(8008): 639-47.                                                  2016; 8(6): 609-25.
+        http://dx.doi.org/10.1038/s41586-024-07259-6 PMID: 38570691                http://dx.doi.org/10.15252/emmm.201506078 PMID: 27137490
+[79]    Abudayyeh OO, Gootenberg JS, Konermann S, et al. C2c2 is a      [97]   Wu G, Liu S, Hagenstein J, et al. Adeno-associated virus–based
+        single-component  programmable  RNA-guided  RNA-targeting             gene therapy treats inflammatory kidney disease in mice. J Clin
+      CRISPR effector. Science 2016; 353(6299): aaf5573.                             Invest 2024; 134(17): 174722.
+         http://dx.doi.org/10.1126/science.aaf5573 PMID: 27256883                      http://dx.doi.org/10.1172/JCI174722 PMID: 39225099
+[80]    Behr M, Zhou J, Xu B, Zhang H. In vivo delivery of CRISPR-      [98]    Mei W, Xiang G, Li Y, et al. GDF11 protects against endothelial
+       Cas9 therapeutics: Progress and challenges. Acta Pharm Sin B                injury and reduces atherosclerotic lesion formation in apolipopro-
+        2021; 11(8): 2150-71.                                                                 tein E-Null mice. Mol Ther 2016; 24(11): 1926-38.
+         http://dx.doi.org/10.1016/j.apsb.2021.05.020 PMID: 34522582                   http://dx.doi.org/10.1038/mt.2016.160 PMID: 27502608
+[81]    Smargon AA, Cox DBT, Pyzocha NK, et al. Cas13b is a type VI-      [99]   He X, Wang X, Wang H, et al. NeuroD1 regulated endothelial
+     B CRISPR-associated RNA-guided rnase differentially regulated             gene expression to modulate transduction of AAV-PHP.eB and re-
+       by accessory proteins Csx27 and Csx28. Mol Cell 2017; 65(4):              covery progress after ischemic stroke. Aging Dis 2023; 15(6):
+        618-630.e7.                                                               2632-49.
+         http://dx.doi.org/10.1016/j.molcel.2016.12.023 PMID: 28065598                http://dx.doi.org/10.14336/AD.2023.1213 PMID: 38270116
+[82]    Konermann S, Lotfy P, Brideau NJ, Oki J, Shokhirev MN, Hsu      [100]   Zhu W, Shen F, Mao L, et al. Soluble FLT1 gene therapy allevi-
+       PD. Transcriptome engineering with RNA-targeting type VI-D                ates  brain  arteriovenous  malformation  severity.  Stroke 2017;
+      CRISPR effectors. Cell 2018; 173(3): 665-676.e14.                               48(5): 1420-3.
+         http://dx.doi.org/10.1016/j.cell.2018.02.033 PMID: 29551272                  http://dx.doi.org/10.1161/STROKEAHA.116.015713     PMID:
+[83]    Kannan S, Altae-Tran H, Jin X, et al. Compact RNA editors with            28325846
+        small Cas13 proteins. Nat Biotechnol 2022; 40(2): 194-7.               [101]   Ravindra Kumar S, Miles TF, Chen X, et al. Multiplexed Cre-
+        http://dx.doi.org/10.1038/s41587-021-01030-2 PMID: 34462587                dependent selection yields systemic AAVs for targeting distinct
+[84]   Xu C, Zhou Y, Xiao Q, et al. Programmable RNA editing with               brain cell types. Nat Methods 2020; 17(5): 541-50.
+       compact CRISPR–Cas13 systems from uncultivated microbes. Nat               http://dx.doi.org/10.1038/s41592-020-0799-7 PMID: 32313222
+       Methods 2021; 18(5): 499-506.                                       [102]   Varadi K, Michelfelder S, Korff T, et al. Novel random peptide
+        http://dx.doi.org/10.1038/s41592-021-01124-4 PMID: 33941935                   libraries displayed on AAV serotype 9 for selection of endothelial
+[85]   Yan Z, Yao Y, Li L, et al. Treatment of autosomal dominant reti-                cell-directed gene transfer vectors. Gene Ther 2012; 19(8): 800-9.
+          nitis pigmentosa caused by RHO-P23H  mutation  with  high-               http://dx.doi.org/10.1038/gt.2011.143 PMID: 21956692
+          fidelity Cas13X in mice. Mol Ther Nucleic Acids 2023; 33: 750-      [103]   Körbelin J, Sieber T, Michelfelder S, et al. Pulmonary targeting of
+         61.                                                                           adeno-associated  viral  vectors by  next-generation sequencing-
+         http://dx.doi.org/10.1016/j.omtn.2023.08.002 PMID: 37621413                 guided screening of random capsid displayed peptide libraries.
+[86]    Nishikura K. Functions and regulation of RNA editing by ADAR           Mol Ther 2016; 24(6): 1050-61.
+        deaminases. Annu Rev Biochem 2010; 79(1): 321-49.                            http://dx.doi.org/10.1038/mt.2016.62 PMID: 27018516
+        http://dx.doi.org/10.1146/annurev-biochem-060208-105251             [104]   Periasamy R, Patel DD, Boye SL, Boye SE, Lipinski DM. Improv-
+      PMID: 20192758                                                             ing retinal vascular endothelial cell tropism through rational rAAV
+[87]    Yi Z, Qu L, Tang H, et al. Engineered circular ADAR-recruiting               capsid design. PLoS One 2023; 18(5): 0285370.
+      RNAs increase the efficiency and fidelity of RNA editing in vitro               http://dx.doi.org/10.1371/journal.pone.0285370 PMID: 37167304
+       and in vivo. Nat Biotechnol 2022; 40(6): 946-55.
+        http://dx.doi.org/10.1038/s41587-021-01180-3 PMID: 35145313
+
+14Gene Therapy for FCCM                                  e15665232386151                       Current Gene Therapy, 2026, Vol. 26, No. 3
+
+[105]   Barbon E, Kawecki C, Marmier S, et al. Development of a dual      [112]   Merlin S, Cannizzo ES, Borroni E, et al. A novel platform for
+        hybrid AAV vector for endothelial-targeted expression of von           immune tolerance induction in hemophilia a mice. Mol Ther 2017;
+        Willebrand factor. Gene Ther 2023; 30(3-4): 245-54.                             25(8): 1815-30.
+        http://dx.doi.org/10.1038/s41434-020-00218-6 PMID: 33456057                 http://dx.doi.org/10.1016/j.ymthe.2017.04.029 PMID: 28552407
+[106]  Wu W, Yang Y, Yao F, et al. AAV-mediated in vivo genome      [113]  Ryu JY, Cerecedo-Lopez C, Yang H, Ryu I, Du R. Brain-targeted
+         editing in vascular endothelial cells. Methods 2021; 194: 12-7.                     intranasal delivery of protein-based gene therapy for treatment of
+         http://dx.doi.org/10.1016/j.ymeth.2020.12.001 PMID: 33309782                ischemic stroke. Theranostics 2024; 14(12): 4773-86.
+[107]   Eriksson E, Moreno R, Milenova I, et al. Activation of myeloid               http://dx.doi.org/10.7150/thno.98088 PMID: 39239521
+       and endothelial cells by CD40L gene therapy supports T-cell ex-      [114]   Feng Y, Guo M, Liu W, et al. Co-self-assembly of cationic micro-
+        pansion and migration into the tumor microenvironment. Gene                 particles to deliver pEGFP-ZNF580 for promoting the transfection
+        Ther 2017; 24(2): 92-103.                                               and migration of endothelial cells. Int J Nanomedicine 2016; 12:
+         http://dx.doi.org/10.1038/gt.2016.80 PMID: 27906162                         137-49.
+[108]   Rossi C, Lees M, Mehta V, et al. Comparison of efficiency and               http://dx.doi.org/10.2147/IJN.S107593 PMID: 28053529
+         function of vascular endothelial growth factor adenovirus vectors      [115]  Hao X, Li Q, Lv J, et al. CREDVW-linked polymeric micelles as a
+         in endothelial cells for gene therapy of placental insufficiency.                targeting gene transfer vector for selective transfection and prolif-
+     Hum Gene Ther 2020; 31(21-22): 1190-202.                                      eration of endothelial  cells. ACS Appl Mater Interfaces 2015;
+        http://dx.doi.org/10.1089/hum.2020.006 PMID: 32988220                        7(22): 12128-40.
+[109]   Tonetto E, Cucci A, Follenzi A, Bernardi F, Pinotti M, Balestra D.               http://dx.doi.org/10.1021/acsami.5b02399 PMID: 26011845
+     DNA base editing corrects common hemophilia A mutations and      [116]   Zhang X, Jin H, Huang X, et al. Robust genome editing in adult
+         restores factor VIII expression in in vitro and ex vivo models. J               vascular endothelium by nanoparticle delivery of CRISPR-Cas9
+       Thromb Haemost 2024; 22(8): 2171-83.                                      plasmid DNA. Cell Rep 2022; 38(1): 110196.
+         http://dx.doi.org/10.1016/j.jtha.2024.04.020 PMID: 38718928                    http://dx.doi.org/10.1016/j.celrep.2021.110196 PMID: 34986352
+[110]   Simmons AB, Bretz CA, Wang H, et al. Gene therapy knockdown      [117]   Bozoglu T, Lee S, Ziegler T, et al. Endothelial retargeting of
+         of VEGFR2 in retinal endothelial cells to treat retinopathy. Angio-         AAV9 in vivo. Adv Sci 2022; 9(7): 2103867.
+        genesis 2018; 21(4): 751-64.                                                   http://dx.doi.org/10.1002/advs.202103867 PMID: 35023328
+        http://dx.doi.org/10.1007/s10456-018-9618-5 PMID: 29730824         [118]   Tian S, Feng M, Cao D, et al. Endothelial cell-targeted pVEGF165
+[111]   Milani M, Canepari C, Assanelli S, et al. GP64-pseudotyped lenti-              polyplex plays a pivotal role in inhibiting intimal thickening after
+          viral vectors target liver endothelial cells and correct hemophilia A               vascular injury. Int J Nanomedicine 2015; 10: 5751-68.
+        mice. EMBO Mol Med 2024; 16(6): 1427-50.                                   http://dx.doi.org/10.2147/IJN.S88109 PMID: 26425083
+        http://dx.doi.org/10.1038/s44321-024-00072-8 PMID: 38684862
+
+
+
+
+
+                                                                                                                              15

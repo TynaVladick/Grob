@@ -1,0 +1,1255 @@
+                                                                                                                      TYPE Original Research
+                                                                                                                      PUBLISHED 17 July 2025
+                                                                                                                   DOI 10.3389/ftubr.2025.1622167
+
+
+
+                Optimizing use of data and
+OPEN ACCESS            evidence-related tools to
+
+EDITED BY
+Vineet Chadha,              complement routine surveillance
+National Tuberculosis Institute, India
+
+REVIEWED BYKirankumar Rade,           systems for tuberculosis program
+World Health Organisation, India
+Jason Cummins,                planning
+Tennessee Department of Health,
+United States
+Raghavan Parthasarathy,
+Indian Institute of Technology Bombay, India     Rachel M. Fiorillo   1*, Eveline Klinkenberg    2,
+*CORRESPONDENCE                       Christina Braccio    3, Daniel Chin4, Stavia Turyahabwe    5,
+Rachel      M. Fiorillo                  Moses Arinaitwe    6, Razia Fatima    7, Taye Letta    8,   rﬁorillo@cdcfoundation.org
+RECEIVED 02 May 2025                  Binh Hoa Nguyen    9, Aiban Ronoh10,
+ACCEPTED 26 June 2025                Charalambos Sismanidis    11, Nnamdi B. Nwaneri    12,
+PUBLISHED 17 July 2025
+CITATION                        Kenneth G. Castro    13,14,15, Kathy Fiekert    6,
+Fiorillo RM, Klinkenberg E, Braccio C, Chin D,     Fukushi Morishita    16, Suvanand Sahu17, Sevim Ahmedov    15,
+Turyahabwe S, Arinaitwe M, Fatima R, Letta T,
+                                                                                              3                                  3Nguyen BH, Ronoh A, Sismanidis C,          Harry Hausler    18,19, Anand Date   and Jennifer B. Harris
+Nwaneri NB, Castro KG, Fiekert K, Morishita F,
+Sahu S, Ahmedov S, Hausler H, Date A and            1Infectious Disease Department, CDC Foundation, Atlanta, GA, United States, 2Connect TB,
+Harris JB (2025) Optimizing use of data and        The Hague, Netherlands, 3Division of Global HIV and Tuberculosis, U.S. Centers for Disease Control
+evidence-related tools to complement            and Prevention, Atlanta, GA, United States, 4Global Health, Gates Foundation, Seattle, WA,
+routine surveillance systems for tuberculosis         United States, 5Tuberculosis/Leprosy Control Division, Ministry of Health, Kampala, Uganda, 6KNCV TB
+program planning. Front. Tuberc. 3:1622167.          Plus, The Hague, Netherlands, 7United Nations Oﬃce for Project Services, Copenhagen, Denmark,
+doi: 10.3389/ftubr.2025.1622167                     8National Tuberculosis, Leprosy, and Other Lung Disease Prevention and Control Program, Ethiopian
+                                                       Ministry of Health, Addis Ababa, Ethiopia, 9Vietnam National Tuberculosis Control Program, Ministry of
+COPYRIGHT                                           Health, Hanoi, Vietnam, 10Division of Tuberculosis and Lung Health, Ministry of Health, Nairobi, Kenya,
+© 2025 Fiorillo, Klinkenberg, Braccio, Chin,           11Global TB Programme, World Health Organization, Geneva, Switzerland, 12The Global Fund to Fight
+Turyahabwe, Arinaitwe, Fatima, Letta, Nguyen,        AIDS, Tuberculosis and Malaria, Geneva, Switzerland, 13Hubert Department of Global Health and
+Ronoh, Sismanidis, Nwaneri, Castro, Fiekert,        Department of Epidemiology, Emory University Rollins School of Public Health, Atlanta, GA,
+Morishita, Sahu, Ahmedov, Hausler, Date and        United States, 14Department of Medicine, Emory University School of Medicine, Atlanta, GA,
+Harris. This is an open-access article                United States, 15United States Agency for International Development, Washington, DC, United States,
+distributed under the terms of the Creative           16Integrated Communicable Disease Unit, World Health Organization Regional Oﬃce for the Western
+Commons Attribution License (CC BY). The           Paciﬁc, Manila, Philippines, 17Stop TB Partnership, Geneva, Switzerland, 18TB HIV Care, Cape Town,
+use, distribution or reproduction in other           South Africa, 19Department of Family Medicine, University of Pretoria, Pretoria, South Africa
+forums is permitted, provided the original
+author(s) and the copyright owner(s) are
+credited and that the original publication in
+this journal is cited, in accordance with          Background: Challenges and gaps with routine tuberculosis (TB) data and
+accepted academic practice. No use,             surveillance systems are well-known. To address them, numerous TB data and
+distribution or reproduction is permitted
+                                       evidence-related tools (e.g. surveys, assessments) have been developed to helpwhich does not comply with these terms.
+                                        countries collect, analyze, and use TB-related data. The “TB Data Optimization
+                                           Project” aimed to assess the use and usefulness of these tools and propose
+                                        best practices.
+
+                                   Methods: Phase one of this mixed-methods project included structured key
+                                      informant interviews (KIIs) with TB data experts, literature review, and mapping
+                                              tools’ indicators and metrics. Phase two consisted of case studies in ﬁve countries
+                                             (Ethiopia, Kenya, Pakistan, Uganda, and Vietnam). Structured KIIs and a use case
+                                        discussion were conducted with TB program staﬀand partners in each country,
+                                  and TB-related documents were reviewed. Phase three was an online survey
+                                            for national TB programs. Qualitative data were recorded, transcribed, coded,
+                                  and inductively analyzed. Quantitative data were analyzed descriptively. Findings
+                                  were triangulated and summarized into key themes.
+
+                                          Results: Seventy-two KIIs were conducted, 42 countries completed surveys,
+                                  and 212 documents were reviewed. Six key themes emerged: usefulness,
+                                         opportunities and challenges with planning and implementation, technical
+
+
+
+
+Frontiers in Tuberculosis                                          01                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+                                         assistance and ﬁnancial support, timing and coordination, motivating factors
+                                            for  implementation, and  the  role  of  tools  in  relation  to  routine  data
+                                       systems. The tools provide  critical information and most were considered
+                                   worth the  investment. Challenges  include suboptimal implementation  of
+                                       the recommendations from the  tools, poor  timing and coordination  of
+                                      implementation, and insuﬃcient capacity building. A set of best practices
+                                 was developed.
+
+                                     Conclusion: While the long-term goal is to strengthen and integrate routine
+                                       data systems, TB data tools currently play an important role in ﬁlling gaps.
+                                        Findings from this project provide considerations for optimal use of TB data tools;
+                                     however, there is still need for further guidance on selecting the most critical
+                                          tools to ﬁll gaps during TB programmatic and strategic planning.
+
+
+
+                                             KEYWORDS
+
+                                             tuberculosis supplemental data, data utilization, strategic planning, program planning,
+                                             tuberculosis care cascade, data tools
+
+
+1 Introduction                     2 Methods
+
+   High quality tuberculosis (TB) data  is crucial for planning      The TB Data Optimization Project was a mixed-methods
+and implementing eﬀective TB programs and monitoring progress    assessment implemented from January 2021 to August 2023 by
+toward country and global programmatic targets (1). However,    a project team from the U.S. Centers for Disease Control and
+routine TB program and surveillance data do not capture  all    Prevention (CDC) and the CDC Foundation, with funding from
+desired information  for TB program planning and  decision    the Gates Foundation.
+making. This is especially true in many high TB burden countries,    A steering committee comprising 10 TB data experts from
+where challenges with routine data systems often exist, such as    global TB technical and funding partners, and one Ministry of
+limited system coverage, poor data quality, noncompliance with   Health was established to provide input and expertise into the
+reporting mandates, fragmentation of data, and limited progress    project design, implementation, and interpretation of ﬁndings. This
+with transitioning to high quality digital data systems (2, 3). In the   committee met seven times virtually throughout the course of the
+past two decades, numerous surveys, assessments, and monitoring    project, with periodic feedback provided between meetings.
+and evaluation tools have been developed to supplement routine TB
+surveillance systems and assist countries in the collection, analysis,
+and utilization of TB-related data. Examples of these TB data tools   2.1 TB data tools that are supplemental to
+include TB prevalence surveys, TB patient cost surveys, patient
+                                            routine data and surveillance systems
+pathway analyses, and diagnostic network optimization tools (4–7).
+In 2021, the “Compendium of data and evidence-related tools for
+                                                         The compendium  (8)  served  as  the  starting  point  for
+use in TB planning and programming” (i.e., the “compendium”)
+                                                            development of a list of TB data tools on which to focus. Additional
+was published, which contains the proﬁle for 15 such TB data
+                                                                         tools were added after discussions with technical partners active in
+tools. Each proﬁle in the compendium provides an overview
+                                                                   the global TB community. The ﬁnal list of focus tools included:
+of the  tool, including information such as  its objectives, key
+metrics assessed, recommended frequency and average durations    1. TB prevalence surveys (7)
+of implementation, estimated cost, its limitations, and any pre-    2. Anti-TB drug resistance surveys (9)
+requisites for implementation (8).                                          3. Inventory studies (10)
+   Questions on whether countries need to implement all these    4. Private sector drug sales analysis (11)
+TB data tools and how to implement them in an eﬃcient manner    5. Surveys of costs faced by households aﬀected by TB (previously
+have been raised by National TB Programs (NTPs) as well as     known as TB patient cost surveys) (6)
+technical partners and donors. Additionally, implementation of    6. TB service delivery costing studies (Value TB) (12, 13)
+these TB data  tools can be time consuming,  often  requires    7. OneHealth tool for TB budgeting (14)
+speciﬁc technical expertise, and may require substantial funding    8. TB diagnostic network assessment (15)
+(8). The “TB Data Optimization Project” systematically assessed    9. Diagnostic network optimization (16)
+the use and usefulness of TB data tools and the potential for   10. TB care cascade analysis (17)
+streamlining them. Findings were synthesized into a set of best   11. Mapping and analysis for tailored disease control and health
+practices for the optimization of TB data generation, review, and      system strengthening (MATCH) (18)
+analysis. This paper summarizes the key ﬁndings from the TB Data   12. Patient pathway analysis (5)
+Optimization Project.                                                13. People-centered framework (19, 20)
+
+
+
+
+
+Frontiers in Tuberculosis                                          02                                                                frontiersin.org  Fiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+14. Epidemiological reviews including standards and benchmarks    estimate the burden of TB in their country; (b) understand and
+    assessment (i.e., TB epidemiological reviews) (21)                 address gaps in the TB care cascade; and (c) develop annual
+15. Quality of TB services assessment (22)                        program and national strategic plans. Individual KIIs collected
+16. Epidemiological modeling (23)                                   perceptions on the use and usefulness of various TB data for
+17. Screen-TB (24)                                          program planning and decision making as well as successes and
+                                                                      challenges encountered when planning and implementing TB
+    The 17 TB data tools were mapped into three areas based on
+                                                                   data tools.
+ where the tool can be used to support national TB programs
+ with: (1) estimating the TB burden, (2) program planning, and (3)
+ understanding the TB care cascade (Figure 1). The care cascade                                                        2.2.3 Phase 3: national TB program survey
+ in Figure 1 is modeled after the care cascade used in the People-                                                 (August 2022–June 2023)
+ Centered Framework to align with an existing framework used by
+                                                          The third phase consisted of an online quantitative survey for
+ countries and partners (19, 20). TB prevention was not included in
+                                             NTP managers or their designees. The questions were developed
+ the ﬁgure as none of the tools in the compendium or recommended
+                                                          from information gathered during phase one and two to seek
+ by partners at the time the project began aimed to assess issues
+                                                                        similar information from a wider range of countries.
+ related to TB prevention.
+
+
+                                              2.3 Sampling and data collection
+ 2.2 Overview of project design
+                                                        2.3.1 Desk reviews
+    The project used mixed methods and consisted of three phases                                                           Documents  targeted  for the  global review were obtained
+ which were implemented from January 2021 to August 2023                                                              through an English-language search of peer-reviewed journals,
+ (Figure 2).                                                                         websites, and requests to tool developers using a range of general
+                                                               terms related to TB data tools as well as the names of each tool listed
+                                                                       in Section 2.1; additional documents were suggested and shared by
+ 2.2.1 Phase 1: global evidence and perspectives       steering committee members. From the guidance documents (e.g.
+ (February 2021 to September 2021)                   handbooks and user guides), information abstracted included the
+    The ﬁrst phase consisted of a desk review, indicator mapping,    purpose, objectives, indicators/metrics measured, estimated time
+ assessment of opportunities to streamline tools, and structured    investment, and cost to implement. From the evidence documents,
+ key informant interviews (KIIs) with global technical and funding    information  desired included the year and country/countries
+ partners. The desk review was conducted to better understand    of implementation, key ﬁndings, successes and challenges with
+ the tools’ methodologies and the impact of these tools on TB   implementation, and any evidence related to the use of the ﬁndings
+ programs and policy. Indicators and metrics from TB data tools   and/or recommendations.
+ were mapped and aligned to characterize commonalities and used      Documents targeted for country case studies included, but
+ to investigate potential streamlining of tools and approaches. KIIs   were not limited to, TB data tool activity reports, presentations,
+ were conducted to hear TB data experts’ perception on the use and    publications, TB program review reports, national TB strategic
+ usefulness of these TB data tools.                                      plans,  and  Global  Fund  applications.  Country  documents
+                                                            were  obtained  from NTP  websites  and NTP staﬀin  the
+                                                                      case  study  countries,  as  well  as  published  English-language
+ 2.2.2 Phase 2: country case studies in ﬁve                journals. Information extracted from reports, presentations, and
+ countries (August 2021–February 2023)                 publications  included  implementation  year,  lessons  learned,
+    The second phase consisted of country case studies in ﬁve    ﬁndings,  and  recommendations  from  the TB  data  tools.
+ purposely selected high TB burden countries: Ethiopia, Kenya,   Information extracted from national strategic plans and Global
+ Pakistan, Uganda, and  Vietnam. Two  other  countries were   Fund applications included evidence regarding the use of the TB
+ approached but were not able to participate due to competing    data tools’ ﬁndings and recommendations for program planning
+ priorities. Country  selection was based on a  country’s  prior   and monitoring, as well as evidence of planning for upcoming
+ experience with TB data tools (all countries had implemented a   implementation of TB data tools.
+ minimum of nine tools), geographic variety, variation regarding
+ use  of  electronic and paper-based routine TB data  systems,
+ and  willingness  of  the MOH  to engage  in  this  project. In   2.3.2 Indicator mapping and streamlining
+ each country, we commenced with a desk review of existing      The objectives and indicators/metrics abstracted from guidance
+ evidence  (e.g., reports, publications) related to TB data tools   documents during the desk review were used for the indicator
+ the country had previously implemented and reviewed strategic   mapping and streamlining.
+ planning documents and funding applications to understand the
+ use of the tools’ ﬁndings for program planning and monitoring.
+ A use case discussion with NTP staﬀand in-country partners   2.3.3 Key informant interviews (KIIs)
+ was conducted in each country to better understand how TB      At the global level, structured KIIs were conducted with experts
+ data  tools  have  helped  the NTP and TB  partners  to:  (a)   from major TB technical partners and funders. Key informants
+
+
+
+
+ Frontiers in Tuberculosis                                          03                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+    FIGURE 1
+   Mapping the use of TB data and TB data tools for TB program planning and evaluation–TB Data Optimization Project, 2021–2023. 1Tools from other
+    sections = TB data tools listed under the “Estimate TB burden” and “TB care cascade” sections. 2People not accessing the health system = people
+    with TB infection with high risk for disease, people with asymptomatic disease but not seeking care, and people with symptomatic disease but not
+    seeking care. 3People seeking care but not diagnosed and/or notiﬁed = people presenting to health facilities but not diagnosed, people diagnosed
+   by non-NTP facilities but not notiﬁed, and people diagnosed by NTP facilities but not notiﬁed. 4People diagnosed and notiﬁed but not successfully
+    treated = people diagnosed but not started on treatment, people notiﬁed but not successfully treated, and people who are successfully treated but
+   not relapse free. 5First shaded area = routine data systems in some countries provide TB screening data for TB contacts and/or people presenting for
+    care at health facilities, but in other countries routine TB program data only starts documenting patients after they’ve been identiﬁed as having
+   presumptive TB; Second shaded area = routine data on people diagnosed and notiﬁed but not successfully treated may not always be available.
+   6Shaded area = if there is available data from a prevalence survey or another source that looks at people not accessing the health system, then that
+    data may be reviewed and incorporated into an epidemiological review. 7Shaded area = unless data from a prevalence survey or another source is
+    available, countries may not have data on people with TB who did not access the health system to use in care cascade analyses.
+
+
+
+
+
+Frontiers in Tuberculosis                                          04                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+    FIGURE 2
+   The three phases of the TB data optimization project, 2021–2023.
+
+
+
+were purposely selected following a discussion with the project   2.3.5 NTP survey
+steering committee to identify key informants that have planned,        All  countries  that had  previously  implemented  at  least
+implemented, and/or analyzed data from TB data tools.            two unique TB data tools, according to records from partner
+   In the country case studies, the project’s primary contact at    organizations, were eligible to participate in the NTP survey. Fifty-
+the NTP was asked to identify participants based on outlined   ﬁve countries met this criterion, the majority (83.6%) of which were
+criteria. Desired participants included TB program staﬀwho    in Africa or Asia. The NTP managers from all eligible countries
+worked at national and subnational levels and TB partners with   were invited via email to participate in the online survey. The email
+experience implementing the data tools or using the ﬁndings and    participation request was sent out to non-responsive countries a
+recommendations of the tools.                           maximum of four times over 4 months.
+   Both   global  and   country-level  KIIs  were  conducted      The  20-question  survey  (Supplementary material 4)  was
+using  video  conferencing. A  structured  interview  guide    designed, conducted, and managed using REDCap  electronic
+(Supplementary material 1, 2) was used to direct the interviews    data capture tools and was available in English and French, as
+and shared with participants ahead of time. It covered perceptions    the majority of eligible countries had one of these as an oﬃcial
+of challenges and gaps in routine TB data systems, the usefulness   language (25, 26). One of the  initial questions in the survey
+of various  tools  in addressing these  gaps, and opportunities   provided a checklist of all TB data tools of interest and asked
+and challenges with planning and implementing TB data tools.    countries to indicate which tools they had previously implemented.
+Country interview guides were adapted for each country to reﬂect   Many of the remaining questions were  tailored to focus on
+the tools that they had previously implemented. The interviews    the country’s experience with those speciﬁc tools that they had
+were 60–90 min long, and audio recorded with verbal consent   implemented. The  survey was  estimated  to  take 20–30 min
+from the participant. Interpreters were provided as needed for key    to complete.
+informants in Vietnam.
+
+
+                                              2.4 Data analysis and triangulation
+2.3.4 Use case discussions
+                                                              Data collection and analysis were conducted concurrently   One 90 to 100-min use case discussion was conducted in
+                                                             throughout the three phases to explore general themes and tool-each of the ﬁve countries with NTP staﬀand in-country TB
+                                                              based themes within the data.partners. A structured interview guide (Supplementary material 3)
+was developed and shared ahead  of time with  participants.
+Interpreters were  available  for  the use  case  discussion with
+Vietnam. The discussions were conducted via video conferencing   2.4.1 Desk reviews
+and audio recorded with prior verbal permission received from      The information extracted from the documents was used to
+all participants.                                             summarize and describe the use and impact of the data, ﬁndings,
+
+
+
+
+Frontiers in Tuberculosis                                          05                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+and recommendations of the TB data tools and identify data tools   2.4.5 Triangulation of ﬁndings
+whose ﬁndings were most useful or impacted program planning       Findings from country case studies were summarized and
+and policies. Desk review ﬁndings were used primarily to provide   compared across countries and then triangulated with the ﬁndings
+context and to triangulate with other ﬁndings.                    from the NTP survey to compose a summary country perspective.
+                                                               Global perspectives consisted of triangulated ﬁndings from global
+                                                                  KIIs and the global desk review. The global perspective was then
+                                                        compared to the countries’ perspective.
+2.4.2 Indicator mapping and streamlining
+                                                         The triangulation of input from all data sources was also used
+   Key objectives, indicators, and metrics collected by each TB
+                                                                      to explore potential opportunities for streamlining TB data tools
+data tool were mapped along the TB care cascade or grouped
+                                                         from several perspectives, including but not limited to the tools’
+into the areas of TB burden estimation, program planning, and
+                                                                           objectives, methodology, and target population. Considerations
+patient costs. Similarities and any overlap of indicators and metrics
+                                                                        for streamlining included exploring opportunities to combine
+across data tools were explored for opportunities to streamline or
+                                                                              tools, implement tools with similar sampling strategies at the
+align across tools. Tool methodology (e.g. facility-based surveys,
+                                                       same time, implement tools that are complementary, and consider
+use of geospatial mapping) across data tools was also explored for
+                                                                            logical sequencing of tools to minimize duplicated eﬀort, optimize
+opportunities to make tool implementation more eﬃcient.
+                                                                information gained, and consolidate funding.
+                                           A secondary analysis of information collected regarding each
+                                                                      of the 17 data tools was conducted using all the data sources, where
+2.4.3 Key informant interviews and use case           ﬁndings were summarized for each tool.
+discussions
+   Audio-recorded interviews and use case discussions were
+transcribed verbatim using NVivo Transcription and re-read and   2.5 Development of best practices
+edited for accuracy. The audio recordings were deleted  after
+transcription was completed and reviewed. Inductive content    A  set of practical best practices were developed to guide
+analysis was  conducted,  starting  with  systematic  coding  of    future planning and implementation of TB data tools. Some best
+interview transcripts by two project staﬀusing NVivo 13 (2020,    practices were formulated by the project team based on ﬁndings
+R1; QSR International, Doncaster, Australia). All initial categories   and discussions and others were proposed by global and/or country
+and sub-categories were reviewed, revised, and agreed upon by   key informants. Draft best practices were shared with steering
+four project team members (27). The coded interview responses   committee members and their feedback was incorporated.
+and categories were then systematically explored for commonalities
+within the data, and key emerging themes (deﬁned as where at
+least 25 percent of respondents discussed a topic) were summarized   2.6 Ethical considerations
+(28). The global transcripts and each country’s transcripts were
+coded and analyzed separately and then compared. Two project        All key informant and use case discussion participants provided
+staﬀsummarized use case discussion responses for each country    verbal consent prior to the interview or discussion. Interpreters
+using discussion transcripts and notes, then compared ﬁndings   were provided as needed for participants in Vietnam. Participants
+across the ﬁve countries.                                       were free to withdraw from the interview or discussion at any
+                                                                     time. All interview documentation was anonymized using a unique
+                                                                       participant identiﬁcation number. For each of the case study
+                                                                       countries, a letter of support for participation was obtained from
+2.4.4 NTP survey                                                                   the MOH. This  activity was reviewed by CDC, deemed not
+   Survey  responses  were  summarized  descriptively  with                                                                       research, and was conducted consistent with applicable federal law
+frequencies and proportions. “Other” responses were post coded                                                        and CDC policy (See e.g., 45 C.F.R. part 46, 21 C.F.R. part 56;
+and open responses were summarized. After reviewing the survey                                                           42 U.S.C. §241(d); 5 U.S.C. §552a; 44 U.S.C. §3501 et seq.).
+results, project staﬀhad concerns that some respondents may
+have mistaken the names of some tools for a diﬀerent tool than
+the one of interest; and thus, responded to questions on tools  3 Results
+that they had not actually implemented. Project staﬀattempted to
+verify whether countries had previously completed speciﬁc tools   3.1 Documents identiﬁed for desk reviews
+by checking with partners that fund or support the tools and then
+post coding responses accordingly. Only four tools were not able       Thirty-two guidance documents for the TB data tools and 67
+to be veriﬁed, including the OneHealth tool for TB budgeting, TB   documents describing experiences with implementing the tools
+care cascade analysis, epidemiological modeling, and screen-TB.   were identiﬁed and reviewed during the global-level review. A total
+An updated dataset was created using the post-coded responses for    of 116 documents from the ﬁve case study countries were identiﬁed
+the veriﬁed tools and the original responses for the four tools that   and reviewed. Information that was more frequently available in
+could not be veriﬁed. Findings presented here used the updated    the documents included the purpose, objectives, implementation
+dataset. Quantitative analyses were conducted using SAS software    period, key data points, key ﬁndings, and recommendations of
+v9.4 (SAS Institue Inc., Cary, NC, USA).                             the TB data tools. There was often limited or no information on
+
+
+
+
+Frontiers in Tuberculosis                                          06                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+TABLE 1 Respondent characteristics by data source—TB Data Optimization Project, 2021−2023.
+
+  Characteristics            Phase 1: global      Phase 2: country      Phase 2: country    Phase 3: NTP survey
+                                 interview        case study interview   case study use case       respondents
+                            respondents         respondents∗         respondents∗             (n = 42)∗
+                                   (n = 24)                (n = 48)                (n = 27)
+
+  Duration working in TB (years)              15 (12–20)                     11 (8–15)                          n/a                       14 (10–20)
+  Median (IQR)
+
+ Sex
+
+  Male                                     11 (45.8%)                    32 (66.7%)                    18 (66.7%)                         n/a
+
+  Female                                   13 (54.2%)                    16 (33.3%)                     9 (33.3%)                          n/a
+
+ Aﬃliation (countries)
+
+ MOH/TB program staﬀ                          n/a                       31 (64.6%)                    18 (66.7%)                    42 (100%)
+
+  TB program partner                        24 (100%)                    17 (35.4%)                     9 (33.3%)                          n/a
+
+∗Case study interview participants, use case respondents, and NTP survey respondents are not mutually exclusive.
+IQR, interquartile range; MOH, ministry of health; NTP, national TB program.
+
+
+successes and challenges with implementation, lessons learned, and   3.3 Respondent familiarity with TB data
+evidence related to the use of the ﬁndings and/or recommendations   tools
+resulting from the TB data tools.
+                                                         The respondents’ familiarity with the 17 TB data tools of
+                                                                           interest is shown in Figure 3. The most well-known tools were
+3.2 Respondents in key informant                  the TB prevalence survey (78.1%), anti-TB drug resistance survey
+                                                                    (77.2%), TB  epidemiological  review  (77.2%),  epidemiological
+interviews, use case discussions, and NTP
+                                                           modeling (68.4%), TB patient cost survey (56.1%), people-centered
+survey                                                          framework (52.6%), and patient pathway analysis (51.8%). The
+                                                                               least well-known tools were the private sector drug sales analysis
+   Twenty-four global key informants were interviewed. Forty-                                                                    (17.5%),  quality of TB  services assessment (17.5%), MATCH
+eight  country  key  informants  were  interviewed  (9–11  per                                                                    (15.8%), and screen-TB (10.5%).
+country) and 27 respondents participated in country use case
+discussions  (4–6  per  country);  there was some  overlap  in
+respondents between the country level interviews and use case
+                                              3.4 Key themesdiscussions. The NTP survey was completed by 42 countries
+(response rate = 76%). Respondent characteristics are described
+                                                                          Six key themes emerged from the triangulation of ﬁndings fromin Table 1.
+                                                                   the NTP survey, ﬁve country case studies, and global perspectives.   The median duration of working in TB across all respondents
+(114) was 13 years (IQR: 9–18). The male to female ratio of global
+respondents was almost equal, while approximately two-thirds of
+country case study respondents were male. One third of country   3.4.1 Theme 1: usefulness of TB data tools
+case study respondents were TB program partners and two-thirds      Although the tools require additional resources such as time,
+were TB program staﬀat the national and subnational level.           eﬀort, and funding, respondents believed that many tools are worth
+   Among the ﬁve case study countries, three were in Africa    the investment, because the ﬁndings provide countries with critical
+and two were in Asia; two countries were low-income and three   complementary information. However, one critical ﬁnding was
+countries were lower middle-income (29). Among the 42 countries    that results and recommendations are not consistently used or
+responding  to  the NTP  survey  (Supplementary material 5),   maximized to their full potential to inform TB program planning
+22 (52.4%) were from  Africa, 13 (30.9%) from  Asia,  three   and decision making. This was due to reasons such as ﬁndings
+(7.1%)  from  Oceania,  two  (4.8%)  from  Europe,  and  two   from the tools were not actionable or diﬃcult to address, ﬁndings
+(4.8%) from  South  America. Ten  (23.8%) were from  low-   were not followed-up or disseminated to the right audience to
+income countries, 22 (52.4%) were from lower-middle income   make programmatic and policy changes, and/or a lack of funding
+countries, and 10  (23.8%) were from upper-middle income    to implement recommendations. More detailed ﬁndings from each
+countries. Fewer countries in Oceania, Europe and the Americas    of the three data sources are presented in Table 2.
+were  eligible to participate in the survey than in Africa and
+Asia, which  contributed  to a lower number  of respondents
+from  these  regions.  All NTP  survey  respondents  worked   3.4.2 Theme 2: opportunities and challenges with
+at  their country’s national TB program but held a range of   planning and implementing TB data tools
+positions including NTP managers, M&E staﬀ, research staﬀand        Overall, collaboration and alignment amongst stakeholders,
+other roles.                                                             receipt  of  technical  and  ﬁnancial  support  from  partners,
+
+
+
+
+Frontiers in Tuberculosis                                          07                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+    FIGURE 3
+    Global and country key informants and survey respondents’ familiarity with the 17 TB data tools—TB Data Optimization Project, 2021–2023. TBPS, TB
+    prevalence survey; DRS, anti-TB drug resistance survey; SB, epidemiological review including standards and benchmarks; EM, epidemiological
+   modeling; PCS, TB patient cost survey; PCF, people-centered framework; PPA, patient pathway analysis; IS, inventory study; OHT, OneHealth tool for
+   TB budgeting; CCA, TB care cascade analysis; DNO, diagnostic network optimization; DNA, TB diagnostic network assessment; SDCS, service
+    delivery costing study (Value TB); PSRx, private sector drug sales analysis; QTSA, quality of TB services assessment; MATCH, mapping and analysis of
+    tailored disease control and health system strengthening; STB, screen-TB. Respondents were considered familiar with a tool if they were involved
+    with planning and/or implementing the tool and/or had seen or heard the results of the tool.
+
+
+
+TABLE 2 Respondent perspectives on the usefulness of TB data tools by data source—TB Data Optimization Project, 2021–2023.
+
+ Theme  NTP survey ﬁndings              Country case study ﬁndings         Global ﬁndings
+
+  Usefulness    - Ten of the 17 TB data tools (TBPS, DRS, EM,       - Tools were used to help estimate TB burden,          - The most well-known tools were believed by
+  of TB       PCS, PPA, CCA, DNA, DNO, QTSA∗, SDCS∗)       better understand gaps in the TB care cascade,       most respondents to be worth the investment
+  data tools    were considered worth the investment by a         develop the national strategic plan, and write          (with some caveats, e.g. depending on data
+                majority (≥80%) of countries that have            funding applications; but countries also relied          availability and a country’s needs): TBPS, PCS,
+              implemented those tools                            extensively on their routine TB data for this        CCA, PPA, and SB. Other tools mentioned by
+                   - Respondents were asked about six areas in           - Tools that were cited most often as being          many/some respondents as worth the investment
+              which TB data tools may be used: (1)                 particularly useful were: TBPS, DRS, PCS, and        were: DRS, IS, PSRx, SDCS, PCF, DNO, and EM
+               understanding gaps in the TB care cascade; (2)     PPA; however, these were also the most                  - Every tool had respondents who believed it was
+                routine programmatic planning and forecasting:    well-known amongst respondents. Other tools       worth the investment, except for screen TB.
+                 (3) monitoring progress toward TB targets; (4)       that were cited as particularly useful include:         However, screen TB was not well-known amongst
+               developing the TB National Strategic Plan; (5)     DNO, DNA, IS, SB, and EM                        respondents
+               developing funding applications; and (6)              - Evidence from desk reviews was somewhat less        - Several respondents indicated challenges with
+               impacting a country’s guidelines or policies.          consistent; not all tools were used/cited in national    operationalizing the ﬁndings and optimally
+              Four of the tools (TBPS, DRS, CCA, DNO) were     strategic plans, funding applications, and            implementing recommendations (e.g. ﬁndings not
+               considered very or somewhat useful or helpful     program reviews                                     actionable or diﬃcult to address, ﬁndings not
+                across all six areas, but most of the tools scored                                                        disseminated to the right audience to make
+                highly in four of the six areas                                                                  programmatic and policy changes, lack of funding
+                                                                                                                           to implement recommendations and lack of
+                                                                                                                   follow-up after tool implementation)
+
+CCA, TB care cascade analysis; DNA, TB diagnostic network assessment; DNO, diagnostic network optimization; DRS, anti-TB drug resistance survey; EM, epidemiological modeling; IS,
+inventory study; PCF, people-centered framework; PCS, TB patient cost survey; PPA, patient pathway analysis; PSRx, private sector drug sales analysis; QTSA, quality of TB services assessment;
+SB, epidemiological review including standards and benchmarks; SDCS, service delivery costing study (Value TB); TBPS, TB prevalence survey.
+∗TB data tools with small number of NTP survey countries that have implemented the tool (N≤5).
+
+
+and capacity building  for  tool implementation,  analysis, and       Conversely, inadequate human resource capacity (technical
+translating ﬁndings into action were the most frequently reported    capacity and number of staﬀneeded) and inadequate ﬁnancial
+opportunities that arose from implementing TB data tools. A    resources were the most frequently reported challenges. These
+country key informant highlighted the beneﬁts of capacity building    challenges are illustrated by a country key informant as:
+as follows:
+                                                                   “The national TB control program has a limited number
+          “If the country could beneﬁt from capacity building during         of technical people on their team...these activities are very
+    implementation, we don’t have to depend on external experts        technical and require somebody to take ownership and follow
+    to come...Diagnostic network  optimization, epidemiological        up. Although [there are] consultants to conduct these activities,
+    modelling, and MATCH analysis, those ones would be very       somebody with suﬃcient knowledge and technical expertise
+    important to build capacity so we can routinely implement these       should be there to follow up with the consultants [and] to
+    activities.”—Country Key Informant                          make sure that recommendations are being implemented and
+
+
+
+
+
+Frontiers in Tuberculosis                                          08                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+TABLE 3 Respondent perspectives on signiﬁcant opportunities and challenges with planning and implementing TB data tools by data source—TB Data
+Optimization Project, 2021–2023.
+
+ Theme    NTP survey ﬁndings               Country case study ﬁndings     Global ﬁndings
+
+  Signiﬁcant       Most signiﬁcant opportunities (N = 42, multiple       - Work with and receive technical and             - Collaboration and coordination amongst
+  opportunities      responses possible)                                 ﬁnancial support from partners                  stakeholders (e.g. alignment between partners
+  from planning      1. - Technical support from partners: 88.1%             - Capacity building for NTP, subnational        implementing diﬀerent tools, MOH working with
+  and                  2. - Capacity building for NTP staﬀ: 85.7%              level staﬀ, and local partners                    other government sectors)
+  implementing      3. - Financial support from partners: 73.8%              - Data tools provide additional evidence to        - Capacity building for country staﬀ
+  TB data tools                                                     inform policy and interventions
+
+  Signiﬁcant       Most signiﬁcant challenges (N = 42, multiple           - Limited human resources (e.g. insuﬃcient       - Limited human resources in country
+  challenges         responses possible)                                      staﬀ, competing priorities)                            (e.g. competing priorities)
+  with planning      1. - Insuﬃcient ﬁnancial resources: 83.3%               - Insuﬃcient ﬁnancial resources (e.g. rely          - Insuﬃcient ﬁnancial resources for tools
+  and                  2. - Insuﬃcient staﬀ/time: 76.2%                       heavily on donor funding)                            (e.g. large surveys are costly)
+  implementing      3. - Limited technical capacity: 66.7%                    - Do not have required technical capacity to       - Limited technical/analytic capacity in country
+  TB data tools                                                   implement tool
+
+NTP, national TB program; MOH, Ministry of Health.
+
+    incorporated in national and provincial strategic planning. If   3.4.4 Theme 4: timing and coordination of TB
+    there is more technical human resource available, I believe that   data tools
+      it will be more helpful and they will be able to distribute the      While there were no questions directly asked in the NTP
+    workload. In the last epi review or program review, I have seen    survey related to timing and coordination of TB data  tools,
+    that there are only one or two people who are coordinating with    this theme emerged from both case study countries and global
+    the provinces, with the consultants, making sure timelines are    respondents.  Overall,  there was agreement  that  timing and
+    being met.”—Country Key Informant                           coordination of TB data tools are challenging and critical. Global
+                                                               respondents highlighted that  if multiple tools are implemented
+   More detailed ﬁndings on opportunities and challenges from   around the same time, it is important to ensure good coordination
+each of the three data sources are presented in Table 3.              between partners and between partners and the NTP. Respondents
+                                                            emphasized the importance of tool implementation aligning with
+                                                                   the country’s needs, priorities, and TB strategic planning cycle, as
+                                                                             illustrated below:
+3.4.3 Theme 3: technical assistance and ﬁnancial
+support for TB data tools                                       “The  unfortunate  thing  with  funding,  especially from
+                                                                           international donors, is sometimes the funding doesn’t align with    Overall, technical assistance received by countries for TB data
+                                                                          the country’s priorities. So maybe in this strategic period, this istools they have implemented was welcomed and typically reported
+                                                             what the donor’s priorities are, but they do not match the NTP’sas suﬃcient. However, respondents from all three data sources
+                                                                                    priorities that year. But then at the end of the strategic period, it’sindicated challenges with availability of technical assistance for
+                                                                                clear that all these supplemental tools should have taken place.activities following tool implementation such as completion of
+                                                                             So, you end up with multiple tools happening at the same time.reports and implementation of recommendations resulting from
+                                                                 Alignment is extremely important.”—Country Key Informantthe tool.
+                                                                     “Over time, the burden of [supplemental tools] is becoming   In terms of ﬁnancial support, there was agreement across data
+                                                                    reduced because we have more experience, and we can streamlinesources that countries often depend heavily on donor funding for
+                                                                        things...and my thought would be to really think about whatTB data tools due to lack of domestic funding and competing
+                                                                          the country context  is, because you don’t want things  likepriorities, which can prevent or delay implementation and/or
+                                                                              epi reviews or drug  resistance surveys  to become a checksustainability  after  initial implementation. Inadequate funding
+                                                                          the box  thing. You want to make sure that they’re timedwas frequently reported as a signiﬁcant challenge for planning
+                                                                                correctly and tailored correctly so that they really meet countryand implementing TB  data  tools,  as  illustrated by  country
+                                                                 needs.”—Global Key Informantkey informants:
+
+                                                      More detailed ﬁndings from each of the three data sources are        “Unfortunately,  funding  never  seems  to  be  adequate.
+                                                                 presented in Table 5.   Sometimes an exercise requires a lot of inputs, it’s supposed to
+    take place maybe for an entire year, so we have to do a lot of
+    stretching of the donor.”—Country Key Informant
+       “The biggest problem that we’ve had is funding, which is   3.4.5 Theme 5: proposing, deciding, and
+    largely external. We’ve not had a lot of in-country commitments   motivating factors to implement TB data tools
+   from the government...we tend to rely on external funding       There  were  mixed  opinions  from  country  and  global
+   and have to deal with the changing landscape of funding and   respondents  on  who   typically   proposes  implementation
+    sometimes we are not able to get funds in time.”—Country    of TB  data  tools.  The  majority  of  country  respondents
+   Key Informant                                                  believed  that  the NTP  most  often  proposes  a TB  data
+                                                                              tool,  while  global  respondents  indicated  that  suggestions
+   More detailed ﬁndings from each of the three data sources are    to  implement  tools  typically come  from  external  partners.
+presented in Table 4.                                          However,  there was  strong agreement amongst country and
+
+
+Frontiers in Tuberculosis                                          09                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+TABLE 4 Respondent perspectives on technical assistance and ﬁnancial support for TB data tools by data source—TB Data Optimization Project,
+2021–2023.
+
+ Theme            NTP survey ﬁndings               Country case study          Global ﬁndings
+                                                       ﬁndings
+
+  Technical assistance (TA) for      - Countries were asked to report whether adequate     - Generally received adequate TA to          - TA/consultants are almost always
+  TB data tools              TA was received for the tools they had previously       plan and implement data tools               externally funded and provide support
+                                 implemented. For many of the tools, 100% of            - TA is almost always needed and            to countries for implementation of data
+                                    countries that had implemented them reported      welcomed to implement data tools            tools, but not always for analysis and
+                                 adequate TA received                                      - Technical support is not always            translation of ﬁndings into action
+                                          - The list below shows individual tools with the       provided for activities after completion
+                            number of countries that had previously               of the tool; sometimes, reports aren’t
+                               implemented it (N =) and the percentage            completed because consultants leave
+                                   reporting inadequate TA received                        after tool implementation and analysis
+                                          - OneHealth tool (N∗= 20): 25.0%
+                                          - Screen-TB (N = 5): 20.0%
+                                          - Epidemiological modeling (N = 24): 16.7%
+                                          - TB patient cost survey (N = 21): 9.5%
+                                          - TB care cascade analysis (N = 21): 9.5%
+                                          - Anti-TB drug resistance survey (N = 34): 8.8%
+                                          - TB epidemiological review (N = 39): 2.6%
+
+  Financial support for TB data      - Countries were asked to report whether adequate     - Lack of domestic funding; heavy             - Data tools are almost always donor
+  tools+                           ﬁnancial support was received for the tools they        reliance on donor funding for data tools     funded; lack domestic funding for them
+                              had previously implemented. For many of the tools,     - Implementation of data tools are often      - Implementation of data tools often
+                           100% of countries that had implemented them        delayed due to inadequate funding          delayed due to inadequate funding
+                                  reported adequate ﬁnancial support received            - Donors may not have adequate or           - Countries can’t apply all the data tools
+                                          - The list below shows individual tools with the       earmarked funds for data tools, so          they want to due to funding availability
+                            number of countries that had previously              countries must make a deliberate eﬀort       - Recommendations resulting from data
+                               implemented it (N =) and the percentage             to get funding for them                      tools are not optimally implemented
+                                   reporting inadequate funding received                   - Lack of funding to implement           due to several issues, including
+                                          - TB care cascade analysis (N∗= 21): 23.8%         recommendations resulting from          funding constraints
+                                          - Epidemiological modeling (N = 24): 16.7%          data tools
+                                          - Anti-TB drug resistance survey (N = 34): 11.8%
+                                          - TB epidemiological review (N = 39): 10.3%
+                                          - OneHealth tool (N = 20): 10.0%
+                                          - People-centered framework (N = 10): 10.0%
+                                          - TB patient cost survey (N = 21): 9.5%
+                                          - TB prevalence survey (N = 24): 8.3%
+
++In the NTP survey, countries were asked about tools that they had previously implemented, hence these tools were likely to have been adequately funded since the countries managed to
+implement them. The data collected did not capture whether there are additional tools they would like to implement but are limited by insuﬃcient funding. Country and global respondents
+were asked to discuss the need for funding from a more general perspective, and often mentioned challenges with adequate funding to implement recommendations resulting from the tools.
+
+
+
+TABLE 5 Respondent perspectives on timing and coordination of TB data tools by data source—TB Data Optimization Project, 2021–2023.
+
+ Theme       NTP survey ﬁndings         Country case study ﬁndings         Global ﬁndings
+
+  Timing and            This topic was not directly asked in the       - Timing of tool implementation is challenging         - Timing of tool implementation is challenging
+  coordination of TB     survey, but 11.9% of the 42 survey         and should align with a country’s strategic          and often not aligned with a country’s strategic
+  data tools             respondents reported lack of               planning period/Global Fund application cycle;       planning cycle (e.g. tools often take a long time to
+                         coordination between partners for tool       results should be available before the next round of    plan, implement, and analyze results)
+                       implementation as a signiﬁcant               strategic plan development begins so they can           - When multiple tools are implemented, ensure
+                          challenge with planning and              inform program planning                       good coordination e.g. can coordinate
+                       implementing data tools                       - Tool implementation should align with the           analytics/data requests from the NTP
+                                                                       country’s TB program priorities; it’s important to
+                                                                   coordinate with the NTP to ensure buy-in
+
+NTP, national TB program.
+
+
+global respondents  that the NTP  ultimately makes the ﬁnal                                                                   “The most motivating factor at the program level has been
+decision; while other  factors such  as funding  availability or                                                                             to strengthen our evidence base. We want to ensure that we
+discussions with internal and/or external TB partners may guide                                                                  have as much information as possible so that we can enhance
+that decision.                                                                  our position for decision making. We understand and sometimes
+   When looking at motivating factors to implement TB data                                                                  have suﬀered where inaccurate policies can prove to be costly, not
+tools, the country’s need for data or information, suggestions from                                                                                   just ﬁnancially, but also in time.”—Country Key Informant
+technical or funding partners, and the availability of funding to
+implement the TB data tool were the most frequently reported
+motivating  factors. A country key informant highlighted the      More detailed ﬁndings from each of the three data sources are
+importance of having information for decision making:              presented in Table 6.
+
+
+
+
+
+Frontiers in Tuberculosis                                          10                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+TABLE 6 Respondent perspectives on proposing, deciding, and motivating factors to implement TB data tools—TB Data Optimization Project,
+2021–2023.
+
+ Theme       NTP survey ﬁndings      Country case study ﬁndings         Global ﬁndings
+
+ Who typically            - Most countries reported that the    Who typically proposes                    Who typically proposes - Tools are usually
+  proposes         NTP/MOH initially suggests             - The NTP typically proposes implementation of a    recommended by technical partners or are a
+  implementation of     (76.2%) and makes the ﬁnal            tool based on a need for information                requirement from funders, which often leads countries
+  TB data tools and       decision (90.5%) to implement a        - External technical partners sometimes have an       to implement tools
+  who makes the ﬁnal   TB data tool                           idea and propose it to the NTP               Who makes the ﬁnal decision - Initial push comes from
+  decision to               - Six out of 42 countries (14.3%)         - The TB technical working group in the country      external partners but the ultimate decision rests with
+  implement TB data     reported that international             usually gives advice and recommendations to         the NTP.
+  tools                    technical partners and in-country     implement a tool                                           - The NTP should be making the decision, but this is
+                           technical working groups most      Who makes the ﬁnal decision                       not always the case; NTPs have become more engaged
+                          often suggest tools, but do not           - NTP/MOH leadership makes the decision/gives     over time as they have seen tools being implemented in
+                    make the ﬁnal decision. Three out     approval to implement a tool, but it is usually         other countries, so there is more internal
+                           of 42 countries (7.1%) reported        discussed ﬁrst with in-country partners or a          motivation now
+                           that funding partners have the ﬁnal     technical working group; the approval process in
+                          decision to implement a tool         some countries is challenging
+                                                                           - Sometimes the NTP/MOH is advised by external
+                                                             or internal TB partners or a technical working
+                                                        group
+                                                                           - Implementation depends on whether donors
+                                                            support the idea and provide funding
+
+  Motivating factors      Strongest motivating factor              - The country’s desire for more information for         - External push from technical and/or funding partners
+  to implement TB      (N = 41∗)                            planning, decision making, policy making,              - Funding to implement the tool
+  data tools                 1. - Need for data/evidence: 51.2%     designing interventions, or understanding the TB      - Internal motivation within the NTP (e.g. data needs
+                               2. - Measure progress toward           situation                                               for upcoming national strategic plan development); if a
+                           global TB strategies/targets: 34.1%      - External push/ recommendation from technical     country has strong NTP leadership and pushes for
+                               3. - Availability of funding: 12.2%      partners or requirement for funding application      program needs
+                               4. - Request by donor: 2.4%              - NTP or leadership’s focus or interest
+                                                                           - Ability to evaluate progress toward global TB
+                                                                        strategies (e.g. END TB)
+                                                                           - Availability of funding to implement the tool;
+                                                         dependent on donor support for tools
+
+NTP, national TB program; MOH, Ministry of Health
+∗Excluded one “other” response as the response entered was unclear.
+
+
+
+3.4.6 Theme 6: routine data systems and their                 It means a  surveillance system with an automated  ﬁscal
+relationship to supplemental data tools                   dashboard that will allow people with minimal capacity of doing
+    Overall, country and global respondents believed that top        analysis to be able to use the results.”—Global Key Informant
+challenges/gaps in routine TB data systems include limitations
+in data utilization  (e.g. limited analytic capacity in staﬀ, data       There was no consensus over what information is still missing
+quality) and  limitations in the data systems themselves  (e.g.    or not captured by routine data and supplemental tools, but
+fragmented data systems, paper-based recording and reporting,   needed  for TB program  planning,  as  it depended on each
+timeliness of data, limited variables collected). Country and global    country’s needs. Several case study and NTP survey respondents
+respondents want to invest in strengthening routine data systems    reported the need for subnational level estimates for better target
+which are more sustainable, enable the availability of robust and    setting and program planning. Many global respondents believed
+timely electronic case-based data, and can support TB program    there are already too many TB data tools and that there  is
+planning. However, even with stronger routine systems that may   no need for developing new tools; however, this sentiment did
+decrease the need  for some data  tools, other  tools  will  still   not emerge as strongly from country respondents. More detailed
+be needed to provide supplementary data. The importance of   ﬁndings from each of the three data sources are presented in
+strengthening routine data systems is illustrated by country and    Table 7.
+global key informants:
+
+         “I  think  supplemental  tools  are  important,  but  there
+    are lots of recommendations in these tools that  if we don’t   3.5 Additional analyses
+    strengthen  the  routine  systems,  we  will  not  move...if
+   we   don’t   strengthen   information   or   social   behavior   3.5.1 Findings by TB data tools
+    change  activities  in  the communities, we  will do another        Overall, feedback on most of the TB data tools was positive
+    prevalence survey and ﬁnd the same information.”—Country    regarding the tools’ impact and usefulness. Only a few of the tools
+   Key Informant                                          had mixed ﬁndings, and none of the tools had predominantly
+       “The priority now is to have a good surveillance system    negative ﬁndings. Feedback was limited for a few of the TB data
+   which also facilitates analysis and interpretation of the data.    tools that were less well-known by respondents and they were
+
+
+
+
+
+Frontiers in Tuberculosis                                          11                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+TABLE 7 Respondent perspectives on routine data systems and their relationship to supplemental data tools—TB Data Optimization Project, 2021–2023.
+
+ Theme            NTP survey ﬁndings              Country case studies         Global perspective
+
+  Challenges/gaps in routine TB   Top 5 challenges (N = 42, multiple                    - Limited variables collected by systems      - Fragmented data systems
+  data systems                     responses possible)                                        (e.g. do not collect socioeconomic            - Some countries still using paper-based
+                                          1. - No real-time data: 66.7%                           status, comorbidities, patient costs,         systems
+                                          2. - Data quality: 64.3%                              quality of care)                                  - Limited analytic skills of TB program
+                                          3.- Limited analytic capacity at lower levels:           - Fragmented data systems (e.g. TB data     staﬀat national and lower levels; also
+                               52.4%                                          not integrated with other diseases, not      impacts data use
+                                          4. - Limited use of data at lower levels: 52.4%        linked with lab data)                           - Data timeliness (e.g. reporting timeline
+                                          5. - Use of paper-based system: 45.2%                  - Aggregate, rather than case-based         inadequate for decision making, no
+                                                                                      reporting                                   real-time data)
+                                                                                                      - Mode of collection: Some countries         - Data ﬂow (e.g. data only
+                                                                                                                             still using paper-based systems or         ﬂows bottom-up)
+                                                                                          transitioning to digital systems
+                                                                                                      - Data quality (e.g. duplicate data, lab
+                                                                        and clinical data don’t match)
+
+  Strengthening routine TB        Respondents were asked: If they received a sum      - Ideal to strengthen routine systems         - Ideal to strengthen routine data
+  data systems vs.                   of money for TB data activities, what percentage    because they are more sustainable than      systems, as it eliminates the need for
+  implementing TB data tools      should be allocated toward strengthening           data tools; more robust systems mean      some data tools; strengthened systems
+                                   routine data systems vs. implementing data          certain data tools will no longer be          allow for better or more analyses
+                                      tools? (percentage of respondents selecting each    needed                                           - Invest in routine data systems to have
+                                 range shown below) (N = 42) [n]                      - Need to ensure systems are integrated     high quality data for the long run, but in
+                                          - Allocate >75% toward routine systems: 21.4%    and user-friendly, not just strengthened     the meantime, data tools are still needed
+                                          - Allocate 51%−75% toward routine systems:         - Important to ﬁnd a balance; some data     for decision making
+                               40.5%                                                tools will be needed even if routine
+                                          - Allocate 26%−50% toward routine systems:       systems are strengthened
+                               28.6%                                                     - Donors and the government should
+                                          - Allocate <25% toward routine systems: 9.5%       invest in both strengthening routine
+                                                                                 systems and in implementing critical
+                                                                                    data tools
+
+  Information still missing from     - Missing/needed information (N = 42, question     - Subnational level estimates                   - No need for new tools; more
+  routine data and TB data tools    was open-ended)                                        - TB-related mortality                    important to optimally use existing data
+  and/or needed for TB               - Subnational level estimates (n = 4)                   - Additional variables for data system        for decision making and to provide
+  program planning                   - Private sector data (n = 3)                      such as patient socioeconomic status        guidance/training to countries to do so
+                                          - Data on presumptive TB (n = 3)               and comorbidities                              - Quality improvement/quality of care∗
+                                          - True TB burden (n = 2)                               - Integration of private sector data into       - Stigma Assessment∗
+                                          - Case-based data (n = 2)                           national TB surveillance data
+                                          - Hotspot mapping (n = 2)
+                                          - Cost beneﬁt/eﬀectiveness (n = 2)
+                                          - Nothing (n = 2)
+                                          - Other responses received from individual                                                 ∗Tools to measure this already exist
+                                     countries: stigma measurement, quality of care,
+                                impact and outcome information,
+                                implementation eﬀectiveness, true number of
+                                missed/undiagnosed cases, close contact
+                                    follow-up, geospatial mapping, social
+                                   determinants, comorbidities, health seeking
+                                     behavior, patients lost to follow-up
+
+
+
+therefore unable to comment on these tools (e.g. MATCH, screen    save resources (e.g. funding, time, eﬀort), it would be a diﬃcult
+TB). More detailed ﬁndings from  this secondary analysis are   endeavor as each tool has its own purpose and uses a diﬀerent
+presented elsewhere (30).                                       methodology. Nevertheless, examples of suggested combinations
+                                                                 included TB  prevalence  survey and anti-TB drug  resistance
+                                                                     survey, TB prevalence survey and TB patient cost survey, TB
+3.5.2 Opportunities for streamlining of TB data        diagnostic network assessment, diagnostic network optimization,
+tools                                                   and MATCH, and TB patient cost survey and TB service delivery
+  A total of 164 key objectives and metrics were abstracted    costing study.
+from the tools’ guidance documents during the desk review and       However, with  consideration  of each  tool’s methodology,
+mapped to steps of the care cascade and three additional categories-    objectives, and metrics, many of these combinations are not
+burden estimation, program planning, and patient costs. Findings    feasible. For example, TB prevalence surveys and anti-TB drug
+from this mapping showed limited overlap between tools. Even    resistance surveys are both nationwide surveys but have diﬀerent
+where indicators were similar, the underlying data sources or    target  populations. TB prevalence surveys  target the  general
+methodology were diﬀerent.                                       population and have a much larger sample size, while anti-TB
+   Global and country key informants were asked if any of the   drug resistance surveys target new and re-treated TB patients at
+TB data tools could be combined. The majority of respondents    the time of diagnosis. Anti-TB drug resistance surveys also need
+agreed  that although  it would be  ideal to combine  tools to    to target a larger number of persons with TB than captured in
+
+
+
+
+Frontiers in Tuberculosis                                          12                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+TABLE 8 Opportunities for streamlining of TB data tools—TB Data Optimization Project, 2021–2023.
+
+ Opportunities for               TB data tools                    Feasibility/considerations
+ streamlining/implementing in a
+ complementary manner
+
+  Facility-based surveys and assessments          TB patient cost survey (PCS)                      - Implementation will be more complex if administering more than 1
+   - Could conduct surveys/assessments at the same                                                  survey/assessment
+  time to use the same logistic support (e.g. data          - Quality of TB services assessment (QTSA)     - Need to ensure length of patient interviews does not become
+  collectors, travel costs, patients sampled) and                                              burdensome (consider abridged versions of surveys/interviews)
+  methodology (e.g. patient/staﬀinterviews).              - Anti-TB drug resistance survey (DRS)         - Patients sampled for PCS include both those on intensive and
+                                                                                                  continuation phase; DRS includes patients at time of diagnosis; QTSA
+                                                                                             does not specify a speciﬁc time point during treatment for interviews
+
+ TB data tools that use geographical mapping          - TB diagnostic network assessment (DNA)     - The DNA and DNO have diﬀerent aims for their mapping exercises,
+   - Potential overlap in inputs could be considered                                           and the intended scopes can be assessed to ensure complementarity
+  to maximize eﬃciencies of data collection and          - TB diagnostic network optimization            - Output from a DNA can often feed into a DNO
+  minimize data requests                      (DNO)
+
+                                                                 - MATCH
+
+ TB data tools that use existing data to assess          - MATCH                                          - MATCH applies mapping and spatial analysis techniques to existing
+  potential gaps in the TB patient pathway              - Patient pathway analysis (PPA)               health data to identify gaps and then target interventions. Core to this
+   - Complementarity of tools could be integrated to                                              approach is the integration of multiple sources of sub-nationally
+  minimize data requests and maximize output                                                       disaggregated data to identify people with TB who are missed along the
+                                                                      TB patient pathway. The PPA also uses existing data to assess how
+                                                                                                       well-aligned available diagnostics and treatment services are with
+                                                                                       where patients present for care, hence these tools could be integrated
+                                                                                                        to provide a fuller picture of the gaps
+                                                                                                                       - Implementers would need to have expertise in both analyses
+
+
+
+a TB prevalence survey. Similar limitations apply to the other
+suggested combinations.                                     BOX 1 Key take home ﬁndings from the TB Data Optimization
+   Although one tool cannot simply replace another, opportunities        Project, 2021–2023.
+for making implementation more eﬃcient were identiﬁed. Some                                                                             • TB  data  tools  are  critical  to  ﬁll  gaps,  are  complementary  to
+ideas are to implement tools with similar sampling strategies at         routine TB data, and require substantial resources (time, funding).
+the same time, implement complementary tools in a collaborative        • Supplemental TB data tools have limited overlap; one tool cannot simply
+manner to minimize data requests and maximize information         replace another tool, though tools can be implemented in a complementary
+                                                                               manner.
+gained, and to consider logical sequencing of tool implementation        • Countries need more and better quality subnational level data for better
+(e.g. implement those that generate primary data ﬁrst, so they can          target setting and program planning.
+feed into secondary data analysis tools). Potential opportunities        •  Lack  of  resources  and   feasibility  constraints  result  in  limited
+and considerations for streamlining TB data tools are presented        implementation of recommendations from TB data tools.
+                                                                             •  Additional  capacity  building  is needed  in  countries  to implement
+in Table 8.                                                                         supplemental TB data tools, including planning, implementation, analysis,
+                                                                                         data interpretation, dissemination, and translation of ﬁndings into action.
+                                                                             • Funding for TB data tools is largely from donors; they may not always be
+3.6 Key take home ﬁndings                                    funded• Improvedat thecoordinationright time dueandtobetterfundingalignedavailabilitytimingand/orof diﬀerentinterest.TB data tools
+                                                                                             are necessary to optimize use of their ﬁndings for National Strategic Plan
+    After thematic ﬁndings were triangulated from all data sources,        development, funding applications, and program planning.
+they were distilled into eight key take home ﬁndings (Box 1).              • Strengthening routine data systems (preferably digital and case-based), is
+                                                                                  fundamental for attaining robust, sustainable TB program data.
+
+4 Discussion
+
+   To our knowledge, this is the ﬁrst time such a project has been    other disease and laboratory data systems). Furthermore, having
+implemented to better understand the overall use and practicality   high quality subnational routine data could improve target setting
+of a spectrum of TB data tools. NTPs and TB partners recognized   and program planning for countries. Strengthened routine data
+the utility and value of TB data tools, including their usefulness for    systems will result in some tools becoming redundant; however,
+burden estimation, understanding and addressing gaps in the TB    other tools will still be needed as they answer questions that cannot
+care cascade, and program planning. Although TB data tools help   be assessed with routine data systems. Additionally, some countries
+to ﬁll gaps in routine data systems, there was consensus that routine     still do not have or are transitioning to a high coverage and
+data systems could be strengthened and integrated to facilitate    quality digital case-based system and their focus is on strengthening
+better data collection and analytic capacity (e.g. transition from    routine systems; however, they can still implement diﬀerent TB data
+paper-based systems to case-based digital systems, improve data    tools to address speciﬁc needs in the interim.
+quality, real-time reporting, data dashboards to assist with data       Despite the considerable eﬀorts and resources needed  to
+analytics and interpretation, and integrate TB data systems with   implement TB data  tools, the overall response to these tools
+
+
+
+
+Frontiers in Tuberculosis                                          13                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+was very positive. However, results and recommendations from   Cambodia, a patient pathway analysis and care cascade analyses
+the tools are often not used to their  full extent and there  is    for both TB disease and TB preventive treatment (TPT) were
+room for improvement in alignment of timing, coordination,   completed to identify gaps in care-seeking, coverage, and access
+and prioritization of TB data tools so that results can be used    to TB services and TPT, which informed action plans to improve
+for national strategic plan development, program planning, and    the TB response in the country. Both analyses used existing
+funding applications. Data tools are highly dependent on partner    data from the TB prevalence survey, routine surveillance and
+funding and technical assistance which have been successfully   program data, the global TB database, and published  articles
+mobilized  for most  tools  that  countries  have  implemented    (33, 34).
+but  can  be  a  limitation  in  sustainable  implementation  of
+these tools.
+    Building  local  technical  capacity and empowering NTP
+ownership are important for both implementing these tools and   4.1 Strengths and limitations
+also using the results and recommendations to their full extent.
+NTPs view capacity building as an opportunity, and  it would       This project had several strengths.  It  is the ﬁrst eﬀort to
+enable the NTP to implement the tools with less reliance on    systematically review and document the use and usefulness of
+external consultants. Although countries often received suﬃcient    collectively  available TB  data  tools.  It  included  perspectives
+technical assistance for tool implementation, external consultants    of global and country respondents from diﬀerent geographical
+often do not have funding or time to follow-up on completion    regions, used both quantitative and  qualitative methods, and
+of reports and translation of results and recommendations into   ﬁndings from  all  data  sources  were  triangulated  to  better
+action.  It  is therefore important to extend technical support   understand the use and usefulness of TB data tools (35, 36).
+to implement recommendations. In addition, although suﬃcient       This project also had several limitations. First, the project
+funding was  typically  received  for  tools  that  countries have   was designed to look at the overall process of tool planning,
+implemented, some countries experienced delays due to timing   implementation, and  use  of ﬁndings and recommendations;
+of the funding or inadequate funding received  initially. There    therefore, many tools were covered, and as a result, information
+was often inadequate funding to implement recommendations   on each individual tool is limited. Next, the project was designed
+resulting from the  tools. There  is heavy reliance on partner    in 2020 and early 2021, and that is when selection of the focus
+funding due to limited domestic funding, competing priorities,    tools took place. The focus tools were selected based on their prior
+and commitment from the government for implementation of TB   implementation by multiple countries and recommendations by
+data tools.                                                          partners active in the TB data realm, as it was not possible to include
+    Prior  to  the design and implementation  of  this  project,     all potential sources of TB data. To our best knowledge, there were
+substantial  overlap  between TB  data  tools was  anticipated.   no commonly used tools that focused on TB prevention at that
+However, ﬁndings showed limited overlap and no simple way to    time, and therefore none were included in the project. Furthermore,
+combine diﬀerent TB data tools. Even if tools have some overlap    additional tools have been developed since then that were not
+in objectives and/or metrics, primary objectives and methodology    included  in  the  project  [e.g.Clinic-Lab  Interface Continuous
+diﬀer. However, there are opportunities to save resources (e.g.    Quality Improvement (CLICQ!/Diagnostic Cascade Evaluation
+costs,  person-time) and  streamline  eﬀorts by  simultaneously   (DiCE) Toolkit] (37, 38). Another limitation was concern that
+implementing tools with similar target populations. Additionally,   some NTP survey respondents reported experience with a tool
+coordinating the implementation of complementary tools can    that they had not actually implemented, due to some tools having
+minimize data requests and maximize information gained. For    similar or non-speciﬁc names. To mitigate this, completion of
+example, a combined MATCH and patient pathway analysis in    a tool was veriﬁed by the tool’s developer/implementer where
+Madagascar provided a mixed methods assessment of healthcare-    possible, and answers to tool-speciﬁc questions were limited to
+seeking behavior, the availability and coverage of TB diagnostic    countries with veriﬁed completion of the tool. Some TB data
+and treatment services as well as identiﬁcation of geographical    tools were also less known among respondents and thus discussed
+areas where people with TB are likely to remain undetected along    very  little in interviews (e.g. private sector drug sales analysis,
+the care cascade. Findings from the combined analyses were used    quality of TB services assessment, MATCH, screen TB). Hence
+to inform regional and national TB service delivery in eﬀorts to    in questions about the “most useful” tools,  it was diﬃcult to
+improve screening, diagnosis, linkage, and treatment outcomes,    distinguish whether these tools were considered less useful or were
+such as the installation of additional GeneXpert machines in    just less well-known or had less funding behind them. Comments
+identiﬁed high-priority regions (31). In Uganda, a TB diagnostic   on these tools were also based on only a few respondents. Lastly,
+network assessment and quality of TB services assessment were    since respondents were asked about tools that had already been
+both implemented in 2019; later, an analysis was completed to   implemented, recall bias and staﬀturnover could have aﬀected
+understand how the two assessments could be used synergistically    respondents’ recollections of information and experiences. To
+by comparing the objectives, content, and results. Findings from    mitigate recall bias, tool descriptions and implementation dates
+the analysis revealed that the performance indicators from the two   were provided when relevant. A few respondents mentioned tools
+assessments do not completely align; however, it was still useful    their country was planning to implement, though respondents
+to compare the ﬁndings from both to evaluate the performance   were not  directly asked about upcoming  plans. This was a
+and quality of the country’s TB diagnostic services (32). Also, in   missed opportunity.
+
+
+
+
+
+Frontiers in Tuberculosis                                          14                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+5 Best practices                                                 4.  It is helpful if recommendations resulting from the tools meet
+                                             SMART  criteria:  speciﬁc,  measurable,  actionable/achievable
+5.1 Best practices resulting from the                     (feasible), relevant, and time bound (39).
+ﬁndings                                                                  5.  It  is important to designate a responsible party/parties to
+                                                             implement recommendations.
+    Best  practices  derived  from  the  project  were  grouped    6.  It is important to disseminate ﬁndings and recommendations
+into  six  areas:  general, optimizing the usefulness of ﬁndings     and  in  a  timely  manner,  to   all  relevant  internal  and
+and recommendations  resulting from TB  data  tools, timing       external   stakeholders,   with   requests   for   support   to
+and  coordination  of  tool  implementation,  capacity  building      implement recommendations.
+in  countries,  funding  of  tools,  and  conducting  tools  at    7.  It  is beneﬁcial to consider recommendations from the data
+subnational level.                                                          tools in the development  of National  Strategic Plans and
+                                                                 funding applications.
+                                                                                8.  It  is important to translate relevant ﬁndings into digestible
+5.1.1 General best practices                                key  messages  for  civil  society  and  the  general  public.
+1. Before  considering which TB  data  tools  to  prioritize,  it      Consider  requesting  funding  and  technical  assistance  to
+    is  important  to  review  existing  data,  including  routine       interpret and disseminate results with engagement from civil
+   programmatic data and previously implemented TB data tools       society for advocacy, program implementation, and National
+  and research. It is helpful to map and consolidate all existing       Strategic Plans.
+   data, so that key data and evidence gaps can be identiﬁed.
+2. Not all data tools need to be implemented in all countries; it is
+   important to carefully prioritize activities based on existing data
+   gaps and country priorities.                               5.1.3 Timing and coordination of TB data tools’
+3.  It  is important that the NTP  is invested in any tool to be   implementation
+   implemented, and fully understands the type of ﬁndings and    1.  It is important that in-country partners coordinate with each
+  recommendations that it generates.                                 other and the NTP to ensure they support activities that are a
+4. As TB programs and routine data systems are strengthened,       priority for the NTP, and that implementation of multiple data
+  some data tools may no longer be needed. Countries that       tools does not place undue burden on the NTP.
+   transition from an aggregate or paper-based to a case-based    2. NTP approval for data tools is critical; without it, the resulting
+   digital surveillance system may be able to collect and analyze      recommendations are less likely to be implemented.
+   data to answer speciﬁc questions, which may make certain    3.  It is important to identify a logical sequence and timeline for
+   tools redundant.                                                       tool implementation, so that ﬁndings are available for the next
+5.  It may be possible to add aspects from one tool onto another      National Strategic Plan development or mid-term review, and
+   tool to decrease the total number of tools to be implemented.       results from primary data collection tools can feed into data
+   However, a thorough assessment of logistical considerations to       tools that use secondary data. This timeline may be included
+  implement a combined tool can help determine if this is feasible.       in National Strategic Plan and funding applications to ensure a
+6.  If no data tool exists that directly addresses a priority question or        logical, integrated approach.
+   data gap, it may be possible to integrate additional questions into    4.  It   is  helpful    if  multiple  stakeholders  coordinate  the
+  an existing tool, or additional variables into routine program      implementation of data tools or requests in a country to
+   data. Alternatively, a research study to address the speciﬁc gap      reduce the overall burden, avoid duplication of eﬀorts, and
+   could be considered.                                         promote cost sharing.
+7.  It may be helpful to consider tools and studies that can be
+  implemented with minimal technical assistance and ﬁnancial
+   support, so that countries are less dependent on partners to
+                                                       5.1.4 Capacity building in countries for planning,  implement them.
+                                                implementation, analysis, and interpretation of
+                                                data/ﬁndings of TB data tools
+5.1.2 Improving the usefulness of ﬁndings and          1.  It is important to include staﬀfrom national and subnational
+recommendations resulting from TB data tools             levels, as well as partners, in the planning and implementation
+1. When contemplating whether to implement a data tool, assess       of tools.
+   whether prior recommendations from that tool and related tools    2.  It is important to ensure that planned technical support for
+   have been implemented. If prior recommendations have not        activities continues through  analysis, dissemination, report
+   been implemented, repetition of the tool will likely generate the       writing, and implementation of recommendations.
+  same recommendations rather than new ones.                        3. When providing technical assistance to implement data tools,
+2. In addition to resources needed to implement a data tool, it      consider capacity building of local staﬀto implement the tool,
+    is important to consider the resources that will be needed to      analyze the data, and translate ﬁndings into action.
+  implement recommendations derived from the tool.                  4. Consider   South-to-South   collaborations   with   technical
+3.  It  is important to involve technical working groups in the      support  provided  by  trained/experienced  persons  from
+   development of recommendations and action plans.                 neighboring countries.
+
+
+
+
+Frontiers in Tuberculosis                                          15                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+5.1.5 Funding of TB data tools                                editing, Project administration, Conceptualization, Methodology,
+1.  It  is important to incorporate data  activities into national   Data curation. EK: Methodology, Conceptualization, Validation,
+   strategic plans and:                                           Writing  –  review &  editing,  Investigation,  Visualization,
+       a. Advocate for domestic funding.                          Formal analysis, Writing – original  draft. CB: Data curation,
+      b. Include funding requests in Global Fund and other donor    Investigation,  Software,  Formal  analysis,  Writing  –  review
+   applications to minimize the need for ad hoc funding.        &  editing.  DC:  Conceptualization,  Supervision,  Writing  –
+2.  It is important that partners consider alignment of their funding    review &  editing,  Validation, Methodology.  ST:  Supervision,
+   with the country’s needs and priorities, rather than being driven    Validation, Investigation, Resources, Writing – review & editing.
+  by donors’ preferences.                              MA:  Investigation,  Resources,  Writing –  review &  editing.
+                                                              RF:  Resources,  Investigation,  Writing  –  review &  editing.
+                                                             TL: Investigation, Resources, Writing – review & editing. BN:
+5.1.6 Implementing TB data tools at subnational      Resources, Writing – review & editing, Investigation. AR: Writing –
+level                                                           review & editing, Investigation, Resources. CS: Validation, Writing
+1. Some data tools could be suitable to implement at subnational   – review & editing, Supervision. NN: Validation, Supervision,
+   levels  (or  to  estimate  subnational  indicators)  to  better   Writing – review & editing. KC: Writing – review & editing,
+   understand  issues  at  subnational  levels. However,  it may    Supervision,  Validation. KF:  Validation, Writing – review &
+   be overly expensive to generate subnational estimates in a    editing, Supervision. FM: Writing – review & editing, Supervision,
+   methodologically sound way for some tools like TB prevalence    Validation. SS: Supervision, Writing – review & editing, Validation.
+   surveys and anti-TB drug resistance surveys, although a very   SA: Writing – review & editing, Supervision, Validation. HH:
+   limited number of strata might be feasible.                      Writing  –  review &  editing,  Supervision,  Validation. AD:
+2. There is substantial need for subnational estimates for program    Conceptualization, Funding  acquisition,  Supervision,  Writing
+   planning. For reliable subnational estimates,  it  is important   –  review &  editing.  JH:  Conceptualization, Formal  analysis,
+   to ensure that subnational routine data  is high quality. In    Investigation, Methodology, Project administration, Supervision,
+   addition, when tools are being developed  it is important to    Validation,  Visualization, Writing –  original  draft, Writing –
+   consider whether methodologically-sound processes to obtain    review & editing.
+   subnational estimates can be incorporated into the tool.
+
+                                   Funding
+6 Next steps
+                                                         The author(s) declare that ﬁnancial support was received for
+    Findings and  best  practices from  this  project have been    the research and/or publication of this article. This work was
+disseminated and discussed in various fora with countries and   supported in whole by the Gates Foundation [Grant Number:
+partners that support the funding and implementation of TB data   INV-006616]. Under the grant conditions of the Foundation, a
+tools. In addition, the ﬁndings and best practices are being used    Creative Commons Attribution 4.0 Generic License has already
+to inform development of a framework that will guide NTPs in   been assigned to the Author Accepted Manuscript version that
+understanding which TB data tools can address identiﬁed data gaps,   might  arise from  this submission. Some  salaries of the U.S.
+then prioritize and plan for TB data tool implementation. The aim    Centers  for Disease Control and Prevention (CDC) authors
+is to make selection and implementation of TB data tools more   were supported by President’s Emergency Plan for AIDS Relief
+eﬃcient and informed, as well as build capacity for NTPs to drive   (PEPFAR) through CDC.
+this process. Ultimately, the longer-term goal remains the adoption,
+transition and/or strengthening of the routine case-based digital
+                                 Acknowledgmentssurveillance systems and improving the quality of the data and its
+use for programmatic decision-making.
+                                                                   This assessment was conducted by the U.S. Centers for Disease
+                                                               Control and Prevention and the CDC Foundation. We would
+Data availability statement                            like to sincerely thank the National TB Programs/Ministries of
+                                                              Health and participants of Ethiopia, Kenya, Pakistan, Uganda, and
+   The datasets presented in this article are not readily available   Vietnam for participating in the country case studies and the
+due to the nature of the qualitative and quantitative data. The    National TB Programs who participated in the survey. Lastly, we
+data will not be made publicly available since the identities of   would like to acknowledge administrative and technical support
+respondents could potentially be guessed from the raw content of   from CDC and CDC Foundation, including Miranda Bodﬁsh,
+an individual’s responses. Requests to access the datasets should be    Victoria Tully, and Stephanie O’Connor.
+directed to rﬁorillo@cdcfoundation.org.
+
+                                    Conﬂict of interest
+Author contributions
+                                                         The authors declare that the research was conducted in the
+   RF:  Writing  –  original   draft,  Investigation,  Software,   absence of any commercial or ﬁnancial relationships that could be
+Visualization, Formal analysis, Validation, Writing – review &   construed as a potential conﬂict of interest.
+
+
+
+
+Frontiers in Tuberculosis                                          16                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+Generative AI statement               Author disclaimer
+
+   The author(s) declare that no Gen AI was used in the creation      The ﬁndings, views, opinions, and conclusions expressed in
+of this manuscript.                                                        this paper are those of the authors alone and do not necessarily
+                                                                    represent the oﬃcial position, views, opinions, and conclusions
+                                                                      of  the Gates Foundation,  U.S.  Centers  for  Disease Control
+                                                        and Prevention, CDC Foundation, United  States Agency  for
+Publisher’s note                                           International Development, World Health Organization or other
+                                                                          institutions with which the authors are aﬃliated.
+    All  claims  expressed  in  this   article  are  solely  those
+of  the  authors and do  not  necessarily  represent  those  of
+their  aﬃliated  organizations,  or  those  of  the  publisher,  Supplementary material
+the  editors and  the  reviewers. Any  product  that may  be
+evaluated  in  this  article,  or  claim  that may  be made  by      The Supplementary Material for this  article can be found
+its  manufacturer,   is  not  guaranteed  or  endorsed  by  the    online at: https://www.frontiersin.org/articles/10.3389/ftubr.2025.
+publisher.                                                        1622167/full#supplementary-material
+
+
+
+References
+
+
+  1. Castro KG. Tuberculosis surveillance: data for decision-making. Clin Infect Dis.     onehealth_tool_supporting_integrated_strategic_health_planning.pdf?sfvrsn=
+(2007) 44:1268–70. doi: 10.1086/514351                                           112bf92a_1&download=true (Accessed November 25, 2024).
+
+  2. Lungu  PS,  Kabaso ME,  Mihova  R,  Silumesii  A,  Chisenga  T,  Kasapo       15. Shinnick T, de la Torre C, Kwizera A, Zabasonre  I. National TB Diagnostic
+C,  et   al.  Undernotiﬁcation  and  underreporting  of  tuberculosis  in  Zambia:    Network  Assessment Manual  for  Assessors  Revised.  United  States Agency  for
+a   national   data   quality   assessment.  BMC   Health   Serv   Res.   (2022)     International Development (2020). p. 1–102. Available online at: https://drive.google.
+22:1–12. doi: 10.1186/s12913-022-08431-2                                        com/drive/folders/1kr_CWkdarZ9kl3AAzAwLHya69jdUnJ9E  (Accessed December
+                                                                                            11, 2024).
+  3. Van  Der  Heijden  YF,  Van  Der  Heijden  YF,  Hughes   J, Dowdy DW,
+Streicher E, Chihota V, et al. Overcoming limitations of tuberculosis information       16. FIND, The global  alliance  for  diagnostics, U.S. Agency  for International
+systems: researcher and clinician perspectives. Public Health Action. (2019) 9:120–    Development, Centers for Disease Control and Prevention, The African Society
+7. doi: 10.5588/pha.19.0014                                                                 for Laboratory Medicine, The Integrated Diagnostics Consortium, et al. Diagnostic
+                                                                            Network Optimization: A Network Analytics Approach to Design Patient-centred
+  4. Albert H, Rupani S, Masini E, Ogoro  J, Kamene M, Geocaniga-Gaviola D,
+                                                                        and Cost-eﬃcient Diagnostic Systems. 1–29. Available online at: https://www.ﬁnddx.
+et al. Optimizing diagnostic networks to increase patient access to TB diagnostic
+                                                                             org/wp-content/uploads/2022/12/20220909_guide_to_DNO_FV_EN.pdf   (Accessed
+services: development of the diagnostic network optimization (DNO) approach and
+                                                                                   January 29, 2024).
+learnings from its application in Kenya, India and the Philippines. PLoS ONE. (2023)
+18:e0279677. doi: 10.1371/journal.pone.0279677                                              17. Subbaraman R, Nathavitharana RR, Mayer KH, Satyanarayana S, Chadha VK,
+                                                                            Arinaminpathy N, et al. Constructing care cascades for active tuberculosis: a strategy
+  5. Hanson CL, Osberg M, Brown  J, Durham G, Chin DP. Conducting patient-
+                                                                                             for program monitoring and identifying gaps in quality of care. PLoS Med. (2019)
+pathway analysis to inform programming of tuberculosis services: methods. J Infect
+                                                                                    16:e1002754. doi: 10.1371/journal.pmed.1002754
+Dis. (2017) 216:S679. doi: 10.1093/infdis/jix387
+                                                                                              18. Bakker M, Rood E, Mergenthaler C, Blok L, van Gurp M, Straetemans M,
+  6. World Health Organization. Tuberculosis Patient Cost Surveys: A Handbook, 1st
+                                                                                                    et al. The MATCH Manual. Amsterdam: KIT Royal Tropical Institute (2018). p. 1–38.
+Edn. Geneva: World Health Organization (2017). p. 1–112. Available online at: http://
+                                                                                          Available online at: https://www.kit.nl/case (Accessed January 29, 2024).
+apps.who.int/bookorders (Accessed December 17, 2023).
+                                                                                              19. KNCV Tuberculosis Foundation. Handbook for People Centred Framework for
+  7. World Health Organization. Tuberculosis Prevalence Surveys: A Handbook,
+                                                              TB Programming & Planning, 1st Edn. (2022). p. 1–76. Available online at: https://
+2nd Edn. Geneva: World Health Organization (2011). p. 1–324. Available online at:
+                                                                                    pcf4tb.org/pcf-handbook/ (Accessed January 29, 2024).
+http://www.who.int/tb/advisory_bodies/impact_measurement_taskforce/resources_
+documents/thelimebook/en/index.html (Accessed December 17, 2023).                      20. World  Health  Organization.  People-centred  Framework  for  Tuberculosis
+                                                                       Programme  Planning  and  Prioritization  User  Guide.  Geneva:  World  Health
+  8. World Health Organization. Compendium of Data and Evidence-related Tools For
+                                                                                  Organization (2019). p. 1–66. Available online at: https://iris.who.int/handle/10665/
+use in TB Planning and Programming. (2021). p. 1–96. Available online at: https://www.
+                                                                            329472 (Accessed January 29, 2024).
+who.int/publications/i/item/9789240022843 (Accessed November 30, 2023).
+                                                                                              21. World Health  Organization.  Standards and Benchmarks  for  Tuberculosis
+  9. World Health Organization. Guidance for the Surveillance of Drug Resistance in
+                                                                                           Surveillance and  Vital  Registration Systems:  Checklist and User Guide. Geneva:
+Tuberculosis, 6th Edn. Geneva: World Health Organization (2021). p. 1–105. Available
+                                            WHO (2014). p. 1–140. Available online at: https://iris.who.int/handle/10665/112674
+online at: https://iris.who.int/handle/10665/339760 (Accessed January 29, 2024).
+                                                                                   (Accessed January 29, 2024).
+  10. World Health Organization. Assessing Tuberculosis Under-reporting Through
+                                                                                              22. TB DIAH, MEASURE Evaluation. Quality of Tuberculosis Services Assessment:
+Inventory Studies. Geneva: World Health Organization (2012). 1–127 p. Available
+                                                                                    Global Implementation Guide. Chapel Hill: TB DIAH, University of North Carolina
+online at: https://iris.who.int/handle/10665/78073 (Accessed January 29, 2024).
+                                                                                          (2021). p. 1–66. Available online at: https://www.tbdiah.org/wp-content/uploads/2021/
+  11. Wells WA. Surveys of Private TB Drug Sales: A Short, Practical Guide. (2020).    07/QTSA-Global-Implementation-Guide_MS-21-200-TB.pdf (Accessed January 29,
+Available online at: https://www.researchgate.net/publication/345914771_Surveys_of_     2024).
+private_TB_drug_sales_a_short_practical_guide (Accessed January 29, 2024).
+                                                                                              23. World Health Organization. Guidance for Country-level TB Modelling. World
+  12. Sweeney S, Laurence Y V, Cunnama L, Gomez GB, Garcia-Baena I, Bhide P, et al.    Health Organization, editor. Geneva: World Health Organization (2018). p. 1–45.
+Cost of TB services: approach and summary ﬁndings of a multi-country study (value     Available online at: https://iris.who.int/handle/10665/274279 (Accessed January 29,
+TB). Int J Tuberc Lung Dis. (2022) 26:1006. doi: 10.5588/ijtld.22.0096                      2024).
+
+  13. Cunnama L, Baena IG, Laurence Y, Sweeney S, Vassall A, Sinanovic E. Costing       24. World Health Organization. Systematic Screening for Active Tuberculosis: an
+Guidelines for Tuberculosis Interventions. Geneva: World Health Organization (2019).     Operational Guide. World Health Organization,  editor. Geneva: World Health
+p. 1–134. Available online at: http://apps.who.int/bookorders (Accessed January 29,     Organization (2015). p. 1–66. Available online at: https://iris.who.int/handle/10665/
+2024).                                                                       181164 (Accessed January 29, 2024).
+
+  14. World Health Organization. OneHealth Tool: Supporting Integrated Strategic       25. Harris PA, Taylor R, Minor BL, Elliott V, Fernandez M, O’Neal L, et al. The
+Health  Planning,  Costing and Health Impact  Analysis. Geneva: WHO  (2013).   REDCap consortium: building an international community of software platform
+Available online at: https://cdn.who.int/media/docs/default-source/health-economics/     partners. J Biomed Inform. (2019) 95:103208. doi: 10.1016/j.jbi.2019.103208
+
+
+
+
+
+Frontiers in Tuberculosis                                          17                                                                frontiersin.orgFiorillo et al.                                                                                                       10.3389/ftubr.2025.1622167
+
+
+
+
+
+  26. Harris PA, Taylor R, Thielke R, Payne  J, Gonzalez N, Conde JG. Research       33. Teo AKJ, Morishita F, Prem K, Eng S, An Y, Huot CY, et al. Where are the missing
+electronic data capture (REDCap)—a metadata-driven methodology and workﬂow     people aﬀected by tuberculosis? A programme review of patient-pathway and cascade
+process for providing translational research informatics support. J Biomed Inform.     of care to optimise tuberculosis case-ﬁnding, treatment and prevention in Cambodia.
+(2009) 42:377–81. doi: 10.1016/j.jbi.2008.08.010                             BMJ Glob Health. (2023) 8:e010994. doi: 10.1136/bmjgh-2022-010994
+
+  27. Jackson K, Bazeley P. Qualitative Data Analysis With NVIVO, 3rd Edn. Seaman       34. World Health Organization. Global Programme on Tuberculosis & Lung Health.
+J, editor. London: SAGE Publication (2019). p. 1–376.                                     Available online at: https://www.who.int/teams/global-tuberculosis-programme/data
+                                                                                   (Accessed March 19, 2025).
+  28. Vaismoradi M, Turunen H, Bondas T. Content analysis and thematic analysis:
+implications for conducting a qualitative descriptive study. Nurs Health Sci. (2013)       35. Östlund U, Kidd L, Wengström Y, Rowa-Dewar N. Combining qualitative and
+15:398–405. doi: 10.1111/nhs.12048                                                       quantitative research within mixed method research designs: a methodological review.
+                                                                                             Int J Nurs Stud. (2011) 48:369. doi: 10.1016/j.ijnurstu.2010.10.005
+  29. Metreau E, Young KE, Eapen SG. World Bank Country Classiﬁcations by
+Income Level for 2024-2025. (2024). Available online at: https://blogs.worldbank.org/       36. Steckler A, Mcleroy KR, Goodman RM, Bird ST, Mccormick  L. Toward
+en/opendata/world-bank-country-classiﬁcations-by-income-level-for-2024-2025         integrating qualitative and quantitative methods: an introduction. Health Educ Behav.
+(Accessed November 26, 2024).                                                       (1992) 19:1–8. doi: 10.1177/109019819201900101
+
+  30. Fiorillo R, Harris J, Klinkenberg E. Optimizing TB Data Analytics and Evidence       37. U.S. Centers for Disease Control and Prevention. CLICQ! Clinic-Laboratory
+Tools to Improve Data use in TB Programmatic Planning: Final Report, January 2021 -     Interface – Continuous Quality Improvement. Available online at: https://clicq.org/tool-
+August 2023. Atlanta, GA (2023).                                                                  kit/ (Accessed March 19, 2025).
+
+  31. Programme National de Lutte Antituberculeuse à Madagascar. Final Report       38. U.S. Centers for Disease Control and Prevention. Clinic-Laboratory Interface-
+for  the  Combined PPA  (Patient  Pathway  Analysis)  and MATCH  (Mapping    Continuous Quality Improvement (CLICQ!) USER GUIDE FEBRUARY 2022. (2022).
+and  Analysis  for  Tailored  Diseases  Control and  Health  System  Strengthening)     Available  online   at:  https://clicq.org/resource/WORD_EXCEL/CLICQ!%20USER
+Analyses. (2022).                                                         %20GUIDE%20-%20Clean.pdf (Accessed March 19, 2025).
+
+  32. TB DIAH. Comparison of Survey Results to Evaluate the Availability, Readiness,       39. Doran GT. There’s a S.M.A.R.T. way to write management’s goals and objectives.
+and Quality of the Uganda Tuberculosis Diagnosis Network. Chapel Hill, NC (2021).      Manage Rev. (1981) 70:35–36.
+
+
+
+
+
+Frontiers in Tuberculosis                                          18                                                                frontiersin.org

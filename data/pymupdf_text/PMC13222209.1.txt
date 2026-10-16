@@ -1,0 +1,954 @@
+Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+https://doi.org/10.1007/s10803-025-06741-y
+
+ ORIGINAL ARTICLE
+
+
+Examining Virtual Reality Interventions for Social Skills in Children
+with Autism Spectrum Disorder: A Systematic Review
+
+Yücel Altın1     · Özge Boşnak2     · Ceyda Turhan2 
+
+
+Accepted: 24 January 2025 / Published online: 5 February 2025
+© The Author(s) 2025
+
+Abstract
+Autism Spectrum Disorder (ASD) is a neurodevelopmental disorder that is characterized by limitations in social com-
+munication and interaction, self-repetitive behaviors, and the presence of limited interests. The prevalence of ASD, which
+typically emerges in the first years of life, is increasing at an alarming rate due to multiple factors, including the broadening
+of diagnostic criteria, heightened public awareness, and more frequent diagnoses among women and adults. Over the years,
+experts have invested considerable time and effort in developing educational scenarios for children with ASD. However,
+they have faced challenges replicating certain scenarios—such as emergencies, crowded public transportation, or restaurant
+environments—because recreating these exact conditions in real-world settings is difficult or cost-prohibitive. This has con-
+sequently compelled experts to seek out supplementary intervention methods that are more suitable and accessible. Virtual
+reality (VR), which has the capacity to integrate the physical and virtual realms, represents one such alternative intervention
+method. In this study, a systematic review of studies employing VR technology in social skills interventions for individu-
+als with ASD was conducted, and 31 studies were included. The findings indicate the potential benefits of VR applications
+focusing on the social skills of individuals with ASD. Additionally, this research elucidates the limitations of the studies and
+offers suggestions for future research.
+
+Keywords  Autism spectrum disorder · Virtual reality · Social skills · Intervention
+
+Introduction                                             frequent diagnoses among women and adults (Russell et al.,
+                                                          2022). A report published by the U.S. Centers for Disease
+Autism Spectrum Disorder (ASD) is a neurodevelopmental    Control and Prevention (CDC) indicates that one in 36 chil-
+disorder that is characterized by limitations in social com-    dren is affected by ASD (Maenner et al., 2023). This repre-
+munication and interaction, self-repetitive behaviors, and the    sents an increase from the previous CDC report, published
+presence of limited interests (American Psychiatric Associa-    in 2021, which concluded that one in 44 children is affected
+tion [APA], 2022). The prevalence of ASD, which typically   by ASD (Maenner et al., 2021).
+emerges in the first years of life, is increasing at an alarm-     One of the distinguishing characteristics of ASD is persis-
+ing rate due to multiple factors, including the broadening of    tent deficits in social communication and social interaction
+diagnostic criteria, heightened public awareness, and more    across multiple contexts (APA, 2022). Difficulties in ini-
+                                                                     tiating and maintaining social communication, interaction,
+                                                    and reciprocal engagement are among the core features of
+* Yücel Altın                                                  children with ASD. Therefore, targeting the domain of social
+    ycl.altin@gmail.com                                                skill development is critically important for the success of
+   Özge Boşnak                                               children with autism (Silveira-Zaldivar et al., 2021).
+    ozgebosnak@uludag.edu.tr                                      In their 1988 study, Morgan and Jenson defined social
+   Ceyda Turhan                                                     skills as comprising both verbal and nonverbal behaviors
+    ceydaturhan@uludag.edu.tr                                       that facilitate mutually beneficial social interactions. Good-
+1                                                  win (1999) defined social skills as abilities that enable indi-    Republic of Türkiye Ministry of National Education,                                                            viduals to function independently in society and enhance    Istanbul, Türkiye
+2                                                                    their quality of life. As can be gleaned from the definitions    Uludağ University, Bursa, Türkiye
+
+
+Vol:.(1234567890)Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2163
+
+provided, social skills serve to enhance and enrich the qual-   and scarce devices referenced in the definitions accessi-
+ity of individuals' lives. This is achieved by enabling them    ble to the general public (Srivastava et al., 2019). In vir-
+to interact effectively with others in their daily lives, develop    tual reality (VR) systems, stimuli are presented to users in
+friendships, participate in leisure activities, and become inte-    three dimensions. This is frequently achieved through the
+grated into a group (Turhan & Vuran, 2015). Consequently,    use of a computer monitor, head-mounted display (HMD),
+these experiences are of paramount importance for individu-    and CAVE (Cave Automatic Virtual Environment). Desktop
+als with ASD (Vuran, 2007).                         VR, also called non-immersive VR, is the simplest form of
+  Experts have historically utilized various methods to   VR, presenting users with high-resolution panoramic images
+teach social skills to children with ASD, including video    via a standard desktop computer. In desktop VR, users use
+modeling, behavioral skills training, social stories, peer- and    a mouse or keyboard to move and explore the virtual envi-
+sibling-mediated interventions, antecedent interventions,    ronment (Berki, 2019). HMDs are a type of virtual reality
+manualized curricula, pivotal response training, milieu   (VR) headset that provides the user with a fully immersive
+teaching, naturalistic interventions, reinforcement, script     virtual environment. CAVE is a system that presents a three-
+fading, discrete trial training, and self-management (Rad-    dimensional environment using two-dimensional projected
+ley et al., 2020). However, they have faced challenges due    images arranged around the user, thereby creating an immer-
+to the significant time and effort required to create diverse    sive environment. In comparison to CAVE, HMD VR and
+instructional scenarios and the difficulty posed by certain    desktop VR are more convenient and provide users with
+non-replicable scenarios (Dyson et al., 2019). Consequently,   more cost-effective solutions (Feng et al., 2022). The appeal
+experts have been compelled to identify supplementary    of VR environments, coupled with the ability of users to
+intervention strategies that are more suitable and accessi-    interact with and control virtual objects and focus on the
+ble. Virtual reality (VR), which has the capacity to integrate    environment with ease, has positioned this technology as an
+the tangible and the virtual, represents one such alternative    effective tool in educational processes (Chen, 2010; Wang
+intervention method. An increasing number of studies have     et al., 2022). As virtual reality technology is capable of cre-
+demonstrated the efficacy of VR in treating children with    ating a three-dimensional simulation of real-world environ-
+ASD (Amaral et al., 2018; Babu et al., 2017; Bozgeyikli    ments (Baileson et al., 2008) and allows for the repetition,
+et al., 2016; Hocking et al., 2022; Kim et al., 2024; Maskey    manipulation, and control of social situations (Lorenzo et al.,
+et al., 2019; Moon & Ke, 2023; Schmidt & Glaser, 2021;    2016; Parsons, 2016; Siano et al., 2015), its use in the field
+Welch et al., 2010; Yang et al., 2018).                         of autism spectrum disorder (ASD) is inevitable. Given that
+  The increase in the prevalence of ASD (Maenner et al.,    social interaction and communication disorders are the most
+2023), the fact that these individuals are typically enthu-    prevalent issues among children with ASD (APA, 2022), VR
+siastic about using digital media technology (Chen et al.,    interventions have been primarily directed towards social
+2019; Lahiri et al., 2013; Moore & Calvert, 2000; Parsons &     skills training (Lorenzo et al., 2016; Yiğit & Sani-Bozkurt,
+Mitchell, 2002; Schmidt & Schmidt, 2008), and have strong    2021).
+visual memories (Bozgeyikli et al., 2018) have led to the       In order to gain an understanding of the existing litera-
+view that digitally delivered interventions may be benefi-    ture on the use of virtual reality in the context of autism
+cial for individuals with autism. The aforementioned factors,    spectrum disorder (ASD), we undertook an initial review
+in light of the technological advancements, conventional    of previous studies in this field. In a systematic review
+methodologies have been supplanted by digital approaches    study, Mesa-Gresa et al. (2018) sought to elucidate the
+in the education of children with ASD (Mazon et al., 2019).    effects of virtual reality on ASD. The researchers did not
+Technology-assisted instruction and intervention (TAII)   impose any limitations with respect to the skills under
+represents an evidence-based practice for individuals with    consideration and included a total of 51 articles in their
+ASD (Hume et al., 2021). These interventions encompass    research. Mesa-Gresa et al. (2018) demonstrated that the
+the use of more common technologies, such as computers    area of social skills was the most extensively studied. In
+and mobile devices, as well as more advanced technologies,    their review study, Thai and Nathan-Roberts (2018) con-
+including virtual reality (VR), augmented reality (AR),    centrated on the role of social skills in virtual reality (VR)
+mixed reality (MR), and robots (Carnett et al., 2023).          use. The study comprised a mere five pages and encom-
+  Coates (1992) defined VR as electronic simulations that    passes only nine articles. In their systematic review, Li
+can interact with three-dimensional environments through     et al. (2023) synthesized virtual reality studies on individ-
+head-mounted displays and wired clothing. Gold (1993)    uals with ASD conducted between 2010 and 2022, reveal-
+defined it as an alternative world full of computer-generated    ing that the most prevalent area of focus was social and
+images that can react to human movements, supported by    emotional skills. Similarly, Yiğit and Sani-Bozkurt (2021)
+expensive hardware such as video and data gloves. However,    obtained comparable findings. The fact that social skills
+advances in display technologies have rendered the costly    are the area of focus for the majority of researchers in this2164                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+field demonstrates the necessity for further investigation.       are used, and how do they influence the reported out-
+Liu (2023) and Kadir et al. (2023) conducted reviews of      comes?
+VR applications with a focus on social skills in children     RQ4: What are the primary advantages and limitations
+with ASD. However, only five studies were included in        (e.g., cost, cybersickness, age constraints, generalization
+both reviews. In recent years, there has been a surge in       issues) in using VR to support social skill development
+more affordable and user-friendly VR technology, expand-       in ASD?
+ing its accessibility beyond specialized research settings.
+For instance, head-mounted displays have become increas-
+ingly cost-effective, and desktop-based systems now  Method
+require minimal additional equipment. These advances
+indicate that earlier reviews may not fully capture the   Search Procedure
+latest technological possibilities, thereby underscoring
+the need for a new comprehensive analysis of VR-based    In the context of the systematic review, three researchers
+interventions. Unlike previous reviews, this systematic    conducted a simultaneous search of the Google Scholar,
+review examined 31 studies published over the past decade   EBSCOhost, IEEE Xplore, ScienceDirect, and PubMed
+(2014–2024), focusing exclusively on children with ASD.    databases. The assistance of Boolean operators (AND, OR,
+This approach offers a more up-to-date and comprehensive   NOR, or AND NOT) was utilized to enter different combina-
+perspective on how VR technology contributes to social    tions of keywords, which were then read and evaluated based
+skill development in childhood. In addition, different VR   on previously determined criteria. The study was limited
+systems—such as CAVE, desktop VR, and HMD—were    to studies conducted between 2014 and 2024 to ensure the
+compared in terms of cost, technical requirements, and    inclusion of studies conducted in the last 10 years. Further-
+multi-user support, providing a more nuanced assessment    more, studies published in a peer-reviewed journal and in
+of their impact on social skills. By also addressing topics    English were prioritized. The scans were recorded using the
+rarely covered in earlier reviews, such as age restrictions,   program Covidence (Covidence, 2024). The last search in
+cybersickness, and gender balance, the methodological    the databases was conducted in April 2024. The keywords
+scope of the study is broadened. Despite limitations related    and search strategy are provided in Table 1.
+to small sample sizes and issues with generalization, this
+review highlights the strong potential of VR-based inter-    Inclusion and Exclusion Criteria for Studies
+ventions to enhance social skills in children with ASD and
+aims to fill the gaps noted in the existing literature. The    Inclusion criteria during the screening process were as
+lack of a recent comprehensive systematic review in this    follows:
+regard increases the importance of this study.
+  The objective of this systematic review is to provide     1.  Peer-reviewed studies published in English within the
+a comprehensive summary of studies employing virtual         last 10 years (2014–2024).
+reality (VR) interventions to enhance social skills in indi-     2.  Studies where the main intervention group comprises
+viduals with autism spectrum disorder (ASD) over the past        children with ASD (additional participants with typi-
+decade. This review will evaluate the literature, including        cal development or other diagnoses may be included for
+the methodology utilized, the targeted social skills, the       comparison).
+VR technology employed, and will facilitate comparison     3.  Empirical studies.
+of different studies in terms of their methods and execu-
+tion procedures for those engaged in research in this field.     Table 1   Search strategy
+Therefore, to guide this review and provide a clear focus,
+we formulated the following research questions:               Population            Intervention            Outcome
+                                                             Autism     AND  Virtual Reality   AND  Social Skill
+  RQ1: Which types of VR interventions (e.g., CAVE,   OR          OR             OR
+  desktop VR, HMD) have been utilized in teaching    Autism         VR                        Interpersonal Skill
+   social skills to children with ASD between 2014 and      Spectrum
+  2024?                                                            Disorder
+  RQ2: Which specific social skill domains (e.g., emotion   OR          OR             OR
+   recognition, social interaction, nonverbal communication)   ASD                  Virtual Experi-            Social Communi-                                                                                       ence                       cation   are most commonly targeted?                                        OR  RQ3: What methodological approaches (e.g., experimen-                                                                            Autistic   tal, quasi-experimental, single-subject, mixed method)Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2165
+
+4.  Studies focusing on social skills interventions.             Incorrect results pertained to studies that did not actually
+5.  Studies involving virtual reality (VR) as a form of    measure or report outcomes related to social skills, or whose
+   human–computer interaction.                            reported results were insufficiently detailed to assess effec-
+                                                                  tiveness. Finally, incorrect VR approach referred to studies
+   Exclusion criteria were as follows:                           utilizing a mode of VR application outside our definition
+                                                                         (e.g., a non-HMD or non-desktop approach, or a different
+1.  Grey literature (e.g., theses, posters).                    technology that did not meet our VR criteria). The remain-
+2.  Non-empirical studies.                                  ing 31 studies were included in the study, and data extrac-
+3.  Studies published before 2014.                            tion was conducted. The data obtained as a result of the
+4.  Studies not written in English.                           data extraction process are analyzed below under the fol-
+5.  Studies that do not primarily target ASD participants    lowing headings: diagnoses of the participants; age range
+     (e.g., fewer than half the participants have ASD, or the    and gender of the participants; social skills addressed in the
+    intervention was not designed for ASD-specific needs).    study; main technology used for both hardware and software;
+                                                      methodology; limitations and improvements in the study;
+Data Extraction                                      and conclusions. The data flow chart is provided in Fig. 1
+                                                                   for reference (Table 2).
+After applying the inclusion and exclusion criteria, the
+authors of this study obtained the following data from the    Participants’ Diagnoses
+31 included studies: year of the study, setting in which the
+study was conducted, diagnoses of the participants, age   As the diagnostic group was defined as ASD in the inclusion
+range and gender of the participants, social skills addressed     criteria of the study, the studies included children diagnosed
+in the study, main technology used for both hardware and    with ASD. A total of 31 studies were included in the review,
+software, and methodology and results.                     comprising a total sample size of 710 participants. Of these,
+                                                                   five studies (Babu et al., 2017; Frolli et al., 2022; Ke &
+                                                          Lee, 2016; Ke & Moon, 2018; Moon & Ke, 2019) specifi-
+Results                                                         cally focused on children with Level 1 ASD. Although some
+                                                             of the studies we reviewed use the term ‘High-functioning
+A total of 634 studies were identified through a compre-    autism (HFASD)’, the literature points to ongoing debates
+hensive search of the following databases: Google Scholar    surrounding this label (Alvares et al., 2020; Bölte, 2023;
+(n = 357), EBSCOhost (n = 211), IEEE Xplore (n = 25), Sci-    Eldridge et al., 2025). In particular, describing individuals
+enceDirect (n = 21), and PubMed (n = 20). Furthermore, the    as ‘high-functioning’ can underestimate their diverse sup-
+initial researcher conducted an additional search on artificial    port needs. Therefore, to align with more contemporary
+intelligence but was unable to identify any additional studies    and inclusive terminology, we have chosen to adopt ‘Level
+apart from those already identified. Additionally, two further   1 ASD,’ referring to a DSM-5 classification for individuals
+studies were accessed through the bibliographies of the iden-    requiring relatively lower levels of support. This approach
+tified studies. Following the removal of duplicates (n = 336),    maintains fidelity to the original studies’ terminology while
+the remaining 300 studies were then scanned independently    acknowledging evolving perspectives on autism and the
+and simultaneously by all three authors, with irrelevant stud-    nuances of support requirements. It is noteworthy that the
+ies (n = 199) subsequently eliminated.                       study by Didehbani et al. (2016) included children with
+  We examined the full texts of 101 studies meeting our    Attention Deficit and Hyperactivity Disorder (ADHD) who
+initial inclusion criteria. After resolving any discrepancies    also had ASD. Twenty-five studies included interventions
+among the authors, we excluded 70 studies from further    exclusively for children with ASD, while six studies (Amat
+consideration. The reasons for exclusion were as follows:     et al., 2021; Babu et al., 2017; Ke & Lee, 2016; Zhang et al.,
+26 studies were excluded due to incorrect results, 17 due    2018, 2020; Zhao et al., 2018) also included children with
+to incorrect year of publication, 17 due to incorrect study    typical development. The distribution of participants accord-
+design, 6 due to incorrect intervention, 2 due to incorrect    ing to their diagnoses is illustrated in Table 3.
+comparator, 1 due to incorrect diagnostic population, and
+1 due to incorrect VR approach. Incorrect study design   Demographic (Age and Gender) Distribution
+referred to studies that were non-empirical or lacked an    of Participants
+appropriate methodological framework (e.g., purely theoreti-
+cal papers, commentaries). Incorrect comparator indicated  A review of the data extraction studies revealed that the age
+that the control or comparison intervention did not align    range of the participants was between 3 and 62 years. Com-
+with our VR focus (e.g., comparing two non-VR methods).    panies that offer virtual reality (VR) applications, such as2166                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+
+
+
+
+Fig. 1   Flow chart
+
+Oculus Rift and Playstation, have stated that this technology    systematic review had participants under the age of 6 lends
+should not be used by individuals under the age of 12 or 13.    further support to this information.
+Additionally, View-Master VR, a VR equipment developed    A total of 31 studies included in the systematic review
+exclusively for children, has specified this age as 7 for its    provided data on the age of participants, which was reported
+own equipment (Chen et al., 2019). The fact that only one    in a variety of categories. In some studies, only the mean
+study (Zhao et al., 2022) among the studies included in this    age was reported, which made it challenging to conduct a Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2167
+
+             and                     VR,                  his      of                                                                       con-                                                        show                                                                                                                                                               social                                              The                                                                                  and                                                                  in                                       to                                                                   eyemost                            to                  for                via                                                                                                                                                                                                                                 function                         pre-post                                       it  The                                                     thewithout                                  to                                                                                                                                                                                    emotion                                                                                                                                                                                                                                                                              recogni-                                                                         their                     social                                              in                             inareas.                                         post-VR;      individuals                                                                                                                                          reci-                                                                                                                                                                                                         particular       participant-                                                                                                                                                                                                        improve-in                                                                                     expression,                                                                                                        scenarios       participantsable                                                                                                                                                                                  participantable                                                                                                                                                                                                                    social                                                                                                                                                                                                                        scenarios                                                            her
+                                   the                                                        understandingskillsbeneficialthese                                          presentedbothweregainsweakfirstwascontinueversationdirectingorinterests.othermaintainedcontactthe    mentsrecognition,attribution,executive                                           differencesemotiontion,andprocity         Results          Improved              In                                                                                       Notable                                                                    Significant
+
+
+                                                           in                                                                             and                             was
+                                                     for                                                                                                                                                                         facialon                                                                                     three                                                                                                                             small                                          the                                       life                                                                                                       size                            partici-                                                                                                                                                                                               ability                                                                                                                                                    faces                                                                                                                            results.                                       continued   under-social                                                                                                                                                                                                            participant                                                   had                                                       of                                                                                                                                                                                  researchers                                                                                                                          time                                                                          nonverbal                                                                                                                                                                                                                                                                                                                              technology's                                                                                               evaluatedonlytwo                                                        demonstrate                  daily    study         the                       practice                                                      display                      pantstosocialstanding,interaction,andcommunicationinnot      includedparticipants,limitinggeneralizabilityofTheonlyscenarioseachto                                 sampleVRlacktoemotionsavatarreal               Limitations         Whether                     The                                                                                                                            Relatively
+
+                                                                                                          and                                                        in                                                                                                                                                                                                          focus-                         format;   socialnon-                                                    throughHMD         sce-                                                                                                                                                                                                          virtual                                                                                                                             role-emotion                                                                               number                                                                                                                                          emo-                                        commu-                                                                                                                                             cues                                                                                                               practice;                  and                                                                             for                                                                     on                                                    participantspracticedcuesverbalnicationimmersivescenarios            nariolimitedscenariosof                                           playrecognition;participantsinteracteddesktopenvironments                       CAVE-basedscenariosingtionalreciprocity                InterventionFormat     Individual                                                                      Individual                                                                                                                                                     Avatar-based                                                              Immersive,
+                                                                                  CPU   ofand                                   HMD                                          XP,                                    XP).         PCLaptop                                                       86                             and                      andRAM                                                                                                                                                                                                     24-inchwith  1200   VR  game                                                                                     softwareLiferift                                               Life  a –         360                         (Model:                                                                                                                                                                                                                                        Microsoft  GHz                          Pro),                                         Pentium   MB                                                                                                                                                                                                                                                                                                         resolution                                       I-Glasses3D(a3650MHZprocessor64Windows3DMaxPoser                                                         2.1,Windows1.5usingmonitora1920MorphVox       immersiveenvironment,Xboxcontroller               Instruments    HMD                                          SecondOculus                                                                      Second                                                        CAVE-like
+     Type   VR    HMD                     HMD                                                                                       Desktop                         CAVE
+                        com-                                                                                 and
+                          social                                                                                                                                                             recogni-                                                  recogni-            reciproc-                                       understand-                                                                             interaction                                                                               social                                                        affective             and             inginteractionnon-verbalmunication                                                                                          tion,attribution                           tion,expressionsociality    Aim       Social                                          Social                                                                                       Emotion                                           Emotion
+        Method
+                                                          Study                                                              Study           Research                 Single-subjectdesign                         Case                                                  Case                                                                          Experimental
+
+                                                                           4F)
+                                                                                                                             (26M,              (3M)                            (2M)
+                Participants 3EG:-CG:10–13Age:     2EG:-CG:8–15Age:                      30EG:-CG:7–16Age:         52EG:-CG:6–11Age:
+
+            Diagnosis    ASD                     ASD                                     ASD + ADHD              ASDstudies
+
+
+
+                                                  et              al.,                                          Wendt,                                                                                                                                 2016 Included          2015                                                                                  al.,
+       et       &                                                                               al.,
+                                                                et Table 2    Author      Cheng                                   Beach2016                                                                                                         Didehbani2016           Ip 2168                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+       1                                                                                         lev-                                               inwithand                 and                                                                in                                                                                   behav-        emo- VR                                                                                                                                             gaze-   indi-                          designflexibil-                                       VR VRsocial              col-                                     Level                                                                                                   ASD                                                                                                                                                                                                                                                                                          improving                                                                                                                                gaze                                 1                                                                               construction                                                                              showed        More     behaviors                                   (sharing,         storiesmodeling    system    indices,    anxiety               inchildren                                                    identity,                                                                                             improvementsreal-school                   immersivedesktop                                           laborativeenhancedity,normskillsASD                                          emotionaliorinsettings.appropriatetionalinvs.        teachcanskillsturn-taking)combinationsocialvideoadvantages    affectcanrelatedpotentiallycatingandelssocialLevelparticipants         Results          VR-based                                                                    Children                                                               HMD-based                                           VR-based
+
+                                                                                            for     size                             andof                                                                                wear-   is                                                                                             with                                   social                                                                        via  a                                                                                                                                                                                                     tracker                          solelyVR-                                             withASD                                                                                                                                                                              teacherscom-                                                                                                                                                                                                                                        chinrest                                                       of                  on                                                                    not            1                                                                        technical                                                                                     eye                                                         focusedthe                             akeypadsuitable        sample                         three                                          to                                                                                  use                        project                              focusedonmediatedinteractioncompetenciesandsolelyexperienceperformancechildrenLevel                                                             errors,couldmunicatestudentsmicrophone         ablewithandnotlow-functioningautism              Limitations    The                                                  Due                The                      Small
+                                             flex-                                                       role-           video      to
+    a                                                                                                                                                                                                                                              interac-desktop                                                                                                                                            social
+         in                               a          VR   built   worlds                               prac-desktop                       turn-tasks;                                                                        and                         trainingsocial                                                                                       with on                andin                                                           explored                                                        emotional  vs.                                                                        practice                          designdesktopenvironment;childrenandvirtualtoibility                                  environmentforbehaviorticeenvironment               playtakingbuiltstoriesmodels            basedimprovegazetionVR               InterventionFormat      Collaborative                                                                             Immersive                                                               HMD-based                                                                      Eye-tracking-
+
+                                                                 HTC                                                                                                                     7700k              7      MV-  3ds      Maya                                                                        GTXandDDR4                keypad,gog-                                                                             Robot                                                   of         VR                                                                                                                 PHOTON-               People-                                                                                                                                                                                    Computeri7  GPU,                                                                                                                                                  Mitsubishi                                                                                                                                                                                                                                                              monitor),                                                                                                                                   Unity,                                                                                                                                                                                                                           computer                     based                                                                                     IVRSystem,DoFPA-10Arm,FOCUSD752-160-CL-8camera,Max,Maker  andVive,(Intelprocessor,108016GBram)   (17″numbereye-trackergles              Instruments                 OpenSimulator-                                                                             Semi-Cave                                                        Autodesk                      Task
+     Type   VR         Desktop                                  CAVE                     HMD                                      Desktop
+
+                                                                                    tak-               and                                          compe-                                                                                    turntheory                                  identity     construc-                                                                                                                                                                                                                                                                                                              interaction                 flex-                                                                 andmind                                  ibility,constructionnormtion                               tence                     ingof    Aim       Social                                                                             Emotional                                                        Sharing,                                 Social
+        Method                     Method                                                   Method                                          Method
+          Research      Mixed                                           Mixed                                   Mixed                                                                 Experimental
+
+                                       6F)5F)             8
+          2F)                                                                                            ASD:  1F)
+                           1                                                                 (14M,(15M,                                                                                     4F)(7M,                                                                                    (5M)              (1M,   3-8–11              20207–12     5-9–11     814–15
+                                                                                                                 (4M,               Participants    EG:CG:Age:                     EG:CG:Age:                EG:CG:Age:                   LEVEL  TD:Age:
+
+          ASD                                                                     ASD
+           Diagnosis 1LEVEL + TD                     ASD                     ASD     1LEVEL + TD
+
+                                                                                                              2017              2016                                  al.,                            al., (continued)                        et              et                      al.,
+              Lee,                                              et
+   & Table 2    Author  Ke                                                            Lorenzo2016                                           Adjorlu2018                   Babu Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2169
+
+         in                VR     per-Level                ASD                                                                             the                                                                                                                                                               system                                   expres-                                              andin                             emo-                                                                                                                                       children                   withimprove-collabo-                                                                         significant                                                                                                              enhancedinteraction                                                inmeasures               in                            in-class                                                                                                                                using                                                                                          recognition             no                                                   ASD                 1                                 showedmentsrativeafterCoMove                                               improvementemotionsion/regulation,butgainstionmeasures                       gamingsocialpracticeformance         Results       Strong                                                                                                               Collaborative                                                                    Children
+
+
+
+
+             a
+                                                   no                                                   dueon                                                                     small                                                                                                                                                                             enable                                                                                                                 coder                                            andin-game                                                                                             par-                                                                                                                                   CVEs                                                                                                                                 design-researchgaming                                                          to                                                                                        focus                                                                                                        involves                                                                                                                                        made,finding                                                                                                                                                                                                                                                                          encourage            challenge                                                                    one                                                                                                  all                                        VRautistic                                                     its                                a                                                                                                                                          relativelysamplemainlyperformancemeasures,toin-situ,basedofforlearners    codedticipants'communicationbehaviors,generalizationswereandwaysandface-to-facecommunicationisfor              Limitations                                                      Study                                  Only
+
+                                                          set-
+
+              a                                                                                                       col-tasks,com-                 envi-focus-    and                             VR in                            in                                  tosocial                   desk-environ-                                   emotion           interac-                                                                                     tasks                                                        (CoMove).                                                                                                                                                                                        Participants          on                                   VR                              ronmentingexpression,regulation,socialtion                            gamingdesktopting.engagedgrouppracticecollaboration            topmentParticipantspracticedlaborativemonitoredmunication               InterventionFormat    Immersive                                                                                                               Collaborative                                                                                     Multi-user
+                                                 cards,Syncof   Flex,                                      and                                     M6000                                          RAM,                                                                                                                                                              desktop    (E5-220                        3D VR                     IntelProces-                                                 128GB       VR                                                                                                       RAM)                                                    E5-2687W,                                                               Dell    CPU              Instruments     CAVEsystem.XeonsorNVIDIAQuadrographicsNVIDIAcard,systemOptiTrackUnityOpensimulator-based                       TwocomputersT3610V38GB
+     Type   VR     CAVE                                                            Desktop                                                            Desktop
+                          socialskills                                                    and              emo-
+             and                                                                                                                                                            interaction,                          tionaladaptation                                                                                                     collaborationgame                                                                                     interactioncommunicationskills    Aim           Enhancing                                                   Social                                                                                                               Collaborative
+        Method                                                                              Method
+          Research               Experimental                                           Mixed                                                                                                      Experimental
+          5F)3F)                                                    1F)1F)                                       1F)                                                                                                                         (12M,                                                                                          (6M,(6M,                 (31M,(33M,                                                    (7M,                       7714  7–17             8-10–14       36367–10
+                                                                           2F)Age:               Participants    EG:CG:Age:                     EG:CG:Age:                            ASD:TD1:TD2:
+
+                                       ASD
+           Diagnosis    ASD         1LEVEL                          ASD + TD
+                                                    2018                                  2018
+                                                                                          al., (continued)          2018
+                                             et                                                                 Moon,              al.,
+       et         & Table 2    Author  Ip                 Ke                                           Zhang 2170                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+
+                to                      in
+                                     all            in
+               of                                                                                                                                                                                    signifi-                                                                   in                        enjoyed                                                                                                                                                          social                    of   inas                                                       emo-    tostereo-senso-                                                                                                                                             accu-                    promise                                        improved                                                   in                                                                    and                                                                                                                                                                                                                                        assessedcom-                                                                                                                                                                                         perfor-                                                       and                                                 seensuchand                                                                                                                                                                                                                                                                 improvementbaseline                                                                                                                                   reciproc-non-verbal                                                                                                                                                                                                 reactivityparticipantsexperimental                                               cooperative                                                                                                                                                                                                                                                                                                                                                                          independent                                                                  recognized              resultresearch,                                                                                                                                             agent                                                                                                                                                                                                                                                                                                           intervention          atheimprovementswereareasSocialtionality,communication,flexibilitychanges,typesrialthethegroup   cantfromtophasesskillsmance    ratelysocialmunication/cooperation,showingforevaluationASD             thegames,collaboration,andimportancecommunicationsucceed         Results               Participants           As                                                                                             Positive              The
+                                                     the               size                       size,of                                                                 term,theand        gener-                       of
+                    ofthe     longof      of                                                              number                                                                                                                                       sample                            sample           features                                        lack      the                         participants                                                                           analyzedurabilityimprovementsindurationintervention,heterogeneityofpreventedalizationresults                                                smallsystem-gener-ated              Limitations                       The                                                          Small                       Small
+
+                                                     VR              gam-                                                 to                                                                                                                                                                                                       initiat-                                                                                                                                             agentVR                                        played      tosocialandcues                              desktop                                                                                                                                                              single-                                                                                                                                                                                                                                                    communi-    a  Par-         inenviron-                                                                                                                                                                                                                  approach:                interactionsdesktop                                                                                                                                                                                                           desktop             ingVRment.ticipantspartner-basedgames            sessionspracticereciprocitynonverbal                                     caseparticipantspracticedingviatasks indetect/evaluatesocialcation               InterventionFormat     Cooperative                                                 HMD-based                                                                                             Multiple                                                   Intelligent
+
+
+
+                     3,                        system,                                   headset                                 VR         VR                          EyeX              OculusUnity    Androidtripod                              Motion,ofwebcam,          CVE                 LeapsetaandTobiitracker            Rift,SmartphonewithOS,              Instruments    HIH                HDM                                                                                  Desktop                                 Desktop
+     Type   VR         Desktop                HMD                                                                                  Desktop                                 Desktop
+
+                                                                                                                             self-                                                                                                                                                                                                                    flexible     and                                        emo-                                                                      social               expres-                                                                                                reciproc-                                          interaction,                and                                               and    commu-                                                                                                                   Non-verbal                                                       collaborationgame                            tionality,communication                                                                                                                                   interactions.interpersonalnegotiationidentitysionthinking      nicationcollaboration    Aim       Social                                 Social                                                                                                                     Initiating                            Social
+        Method                                                                                                                                              single-                                                                                                                     study                                                                     Control
+                                                     Study                                               case          Research               Experimental                      Case                                                                                             Multiple                                                        Experimental
+
+                                                                                     4F)4F)
+                              1F)                                   1F)                   avg
+                                                                                                                                             (16M,(16M,
+       12
+               Participants     ASD:12TD:12–13Age:               (6M,7EG:7CG:8–15Age:                                        (6M,7EG:-CG:10–14Age:      20EG:20CG:13.50Age:
+
+           Diagnosis    ASD + TD            ASD                                   ASD              ASD + TD
+                                                                                                                 2020              2018                      Lor-                                                                                                                 2022a                   al., (continued)          al.,     &2020                                 et       et                                                                        al.,
+                                             et Table 2    Author     Zhao                                      Herreroenzo,                      Ke                       Zhang Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2171
+
+                               and               was                                                          sig-   in               able                                    and                 all is
+       in                                              torespond                                                                                   that                                                                    facial      with            in   onwith                                                                                                                           improve-their    groups.                                                                                                                                                                                  prompts                                                                 waschildren                                                                        andchanges                                                                                      participants.                                                                    seeing,                 language    showed in            statisti-significant         ASD                                            system                                                                                        speed               help    thegaze                            increase                                                   role-playingperformanceobservedthreeTheeffectivechildrenASDunderstandingimitatingexpressionsbody  ASDnificantmentperformanceallThiscallyimprovementindicatedInViRStowithadapttoinspeed         Results  An                                                                                                                Participants
+
+                                no                              more                           size,                                       dif-                       trans-              sys-                                                                                            skills                                      difficult            body                                                                                 life,group                             to
+             areestablishschools,   on                            sample   socialdaily                 temstoinPerspectiveConfusion,focusmovements,individualferences                      Failurefertocontrol              Limitations           CAVE-like                                               Small
+
+    ato         in                                            used                              body           VR      VR                                                                                                      improve                              systemimitate                                              expres-and            toattention.                 and                                                                                                                            desktop                                               performanceCAVEseefacialsionslanguage                           tasksjointParticipantseye-trackinginscenarios               InterventionFormat     Role-playing                                                                                             Gaze-based
+
+                                                                 Maya                        system,     projector                                                      VirtualSystem,EyeX,
+       VR
+                                                                             Tobii                                      MicrosoftKinect,(K300ST)                                                      Reality              Instruments     CAVE                                                                                                      Interactive eAutodesk
+     Type   VR     CAVE                                                                 Desktop
+                            recogni-                                                                                                                                          attention,tracking
+                 tion                                     gaze    Aim         Emotion                                               Joint
+        Method         single-                          design
+                 case          Research          Multiple                                                                                                                Experimental
+
+                                         4F)                                            4F)
+                                                       (5M,              (3M)              9(5M,   3-7–9               Participants    EG:CG:Age:                               ASD:9TD:10–13Age:
+
+           Diagnosis    ASD                            ASD + TD
+
+                                                       2021              2020 (continued)                                                   al.,              al.,
+                            et
+       et
+ Table 2    Author     Tsai                                     Amat 2172                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+
+             has                                       that                                                                                than       1          in                                                                                                            gaze                                                                                               the                                                                 with                                   train-                                                                                                                  with                                                                                                                         con-                                                                                             with                                                                                        times                                                                                                               than                                                          the                                                                                   mild                                                                                                                                                   after                                                                                                                                                       various                                                   ASD                                                                                                                                                                                                                         various                                             study                                                                                                      have                                                                             found                     social                                   19                                       on                                                                                          eye                                                               onface                                                                                                                                       their                                                                          gaze                                                                                                                        avatar                                                                        integ-VR-based                                   skillschildren                                                                                  skills                                                   totendency                                                                                                                                           floor                                                                         Addition-                                   to                                                                                   with                                  training                                                                                    scenariomediate                                                                                      withregions.                                                                        ASDgenerallya                                   helpful                                                                                        ASD                                     LEVEL                                    this                                                                                                                 persons                                                                                                                            with                  4                          of                    for                                                                             study                                                     shiftthe                          skillsbeensocialingwithASD.ally,demonstratedsocialtypestreatmentritysocialtraining   thatmoderatehadgreaterfixationvirtualthoseASDfacialIndividualsmoderatewerefoundhighertotoparticipantsmildmakingtactlocationsavatar's         Results          VR-based                                 The
+              size                                     one
+                                                                                 studyonly  and                                                                                                                                                                             searching                     sample                                                                 sampleIn                                                                          gaze                                                                                 size.utilizedmeasurementofvisualbehavior              Limitations      Small                                                      Small
+
+                               an   on
+                               in                     social                                                                                       analyze                                  trainingscenario-practice                                                                           environ-tofixationsavatars                                 HFASD
+                                                HMDmentgazevirtual                          skillswithbasedforindividuals                                                                                    Eye-tracking               InterventionFormat   VR-based
+
+                                                                                         Tobii                                              Proheadset,laptop
+         VR                       51                                                             ViveVR              Instruments                 Opensimulator-based                              HTCEyeAreacomputer,eyeX
+     Type   VR         Desktop                                 HMD
+
+                 and
+         an
+                                                                                                                                                          Fixations,Search-                                           initiatinginteraction,negotiation,collaboration                                                   Visualing    Aim             Responding,                                            Gaze
+        Method                     Method                                                                             Study
+          Research      Mixed                                            Case
+
+          2F)
+                                                   avg
+                 (13M,
+               Participants  15EG:-CG:10–14Age:                   10EG:-CG:12.53Age:
+
+          ASD
+           Diagnosis 1LEVEL                                 ASD
+              2019                                                             2022 (continued)       Ke,                                            al.,
+   &                      et
+ Table 2    Author     Moon                                                      Elkin Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2173
+
+
+
+
+
+                            a                                              but                 emo-                                     and                 times                                                                                                                                                 feasibil-             VR                                                         second-tasksfaster       emotional                                                                                                                            children;non-VR                                                                                                                                studyprovide  that    learningfeasi-isprovidesimpact        socialchildren                                                                                                                                                                                                                                                                      practice                                                                                                                                               reciprocity                                                    identical                                                                                                         forautism                     VR                                                                                                                                                                                                                                      VR-based                                                       recognition                                                                                                                                                                                                                                                                                                                                                                                development                                                                                             and                              primary                          bothtraditional    emotion                                                                                                  the                                                                                                                                                                                                                                                complex                                         ASDdirect                                                                       current                                                                                                                                                                                                                                                               positive             fortionwereforandmethods;aryimprovedwith       expressionsocialinnocomparisonindicatesity                                                                    findingspreliminaryevidencewebinformalprogrambleaonandofskillswith         Results             Acquisition                                                        Improved                                        The
+                                                                                                                                size,                                                                 non-                                                                                datatotheeffect                                                       teamtoVR                                to    No                            specifi-onwithASD;1   mainly              the                                                                                                                                                                                                                interven-                                                                 partici-              quasi-                                                                                                             male                              focused                                        sample                                                                                       unable             approaches                                                                                                                            similar                               Gender    sampleparticipants                 study              of                                the                     callychildrenLEVELTheincludedmalepants                            experimentaldesign,researchwascomparetrainingVRwithinstructionalcontent.follow-upavailableexamineretentionoftion.imbalance  Allwere              Limitations    The                     Use                                                                  Small
+
+                       VR    in             for                                                                              affec-                                                                           learn-col-                                   emotion            in                     tasks                       forexpression,                                                                                       VR-based  with         VRprimaryrecognition                                      programHMDtivereciprocitymainstreamschools                                                                           informalinglaborative/socialtasks               InterventionFormat      Desktop-based                                                                             Educational                                        Web
+
+                                   of
+       3DEmo-                                               unit adrive)                                            GTX                                                                                                 (NVIDIA                                                                                            mobile                                                                       16GBmemory,          VR,   photos                                      Oculus-LenovoY520              Instruments         Desktopprojection,tions                HMDRift,LegionlaptopGeForce1060graphicsprocessing(GPU),mainof256GBsolid-state                                                                 Opensimulator-VRbased
+     Type   VR         Desktop                     HMD                                                                                            Desktop
+                            recogni-                                                 expres-                                                                          flex-                                                                         social                                                                                                                                                                                                                                                                                                                    Interaction,Self-expression,Cognitiveibility                                                             sion,reciprocity                 tion    Aim         Emotion                                                               Affective                                                                               Social
+        Method                                                                                                                                                          Method                                                                         design
+                                     tal          Research               Experimental                                                                                                                Quasi-experimen-                                                                  Mixed
+
+          5F)4F)                   7F)
+                 (25M,(26M,                               (41M,(47M,                                                                                                       (4M)       30309–10           4859  6–12           4-9–11
+                                                    12F)               Participants    EG:CG:Age:                EG:CG:  Age:                                 EG:CG:Age:
+
+          ASD
+           Diagnosis 1LEVEL                     ASD                                        ASD
+
+              2022                                                                                                                                2022b (continued)          al.,                            2022
+       et                            al.,                                                     al.,
+                       et                          et Table 2    Author       Frolli              Ip                          Ke 2174                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+
+
+                                                                to
+                                                                         social                                     of                                                                                                   ASD                                                                                    were                                                                    both                                                                                                                          com-                                                        VR                                                                                                                             use,                                                                                         ASD                                                                                                                     imita-                           andfound                                                                                                                                               children                                                                                       over                          social    to                        in                                                                                                           that                                                                                                                         social                                  of                              school                                                               to                                                            in                                                                 dialogue                                    of                                                                                                                                    with                                                                                                                                                                              skills                                                                                                                            decreasesanxiety                                                                                             areas          in                                                                                                                                                                                                           abilities                                                             and                                                                environmen-                                                                                                                                                                                                                                                                                                                                 acceptable                                                           attempts                                                                                                                                                                                                          intervention,developmental                                                                                                                                            beforeinterventionprovides                                                                                                interven-acceptable;                                                                         adaptation,                                                                                                                             study                                                        the                                                                                       social                                                                                                                                                                                                                                                                                   feasible,                                  improvedskillslife,talandinitiate       therapiststhetionincreasescognition/sensi-tivity,in  theabilitiesgroupsincognition,tion,interactionimprovedtheirmeasuredthe        significantevidenceimplementingimmersivesocialtrainingisfortableandadults         Results             Effectively                                                        Participants                           After                          The
+
+
+                                          to              size                       pilot                   was      not                                            to                                                     of   trial                                                                                                                                              virtual                                                                                                 could                                                                                                                        3-month                                                                                                                                                                                                               partici-Lack                                                                                                                study.                                                             the   clues       age                 a                     sample                           smallsize                       sampleThere                                                        the                      highthe      randomized                                                           study,sample                       size.onlyinterventioninNursesenterenvironmentofferchildren     ofpants.acontrolled(RCT)              Limitations      Small                                                        Uncontrolled                           Small                          The
+
+
+                                 (3                                                                                  ASD                     socialStu-                   tasks        facial                 and                    on                   HMD        social         VR  for                                             practiced                                              cognition,      perception                                                                            skills  with                                                                                                                                                                                           cognitive,                                                       interactions.dentsdialoguesenvironmentaladaptation            focusingsocialsensitivity,affect                                     interventionmonths).environmentforimitation,interactionimprovement                       socialtrainingadults               InterventionFormat    HMD-based                                          HMD-based                                                      Short-term                                                                             Immersive
+
+                                        Xbox              VR,                                                                              Eye                               computer,    headset                                                         HTC                 VIVE                                                                                                    OculusRift,     joystick,                                           Pro             HTCHMD,microphone,camera                     MicrosoftOneMorphVox                               Computer                                  Viveheadset              Instruments         Desktop              HMD                                                 HMD-based                                                   VRESS,
+     Type
+   VR    HMD              HMD                HMD                          HMD
+
+                                                                percep-                                                           Social                                     interac-Emotional                                                              interac-cognitive                                      Interaction                      Per-TheorySocial                                                         Mind,                                                  tion,ception,ofinteraction               tion,expression                                       tion,functioning    Aim       Social                                 Emotion                                 Social                                                   Social
+        Method
+                     Method                                                                       (uncontrolledgroup)single          Research      Mixed                                                        Experimental                                                                 Experimental                                                                                                      Experimental
+
+                           5F)                3F)6F)                       6F)
+                                              (21M,                           (19M,(16M,                                       (19M,
+               Participants  10EG:-CG:7–12Age:      26EG:-CG:18–62Age:        22EG:22CG:3–5Age:              25EG:-CG:19–52Age:
+
+           Diagnosis    ASD              ASD                ASD                          ASD
+
+
+                                                                                                    al.,                                     al.,                      2022                                                  et (continued)          Yeh,         et                      al.,
+   &                   Pelt           et Table 2    Author     Meng2022            van2022                   Zhao                                                                             Kourtesis2023 Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2175
+
+                                 such                                                   of                                 three             the
+             to                                                                          the         in                                                                                                        nega-skill   Usingprompts                                                                                                                                                              skillsinter-     morenon-prompts                                             Trial(DTT),Behavior(ABA),        Inter-(NDBI)that  par-positiveperfor-showed                                                                                                                                                                                                                                                                                      initiation                                                                                                                                 VR-based       skill    results,their                     system   showedresults      traditional                                                                                                                                                              socialsocial                                                                                                                                  social                                                                                                                                                                                                                                                                                                                                                                                    interpersonal   using                                                                                    Natural                  observed       VR                                    Discrete                                  proposedstudybettercomparedotherinterventionsasTrainingAppliedAnalysisandDevelopmentalBehavioralventionswasduringtraining,ticipants'socialmancesmixedwhiletiveperformancesdecreased.adaptiveincreasedperformancesome(i.e.,actionandnegotiation)thanadaptive         Results    The                      It
+
+                                   todata                                                                                                that  frompar-Small                                                                                                                                                                autisticThe    was                                                                                                               size                                                                                                                                                       study’s   ingathered                                                                                     study            emotionalof                                                                                                      data                                                                                                 mining                                                                                                                                                                                                                                collection                                                                                                                            limited                                                                                                                                   study                                                          the                                                                                            speech                                                                    this                                                                                                   only              Limitations                                       Thedatainwasgatheringonstateschildren.currentdataapproachlimiteditvoicetheticipants.sample
+
+
+
+
+
+                 a                              tradi-                                                                 prompts inVR                                     NDBI)                                  Compared     interven-(DTT,                         three                                                                                                                         non-adaptive             VR.totionaltionsABA,                       vs.promptsdesktopscenario               InterventionFormat      Desktop-based                                                                                       Adaptive
+
+
+          VR,                                  Software                      VR
+                     Unity                                                      based              Instruments         Desktop                                                                                                                                                        Opensimulator-
+     Type   VR         Desktop                                                                            Desktop
+                     commu-eye                                                                                                                         interaction,                                      nication,tracking                                                                                                                                   Self-identity    Aim       social                                                                 Social
+        Method
+                     Method                                                                                                                                            experimentaldesign          Research      Mixed                                                                                                                        Single-case
+
+                                              2F)
+                                                             (2M,       10-8–12               Participants    EG:CG:Age:         4EG:-CG:12–13Age:
+
+           Diagnosis    ASD                                 ASD
+              2023                                            2023
+              al.,                                 Ke, (continued)
+       et           &
+ Table 2    Author      Manju                                            Moon 2176                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+      a                            with            to   verbalsocial       accu-                                                                                                Stu-                         tried                       with                                                                                                                                   under-                                       for
+   8                                             offor                 were                                                                                                                                                                                      education                                                                             andsocial                                                                                                                                                                                               various                                                                  character.                                                                               signifi-improved               and                                                     to                                                                                                                                                                                                                                responded                                                    focused                                                      in              than                                                                                                                                                                                                                                                                                                                    simulations                                               interact                   details/static    system            workplace                                  childrenactivetovirtualTheyonobjects    cantlyself-efficacyinscenariosparticipantsautism                                                            contributedacademicstandingpromptsbehaviors.dentsquicklyratelycuesVR         Results     More           VR                                                                           VR-based
+
+                 and                                                                                                                              trans-                                                                                                                                   skills                     number  dif-   autism         who    interactweretheintosocialdaily               size,                                                                                          life                                          to                       ages                                                                                            communi-                                                                                                      Failure to                                                                autism                                                                                                                         sample                                     andothers                         their                                                                                                                       participants                 smallparticipants                                                                                                                                   socialdaily         ofandferentdifferentlevels         withcouldcatewithincludedstudy.transferskillslife                      Failureferto              Limitations    The                      Only                                               Small
+
+                                              job-
+               VR        role-                                                                                    ses-social              ses-explore  Par-freely                                             character              HMD                                                         build         to                                                                         social                                                 prompt-VRfor                     in                       to                     sionsvirtualinteraction.ticipantsnavigatedworlds      playVRrelatedskills                                   basedsionsinteractionimprovement               InterventionFormat    HMD-based                                                 Workplace                                                        Verbal
+
+                               GB                        PCi7,
+                                     E4                 com-                       10    RTX 16VIVEVR(HTC),                                                    Core    graphicsand         VR                                                   Eye                     Oculus                              Quest2,puter                                     Unity3D,Windows(Microsoft)(IntelGeForce2070card,RAM),ProheadsetEmpaticawristband    based              Instruments  VR                                                                 WorkplaceVR,                                                                                                                                  Opensimulator-
+     Type   VR    HMD                HMD                                                                 Desktop
+
+                                                           socialself-
+                              skills                                and                                                                    prompts,Interac-                                          interaction,                                           Communica-tional                            skillsefficacy                                                   Socialtions    Aim       Social                                                 Workplace                                                        Verbal
+        Method                                                           Method                                                                                                     Study          Research               Experimental                           Mixed                                     Case
+
+                              2F)          4F)                                                             2F)
+              (8M,                           (12M,
+               Participants  12EG:-CG:4–15Age:        14EG:-CG:16–34Age:                               (2M,4EG:-CG:12–13Age:
+
+           Diagnosis    ASD                ASD                            ASD
+
+              al.,                      2024
+       et (continued)                                    al.,                                     2024
+                 2023         et                              Kim                                               Moon, Table 2    Author           SoltiyevaJournal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2177
+
+Table 3   Diagnosis, Age Group,                                             n   %       gender of the participants. Upon analysis of the remaining
+and Gender Distribution                                  26 studies, it was determined that 485 of the participants
+(N = 710)                         Diagnosis                                                    were male and 113 were female. It is established that the
+                       ASD          533    75.1     prevalence of ASD is 43.0 among boys and 11.4 among
+                                    Typical Devel-  71     10.0      girls (Maenner et al., 2023). Women are largely excluded
+                                 opment (TD)                                                    from research studies (D’Mello et al., 2022), and due to the
+                                   Level 1 ASD    93     13.1                                                        unique profiles of ASD in women (Hiller et al., 2016), there
+                           ASD + ADHD  13      1.8                                                                            is a perceived deficiency in the representation of women in
+                                    Total           710   100.0                                                                research. However, Burrows et al. (2022) proposed that the
+                           Age Group                                                        gender ratio can be balanced if diagnostic caveats are taken
+                               0–6 years      44      6.2                                                                 into account.
+                               6–15 years     599    84.4
+                                       15 + years      67      9.4
+                                    Total           710   100.0                                                      Analysis of Social Skills
+                               Gender
+                              Male          485    68.3                                                The studies included in this systematic review examine a                                Female        113    15.9                                                         range of social skills. It is crucial to identify which social                            Unknown      112    15.8                                                                      skills are most frequently examined in studies in order to                                    Total           710   100.0                                                           gain insight into current trends and gaps in the field. Rather
+                                                          than examining the impact of VR on a single social skill,
+                                              many studies have chosen to assess its effects on multiple
+comprehensive analysis of the age distribution of the par-    social skills. This demonstrates how VR technology can be
+ticipants. Moreover, the age ranges of the participants in the    used to develop a wide range of social skills, but also helps
+studies exhibited considerable variation. The aforementioned    us to understand in which areas these skills are more effec-
+diversity renders a comprehensive evaluation of age groups     tive. Consequently, an analysis of the social skills addressed
+challenging. For this reason, in our study, we employed a    in this systematic review will facilitate a more comprehen-
+more granular classification of age ranges, delineating three    sive understanding of the literature in this field.
+broad categories: 1–6 years, 6–15 years, and 15 + years, in    A review of the studies revealed that 20 studies met the
+order to facilitate a more meaningful and consistent analysis     criteria for inclusion (Babu et al., 2017; Beach & Wendt,
+of the data. This approach allows for more robust age-based    2016; Cheng et al., 2015; Herrero & Lorenzo, 2020; Ip et al.,
+analyses and a more general interpretation of the results. A    2016, 2022; Ke & Moon, 2018; Ke et al., 2022a, 2022b;
+total of 1 study included participants aged 1–6 years (Zhao   Kim et al., 2024; Kourtesis et al., 2023; Manju et al., 2023;
+et al., 2022), while 26 studies included participants aged   Meng & Yeh, 2022; Moon & Ke, 2023; Moon, 2024; Solti-
+6–15 years (Adjorlu et al., 2018; Amat et al., 2021; Babu    yeva et al., 2023; van Pelt et al., 2022; Zhang et al., 2020;
+et al., 2017; Cheng et al., 2015; Didehbani et al., 2016; Elkin   Zhao et al., 2018, Zhao et al., 2022). The studies included
+et al., 2022; Frolli et al., 2022; Herrero & Lorenzo, 2020; Ip    in this review were conducted by the following research-
+et al., 2016, 2018, 2022; Ke & Lee, 2016; Ke & Moon, 2018;     ers: Babu et al. (2017), Beach and Wendt (2016), Cheng
+Ke et al., 2022b). The following studies were also consid-     et al. (2015), Herrero and Lorenzo (2020), Ip et al., (2016,
+ered: Ke et al. (2022b), Lorenzo et al. (2016), Manju et al.    2022), Ke and Moon (2018), Ke et al. (2022a, 2022b), Kim
+(2023), Meng and Yeh (2022), Moon and Ke (2019, 2023),     et al. (2024), Kourtesis et al. (2023), Manju et al. (2023),
+and Moon (2024). Additionally, Soltiyeva et al. (2023) and   Meng and Yeh (2022), and Moon and Ke (2023). The stud-
+Tsai et al. (2020) were included. A total of 20 studies were     ies examined social interaction and reciprocity. This figure
+identified, of which 16 included participants aged 15 and    demonstrates that the majority of studies concentrate on the
+above (Beach & Wendt, 2016; Kim et al., 2024; Kourtesis    subject of social interaction. Seven studies (Didehbani et al.,
+et al., 2023; van Pelt et al., 2022). The distribution of partici-    2016; Frolli et al., 2022; Ip et al., 2016, 2018; Lorenzo et al.,
+pants according to age groups is as follows: 44 participants    2016; Tsai et al., 2020; van Pelt et al., 2022) concentrated
+between the ages of 1 and 6, 599 participants between the   on the subject of emotion recognition and discrimination.
+ages of 6 and 15, and 67 participants aged 15 and above. The    Additionally, researchers have concentrated their efforts on
+distribution is presented in Table 3 for reference.             developing skills such as joint attention (Amat et al., 2021;
+  Upon analysis of the gender of the participants in the    Elkin et al., 2022), cognitive and social flexibility (Ke &
+studies, it was observed that 5 studies (Elkin et al., 2022; Ip    Lee, 2016; Ke et al., 2022a; Ke et al., 2022b), and negotia-
+et al., 2016; Manju et al., 2023; Meng & Yeh, 2022; Zhao    tion (Ke et al., 2022a). Furthermore, studies have explored
+et al., 2018) lacked sufficient information regarding the    the role of joint attention (Amat et al., 2021; Moon & Ke,2178                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+2019, 2023), cooperation and cooperative play (Adjorlu   and other computer-based sensing systems (such as eye
+et al., 2018; Ke & Moon, 2018; Zhang et al., 2018, 2020).     tracking and speech recognition). The virtual reality tech-
+   In order to provide a clearer understanding of how these    nology employed in the studies presented in this research
+interventions were implemented, we added an “Interven-    can be classified into three categories: desktop-based, head-
+tion Format” column to Table 2. This column highlights the   mounted display (HMD), and CAVE (Cave Automatic Vir-
+specific methods used to teach social skills in each study,     tual Environment). Fifteen studies were identified for review
+including avatar-based simulations (e.g., Cheng et al.,   (Amat et al., 2021; Babu et al., 2017; Didehbani et al., 2016;
+2015; Didehbani et al., 2016), multi-user collaborations     Frolli et al., 2022; Ke & Lee, 2016; Ke & Moon, 2018; Ke
+(e.g., Zhang et al., 2018; Zhao et al., 2018), and role-play     et al., 2022a; Ke et al., 2022b; Manju et al., 2023; Moon,
+tasks supported by head-mounted displays (e.g., Adjorlu    2024; Moon & Ke, 2019, 2023; Zhang et al., 2018; Zhang
+et al., 2018; Tsai et al., 2020). Notably, several studies (e.g.,     et al., 2020; Zhao et al., 2018) employed a desktop VR sys-
+Herrero & Lorenzo, 2020; Lorenzo et al., 2016) employed    tem. HMD VR system was used in 12 studies (Adjorlu et al.,
+immersive environments such as CAVE or HMD for more    2018; Beach & Wendt, 2016; Cheng et al., 2015; Elkin et al.,
+realistic social interactions, while others (e.g., Ke & Lee,    2022; Herrero & Lorenzo, 2020; Ip et al., 2022; Kim et al.,
+2016; Ke & Moon, 2018) focused on desktop-based col-    2024; Kourtesis et al., 2023; Meng & Yeh, 2022; Soltiyeva
+laboration, enabling multiple children to co-create or interact     et al., 2023; van Pelt et al., 2022; Zhao et al., 2022). In addi-
+simultaneously. These diverse approaches indicate that no     tion, four studies employed the CAVE VR system (Ip et al.,
+single ‘best’ method has emerged; rather, the choice of VR    2016, 2018; Lorenzo et al., 2016; Tsai et al., 2020). Upon
+format appears to depend on resources, target social skills,    examination of the studies in their entirety, it becomes evi-
+and participant characteristics.                              dent that a considerable variety of equipment materials has
+                                                      been employed. It is anticipated that this extensive range of
+Technology Utilized in Studies                          equipment materials will facilitate future research endeavors.
+                                   A detailed overview of the equipment used in the reviewed
+Virtual reality (VR) can be delivered using a variety of tools,    studies is provided in Table 2, while Fig. 2 illustrates the
+including head-mounted displays (HMDs) and cave auto-    distribution of VR technologies—namely, CAVE, desktop,
+matic virtual environments (CAVEs), as well as desktop   and HMD—employed in these interventions.”
+and laptop computers. Virtual reality head-mounted dis-
+plays (HMDs) are optical devices that provide the user with   Methodological Approaches Utilized
+a fully immersive virtual environment. CAVE is a system
+that presents a three-dimensional environment using two-   Upon examination of the methodologies employed in the
+dimensional projected images arranged around the user,    studies included in the research, it becomes evident that 12
+thereby creating an immersive environment. Virtual reality    studies (Amat et al., 2021; Babu et al., 2017; Frolli et al.,
+(VR) and CAVE systems afford users the ability to interact    2022; Ip et al., 2016, 2018; Kourtesis et al., 2023; Soltiyeva
+with the environment through the use of specialized control-     et al., 2023) utilized an experimental approach. The mixed
+lers, computer vision techniques (such as motion capture),   method approach was used in nine studies (Adjorlu et al.,
+
+Fig. 2   Technology utilized in
+studiesJournal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2179
+
+2018; Ke & Lee, 2016; Ke & Moon, 2018; Ke et al., 2022b;    2020; Amat et al., 2021; Moon & Ke, 2019; Elkin et al.,
+Kim et al., 2024; Lorenzo et al., 2016; Manju et al., 2023;    2022; Ke et al., 2022b; Meng & Yeh, 2022; van Pelt et al.,
+Meng & Yeh, 2022; Moon & Ke, 2019), five studies were    2022; Zhao et al., 2022; Moon & Ke, 2023; Soltiyeva et al.,
+case studies (Beach & Wendt, 2016; Didehbani et al., 2016;    2023; Moon, 2024). Moreover, many designs lacked control
+Elkin et al., 2022; Herrero & Lorenzo, 2020; Moon, 2024)    groups, complicating direct comparisons between VR and
+and 5 studies employed a single-subject/quasi-experimental   non-VR interventions. Problems with generalization and
+design (Cheng et al., 2015; Ip et al., 2022; Ke et al., 2022a;    retention of skills are another recurring concern (Amat et al.,
+Moon & Ke, 2023; Tsai et al., 2020). The distribution of    2021; Beach & Wendt, 2016; Herrero & Lorenzo, 2020),
+research methods employed is presented in Fig. 3.            given that improvements observed in virtual settings do not
+                                                         always translate seamlessly to everyday contexts. While only
+Identified Improvements and Limitations              one study (Adjorlu et al., 2018) reported notable technical
+                                                                         difficulties (e.g., faulty equipment), cost and setup complex-
+The studies reviewed highlight the positive impact of VR-    ity—particularly for fully immersive hardware—remain
+based interventions on children with ASD. For instance,    practical barriers (Tsai et al., 2020). Finally, many interven-
+Manju et al. (2023) found that their VR program surpassed    tions were short-term and lacked follow-up data, limiting
+established approaches—such as Discrete Trials Instruc-    insight into the long-term sustainability of any gains (Zhao
+tion (DTI), Applied Behavior Analysis (ABA), and Natu-     et al., 2022).
+ralistic Developmental Behavioral Interventions (NDBI)—in       In summary, although VR appears promising for foster-
+enhancing social skills. Other research reported meaningful    ing social reciprocity, emotion recognition, and collaborative
+gains in emotion recognition, collaboration, and turn-taking    play in children with ASD, these findings are tempered by
+(Adjorlu et al., 2018; Amat et al., 2021; Zhang et al., 2018).    methodological constraints—especially small samples, brief
+Certain immersive systems (e.g., CAVE, HMD) appeared    intervention periods, and a lack of robust controls. Further
+particularly effective in eliciting realistic social interactions    research featuring larger, well-controlled trials and extended
+or emotional expressions (Herrero & Lorenzo, 2020; Lor-    follow-up is needed to confirm whether the observed ben-
+enzo et al., 2016), whereas desktop VR was often favored     efits persist beyond initial sessions and can be generalized
+for its accessibility and ease of use (Ke & Lee, 2016; Ke    to real-world settings.
+et al., 2022b). Nevertheless, some studies observed mixed
+or limited effects: for example, Frolli et al. (2022) found no       .
+difference in the time required to recognize primary emo-
+tions between VR and traditional methods, and Ip et al.
+(2018) failed to detect significant improvements in emotion
+recognition.                                    Discussion
+   Despite these advances, the literature also highlights sev-
+eral limitations. Chief among them are small sample sizes,    In this systematic review, we examined 31 studies published
+which reduce statistical power and hinder generalizability    over the past decade (2014–2024) that investigated the effec-
+(Didehbani et al., 2016; Babu et al., 2017; Beach & Wendt,    tiveness of virtual reality (VR)-based social skills interven-
+2016; Ke & Moon, 2018; Ke et al., 2022a; Zhang et al.,    tions for children with autism spectrum disorder (ASD). The
+
+Fig. 3   Methodological
+approaches utilized2180                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+results indicate that the majority of studies were published in    interventions, Frolli et al. (2022) reported no difference in
+2018 (n = 6) and 2022 (n = 8), suggesting a growing interest    acquisition times for emotion recognition when comparing
+in VR research in recent years. The findings further reveal    traditional methods and VR. Ip et al. (2016) found positive
+that most studies focused on children aged 6–15 (n = 599),    differences in pre- and post-test emotion recognition scores,
+while there was limited participation from those under    whereas a subsequent study (Ip et al., 2018) reported no sig-
+3 years or over 15 years of age. Companies providing VR    nificant improvement. These discrepancies may stem from
+applications have recommended that VR technology not be    differences in participant profiles or the specific VR sce-
+used by individuals under the ages of 12 or 13 (Chen et al.,    narios employed. Future research could address such incon-
+2019). For instance, the minimum age is specified as 10 for    sistencies by standardizing emotion recognition protocols,
+the Meta Quest (Meta, 2024), and 13 for the Apple Vision    enhancing avatar realism, and examining diverse participant
+Pro (Apple, 2024). View-Master VR, developed exclusively    groups (e.g., level 1 ASD, those with comorbid diagnoses).
+for children, sets the lowest usage age at 7. These age-related     Among the various VR systems employed for ASD
+restrictions, combined with the complexities of diagnosis   interventions—CAVE, desktop, and head-mounted display
+and intervention processes in early childhood, may explain   (HMD)—each offers distinct features. The choice of system
+why research predominantly involves the 6–15 age group.     is particularly important for practitioners. In this review,
+Meanwhile, older adolescents and adults with ASD have    desktop-based systems emerged as the most frequently
+different educational and therapeutic needs but appear to be    used, a finding consistent with Dechsling et al. (2021). How-
+underrepresented in VR studies, underscoring the impor-    ever, a systematic review by Yiğit and Sani-Bozkurt (2021)
+tance of adapting both equipment and content for different    reported desktop-based systems as the least used. While the
+age groups in future research.                                  studies included here suggest that various VR systems can
+  A notable gender disparity was observed across the stud-    enhance the social skills of individuals with ASD, the ques-
+ies, with 485 male participants compared to 113 female par-    tion of which system is most suitable for teaching social
+ticipants. In addition to the established finding that ASD is     skills remains open. Lorenzo et al. (2016) found that immer-
+more frequently diagnosed in males (Maenner et al., 2023),    sive environments may elicit more appropriate emotional
+some evidence suggests that girls may be overlooked in the    behaviors compared to desktop settings, and other studies
+diagnostic process due to “camouflaging” of symptoms   (Chen et al., 2019; Herrero & Lorenzo, 2020) similarly sup-
+(D’Mello et al., 2022; Hiller et al., 2016). Further research    port the utility of immersive VR systems. Yet, CAVE sys-
+is therefore needed on how to tailor VR interventions to    tems require more equipment than HMD or desktop VR,
+girls’ unique profiles. This gender imbalance could limit the    potentially escalating costs. Notably, only four of the studies
+generalizability of current findings and serve as a critical    (Ip et al., 2016, 2018; Lorenzo et al., 2016; Tsai et al., 2020)
+consideration for future research.                           used CAVE, indicating limited comparative data across mul-
+   Social and communicative deficits in ASD can be grouped     tiple VR formats. Additionally, Halabi et al. (2017) applied
+into three categories—social-emotional deficits, nonverbal    three VR types to both children with ASD and typically
+communication deficits, and difficulties in establishing and    developing peers and found the highest satisfaction levels
+maintaining relationships (APA, 2022). The studies included    with CAVE systems, as well as shorter response times in
+in this review addressed all three categories. Social interac-    children with ASD. Cooperative VR environments (support-
+tion with virtual avatars or peers was the most prominently    ing multiple users simultaneously) are also believed to be
+targeted skill area, wherein various VR-based scenarios were    effective for social skills training.
+presented to participants, and their ability to engage in social       Special education is a highly diverse field, requiring mul-
+interaction was subsequently assessed. Compared to other     tiple research designs (Odom et al., 2005). Alongside the
+disability groups, individuals with ASD experience greater    four frequently used approaches—descriptive, correlational,
+challenges in comprehending and responding to emotional    experimental, and qualitative—mixed-method studies have
+expressions (Black et al., 2017). However, emotional rec-   become increasingly popular (Cook & Cook, 2016). Meth-
+ognition in children with ASD is generally inconsistent,    odologically, most studies in this review employed experi-
+partly due to substantial differences in sample sizes, tasks,    mental or quasi-experimental designs, yet only nine included
+and participant characteristics (Lievore et al., 2023). The    a control group (Amat et al., 2021; Kourtesis et al., 2023;
+studies reviewed here that involved emotion recognition and    van Pelt et al., 2022). The absence of control groups limits
+discrimination (Didehbani et al., 2016; Frolli et al., 2022; Ip    the capacity to conclusively compare VR interventions with
+et al., 2016, 2018; Lorenzo et al., 2016; Tsai et al., 2020; van    alternative methods. Small sample sizes (n = 16 studies) and
+Pelt et al., 2022) also exhibited variations in outcomes. For     difficulties in generalization (n = 8 studies) were also com-
+example, while participants in the studies by Didehbani et al.   monly reported. The challenges that children with ASD face
+(2016), Tsai et al. (2020), and van Pelt et al. (2022) showed    in generalizing skills (Yerys et al., 2009) are closely tied
+improvements in emotion recognition following VR-based    to how closely VR environments mimic real-life conditionsJournal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2181
+
+(Rajendran, 2013). Hence, factors like high-resolution visu-    however, users may prefer CAVE-style VR systems. Further
+als, avatar realism, and scenarios reflective of daily life con-    research is required to elucidate the distinctions and conse-
+texts could be critical for success in future studies.           quences of the various types of VR, namely HMD, CAVE,
+  Moreover, cybersickness was mentioned in only one   and desktop-based systems. It is recommended that future
+study (Kourtesis et al., 2023), suggesting that this issue is    studies address the limitations of existing research, including
+often overlooked in VR research. This gap may indicate a    the use of small sample sizes and the lack of generalizabil-
+lack of consistent protocols or measurement tools for safe-     ity. Additionally, there is a need for more studies on gender
+guarding participant well-being. Symptoms such as nau-    balance in VR research. Overall, the evidence suggests that
+sea and dizziness could pose (Davis et al., 2014; Stauffert  VR technology has the potential to enhance the social skills
+et al., 2020) particular challenges for children with ASD,    of individuals with ASD, but further research is necessary
+who often have heightened sensory sensitivities. Although    to confirm this hypothesis.
+recent hardware and software aim to minimize these effects
+by reducing latency and jitter (Farmani & Teather, 2020),
+                                                                Author Contributions  All authors contributed equally to this work.more sensitive measurement and reporting tools are needed
+to fully address cybersickness in VR studies.                    Funding  Open access funding provided by the Scientific and Techno-
+   In conclusion, the reviewed studies suggest that VR-     logical Research Council of Türkiye (TÜBİTAK). The authors did not
+based interventions can serve as a valuable tool for enhanc-     receive support from any organization for the submitted work.
+ing social skills in children with ASD. Nevertheless, sev-                                                       Declarations eral factors—small sample sizes, absence of control groups,
+gender imbalances, and cybersickness—limit the scope and    Competing Interests  The authors have no competing interests to
+robustness of current findings. Future research should incor-     declare that are relevant to the content of this article.
+porate more diverse samples in terms of age and gender,
+conduct comparative analyses of different VR systems, and    Open Access  This article is licensed under a Creative Commons Attri-
+employ controlled, longitudinal designs (including follow-     bution 4.0 International License, which permits use, sharing, adapta-
+                                                                                  tion, distribution and reproduction in any medium or format, as longup measurements) to yield more generalizable results. Such                                                                        as you give appropriate credit to the original author(s) and the source,
+efforts will help clarify how VR technology can sustainably     provide a link to the Creative Commons licence, and indicate if changes
+contribute to the social skills development of children with    were made. The images or other third party material in this article are
+ASD.                                                               included in the article’s Creative Commons licence, unless indicated
+                                                                    otherwise in a credit line to the material. If material is not included in
+                                                                        the article’s Creative Commons licence and your intended use is not
+                                                                       permitted by statutory regulation or exceeds the permitted use, you will
+Conclusions                                                need to obtain permission directly from the copyright holder. To view a
+                                                              copy of this licence, visit http://creativecommons.org/licenses/by/4.0/.
+In conclusion, this study examined the effects of using
+virtual reality (VR) technology in social skills training by
+synthesizing the findings of studies conducted over the past
+                                           Referencesdecade, including VR interventions for social skills of indi-
+viduals with autism spectrum disorder (ASD). The findings
+                                                                     Adjorlu, A., Hussain, A., Mødekjær, C., & Austad, N. W. (2018).indicated that VR-based interventions can facilitate the                                                                Head-mounted display-based virtual reality social story as a tool
+creation of a secure environment in which individuals with          to teach social skills to children diagnosed with autism spectrum
+ASD can engage in the practice of social skills in a manner          disorder. In 2017 IEEE Virtual Reality Workshop on K-12 Embod-
+that is both safer and more comfortable. Furthermore, these          ied Learning through Virtual & Augmented Reality (KELVAR).
+                                                           IEEE (Vol. 2).interventions have the potential to enhance participation by                                                                        Alvares, G. A., Bebbington, K., Cleary, D., Evans, K., Glasson, E. J.,
+providing participants with tasks that are motivating and        Maybery, M. T., Pillar, S., Uljarević, M., Varcin, K., Wray, J., &
+engaging. The use of VR technology is becoming increas-         Whitehouse, A. J. (2020). The misnomer of ‘high functioning
+ingly commonplace, with new equipment being introduced          autism’: Intelligence is an imprecise predictor of functional abili-
+                                                                                           ties at diagnosis. Autism, 24(1), 221–232.on a daily basis. Nevertheless, it is imperative that experts                                                               Amaral, C., Mouga, S., Simões, M., Pereira, H. C., Bernardino, I.,
+exercise caution when utilizing VR technology, particularly         Quental, H., Playle, R., McNamara, R., Oliveira, G., & Castelo-
+in individuals with ASD. In light of the findings and cau-         Branco, M. (2018). A feasibility clinical trial to improve social
+tions articulated by the research sponsors, it is evident that          attention in autistic spectrum disorder (ASD) using a brain com-
+                                                                             puter interface. Frontiers in Neuroscience, 12, 477.this technology is appropriate for individuals above the age                                                            Amat, A. Z., Zhao, H., Swanson, A., Weitlauf, A. S., Warren, Z., &
+of 12 or 13. All varieties of VR have exhibited promise in          Sarkar, N. (2021). Design of an interactive virtual reality system,
+the field of social skills instruction. It is established that         In ViRS, for joint attention practice in autistic children. IEEE
+desktop-based systems are the most cost-effective option;2182                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+     Transactions on Neural Systems and Rehabilitation Engineering,     Coates, G. (1992) Program from Invisible Site—a virtual sho, a mul-
+     29, 1866–1876. https://​doi.​org/​10.​1109/​TNSRE.​2021.​31083​51           timedia performance work presented by George Coates Perfor-
+Apple. (2024). Apple Vision Pro User Guide. https://​suppo​rt.​apple.​       mance Works, San Francisco, CA.
+     com/​en-​my/​guide/​apple-​vision-​pro/​c0c84​db82a​44/​visio​nos        Cook, B. G., & Cook, L. (2016). Research designs and special educa-
+Babu, P. R. K., Oza, P., & Lahiri, U. (2017). Gaze-sensitive virtual          tion research: Different designs address different questions. Learn-
+     reality based social communication platform for individuals with         ing Disabilities Research & Practice, 31(4), 190–198. https://​doi.​
+     autism. IEEE Transactions on Affective Computing, 9(4), 450–           org/​10.​1111/​ldrp.​12110
+     462. https://​doi.​org/​10.​1109/​TAFFC.​2016.​26414​22                Covidence Systematic Review Software (2024). Veritas Health Innova-
+Baileson, J., Patel, K., Nielsen, A., Bajascy, R., Jung, S., & Kurillo, G.           tion, www.​covid​ence.​org
+     (2008). The effect of interactivity on learning physical actions in     Davis, S., Nesbitt, K., & Nalivaiko, E. (2014). A systematic review of
+     virtual reality. Media Psychology, 11(1), 354–376. https://​doi.​org/​         cybersickness. In Proceedings of the 2014 Conference on Inter-
+     10.​1080/​15213​26080​22852​14                                             active Entertainment (pp. 1–9). https://​doi.​org/​10.​1145/​26777​58.​
+Beach, J., & Wendt, J. (2016). Using virtual reality to help students         26777​80
+     with social interaction skills. Journal of the International Associa-     Dechsling, A., Orm, S., Kalandadze, T., Sütterlin, S., Øien, R. A., Shic,
+     tion of Special Education, 16(1), 26–33.                                         F., & Nordahl-Hansen, A. (2021). Virtual and augmented reality
+Berki, B. (2019). Desktop VR as a virtual workspace: A cognitive          in social skills interventions for individuals with autism spectrum
+     aspect. Acta Polytechnica Hungarica, 16(2), 219–231. https://​          disorder: A scoping review. Journal of Autism and Developmental
+     doi.​org/​10.​12700/​APH.​16.2.​2019.2.​13                                 Disorders. https://​doi.​org/​10.​1007/​s10803-​021-​05338-5
+Black, M. H., Chen, N. T. M., Iyer, K. K., Lipp, O. V., Bolte, S.,    Didehbani, N., Allen, T., Kandalaft, M., Krawczyk, D., & Chapman,
+    Falkmer, M., Tan, T., & Girdler, S. (2017). Mechanisms of          S. (2016). Virtual reality social cognition training for children
+     facial emotion recognition in autism spectrum disorders:         with high functioning autism. Computers in Human Behavior, 62,
+     Insights from eye tracking and electroencephalography. Neuro-        703–711. https://​doi.​org/​10.​1016/j.​chb.​2016.​04.​033
+     science & Biobehavioral Reviews, 80, 488–515. https://​doi.​org/​    D’Mello, A. M., Frosch, I. R., Li, C. E., Cardinaux, A. L., & Gabrieli,
+     10.​1016/j.​neubi​orev.​2017.​06.​016                                                    J. D. (2022). Exclusion of females in autism research: Empirical
+Bölte, S. (2023). A more holistic approach to autism using the inter-         evidence for a “leaky” recruitment-to-research pipeline. Autism
+     national classification of functioning: The why, what, and how         Research, 15(10), 1929–1940. https://​doi.​org/​10.​1002/​aur.​2795
+     of functioning. Autism, 27(1), 3–6. https://​doi.​org/​10.​1177/​    Dyson, M. W., Chlebowski, C., & Brookman-Frazee, L. (2019).
+     13623​61322​11364​44                                                    Therapists’ adaptations to an intervention to reduce challenging
+Bozgeyikli, L., Bozgeyikli, E., Raij, A., Alqasemi, R., Katkoori, S.,         behaviors in children with autism spectrum disorder in publicly
+   & Dubey, R. (2016). Vocational training with immersive vir-        funded mental health services. Journal of Autism and Devel-
+     tual reality for individuals with autism: towards better design        opmental Disorders, 49(3), 924–934. https://​doi.​org/​10.​1007/​
+     practices. In 2016 IEEE 2nd Workshop on Everyday Virtual          s10803-​018-​3795-3
+     Reality (WEVR) (pp. 21–25). IEEE. https://​doi.​org/​10.​1109/​    Eldridge, R. R., Peterson, S. M., Williams, B. F., & Williams, R. L.
+    WEVR.​2016.​78595​39                                               (2025). Characteristics of autism spectrum disorder. Ethical
+Bozgeyikli, L., Raij, A., Katkoori, S., & Alqasemi, R. (2018). A         applied behavior analysis models for individuals impacted by
+    Survey on virtual reality for training individuals with autism         autism (pp. 3–30). Routledge.
+    spectrum disorder: Design considerations. IEEE Transactions     Elkin, T. D., Zhang, Y., & Reneker, J. C. (2022). Gaze fixation and
+    on Learning Technologies, 11, 133–151. https://​doi.​org/​10.​         visual searching behaviors during an immersive virtual reality
+     1109/​TLT.​2017.​27397​47                                                   social skills training experience for children and youth with autism
+Burrows, C. A., Grzadzinski, R. L., Donovan, K., Stallworthy, I. C.,         spectrum disorder: A pilot study. Brain Sciences, 12(11), 1568.
+    Rutsohn, J., St John, T., Marrus, N., Parish-Morris, J., Mac-           https://​doi.​org/​10.​3390/​brain​sci12​111568
+     Intyre, L., Hampton, J., Pandey, J., Shen, M. D., Botteron, K.    Farmani, Y., & Teather, R. J. (2020). Evaluating discrete viewpoint
+     N., Estes, A. M., Dager, S. R., Hazlett, H. C., Pruett, J. R.,          control to reduce cybersickness in virtual reality. Virtual Reality,
+     Schultz, R. T., Zwaigenbaum, L., Truong, T.N., Piven, J., Eli-          24, 645–664. https://​doi.​org/​10.​1007/​s10055-​020-​00425-x
+     son, J.T., Network, IBIS. (2022). A data-driven approach in an    Feng, Z., González, V. A., Spearpoint, M., Thomas, J., Trotter, M.,
+    unbiased sample reveals equivalent sex ratio of autism spectrum         Cabrera-Guerrero, G., & Paes, D. (2022). A sequence analysis
+     disorderassociated impairment in early childhood. Biological         of behaviors in immersive virtual reality for indoor earthquake
+     Psychiatry, 92(8), 654–662. https://​doi.​org/​10.​1016/j.​biops​ych.​        and post-earthquake evacuation. International Journal of Disaster
+     2022.​05.​027                                                         Risk Reduction. https://​doi.​org/​10.​1016/j.​ijdrr.​2022.​102978
+Carnett, A., Neely, L., Gardiner, S., Kirkpatrick, M., Quarles, J., &      Frolli, A., Savarese, G., Di Carmine, F., Bosco, A., Saviano, E., Rega,
+     Christopher, K. (2023). Systematic review of virtual reality in          A., Carotenuto, M., & Ricci, M. C. (2022). Children on the Autism
+     behavioral interventions for individuals with autism. Advances in         spectrum and the use of virtual reality for supporting social skills.
+    Neurodevelopmental Disorders, 7(3), 426–442. https://​doi.​org/​10.​         Children, 9(2), 181. https://​doi.​org/​10.​3390/​child​ren90​20181
+     1007/​s41252-​022-​00287-1                                      Gold, L. N. (1993). Virtual reality now a research reality. Marketing
+Chen, C. J. (2010). Theoretical bases for using virtual reality in edu-         Research, 5(4), 50–51.
+     cation. Themes in science and technology education, 2, 71–90.      Goodwin, M. W. (1999). Cooperative Learning and Social Skills: What
+Chen, J., Wang, G., Zhang, K., Wang, G., & Liu, L. (2019). A pilot          Skills to Teach and How to Teach Them. Intervention in School
+     study on evaluating children with autism spectrum disorder using        and Clinic, 35(1), 29–33. https://​doi.​org/​10.​1177/​10534​51299​
+    computer games. Computers in Human Behavior, 90, 204–214.         03500​105
+      https://​doi.​org/​10.​1016/j.​chb.​2018.​08.​057                           Halabi, O., Elseoud, S., Aljaam, J., Alpona, H., Al-Hemadi, M., & Al-
+Cheng, Y., Huang, C. L., & Yang, C. S. (2015). Using a 3D immersive         Hassan, D. (2017). Immersive virtual reality in improving com-
+     virtual environment system to enhance social understanding and         munication skills in children with Autism. International Journal
+     social skills for children with autism spectrum disorders. Focus          of Interactive Mobile Technologies (iJIM), 11, 146. https://​doi.​
+    on Autism and Other Developmental Disabilities, 30(4), 222–236.           org/​10.​3991/​ijim.​v11i2.​6555
+     https://​doi.​org/​10.​1177/​10883​57615​583473                         Herrero, J. F., & Lorenzo, G. (2020). An immersive virtual reality edu-
+                                                                               cational intervention on people with autism spectrum disordersJournal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2183
+
+    (ASD) for the development of communication skills and problem         physiological sensors: Mixed methods study. JMIR Formative
+     solving. Education and Information Technologies, 25(3), 1689–         Research, 8(1), e52157. https://​doi.​org/​10.​2196/​52157
+    1722. https://​doi.​org/​10.​1007/​s10639-​019-​10050-0                  Kourtesis, P., Kouklari, E. C., Roussos, P., Mantas, V., Papanikolaou,
+Hiller, R. M., Young, R. L., & Weber, N. (2016). Sex differences in          K., Skaloumbakas, C., & Pehlivanidis, A. (2023). Virtual reality
+     pre-diagnosis concerns for children later diagnosed with autism          training of social skills in adults with autism spectrum disorder:
+    spectrum disorder. Autism, 20(1), 75–84. https://​doi.​org/​10.​1177/​      An examination of acceptability, usability, user experience, social
+    13623​61314​568899                                                                skills, and executive functions. Behavioral Sciences, 13(4), 336.
+Hocking, D. R., Ardalan, A., Abu-Rayya, H. M., Farhat, H., Andoni,           https://​doi.​org/​10.​3390/​bs130​40336
+     A., Lenroot, R., & Kachnowski, S. (2022). Feasibility of a virtual     Lahiri, U., Bekele, E., Dohrmann, E., Warren, Z., & Sarkar, N. (2013).
+     reality-based exercise intervention and low-cost motion tracking        Design of a virtual reality based adaptive response technology for
+    method for estimation of motor proficiency in youth with autism          children with autism. IEEE Transactions on Neural Systems and
+    spectrum disorder. Journal of NeuroEngineering and Rehabilita-          Rehabilitation Engineering, 21(1), 55–64. https://​doi.​org/​10.​1109/​
+     tion. https://​doi.​org/​10.​1186/​s12984-​021-​00978-1                       TNSRE.​2012.​22186​18
+Hume, K., Steinbrenner, J. R., Odom, S. L., Morin, K. L., Nowell, S.     Li, C., Belter, M., Liu, J., & Lukosch, H. (2023). Immersive virtual
+    W., Tomaszewski, B., Szendrey, S., Mclntyre, N. S., Yücesoy-           reality enabled interventions for autism spectrum disorder: A sys-
+    Özkan, S., & Savage, M. N. (2021). Evidence-based practices         tematic review and meta-analysis. Electronics. https://​doi.​org/​10.​
+     for children, youth, and young adults withautism: Third genera-          3390/​elect​ronic​s1211​2497
+     tion review. Journal of Autism and Developmental Disorders, 51,     Lievore, R., Crisci, G., & Mammarella, I. C. (2023). Emotion rec-
+    4013–4032. https://​doi.​org/​10.​1007/​s10803-​020-​04844-2                ognition in children and adolescents with ASD and ADHD: A
+Ip, H. H. S., Wong, S. W. L., Chan, D. F. Y., Byrne, J., Li, C., Yuan,         systematic review. Review Journal of Autism and Developmental
+     V. S. N., Lau, K. S. Y., & Wong, J. Y. W. (2016). Virtual real-         Disorders. https://​doi.​org/​10.​1007/​s40489-​023-​00407-0
+      ity enabled training for social adaptation in inclusive education     Liu, L. (2023). Virtual reality for social skills training of children and
+     settings for school-aged children with autism spectrum disorder         adolescents with ASD: A systematic review. Journal of Educa-
+    (ASD). In Proceedings of the international conference on blend-           tion, Humanities and Social Sciences, 8, 2061–2067. https://​doi.​
+     ing learning (pp. 94–102). Springer. https://​doi.​org/​10.​1007/​          org/​10.​54097/​ehss.​v8i.​4645
+     978-3-​319-​41165-1_9                                          Lorenzo, G., Lledó, A., Pomares, J., & Roig, R. (2016). Design and
+Ip, H. H. S., Wong, S. W. L., Chan, D. F. Y., Byrne, J., Li, C., Yuan, V.         application of an immersive virtual reality system to enhance
+     S. N., Lau, K. S. Y., & Wong, J. Y. W. (2018). Enhance emotional         emotional skills for children with autism spectrum disorders.
+    and social adaptation skills for children with autism spectrum        Computers & Education, 98, 192–205. https://​doi.​org/​10.​1016/j.​
+     disorder: A virtual reality enabled approach. Computers and Edu-          compe​du.​2016.​03.​018
+     cation, 117, 1–15. https://​doi.​org/​10.​1016/j.​compe​du.​2017.​09.​010    Maenner, M. J., Shaw, K. A., Bakian, A. V., Bilder, D. A., Durkin, M.
+Ip, H. H. S., Wong, S. W. L., Chan, D. F. Y., Li, C., Kon, L., Ma, P. K.,           S., Esler, A., & Cogswell, M. E. (2021). Prevalence and char-
+    Lau, K. S. Y., & Byrne, J. (2022). Enhance affective expression           acteristics of autism spectrum disorder among children aged 8
+    and social reciprocity for children with autism spectrum disor-         years–Autism and developmental disabilities monitoring network,
+     der: Using virtual reality headsets at schools. Interactive Learning        11 sites, United States, 2018. MMWR Surveillance Summaries, 70,
+    Environments, 32(3), 1012–1035. https://​doi.​org/​10.​1080/​10494​        1–16. https://​doi.​org/​10.​15585/​mmwr.​ss701​1a1
+     820.​2022.​21076​81                                           Maenner, M. J., Warren, Z., Williams, A. R., Amoakohene, E., Bakian,
+Kadir, B., Sahid, M., Noviana, M., & Denny, P. (2023). Effectiveness        A. V., Bilder, D. A., & Shaw, K. A. (2023). Prevalence and char-
+     of Virtual Reality (VR) in improving social skills in autism spec-           acteristics of autism spectrum disorder among children aged 8
+    trum disorder cases: a literature review. In The 6th international         years–Autism and developmental disabilities monitoring network,
+    conference on vocational education applied science and tech-        11 sites, United States, 2020. MMWR Surveillance Summaries, 72,
+    nology (ICVEAST 2023) (pp. 45–71). https://​doi.​org/​10.​2991/​        1–14. https://​doi.​org/​10.​15585/​mmwr.​ss720​2a1
+     978-2-​38476-​132-6_6                                        Manju, T., Magesh, Padmavathi, S., & Durairaj. (2023). Increasing the
+Ke, F., & Lee, S. (2016). Virtual reality based collaborative design by          social interaction of autism child using virtual reality intervention
+     children with high-functioning autism: Design-based flexibility,         (VRI). ACM Transactions on Asian and Low-Resource Language
+     identity, and norm construction. Interactive Learning Environ-         Information Processing. https://​doi.​org/​10.​1145/​35928​55
+     ments, 24(7), 1511–1533. https://​doi.​org/​10.​1080/​10494​820.​2015.​    Maskey, M., Rodgers, J., Grahame, V., Glod, M., Honey, E., Kinnear,
+     10404​21                                                                                           J., Labus, M., Milne, J., Minos, D., McConachie, H., & Parr, J. R.
+Ke, F., & Moon, J. (2018). Virtual collaborative gaming as social skills          (2019). A randomised controlled feasibility trial of immersive vir-
+     training for high-functioning autistic children. British Journal of           tual reality treatment with cognitive behaviour therapy for specific
+     Educational Technology, 49(4), 728–741. https://​doi.​org/​10.​1111/​        phobias in young people with autism spectrum disorder. Jour-
+     bjet.​12626                                                            nal of Autism and Developmental Disorders, 49(5), 1912–1927.
+Ke, F., Moon, J., & Sokolikj, Z. (2022a). Virtual Reality-Based Social           https://​doi.​org/​10.​1007/​s10803-​018-​3861-x
+     Skills Training for Children With Autism Spectrum Disorder.    Mazon, C., Fage, C., & Sauzéon, H. (2019). Effectiveness and usability
+    Journal of Special Education Technology, 37(1), 49–62. https://​         of technology-based interventions for children and adolescents
+     doi.​org/​10.​1177/​01626​43420​945603                                  with ASD: A systematic review of reliability, consistency, gen-
+Ke, F., Moon, J., & Sokolikj, Z. (2022b). Designing and deploying a          eralization and durability related to the effects of intervention.
+     virtual social sandbox for autistic children. Disability and Reha-        Computers in Human Behavior, 93, 235–251. https://​doi.​org/​10.​
+     bilitation: Assistive Technology, 19(4), 1178–1209. https://​doi.​          1016/j.​chb.​2018.​12.​001
+     org/​10.​1080/​17483​107.​2022.​21566​30                        Meng, Y. R., & Yeh, C. C. (2022). Exploring the social interaction of
+Kim, S. I., Jang, S. Y., Kim, T., Kim, B., Jeong, D., Noh, T., Jeong,           autistic students of elementary and junior high school students
+    M., Hall, K., Kim, M., Yoo, H. J., Han, K., Hong, H., & Kim, J.         through the teaching of social skills and learning process in virtual
+    G. (2024). Promoting self-efficacy of individuals with autism in            reality. SN Computer Science, 3(1), 55. https://​doi.​org/​10.​1007/​
+     practicing social skills in the workplace using virtual reality and          s42979-​021-​00914-z2184                                                                         Journal of Autism and Developmental Disorders (2026) 56:2162–2185
+
+Mesa-Gresa, P., Gil-Gómez, H., Lozano-Quilis, J.-A., & Gil-Gómez,     Silveira-Zaldivar, T., Özerk, G., & Özerk, G. (2021). Developing social
+     J.-A. (2018). Efectiveness of virtual reality for children and ado-           skills and social competence in children with autism. Interna-
+     lescents with autism spectrum disorder: an evidence-based sys-          tional Electronic Journal of Elementary Education, 13(3), 341–
+     tematic review. Sensors, 18, 2486. https://​doi.​org/​10.​3390/​s1808​         363. https://​doi.​org/​10.​26822/​iejee.​2021.​195
+    2486                                                                 Soltiyeva, A., Oliveira, W., Madina, A., Adilkhan, S., Urmanov, M., &
+Meta. (2024). Meta quest safety center. https://​www.​meta.​com/​quest/​        Hamari, J. (2023). My lovely granny’s farm: An immersive virtual
+     safety-​center                                                                     reality training system for children with autism spectrum disorder.
+Moon, J. (2024). Learning experience design of verbal prompts in vir-         Education and Information Technologies, 28(12), 16887–16907.
+     tual reality-based training for autistic children. Research in Learn-           https://​doi.​org/​10.​1007/​s10639-​023-​11862-x
+     ing Technology. https://​doi.​org/​10.​25304/​rlt.​v32.​3129                Srivastava, P., Rimzhim, A., Vijay, P., Singh, S., & Chandra, S. (2019).
+Moon, J., & Ke, F. (2019). Exploring the treatment integrity of virtual        Desktop VR is better than non-ambulatory HMD VR for spatial
+     reality-based social skills training for children with high-function-          learning. Frontiers in Robotics and AI, 6, 50. https://​doi.​org/​10.​
+     ing autism. Interactive Learning Environments, 29(6), 939–953.          3389/​frobt.​2019.​00050
+     https://​doi.​org/​10.​1080/​10494​820.​2019.​16136​65                      Stauffert, J. P., Niebling, F., & Latoschik, M. E. (2020). Latency and
+Moon, J., & Ke, F. (2023). Effects of adaptive prompts in virtual real-          cybersickness: Impact, causes, and measures: A review. Frontiers
+     ity-based social skills training for children with Autism. Jour-          in Virtual Reality, 1(582204), 10. https://​doi.​org/​10.​3389/​frvir.​
+     nal of Autism and Developmental Disorders, 54(8), 2826–2846.         2020.​582204
+     https://​doi.​org/​10.​1007/​s10803-​023-​06021-7                        Thai, E., & Nathan-Roberts, D. (2018). Social skill focuses of virtual
+Moore, M., & Calvert, S. (2000). Brief report: Vocabulary acquisition           reality systems for individuals diagnosed with autism spectrum
+     for children with autism: Teacher or computer instruction. Journal          disorder; a systematic review. Proceedings of the Human Factors
+     of Autism and Developmental Disorders, 30(359), 362. https://​doi.​       and Ergonomics Society, 3, 1469–1473. https://​doi.​org/​10.​1177/​
+     org/​10.​1023/A:​10055​35602​064                                      15419​31218​621333
+Odom, S. L., Brantlinger, E., Gersten, R., Horner, R. H., Thompson,     Tsai, W. T., Lee, I. J., & Chen, C. H. (2020). Inclusion of third-person
+     B., & Harris, K. R. (2005). Research in special education: Scien-          perspective in CAVE-like immersive 3D virtual reality role-play-
+      tific methods and evidence-based practices. Exceptional Children,          ing games for social reciprocity training of children with an autism
+     71(2), 137–148. https://​doi.​org/​10.​1177/​00144​02905​07100​201          spectrum disorder. Universal Access in the Information Society,
+Parsons, S. (2016). Authenticity in Virtual Reality for assessment          20(2), 375–389. https://​doi.​org/​10.​1007/​s10209-​020-​00724-9
+    and intervention in autism: A conceptual review. Educational    Turhan, C., & Vuran, S. (2015). The effectiveness and efficiency of
+    Research Review, 19, 138–157. https://​doi.​org/​10.​1016/j.​edurev.​         social stories and video modelling on teaching social skills to
+     2016.​08.​001                                                             children with autism spectrum disorder. International Journal of
+Parsons, S., & Mitchell, P. (2002). The potential of virtual reality in         Early Childhood Special Education, 7(2), 294–315. https://​doi.​
+     social skills training for people with autistic spectrum disorders.           org/​10.​20489/​intje​cse.​31495
+    Journal of Intellectual Disability Research, 46(5), 430–443.    van Pelt, B. J., Nijman, S. A., van Haren, N. E. M., Veling, W., Pijnen-
+      https://​doi.​org/​10.​1046/j.​1365-​2788.​2002.​00425.x                        borg, G. H. M., van Balkom, I. D. C., Landlust, A. M., & Greaves-
+American Psychiatric Association. (2022). Diagnostic and statistical         Lord, K. (2022). Dynamic interactive social cognition training in
+    manual of mental disorders (5th ed., text rev.). https://​doi.​org/​10.​          virtual reality (DiSCoVR) for adults with autism spectrum disor-
+     1176/​appi.​books.​97808​90425​787                                          der: A feasibility study. Research in Autism Spectrum Disorders,
+Radley, K. C., Dart, E. H., Brennan, K. J., Helbig, K. A., Lehman, E.          96, 102003. https://​doi.​org/​10.​1016/j.​rasd.​2022.​102003
+     L., Silberman, M., & Mendanhall, K. (2020). Social skills teach-    Vuran, S. (2007). Sosyal yeterliklerin geliştirilmesi. In S. Eripek (Ed.),
+     ing for individuals with autism spectrum disorder: A systematic         İlköğretimde kaynaştırma (pp. 221–242). Anadolu Üniversitesi
+     review. Advances in Neurodevelopmental Disorders, 4, 215–226.         Açıköğretim Fakültesi Yayınları.
+     https://​doi.​org/​10.​1007/​s41252-​020-​00170-x                   Wang, Y., Lee, L. H., Braud, T., & Hui, P. (2022). Reshaping Post-
+Rajendran, G. (2013). Virtual environments and autism: A developmen-       COVID19 teaching and learning: A blueprint of virtualphys‑ ical
+      tal psychopathological approach. Journal of Computer Assisted         blended classrooms in the metaverse era. In The 1st International
+     Learning, 29, 334–347. https://​doi.​org/​10.​1111/​jcal.​12006             Workshop on Social and Metaverse Computing and Networking
+Russell, G., Stapley, S., Newlove-Delgado, T., Salmon, A., White, R.,          in conjunction with IEEE ICDCS’22. Bologna, Italy, Jul 10–13,
+    Warren, F., Pearson, A., & Ford, T. (2022). Time trends in autism         2022. https://​doi.​org/​10.​1109/​ICDCS​W56584.​2022.​00053
+     diagnosis over 20 years: A UK population-based cohort study.    Welch, K. C., Lahiri, U., Warren, Z., & Sarkar, N. (2010). An approach
+    Journal of Child Psychology and Psychiatry, 63(6), 674–682.             to the design of socially acceptable robots for children with autism
+Saiano, M., Pellegrino, L., Casadio, M., Summa, S., Garbarino,        spectrum disorders. International Journal of Social Robotics,
+     E., Rossi, V., Dall’Agata, D., & Sanguineti, V. (2015). Natural          2(4), 391–403. https://​doi.​org/​10.​1007/​s12369-​010-​0063-x
+     interfaces and virtual environments for the acquisition of street    Yang, Y. J. D., Allen, T., Abdullahi, S. M., Pelphrey, K. A., Volkmar,
+     crossing and path following skills in adults with autism spectrum          F. R., & Chapman, S. B. (2018). Neural mechanisms of behavio-
+     disorders: A feasibility study. Journal of Neuroengineering and           ral change in young adults with high-functioning autism receiv-
+     Rehabilitation, 12, 1–13.                                               ing virtual reality social cognition training: A pilot study. Autism
+Schmidt, C., & Schmidt, M. (2008). Three-dimensional virtual learn-         Research, 11(5), 713–725. https://​doi.​org/​10.​1002/​aur.​1941
+     ing environments for mediating social skills acquisition among    Yerys, B. E., Wallace, G. L., Sokoloff, J. L., Shook, D. A., James,
+     individuals with autism spectrum disorders. In Proceedings of 7th            J. D., & Kenworthy, L. (2009). Attention deficit/hyperactivity
+     international conference on interaction design and children, pp.          disorder symptoms moderate cognition and behavior in children
+    85–88. https://​doi.​org/​10.​1145/​14636​89.​14637​25                       with autism spectrum disorders. Autism Research, 2(6), 322–333.
+Schmidt, M., & Glaser, N. (2021). Investigating the usability and            https://​doi.​org/​10.​1002/​aur.​103
+     learner experience of a virtual reality adaptive skills intervention     Yiğit, D., & Sani-Bozkurt, S. (2021). Otizm spektrum bozukluğu olan
+     for adults with autism spectrum disorder. Educational Technology          bireylerde eğitim ortamlarında sanal gerçeklik uygulamalarının
+    Research and Development, 69(3), 1665–1699. https://​doi.​org/​10.​         kullanımı: Sistematik alanyazın taraması. In VIIIth International
+     1007/​s11423-​021-​10005-8                                           Eurasian Educational Research Congress (pp. 300–329). Aksaray.Journal of Autism and Developmental Disorders (2026) 56:2162–2185                                                              2185
+
+Zhang, L., Fu, Q., Swanson, A., Weitlauf, A., Warren, Z., & Sarkar, N.          in children with autism spectrum disorders. IEEE Transactions
+     (2018). Design and evaluation of a collaborative virtual environ-        on Human-Machine Systems, 48(2), 136–148. https://​doi.​org/​10.​
+    ment (CoMove) for autism spectrum disorder intervention. ACM         1109/​THMS.​2018.​27915​62
+     Transactions on Accessible Computing, 11(2), 1–22. https://​doi.​    Zhao, J., Zhang, X., Lu, Y., Wu, X., Zhou, F., Yang, S., Wang, L., Wu,
+     org/​10.​1145/​32096​87                                                    X., & Fei, F. (2022). Virtual reality technology enhances the cog-
+Zhang, L., Weitlauf, A. S., Amat, A. Z., Swanson, A., Warren, Z.           nitive and social communication of children with autism spectrum
+     E., & Sarkar, N. (2020). Assessing social communication and          disorder. Frontiers in Public Health, 10, 1029392. https://​doi.​org/​
+     collaboration in autism spectrum disorder using intelligent col-          10.​3389/​fpubh.​2022.​10293​92
+     laborative virtual environments. Journal of Autism and Devel-
+    opmental Disorders, 50(1), 199–211. https://​doi.​org/​10.​1007/​    Publisher's Note  Springer Nature remains  neutral with regard  to
+     s10803-​019-​04246-z                                                    jurisdictional claims in published maps and institutional affiliations.
+Zhao, H., Swanson, A. R., Weitlauf, A. S., Warren, Z. E., & Sarkar,
+    N. (2018). Hand-in-hand: A communication-enhancement col-
+     laborative virtual reality system for promoting social interaction

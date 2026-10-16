@@ -1,0 +1,718 @@
+Article
+Oral Microbiota Alterations and Potential Salivary Biomarkers in
+Colorectal Cancer: A Next-Generation Sequencing Study
+
+Salih Maçin 1, Özben Özden 2,*    , Rugıyya Samadzade 1, Esra Saylam 1, Nurullah Çiftçi 1    , U˘gur Arslan 1
+and Serdar Yormaz 3
+
+
+                                            1  Department of Medical Microbiology, Faculty of Medicine, Selcuk University, Konya 42250, Turkey;
+                                       salihmacin@selcuk.edu.tr (S.M.); rukiyesamadzade@gmail.com (R.S.); emeterelliyoz@gmail.com (E.S.);
+                                      ciftcinurullah72@gmail.com (N.Ç.); drarslanugur@gmail.com (U.A.)
+                                            2   Institute of Health Sciences, Department of Medical Biotechnology, Acıbadem University,
+                                        Istanbul 34752, Turkey
+                                            3  Department of General Surgery, Faculty of Medicine, Selcuk University, Konya 42250, Turkey;
+                                     serdaryormaz@selcuk.edu.tr
+                                     *   Correspondence: ozbenozdennn@gmail.com; Tel.: +90-531-7913955
+
+
+                           Abstract
+
+                             Colorectal cancer (CRC) has a high mortality rate worldwide. Oral and intestinal micro-
+                             biota members may have an effect on gastrointestinal tumors’ pathogenesis, particularly
+                              in CRC. Designed as a pilot study, this study’s aim was to investigate the relationship
+                         between CRC and oral microbiota and to identify potential biomarkers for CRC diagnosis.
+                             Saliva samples were collected from recently diagnosed CRC patients (n = 14) and healthy
+                             controls (n = 14) between March 2023 and December 2023. Microbiota (16S rRNA) analy-
+                             ses were conducted on these saliva samples using a next-generation sequencing method.
+                           Phylogenetic analyses, including alpha diversity, principal component analysis (PCA),
+                             principal coordinate analysis (PCoA), beta diversity, biomarker, and phenotype analyses,
+                        were conducted using the Qiime2 (Quantitative Insights Into Microbial Ecology) platform.
+                        Alpha diversity indices (Shannon: p = 0.78, Cho1: p = 0.28, Simpson: p = 0.81) showed no
+                                significant difference between CRC and control groups. Beta diversity analysis using Bray–
+                             Curtis PCoA indicated significant differences in the microbial community between the two
+                         groups (p = 0.003). Examination of OTU distributions revealed that the Mycoplasmatota
+                      phylum was undetectable in the oral microbiota of healthy controls but was significantly
+                            elevated in CRC patients (CRC: 0.13 ± 0.30, Control: 0.00 ± 0.00, p < 0.05). Additionally,
+                          Metamycoplasma salivarium, Bacteroides intestinalis, and Pseudoprevotella muciniphila were
+                            undetectable in healthy controls but significantly more prevalent in CRC patients (p < 0.05
+                               for all three species). LEfSe analysis identified eight species with an LDA score > 2, Gran-
+                                   ulicatella adiacens, Streptococcus thermophilus, Streptococcus gwangjuense, Capnocytophaga sp.
+                     FDAARGOS_737, Capnocytophaga gingivalis, Granulicatella elegans, Bacteroides intestinalis,
+                       and Pseudoprevotella muciniphila, as potential biomarkers. The results of this study con-
+Academic Editor: Jorge Luis Espinoza    tribute critical evidence of the role of oral microbiota in the pathogenesis of colorectal cancer.
+Received: 6 October 2025            Alterations in the microbiota suggest potential biomarkers in understanding the biological
+Revised: 17 November 2025        mechanisms underlying CRC and developing diagnostic and therapeutic strategies.
+
+Accepted: 17 December 2025
+Published: 30 December 2025       Keywords: bioinformatics; biomarker; biotechnology; colorectal cancer; oral microbiota;
+Copyright: © 2025 by the authors.      next-generation sequencing
+Licensee MDPI, Basel, Switzerland.
+
+This article is an open access article
+
+distributed under the terms and
+
+conditions of the Creative Commons
+
+Attribution (CC BY) license.
+
+
+
+Pathogens 2026, 15, 43                                                                           https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           2 of 15
+
+
+                             1. Introduction
+
+                              Malignant neoplasms of the large intestine are commonly known as colorectal cancer
+                          (CRC). Several risk factors are associated with CRC, including smoking, excessive alcohol
+                         consumption, low vegetable intake, obesity, and physical inactivity. On the other hand,
+                         postmenopausal hormone use, nonsteroidal anti-inflammatory drug (NSAID) use, and
+                          high calcium intake are associated with a reduced risk of CRC. Despite these associations,
+                             the precise etiology of CRC remains unclear [1,2]. When detected at an early stage, colorec-
+                                   tal cancers can be effectively treated with a high cure rate through appropriate surgical
+                               interventions. With proper patient management, including pathology review and adjuvant
+                           therapy following surgery, morbidity and mortality rates can remain minimal [3]. Approxi-
+                         mately 20% of colon cancer cases are familial, and first-degree relatives of these patients
+                         have an elevated risk of developing CRC [4].
+                           The human microbiota comprises a community of bacteria, fungi, viruses, archaea,
+                            protozoa, and other microorganisms, whose composition varies based on environmental
+                             conditions. Recent studies have highlighted the role of microbiota in carcinogenesis [5].
+                             In addition to contributing to carcinogenesis, microbiota influences general cancer suscepti-
+                                      bility, disease progression, coinfections, and responses to anticancer therapies [6].
+                            The oral microbiota, which encompasses the microbial communities of the human oral
+                                 cavity, is highly diverse, comprising over 700 distinct bacterial species. Due to its proximity
+                               to multiple anatomical sites, it is one of the most abundant microbiomes in the human body,
+                         second only to the colonic microbiota [7]. Recent studies have investigated the presence
+                             of various bacterial species in the oral microbiota and intestinal flora in gastrointestinal
+                           tumors, particularly CRC. These studies emphasize the significance of the oral microbiota
+                              in CRC [8].
+                                Studies investigating the interaction between CRC and the oral microbiota have
+                          hypothesized a potential role for oral microbiota in CRC carcinogenesis. Several studies
+                          support this hypothesis by demonstrating the critical role of the oral microbiota in cancer
+                         development [9]. This study aimed to compare the oral microbial diversity of CRC patients
+                          with healthy controls, identify the oral microbiota profiles of CRC patients, investigate the
+                             association between CRC and oral microbiota, and detect potential microbial differences
+                       and biomarkers that can indicate or differentiate for CRC.
+
+                             2. Materials and Methods
+
+                              Fourteen patients diagnosed with colorectal cancer (CRC) between March 2023 and
+                       December 2023 at the General Surgery Outpatient Clinic, who had not yet received treat-
+                          ment, were included in the study. As a control group, 14 healthy individuals who tested
+                            negative in CRC screening were included.
+                           The inclusion criteria for the study were as follows:
+
+                         •    Participants aged over 18 years.
+                         •   Non-pregnant individuals.
+                         •  No antibiotic use in the past three months.
+                         •  No recent surgical interventions.
+                         •   Absence of chronic diseases or active infections.
+
+
+                                   2.1. Microbiota Analysis
+                                   2.1.1. Sample Collection and Storage
+
+                                   Saliva samples were collected in sterile Falcon tubes, labeled appropriately, and stored
+                                at −80 ◦C until sequencing.
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           3 of 15
+
+
+
+                                   2.1.2. DNA Isolation from Saliva Samples
+
+                           Genomic DNA was extracted from saliva samples using the Quick-DNA™Fecal/Soil
+                          Microbe Miniprep Kit (Zymo Research, CA, USA) according to the manufacturer’s protocol.
+                                        Briefly, approximately 200 µL of each sample was mixed with Proteinase K and lysis
+                              buffer and incubated at 56 ◦C to ensure efficient degradation of mucins and cellular proteins.
+                                 After mechanical and enzymatic lysis, DNA was purified through a silica-membrane
+                          column, eluted in 100 µL of buffer, and stored at –20 ◦C until sequencing.
+
+                                   2.1.3. Amplification of 16S Hypervariable Regions
+
+                              2 µL of isolated DNA was taken and transferred into clean PCR tubes. Deionized
+                          water (ddH2O) was added to bring the final volume to 8 µL. 2 µL of 16S primer pair was
+                        added in tubes. The primer pair used targets a region of approximately 1500 bp that spans
+                            the V1-V9 regions of the 16S rRNA gene. The16S primer sequences; Forward Primer, 27F,
+                    AGAGTTTGATCMTGGCTCAG; Reverse Primer, 1492R, CGGTTACCTTGTTACGACTT.
+                              Then, 10 µL of HF515 2x HiFi Taq Master Mix (MobiomX) enzyme was pipetted into
+                          each tube. The tube contents were gently mixed and briefly spun to collect any liquid
+                         from the tube walls at the bottom. The prepared samples were loaded into a MyGeneTM L
+                              Series Peltier Thermal Cycler (LongGene, China), set for thermal cycling conditions. 3 µL
+                              of the PCR-amplified products were taken and run on a 1% agarose gel at 100 V for 30 min.
+                        Amplicon sizes were confirmed in the range of 1–1.5 kb.
+
+                                   2.1.4. Library Preparation and Sequencing
+
+                              Following PCR amplification, sequencing was performed using Oxford Nanopore
+                         Technology (Oxford Nanopore Technologies, UK), a third-generation long-read sequenc-
+                            ing platform.
+                            The platform determines DNA sequences by detecting electrophysiological changes as
+                 DNA molecules pass through nanopores, allowing rapid library preparation and real-time
+                            long-read sequencing.
+                            Amplicons were prepared using the ligation-based library preparation kit (SQK-
+                         NBD114.96) and sequenced on FLO-MIN114 (R10.4.1) flow cells with the Mk1C sequencer
+                          (Oxford Nanopore Technologies, UK).
+                                 Library preparation included DNA end repair, barcode ligation, and adapter ligation,
+                           followed by magnetic bead purification according to the manufacturer’s instructions.
+                            The final DNA library concentration was measured using a Qubit fluorometer (Thermo
+                             Fisher Scientific, USA) before loading.
+                             Sequencing was continued until a minimum of 10,000 reads per sample was ob-
+                           tained.The Oxford Nanopore long-read system was chosen for its ability to sequence
+                            the entire 16S gene and provide greater genome coverage and species-level taxonomic
+                             resolution compared with short-read platforms such as Illumina.
+
+                                   2.2. Bioinformatics Analysis
+
+                                 After sequencing, the results obtained in fast5 format were converted to fastq format
+                          using the Guppy software (version 6.5.7) (base-calling and de-multiplexing). Taxonomic
+                           assignment of 16S rRNA sequences was performed using the SILVA v138 reference database.
+                         Chimeric sequences were identified and filtered using VSEARCH. Since the 16S rRNA
+                           region is approximately 1500 bp, reads ranging from 1250 to 1750 bp were filtered using
+                         Trimmomatic, and the remaining reads were excluded from the analysis. The cleaned
+                            reads were analyzed using a custom workflow implemented in Python (3.12) programming
+                           language. During the filtering process, each sequence was matched using the BLAST
+                             algorithm. Sequences with more than 60% reference coverage and 80% pairwise similarity
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           4 of 15
+
+
+
+                        were selected, and their taxonomic data were extracted to create Operational Taxonomic
+                           Units (OTUs).
+                           The generated OTU (.biom) file was used for phylogenetic analyses in the Qiime2
+                            platform, including alpha diversity, PCA, PCoA, beta diversity, biomarker identification,
+                       and phenotype analyses. Prior to alpha and beta diversity calculations, the sequence data
+                         were rarefied to 10,000 reads per sample to standardize sequencing depth across all samples.
+                              Potential batch effects were evaluated using PCoA and PERMANOVA. Sequencing quality
+                               metrics, including mean read length and Q-score distributions, were calculated for all sam-
+                                ples. Taxonomic classifications were organized using the Mothur platform, and dynamic
+                         Krona charts were prepared for visualization. All graphics and tables were generated using
+                        Python libraries. The complete bioinformatics workflow, from raw sequencing reads to
+                                 final statistical and biomarker analyses, is illustrated in Supplementary Figure S1.
+
+                                   2.3. Statistical Analysis
+
+                                 All statistical analyses were performed using R version 4.2.1 software. Numerical
+                             variables were presented as mean ± standard deviation, while categorical variables were
+                           presented as frequency (n) and percentage (%). The mean age of CRC patients and healthy
+                              controls were compared using Student’s t-test, and the gender distribution was compared
+                           using the Yates continuity-corrected chi-square test. Additionally, the presence of significant
+                              differences in the detection of taxa at the phylum, class, family, genus, and species levels
+                         between CRC patients and healthy controls was compared using the Mann–Whitney U test.
+                 A significance level of 5% was applied.
+
+                             3. Results
+
+                                   3.1. Demographic Findings
+
+                           The study included 14 CRC patients (7 women, 7 men) and 14 healthy controls
+                               (7 women, 7 men). The mean age of the CRC patients was 58.36 ± 13.07, while the mean
+                          age of the control group was 58 ± 14.78.
+
+                                   3.2. The Results of Oral Microbiota Analysis
+                                   3.2.1. Alpha Diversity
+
+                           The alpha diversity of the saliva samples was calculated using the Shannon, Chao-1,
+                       and Simpson indices. No significant difference was found in the oral microbial alpha
+                              diversity between the groups for all three indices (p = 0.78, p = 0.28, p = 0.81, respectively)
+                             (Figure 1).
+
+                                   3.2.2. Beta Diversity
+
+                           The beta diversity of the saliva samples was calculated using Bray–Curtis PCoA
+                               analysis. The Bray–Curtis PCoA beta diversity analysis showed that there was statistically
+                                significantly difference between the groups in terms of oral microbiota (p = 0.003) (Figure 2).
+                                 In addition, a Principal Component Analysis (PCA) was performed to further as-
+                             sess the distribution and homogeneity of the CRC and control groups. The PCA plot
+                      showed a partial separation between the two groups, consistent with the PCoA results
+                          (Supplementary Figure S2).
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           5 of 15
+
+
+
+
+
+                              Figure 1. Cont.
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           6 of 15
+
+
+
+
+
+                              Figure 1. The Shannon, Choa1, and Simpson index distribution graph (G1: patients, G2: controls).
+
+
+
+
+
+                              Figure 2. Bray–Curtis PCoA Analysis Plot (G1: patients, G2: control).
+
+                                   3.2.3. Distribution of Operational Taxonomic Units (OTUs)
+
+                       When the taxonomic distribution of OTUs in oral microbiota samples was examined
+                                at the phylum level, it was observed that both groups consisted of five main phyla: Bacillota
+                                 (Firmicutes), Bacteroidota, Actinomycetota, Pseudomonadota (Proteobacteria), and Fusobacteriota
+                             (Figure 3).
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           7 of 15
+
+
+
+
+
+                              Figure 3. Microbiota Analysis at Phylum Level (GP1: patients, GP2: controls).
+
+                           The oral microbiota of healthy controls did not contain any Mycoplasmatota phy-
+                         lum, while a significantly higher presence of this phylum was observed in CRC patients
+                               (p = 0.038) (Table 1).
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           8 of 15
+
+
+
+                       When the oral microbiota composition of the study groups was examined at the
+                           family level, Carnobacteriaceae, Mycoplasmoidales, and Flavobacteriaceae were found to be
+                               significantly higher in CRC patients compared to healthy controls (p = 0.021, p = 0.038,
+                          p = 0.007, respectively). The Metamycoplasmataceae family was not detected in healthy
+                              controls but was found to be significantly higher in CRC patients (p = 0.038) (Table 2).
+
+
+                             Table 1. Oral Microbiota Composition at Phylum Level.
+
+                       Phylum                               Study Groups
+                                                                                     p Value
+                              (Relative Abundance %)         Control (n = 14)   CRC (n = 14)
+                                   Bacillota (Firmicutes)                 70.84 ± 16.19      63.25 ± 14.85        0.125
+                                 Bacteroidota                          11.38 ± 9.72      15.12 ± 12.78        0.352
+                            Pseudomonadota (Proteobacteria)        4.08 ± 8.42        4.04 ± 6.63         0.982
+                                 Fusobacteriota                         2.80 ± 3.65        2.48 ± 4.15         0.982
+                              Actinomycetota                        9.33 ± 6.40       13.53 ± 10.35        0.306
+                             Candidatus saccharibacteria             1.38 ± 1.71        1.20 ± 1.91         0.462
+                             Candidatus absconditabacteria          0.08 ± 0.20        0.16 ± 0.54         0.705
+                              Campylobacterota                      0.04 ± 0.08        0.05 ± 0.09         0.931
+                             Mycoplasmatota                       0.00 ± 0.00        0.13 ± 0.30         <0.05
+                                 Spirochaetota                          0.07 ± 0.12        0.04 ± 0.11         0.388
+                                  Note: p-values were calculated using the Mann–Whitney U test. For consistency, values below 0.05 are reported
+                                       either as exact or threshold values depending on rounding precision.
+
+
+                             Table 2. Oral Microbiota Composition at Family-Level.
+
+                          Family                               Study Groups
+                                                                                     p Value
+                              (Relative Abundance %)         Control (n = 14)   CRC (n = 14)
+                                Carnobacteriaceae                      2.47 ± 1.85        5.10 ± 4.01         0.021
+                              Mycoplasmoidales                      0.00 ± 0.0         0.13 ± 0.3         <0.05
+                                 Flavobacteriaceae                       0.43 ± 0.5         2.47 ± 2.97         0.007
+                             Metamycoplasmataceae                 0.00 ± 0.0         0.13 ± 0.3         <0.05
+                                  Note: Mann–Whitney U test, p < 0.05 was considered significant.
+
+
+                        When the oral microbiota composition of the study groups was examined at the genus
+                                  level, Granulicatella and Capnocytophaga were found to be higher in CRC patients compared
+                              to healthy controls (p = 0.021, p = 0.038, respectively). The Pseudoprevotella genus was not
+                           detected in healthy controls, but it was found to be significantly higher in CRC patients
+                               (p = 0.038) (Table 3).
+                       When the oral microbiota composition of the study groups was examined at the
+                             species level, Granulicatella adiacens, Streptococcus thermophilus, Streptococcus gwangjuense,
+                            Capnocytophaga spp. FDAARGOS_737, Capnocytophaga gingivalis, and Granulicatella elegans
+                        were found to be higher in CRC patients compared to healthy controls (p = 0.021, p = 0.05,
+                           p = 0.032, p ≤0.001, p = 0.03, p = 0.029, respectively). The species Metamycoplasma salivarium,
+                                Bacteroides intestinalis, and Pseudoprevotella muciniphila were not detected in healthy controls
+                          but were found to be significantly higher in CRC patients (p = 0.038, p = 0.038, p = 0.038,
+                              respectively) (Table 4).
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                           9 of 15
+
+
+
+                             Table 3. Oral Microbiota Composition at Genus Level.
+
+                       Genus                              Study Groups
+                                                                                     p Value
+                              (Relative Abundance %)       Control (n = 14)    CRC (n = 14)
+                                 Granulicatella                       2.47 ± 1.85          5.09 ± 3.99          0.021
+                                Streptococcus                      57.49 ± 18.11       49.55 ± 15.02         0.194
+                              Fusobacterium                      0.44 ± 0.61          0.35 ± 0.54          0.539
+                                Pseudoprevotella                    0.00 ± 0.00          0.10 ± 0.23         <0.05
+                             Capnocytophaga                     0.43 ± 0.50          2.47 ± 2.97          0.007
+                            Porphyromonas                     2.78 ± 4.77          1.65 ± 2.93          0.836
+                                    Veillonella                          2.61 ± 2.73          2.76 ± 2.78          0.571
+                            Megasphaera                        0.03 ± 0.09          0.19 ± 0.54          0.353
+                            Haemophilus                        0.38 ± 0.53          2.10 ± 4.74          0.452
+                                  Note: Mann–Whitney U test, p < 0.05 was considered significant.
+
+
+                             Table 4. Oral Microbiota Composition at Species-Level.
+
+                            Species                               Study Groups
+                                                                                     p Value
+                              (Relative Abundance %)         Control (n = 14)   CRC (n = 14)
+                                 Granulicatella adiacens                 2.16 ± 1.8         4.44 ± 3.68         0.021
+                                Streptococcus thermophilus             1.85 ± 1.26        2.84 ± 6.55         0.050
+                                Streptococcus gwangjuense             0.46 ± 0.43        2.26 ± 2.26         <0.05
+                             Capnocytophaga sp.
+                                                                      0.10 ± 0.24        0.96 ± 1.43        <0.001
+                      FDAARGOS_737
+                             Capnocytophaga gingivalis             0.16 ± 0.20        0.57 ± 0.61         0.030
+                                 Granulicatella elegans                  0.31 ± 0.36        0.65 ± 0.59         0.029
+                           Metamycoplasma salivarium            0.00 ± 0.00         0.13 ± 0.3         <0.05
+                                 Bacteroides intestinalis                 0.00 ± 0.00        0.09 ± 0.23         <0.05
+                                Pseudoprevotella muciniphila           0.00 ± 0.00         0.1 ± 0.23         <0.05
+                                  Prevotella denticola                    0.04 ± 0.11        0.11 ± 0.25         0.405
+                              Fusobacterium nucleatum              0.02 ± 0.08        0.02 ± 0.05         0.638
+                            Porphyromonas gingivalis              0.12 ± 0.23        0.03 ± 0.08         0.353
+                            Haemophilus parainfluenzae            0.34 ± 0.43        2.08 ± 4.73         0.397
+                                  Note: Mann–Whitney U test, p < 0.05 was considered significant.
+
+
+                                   3.3. LEFse Analysis
+
+                             LEfSe (Linear Discriminant Analysis Effect Size) is an algorithm designed for
+                         biomarker discovery, which identifies significant differences between groups and deter-
+                        mines genomic features associated with these differences. In LEfSe analysis, the Linear
+                           Discriminant Analysis (LDA) score is used as a measure of effect size. Taxa with an LDA
+                             score > 2 are considered potential biomarkers. In our study, the LEFse analysis identified
+                             eight different species with an LDA score > 2. These species were Granulicatella adiacens,
+                               Streptococcus thermophilus, Streptococcus gwangjuense, Capnocytophaga sp. FDAARGOS_737,
+                           Capnocytophaga gingivalis, Granulicatella elegans, Bacteroides intestinalis, and Pseudoprevotella
+                              muciniphila (Figure 4).
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                          10 of 15
+
+
+
+
+
+                              Figure 4. LEfSe plot of taxa at the genus and species levels (G1: patient group, G2: control group).
+
+                             4. Conclusions
+
+                                 Colorectal cancer (CRC) accounts for 10% of all new cancer cases worldwide and
+                                    is the third most common cancer type in men (after prostate and lung cancers) and in
+                   women (after breast and thyroid cancers). This high prevalence significantly increases
+                            the health burden on societies. Factors such as socioeconomic status, genetics, nutrition,
+                       and environmental influences affect CRC incidence and mortality rates [10]. In recent
+                              years, studies have suggested that the microbiota can contribute to both the initiation and
+                            progression of CRC. These studies indicate that changes in the intestinal microbiota during
+                   CRC development are associated with disease progression and diagnostic relevance [11].
+                                Research investigating the association between oral microbiota diversity and colorectal
+                            cancer (CRC) has produced inconsistent results. While some studies reported no significant
+                         changes in α diversity [12,13], others—such as Rezasoltani et al.—demonstrated distinct
+                              clustering patterns in β diversity between healthy and CRC groups, indicating variations
+                               in community composition rather than overall microbial diversity [14]. These discrepancies
+                    may reflect population-specific factors, sampling sites, or methodological differences in
+                          sequencing depth and normalization approaches.
+                                 In this study, although α diversity indices (Shannon, Chao-1, Simpson) did not dif-
+                                fer significantly between CRC and control groups, β diversity analysis revealed a clear
+                            compositional separation. This indicates that CRC is associated with qualitative, not quanti-
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                          11 of 15
+
+
+
+                                  tative, alterations in oral microbial communities. Such structural changes may enhance the
+                         abundance of specific taxa with pro-carcinogenic potential, such as Fusobacterium, Porphy-
+                             romonas, and Peptostreptococcus species, which are known to promote chronic inflammation,
+                                epithelial barrier dysfunction, and modulation of immune responses [15–17].
+                                 Importantly, the observed enrichment of Mycoplasma spp. in CRC patients may high-
+                               light a previously underexplored mechanistic association. These bacteria can persist in-
+                                 tracellularly, interfering with host cell apoptosis, DNA repair, and cell cycle regulation,
+                           thereby facilitating genomic instability and malignant transformation [18–20]. This study
+                              indicates that oral microbial dysbiosis is associated with CRC pathogenesis through mod-
+                                ifications in microbial community structure and functional profiles, rather than through
+                             global diversity reduction.
+                              Chronic inflammation and tumor progression are closely linked to p53 signaling, a
+                              central pathway in tumor suppression. Certain Mycoplasma species such as M. fermentans,
+                      M. penetrans, and M. hyorhinis have been reported to modulate p53 activity and reduce
+                            apoptosis in experimental models, suggesting possible interactions between persistent bac-
+                                   terial infection and host cellular regulation [21,22]. Prolonged Mycoplasma exposure in vitro
+                          has also been associated with phenotypic alterations such as chromosomal instability and
+                         abnormal cell growth [23].
+                                 In this study, members of the Mycoplasmatota phylum were detected exclusively in
+                   CRC patients and were absent in healthy controls (p = 0.038). While this finding may
+                             indicate a potential association, it should be interpreted with caution. The current data
+                       do not establish a direct causal relationship between Mycoplasma and CRC. Instead, these
+                              bacteria may reflect secondary changes in the tumor microenvironment or opportunistic
+                             colonization associated with host immune dysregulation. Further studies are required to
+                          determine whether Mycoplasma actively contributes to carcinogenesis or merely represents
+                          a microbial biomarker associated with CRC.
+                              Large cohort studies have also explored the relationship between oral microbiota
+                       and CRC. For instance, 16S rRNA gene sequencing of saliva samples identified oral taxa
+                          such as Bifidobacteriaceae, Prevotellaceae, and Carnobacteriaceae as being positively associated
+                         with CRC risk, suggesting that intestinal colonization may result from the translocation
+                             of oral microbes [24]. Similarly, a study in Iran identified Bifidobacteriaceae as a potential
+                         biomarker in the saliva of CRC patients [14]. Flemer et al. reported higher abundance
+                             of Lachnospiraceae in the salivary microbiota of CRC patients compared to controls [25].
+                              Idiopathic pulmonary fibrosis group using antifibrotic drugs and that not using antifibrotic
+                         drugs were compared, only Lachnospiraceae UCG 004 abundance was found to be lower
+                              in the patient group receiving antifibrotic drugs [26].  In this study, Carnobacteriaceae,
+                              Mycoplasmoidales, and Flavobacteriaceae were significantly elevated in CRC patients (p = 0.021,
+                          p = 0.038, p = 0.007, respectively).
+                                Several oral taxa (Streptococcus spp. and Prevotella spp.) were detected in greater
+                        abundance in CRC patients compared with controls. This suggests that some microbiota
+                             species play a protective role against CRC, possibly by conferring colonization resistance
+                              to CRC-associated oral taxa [27]. In a similar study investigating the association between
+                   CRC and oral microbiota, Fusobacterium spp., Dialister spp., Catonella spp., Tennerella spp.,
+                           Eubacterium-brachy-group and Fretibacterium spp. group bacteria have been identified as
+                             possible markers with potential to distinguish healthy individuals from CRC patients [28].
+                                 In this study, when the oral microbiota composition was examined at the genus level,
+                                Granulicatella and Capnocytophaga genera were detected more in CRC patients compared to
+                            healthy controls (p = 0.021, p = 0.038, respectively). It is also significant that the Pseudopre-
+                                   votella genus was not detected in healthy controls but was detected at a significantly higher
+                               level in CRC patients (p = 0.038).
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                          12 of 15
+
+
+
+                             According to data from various studies, species such as Granulicatella adiacens and
+                           Capnocytophaga gingivalis are considered as pathogenic microorganisms associated with
+                           cancer [29–31]. In a study investigating the oral microbiota of lung cancer patients, the
+                           proportion of Capnocytophaga was found to be significantly higher in the saliva of patients
+                        compared to healthy controls [32,33]. Another study reported that Capnocytophaga gingivalis
+                          could be a potential biomarker in the saliva of oral cancer patients. These bacteria may
+                              contribute to carcinogenesis through several potential mechanisms, including the induction
+                              of chronic inflammation, production of genotoxic metabolites, and disruption of epithelial
+                               barrier integrity. Such interactions can promote a pro-tumor microenvironment, suggesting
+                              that Granulicatella and Capnocytophaga might play functional roles in colorectal cancer
+                         development [34].
+                                  In this study, when the oral microbiota composition was examined at the species level,
+                                Granulicatella adiacens, Streptococcus thermophilus, Streptococcus gwangjuense, Capnocytophaga
+                              sp. FDAARGOS_737, Capnocytophaga gingivalis and Granulicatella elegans species were
+                             detected higher in CRC patients compared to healthy controls (p = 0.021, p = 0.05, p = 0.032,
+                          p ≤0.001, p = 0.03, p = 0.029, respectively). While Metamycoplasma salivarium, Bacteroides
+                                  intestinalis and Pseudoprevotella muciniphila species were not detected in healthy controls,
+                               their significantly higher detection in CRC patients demonstrates the potential of these
+                             species as biomarkers (p = 0.038, p = 0.038, p = 0.038, respectively).
+                                This study contributes to a better understanding of the role of the oral microbiota in
+                   CRC development and identifies potential non-invasive biomarkers for early detection.
+                         While the results are consistent with existing literature, they also highlight unique microbial
+                              associations with CRC. In this study, the possible non-invasive biomarker potential of the
+                            Mycoplasmatota phylum at the phylum level, the Metamycoplasmataceae family at the family
+                                level and the Pseudoprevotella genus at the genus level, which were not found in the control
+                        group but were detected at high levels in the CRC group, was determined. In addition,
+                           according to LEFse analysis, Granulicatella adiacens, Streptococcus thermophilus, Streptococcus
+                             gwangjuense, Capnocytophaga sp. FDAARGOS_737, Capnocytophaga gingivalis, Granulicatella
+                                elegans, Bacteroides intestinalis and Pseudoprevotella muciniphila species were found to be
+                               significantly higher in the CRC group, indicating that they may have a high potential for
+                          use as non-invasive biomarkers in the early stages of the disease.
+                                   Significant beta-diversity differences in the oral microbiota of CRC patients are con-
+                                sistent with recent analyses of stool microbiota from the same individuals. Saylam et al.
+                             (2025) [35] reported that fecal samples from these participants exhibited marked com-
+                             positional changes and reduced alpha diversity compared to healthy controls (Shannon
+                          p = 0.045; Bray–Curtis PCoA p = 0.004). Although the saliva samples did not show a
+                               significant decrease in alpha diversity (Shannon, p = 0.78), both oral and fecal samples
+                            revealed distinct taxa enriched in CRC, including Bacteroides intestinalis and other potential
+                          biomarker species [35]. These results suggest that microbial dysbiosis associated with CRC
+                    may occur at multiple anatomical sites, reflecting systemic microbial alterations. Nonethe-
+                                    less, species-specific differences and the relatively small sample size highlight the need for
+                              further studies to explore functional links between oral and gut microbiota in CRC.
+                                Studies investigating salivary and fecal microbiota have shown marked differences
+                         between individuals with colorectal polyps and healthy controls. Microbial diversity was
+                         found to increase in saliva but decrease in feces among patients with polyps, while oral taxa
+                         such as Porphyromonas gingivalis and Fusobacterium nucleatum were frequently identified
+                            as major contributors. Furthermore, the combination of salivary and fecal microbiota
+                          biomarkers improved diagnostic performance in distinguishing patients with colorectal
+                          polyps from healthy individuals. These results suggest that integrating oral and gut
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                          13 of 15
+
+
+
+                           microbiota could enhance the accuracy of non-invasive approaches for early colorectal
+                              lesion detection [36].
+                               This study has several limitations. First, the sample size was relatively small, and a
+                              validation cohort or cross-validation strategy was not applied, which may limit the statisti-
+                                cal power and reproducibility of the identified potential biomarkers. Several confounding
+                                factors, including diet, smoking, alcohol consumption, and oral hygiene, were not fully
+                               controlled, and the study was conducted at a single center, potentially reducing generaliz-
+                                   ability. Second, the study relied solely on Nanopore-sequenced saliva samples collected
+                              in our laboratory, without comparison to publicly available datasets, and differences in
+                              extraction kits, sequencing depth, and metadata limited direct cross-study validation. These
+                               factors highlight the need for future studies integrating publicly available Nanopore oral
+                         microbiome datasets to validate and generalize our findings across different cohorts and
+                               technical platforms. Finally, only saliva samples were analyzed, which may not fully reflect
+                            microbial composition throughout the gastrointestinal tract, and mechanistic studies are
+                        needed to clarify causal links between specific oral taxa and colorectal cancer.
+                                 In summary, the results obtained from this study are expected to play an important
+                              role in identifying potential non-invasive biomarkers for colorectal cancer and in the
+                         development of novel therapeutic strategies. Moreover, such biomarkers could contribute
+                              to early diagnosis and generate positive impacts on health economics by enabling timely
+                              intervention. Finally, conducting future studies with larger sample sizes will be crucial to
+                            strengthen the accuracy and validity of these findings, to better understand the biological
+                        mechanisms of cancer, and to develop patentable diagnostic and therapeutic biomarkers.
+
+
+                          Supplementary Materials: The following supporting information can be downloaded at: https:
+                            //www.mdpi.com/article/10.3390/pathogens15010043/s1.
+
+                          Author Contributions: S.M., Ö.Ö., R.S., E.S., N.Ç. and U.A. performed the experiments, analyzed
+                                the data. All Authors reviewed drafts of the paper. S.M., Ö.Ö. and R.S., conceived and designed the
+                               experiments, analyzed the data, authored or reviewed drafts of the paper. All authors have read and
+                             agreed to the published version of the manuscript.
+
+                             Funding: Funding was provided by Scientific Research Projects Coordinatorship of Selcuk University
+                                  for financially supporting this research article (Project No.: 23401136).
+
+                                 Institutional Review Board Statement: Ethical approval was obtained from the Local Ethics Com-
+                                mittee of Selcuk University Faculty of Medicine (Date: 01.02.2023; Approval Number: 2023/74). The
+                                  ethics declaration in this manuscript in accordance with the Declaration of Helsinki.
+
+                          Informed Consent Statement: Each participant signed an informed consent form. Consent to
+                                  Participate declarations forms from participants are provided.
+
+                           Data Availability Statement: The original contributions presented in this study are included in the
+                              article/Supplementary Material. Further inquiries can be directed to the corresponding author.
+
+                                Conflicts of Interest: The authors declare no conflict of interest.
+
+References
+
+1.   Kaz, A.M.; Brentnall, T.A. Genetic testing for colon cancer. Nat. Clin. Pract. Gastroenterol. Hepatol. 2006, 3, 670–679. [CrossRef]
+2.   Komarova, N.L. Cancer, aging and the optimal tissue design. Semin. Cancer Biol. 2005, 5, 494–505. [CrossRef]
+3.    Patel, S.G.; Karlitz, J.J.; Yen, T.; Lieu, C.H.; Boland, C.R. The rising tide of early-onset colorectal cancer: A comprehensive review
+     of epidemiology, clinical features, biology, risk factors, prevention, and early detection. Lancet Gastroenterol. Hepatol. 2022, 7,
+     262–274. [CrossRef]
+4.    Quintero, E.; Carrillo, M.; Leoz, M.L.; Cubiella, J.; Gargallo, C.; Lanas, A.; Bujanda, L.; Gimeno-García, A.Z.; Hernández-Guerra,
+     M.; Nicolás-Pérez, D.; et al. Risk of advanced neoplasia in first-degree relatives with colorectal cancer: A large multicenter
+      cross-sectional study. PLoS Med. 2016, 13, e1002008. [CrossRef]
+5.    Sears, C.L.; Garrett, W.S. Microbes, microbiota, and colon cancer. Cell Host Microbe 2014, 15, 317–328. [CrossRef] [PubMed]
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                          14 of 15
+
+
+
+6.    Siegel, R.; Miller, K.; Jemal, A. Cancer statistics. CA Cancer J. Clin. 2019, 69, 7–34. [CrossRef]
+7.   Khan, A.; Sirsat, A.; Singh, H.; Cash, P. Microbiota and cancer: Current understanding and mechanistic implications. Clin. Transl.
+     Oncol. 2022, 24, 193–202. [CrossRef] [PubMed]
+8.    Koliarakis, I.; Messaritakis, I.; Nikolouzakis, T.K.; Hamilos, G.; Souglakos, J.; Tsiaoussis, J. Oral bacteria and intestinal dysbiosis in
+      colorectal cancer. Int. J. Mol. Sci. 2019, 20, 4146. [CrossRef]
+9.   Komiya, Y.; Shimomura, Y.; Higurashi, T.; Sugi, Y.; Arimoto, J.; Umezaw, S.; Uchiyama, S.; Matsumoto, M.; Nakajima, A. Patients
+     with colorectal cancer have identical strains of fusobacterium nucleatum in their colorectal cancer and oral cavity. Gut 2019, 68,
+     1335–1337. [CrossRef]
+10.  Aranda-Olmedo, I.; Rubio, L. Dietary legumes, intestinal microbiota, inflammation and colorectal cancer. J. Funct. Foods 2020, 64,
+     103707. [CrossRef]
+11.  Araos, R.; D’Agata, E. The human microbiota and infection prevention.  Infect. Control Hosp. Epidemiol. 2019, 40, 585–589.
+     [CrossRef] [PubMed]
+12.   Zeller, G.; Tap, J.; Voigt, A.Y.; Sunagawa, S.; Kultima, J.R.; Costea, P.I.; Amiot, A.; Böhm, J.; Brunetti, F.; Habermann, N.; et al.
+      Potential of fecal microbiota for early-stage detection of colorectal cancer. Mol. Syst. Biol. 2014, 10, 766. [CrossRef] [PubMed]
+13.   Liu, W.; Zhang, R.; Shu, R.; Yu, J.; Li, H.; Long, H.; Jin, S.; Li, S.; Hu, Q.; Yao, F.; et al. Study of the relationship between microbiome
+    and colorectal cancer susceptibility using 16SrRNA sequencing. Biomed. Res. Int. 2020, 30, 7828392. [CrossRef]
+14.   Rezasoltani, S.; Aghdaei, H.A.; Jasemi, S.; Gazouli, M.; Dovrolis, N.; Sadeghi, A.; Schlüter, H.; Zali, M.R.; Sechi, L.A.; Feizabadi,
+    M.M. Oral Microbiota as Novel Biomarkers for Colorectal Cancer Screening. Cancers 2022, 15, 192. [CrossRef]
+15.  Song, S.J.; Sanders, J.G.; Delsuc, F.; Metcalf, J.; Amato, K.; Taylor, M.W.; Mazel, F.; Lutz, H.L.; Winker, K.; Graves, G.R.; et al.
+     Comparative analyses of vertebrate gut microbiomes reveal convergence between birds and bats. mBio 2020, 7, e02901-19.
+     [CrossRef]
+16.  McCoy, C.O.; Matsen, I.V.F.A. Abundance-weighted phylogenetic diversity measures distinguish microbial community states and
+     are robust to sampling depth. PeerJ 2013, 1, e157. [CrossRef]
+17.  McMurdie, P.J.; Holmes, S. Waste not, want not: Why rarefying microbiome data is inadmissible. PLoS Comput. Biol. 2014, 10,
+     e1003531. [CrossRef]
+18.  Zheng, X.; Sun, X.; Liu, Q.; Huang, Y.; Yuan, Y. The composition alteration of respiratory microbiota in lung cancer. Cancer Investig.
+     2020, 38, 158–168. [CrossRef]
+19.  Cordero, O.J.; Varela-Calviño, R.; Graña-Suárez, B. Immunology and Immunotherapy of Colorectal Cancer. In Cancer Immunology:
+     Cancer Immunotherapy for Organ-Specific Tumors; Rezaei, N., Ed.; Springer International Publishing: Cham, Switzerland, 2020; pp.
+     261–289.
+20.  Zhuang, Y.P.; Zhou, H.L.; Chen, H.B.; Zheng, M.Y.; Liang, Y.W.; Gu, Y.T.; Li, W.-T.; Qiu, W.-L.; Zhou, H.-G. Gut microbiota
+      interactions with antitumor immunity in colorectal cancer: From understanding to application. Biomed. Pharmacother. 2023, 165,
+     115040. [CrossRef]
+21.  Zhang, H.; Jin, K.; Xiong, K.; Jing, W.; Pang, Z.; Feng, M.; Cheng, X. Disease-associated gut microbiome and critical metabolomic
+      alterations in patients with colorectal cancer. Cancer Med. 2023, 12, 15720–15735. [CrossRef]
+22.  Chang, A.H.; Parsonnet, J. Role of bacteria in oncogenesis. Clin. Microbiol. Rev. 2010, 23, 837–857. [CrossRef]
+23.   Benedetti, F.; Cocchi, F.; Latinovic, O.S.; Curreli, S.; Krishnan, S.; Munawwar, A.; Gallo, R.C.; Zella, D. Role of Mycoplasma
+    Chaperone DnaK in Cellular Transformation. Int. J. Mol. Sci. 2020, 21, 1311. [CrossRef]
+24.  Yang, Y.; Cai, Q.; Shu, X.O.; Steinwandel, M.D.; Blot, W.J.; Zheng, W.; Long, J. Prospective study of oral microbiome and colorectal
+     cancer risk in low-income and african american populations. Int. J. Cancer 2019, 144, 2381–2389. [CrossRef]
+25.  Flemer, B.; Warren, R.D.; Barrett, M.P.; Cisek, K.; Das, A.; Jeffery, I.A.; Hurley, E.; O‘Riordain, M.; Shanahan, F.; O’Toole, P.W. The
+      oral microbiota in colorectal cancer is distinctive and predictive. Gut 2018, 67, 1454–1463. [CrossRef] [PubMed]
+26.  Göktürk, K.; Tülek, B.; Kanat, F.; Maçin, S.; Arslan, U.; Shahbazov, M.; Göktürk, Ö. Gut microbiota profiles of patients with
+     idiopathic pulmonary fibrosis. Exp. Lung Res. 2024, 50, 278–289. [CrossRef] [PubMed]
+27.  Flemer, B.; Herlihy, M.; O’Riordain, M.; Shanahan, F.; O’Toole, P.W. Tumour-associated and non-tumour-associated microbiota:
+    Addendum. Gut Microbes 2018, 9, 369–373. [CrossRef] [PubMed]
+28.  Zou, S.; Fang, L.; Lee, M.H. Dysbiosis of gut microbiota in promoting the development of colorectal cancer. Gastroenterol. Rep.
+     2018, 6, 1–12. [CrossRef]
+29.   Tsai, S.; Wear, D.J.; Shih, J.; Lo, S.C. Mycoplasmas and oncogenesis: Persistent infection and multistage malignant transformation.
+      Proc. Natl. Acad. Sci. USA 1995, 92, 10197–10201. [CrossRef]
+30.  Cimolai, N. Do mycoplasmas cause human cancer? Can. J. Microbiol. 2001, 47, 691–697. [CrossRef]
+31.  Minarovits, J. Anaerobic bacterial communities associated with oral carcinoma: Intratumoral, surface-biofilm and salivary
+     microbiota. Anaerobe 2021, 68, 102300. [CrossRef]
+32.  Zhang, L.; Liu, Y.; Zheng, H.J.; Zhang, C.P. The oral microbiota may have influence on oral cancer. Front. Cell Infect. Microbiol.
+     2020, 9, 476. [CrossRef]
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043Pathogens 2026, 15, 43                                                                                                          15 of 15
+
+
+
+33.  Wong, S.H.; Zhao, L.; Zhang, X.; Nakatsu, G.; Han, J.; Xu, W. Gavage of fecal samples from patients with colorectal cancer
+     promotes intestinal carcinogenesis in germ-free and conventional mice.  Gastroenterology 2017, 153, 1621–1633. [CrossRef]
+    [PubMed]
+34.  Pop, O.L.; Vodnar, D.C.; Diaconeasa, Z.; Istrati, M.; Bint,int,an, A.; Bint,int,an, V.V. An overview of gut microbiota and colon diseases
+     with a focus on adenomatous colon polyps. Int. J. Mol. Sci. 2020, 21, 7359. [CrossRef] [PubMed]
+35.  Saylam, E.; Özden, Ö.; Yerlikaya, F.H.; Sivrikaya, A.; Yormaz, S.; Arslan, U.; Topkafa, M.; Maçin, S. Investigation of intestinal
+     microbiota and short-chain fatty acids in colorectal cancer and detection of biomarkers. Pathogens 2025, 14, 953. [CrossRef]
+    [PubMed]
+36.  Zhang, L.; Feng, Z.; Li, Y.; Lv, C.; Li, C.; Hu, Y.; Fu, M.; Song, L. Salivary and fecal microbiota: Potential new biomarkers for early
+     screening of colorectal polyps. Front. Microbiol. 2023, 14, 1182346. [CrossRef]
+
+
+Disclaimer/Publisher’s Note: The statements, opinions and data contained in all publications are solely those of the individual
+author(s) and contributor(s) and not of MDPI and/or the editor(s). MDPI and/or the editor(s) disclaim responsibility for any injury to
+people or property resulting from any ideas, methods, instructions or products referred to in the content.
+
+
+
+
+
+                                                                                              https://doi.org/10.3390/pathogens15010043

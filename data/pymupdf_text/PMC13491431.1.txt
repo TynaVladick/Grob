@@ -1,0 +1,831 @@
+                                                                                                                      TYPE Original Research
+                                                                                                                      PUBLISHED 01 October 2025
+                                                                                                                   DOI 10.3389/ftubr.2025.1659333
+
+
+
+                 Predicting treatment adherence
+OPEN ACCESS              in patients with drug-resistant
+
+EDITED BY
+Sheetal Verma,                  tuberculosis: insights from
+The State University of New Jersey,
+United       States
+
+REVIEWED         BY            socioeconomic, demographic,
+Vaishnavi Kaipilyawar,
+Rutgers New Jersey Medical School,              and clinical factors of patients in
+United States
+Ihor Semianiv,
+Bukovinian State Medical University, Ukraine   the rural Eastern Cape
+
+*CORRESPONDENCE
+Lindiwe Modest Faye
+  fayelindiwe@yahoo.com               Lindiwe Modest Faye1*, Mojisola Clara Hosu1, Ntandazo Dlatu2,
+RECEIVED 03 July 2025                 Joshua Iruedo3 and Teke Apalata1
+ACCEPTED 28 August 2025
+PUBLISHED 01 October 2025                       1Department of Laboratory Medicine and Pathology, Faculty of Medicine and Health Sciences, Walter
+CITATION                                                Sisulu University, Mthatha, South Africa, 2Department of Public Health, Faculty of Medicine and Health
+                                                    Sciences, Walter Sisulu University, Mthatha, South Africa, 3Department of Family Medicine, WalterFaye LM, Hosu MC, Dlatu N, Iruedo J and
+                                                        Sisulu University, Mthatha, South AfricaApalata T (2025) Predicting treatment
+adherence in patients with drug-resistant
+tuberculosis: insights from socioeconomic,
+demographic, and clinical factors of patients      Background: Drug-resistant tuberculosis (DR-TB) poses a serious challenge to
+in the rural Eastern Cape.
+                                         global health. Patients must follow complex medication regimens over longFront. Tuberc. 3:1659333.
+doi: 10.3389/ftubr.2025.1659333                 periods, and any failure to comply with these treatment plans can result in
+COPYRIGHT                               treatment failure, higher mortality rates, and an increased risk of developing
+© 2025 Faye, Hosu, Dlatu, Iruedo and Apalata.      additional drug resistance.
+This is an open-access article distributed          Setting: The study was conducted in the rural Eastern Cape.
+under the terms of the Creative Commons
+Attribution License (CC BY). The use,            Aim: This study aims to identify the key factors inﬂuencing treatment adherence
+distribution or reproduction in other forums is    among patients with DR-TB. Furthermore, it rigorously evaluates the predictive
+permitted, provided the original author(s) and      accuracy of machine learning models in assessing treatment adherence, with a
+the copyright owner(s) are credited and that
+the original publication in this journal is cited,      strong focus on socioeconomic, demographic, and clinical factors.
+in accordance with accepted academic         Methods:  A retrospective analysis was conducted on patients with DR-
+practice. No use, distribution or reproduction      TB. Data were collected from medical records. Four different models were
+is permitted which does not comply with
+these terms.                            developed and tested to evaluate their effectiveness in predicting treatment
+                                     adherence: Random Forest, Logistic regression, Support Vector Machine (SVM),
+                                  and Gradient Boosting.
+                                          Results: The Random Forest model achieved an accuracy of 53.3% in predicting
+                                      treatment adherence. An analysis of feature importance indicated that age,
+                                    income, education, social history, patient category, and comorbidities were the
+                                 most signiﬁcant factors inﬂuencing adherence. Patients with higher incomes,
+                                       higher levels of education, and fewer comorbidities were more likely to follow
+                                              their treatment plans.
+                                     Conclusion:   Adhering  to  treatment  for  DR-TB  involves  a  range  of
+                                   socioeconomic and clinical factors. Income, education level, and pre-existing
+                                        health conditions signiﬁcantly inﬂuence how well patients follow their prescribed
+                                      treatment regimens. Understanding these inﬂuences is crucial for enhancing
+                                      treatment outcomes and facilitating patients’ journey toward improved health.
+                                       Contribution: These ﬁndings suggest that machine-learning models, especially
+                              Random Forest algorithms, can effectively support clinical decision-making by
+                                            identifying patients at risk of non-adherence to their treatment.
+
+
+
+                                             KEYWORDS
+
+                                                    clinical factors, drug-resistant tuberculosis, treatment adherence, socioeconomic
+                                                 factors, predictive modeling, random forest model
+
+
+
+
+
+Frontiers in Tuberculosis                                          01                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+1 Introduction                                         with a high prevalence of HIV/AIDS. Methods for evaluating
+                                                                      patient compliance with anti-TB medication typically focus on the
+    Drug-resistant tuberculosis (DR-TB) poses a signiﬁcant global    percentage of patients who take 80% or more of their prescribed
+health challenge, necessitating that patients adhere to complex,    doses. Both direct and indirect measures of adherence to anti-TB
+long-term medication regimens  (1,  2). Despite advancements   regimens have been proposed. Direct measurement can involve
+in  treatment  options,  non-adherence  remains  a  substantial    testing  for drug metabolites  in the blood or  urine.  Indirect
+barrier, particularly in low-resource settings, leading to increased   measurement may include assessing pharmacy reﬁll records every
+morbidity, mortality, and ongoing transmission (3). In response to   month or utilizing patient-reported outcome measures, such as the
+these challenges, the World Health Organization (WHO) launched   TB Medication Adherence Scale (TBMAS) (21–25).
+the End TB Strategy, which emphasizes patient-centered care,       Evaluating the  factors  that inﬂuence treatment adherence
+integrated treatment approaches, and the provision  of  social    in patients with TB therapy, TB/HIV, and HIV individuals  is
+support systems to enhance adherence and improve outcomes.    essential for identifying eﬀective health system interventions to
+This is particularly crucial in rural, high-burden areas, such as the   support individuals undergoing ART and combined therapy for
+Eastern Cape province of South Africa, where patients often face   improved treatment outcomes. This study aimed to identify key
+layered socioeconomic and healthcare access barriers (4–6). This    factors that aﬀect treatment adherence in DR-TB patients in the
+study aims to identify key determinants of treatment adherence   poor rural Eastern Cape. Additionally,  it sought to develop a
+among DR-TB patients in such settings and evaluate predictive    predictive model using random forest algorithms to estimate the
+modeling approaches  to  support more  targeted  intervention    likelihood of adherence based on socioeconomic, demographic,
+strategies. However, the relative impact of these factors on DR-TB   and clinical variables.
+populations has not been thoroughly investigated (7). According to
+the WHO, treatment adherence for tuberculosis (TB) refers to the
+extent to which the prescribed medication regimen is followed (8).  2 Research methods and design
+In 2017, an estimated 10 million individuals had active TB, with 9%
+of these cases involving people living with HIV (PLWH). Four years   2.1 Study population and sampling
+later, there was an increase with an estimated 10.6 million people
+(95% CI: 9.9–11 million) developing TB worldwide, equivalent to      The study population comprised all patients diagnosed with
+an incidence of 134 (95% CI: 125–143) per 100,000 population. This   DR-TB and receiving treatment at selected high-burden rural
+revealed an increase in TB incidence globally by 4.5%, reversing a    clinics in the rural Eastern Cape between January 2018 and
+long-term trend of a moderate 2% annual decrease over the past   December 2020 (N = 450). A total of 108 patients were included
+decade (8). This situation places an excessive strain on healthcare    using proportionate stratiﬁed sampling, ensuring representation
+systems, as the lengthy treatment regimen increases the likelihood    across age groups, gender, and patient categories (new, relapse,
+of poor treatment adherence, which can lead to the development   TAL, TF1, TF2). The sample size (n = 108) was determined using
+of medication resistance. Patients with multiple infections who    the ﬁnite population correction formula for a known population (N
+miss scheduled clinic appointments are more susceptible to poor  = 450), assuming an expected adherence prevalence of 24% from
+treatment adherence and worse health outcomes (9–13). Due to    prior literature, a 95% conﬁdence level (Z = 1.96), and a precision
+this therapeutic challenge, treatment for HIV and TB  is often   (margin of error) of 5%. This yielded a minimum required sample
+interrupted, prolonging treatment durations and heightening the    size of 108 patients, which was then proportionately stratiﬁed by
+risk of drug resistance (14).                                             age, gender, and patient category to ensure representativeness of the
+   South Africa contributes about 20% of the global burden    study population. While the sample reﬂects the demographic and
+of TB/HIV co-infections, making  it one of the countries most    clinical composition of DR-TB patients in the participating clinics,
+aﬀected by the intertwined epidemic, with ∼180,000 incident    the representativeness  is limited to similar rural, high-burden
+TB cases comprising people with HIV co-infection  (15,  16).    settings within the rural Eastern Cape. As income data were not
+Consequently, many South Africans co-infected with HIV and    directly available, occupational categories served as socioeconomic
+TB require simultaneous treatment for both conditions (16). The    proxies, which may limit comparability to other regions. Inclusion
+dual challenges presented by both infections complicate adherence    criteria were diagnosis of DR-TB between January 2018 and
+to treatment.  It  is well established that maximizing treatment   December 2020 at one of the participating high-burden rural
+adherence signiﬁcantly improves the likelihood of successful TB    clinics in the Eastern Cape; initiation on a standardized DR-TB
+treatment (17). This principle similarly applies to HIV infection,    treatment regimen; and availability of complete treatment records
+where sustained viral suppression depends on a high level of    for the study period. Exclusion criteria included transfer out before
+adherence to antiretroviral therapy (ART). Improving adherence    treatment completion, loss to follow-up within the ﬁrst month
+can lead to reductions in HIV transmission and an enhancement    of treatment, incomplete or missing clinical/socioeconomic data,
+in the quality of  life for infected individuals (18, 19). Despite   and being <18 years of age. From the  eligible population, a
+advancements in treatment availability and accessibility, TB/HIV    proportionate stratiﬁed sampling approach was used to ensure
+co-infection  continues  to be  a complex  public  health  issue    representation across age, gender, and DR-TB patient categories.
+contributing to the inability of TB-control initiatives, especially   While the sample reﬂects the composition of DR-TB patients in this
+in high-burden nations, to meet eﬀective treatment goals (16,    rural setting, the ﬁndings may not be directly generalized to urban
+20). This situation necessitates a new strategy in South Africa    or low-burden regions.
+
+
+
+
+
+Frontiers in Tuberculosis                                          02                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+2.2 Variables and deﬁnitions
+
+   Income category was used as a proxy for socioeconomic                 Sample proportion (%) = 0.24
+status (SES) and was not recorded as a direct numeric value.
+                                                         The conﬁdence interval for a population proportion of 24% was
+It was inferred from documented occupation in patient records
+                                                                       established based on the estimation of the proportion. The sample
+and classiﬁed as follows: low income for those unemployed or
+                                                                             size is n = 108, the total population is N = 450, and the observed
+employed in informal/manual labor; middle income for those
+                                                                proportion is:
+employed in government positions or permanent skilled work; and
+high income for those employed in corporate/professional sectors
+or self-employed with formal business registration. Data were                                                                                  p =108
+randomly partitioned into training (80%) and testing (20%) subsets,                              450
+stratiﬁed by adherence status to maintain the class distribution.
+To ensure reproducibility, the random split was performed before
+partitioning. All model training and tuning were conducted on the                       p = 0.24 (24%)
+training set only, with ﬁnal performance metrics calculated on the
+                                           A conﬁdence  interval (CI) of 95%  for a proportion was
+held-out test set. All statistical analyses were performed using R
+                                                                      calculated as:
+statistical software, Version 4.5.1 (56).
+
+
+                                                                                       p 1 −p
+2.2.1 Microbiological deﬁnition of DR-TB and                    CI=p±Z×
+                                                                                  n
+diagnostic workﬂow
+    All DR-TB cases in this cohort were laboratory-conﬁrmed.    where:
+Initial testing was performed with Xpert MTB/RIF (Ultra) on      p = 0.24 (sample proportion),
+sputum or other respiratory spemens. Specimens with rifampicin     Z = 1.96 for a 95% conﬁdence level,
+resistance (RR) on Xpert triggered reﬂex line probe assays (LPAs)      n = 450 (total population).
+MTB DRplus v2 (for isoniazid/rifampicin) and MTBDRsl (for      The 95% CI indicates that the proportion of 24% is estimated
+ﬂuoroquinolones and second-line agents), and culture-based drug    to lie within the range of 20.05% to 27.95%. The key variables
+susceptibility testing (DST) using standard liquid culture systems.   examined included age (in years), gender (male, female), income
+Where feasible, DST included bedaquiline and linezolid to align    level (low, middle, high), education (no formal education, primary,
+with contemporary Group A agents. Patient category labels (New,    secondary, tertiary), HIV status (positive, negative), comorbidities
+Relapse, TAL, TF1, TF2; see Section 2.4) describe treatment history    (the number  of concurrent health  conditions),  social  history
+only and were not used as the sole basis for DR-TB diagnosis.        (smoking, drinking habit), occupation (unemployed, manual labor,
+    Resistance category deﬁnitions (25):                         government employee, corporate job), and patient classiﬁcation
+                                                         (new cases, relapses, or chronic cases, such as TAL—treatment
+    RR-TB: resistance to rifampicin, detected by Xpert, LPA, or    after loss to follow-up, TF1—treatment following failure of ﬁrst-line
+    phenotypic DST, irrespective of isoniazid susceptibility.          drugs, and TF2—treatment after failure of second-line drugs).
+   MDR-TB: resistance to at least isoniazid and rifampicin.
+    pre-XDR-TB: MDR/RR-TB  with  additional  resistance  to
+    any ﬂuoroquinolone.                                 2.3. Ethical consideration
+    XDR-TB: MDR/RR-TB with additional  resistance to any
+    ﬂuoroquinolone and  at  least one Group A  drug  (i.e.,        Ethical approval for the study was obtained from the Walter
+     bedaquiline or linezolid).                                        Sisulu University Ethics Committee (Reference No. 026/2019) and
+                                                                   formally approved by the Eastern Cape Department of Health
+   Laboratory methods followed National TB Program procedures    (Reference No. EC_201904_011), following communication and
+for specimen collection, processing, quality control, and external   submission of the study protocol to relevant provincial health
+proﬁciency  testing.  Results from  Xpert,  LPAs, and  culture-    authorities. Consent was deemed unnecessary, as the research
+DST were reconciled in the medical record; when discordant,    involved using  patient  records.  Self-reported adherence from
+phenotypic DST and/or LPA guided ﬁnal categorization.              patients is evaluated using a custom benchmark of 80% compliance.
+   The sample size calculation for the population was adapted   Adherence was calculated as the percentage of actual treatment
+from the work of Agresti and Finlay (26).                          days completed compared to the expected treatment days, using the
+                                                                   following formula:
+
+                             Sample size by
+       Sample proportion (%) =                100                                Total populationX                                     Adherence (%)
+
+
+
+                                                                              Actual treatment days completed
+            Sample proportion (%) =108  100                =                     X 100                             450X                                       Expected treatment days
+
+
+
+Frontiers in Tuberculosis                                          03                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+   The type of regimen considered in the study was classiﬁed    across both classes. For comparison, a naive baseline classiﬁer that
+into two categories: short regimens, which were assumed to last    predicted all patients as adherent achieved 79.6% raw accuracy
+6 months (180 days), and long regimens, which were set at 18   but only 50.0% balanced accuracy, highlighting the modest yet
+months (540 days). For each patient, we calculated adherence   meaningful improvement gained with Random Forest. Random
+percentages and categorized them into adherent and non-adherent    Forest also demonstrated the best balance between precision and
+groups accordingly. We then summarized the proportions of     recall, reﬂected in its highest F1-score (0.59). These ﬁndings suggest
+adherent vs. non-adherent patients, providing a clear overview of    that, while predictive performance was modest, Random Forest
+compliance with the 80% benchmark. Clinical evidence indicates   provided the most clinically balanced trade-oﬀbetween identifying
+that adherence levels of 80% or higher are essential for achieving    at-risk patients and avoiding excessive false alerts.
+therapeutic success across various medical conditions.
+
+                                                    2.6. Training the model
+2.4. Operational deﬁnition
+                                           A  random   forest   classiﬁer  was  developed  using  a
+                                                            comprehensive dataset that included a variety of socioeconomic,   In  this  study,  drug-resistant TB  (DR-TB)  was  deﬁned
+                                                             demographic, and clinical factors related to patients. This datasetmicrobiologically as RR-TB, MDR-TB, pre-XDR-TB, or XDR-TB
+                                                                    featured crucial variables such as age, income, education level,per WHO/S.A. deﬁnitions (see Section 2.2.1). Patient categories
+                                                                    gender, HIV status, existing comorbidities, and lifestyle factors(New, Relapse, TAL, TF1, TF2) reﬂect treatment history and were
+                                                                               like smoking and alcohol use. Thereafter, the dataset was carefullynot used to deﬁne DR-TB in the absence of laboratory conﬁrmation.
+                                                                  divided into training and testing subsets. This strategy allowed the
+                                                                          classiﬁer to learn and adapt from the training data while providing    In the context of TB, the WHO deﬁnes adherence as how
+                                                                 a means to assess its performance on a separate set of unseen     well a patient’s actions follow the medical instructions for
+                                                                         data. This process  is essential for verifying the model’s ability     their treatment plan. Essentially, it’s about whether a patient’s
+                                                                      to generalize its ﬁndings beyond the speciﬁc examples included     behavior, such as taking medications on time and completing
+                                                                      in the training phase. The model’s eﬀectiveness was evaluated     the full course, aligns with the prescribed regimen.
+                                                             through various metrics, which helped to measure its accuracy   New patients are patients who have never been treated for TB
+                                                        and reliability in predicting outcomes based on the input features.     or have taken anti-TB medications for less than 4 weeks.
+                                                               This evaluation process is critical for ensuring the model’s practical     Relapse patients are patients who were previously treated for
+                                                                           applicability in real-world scenarios.    TB, were declared cured or completed treatment at the end of
+     their most recent course of treatment, and are now diagnosed
+    with a recurrent episode of TB (either a true relapse or a new
+     episode of TB caused by reinfection).                   2.7 Evaluating features of importance
+   TAL are patients previously treated for TB who were declared
+      lost to follow-up (LTFU) at the end of their most recent course      The random forest model assesses the importance of each
+     of treatment.                                                     feature by examining its role in minimizing the model’s prediction
+    TF1 are those patients who have previously been treated for TB    error. This evaluation process involves a detailed analysis of how
+    with ﬁrst-line drugs such as isoniazid, rifampicin, ethambutol,    the various decision trees within the random forest utilize diﬀerent
+     pyrazinamide, and streptomycin, and whose treatment failed    features to partition the data points eﬀectively, thereby enhancing
+     at the end of their most recent course of treatment.              the accuracy of classiﬁcations. The importance score assigned
+    TF2 are those who have previously been treated for DR-    to each feature  is determined through an aggregation process
+   TB with second-line drugs such as bedaquiline, linezolid,    that considers the frequency and eﬀectiveness of each feature
+    moxiﬂoxacin, levoﬂoxacin,  clofazimine,  cycloserine, para-   employed across the entire ensemble of trees. Features that play
+     aminosalicylic  acid,  propylthiouracil, and  amikacin, and    a signiﬁcant role in diminishing impurity, measured by metrics
+    whose treatment failed at the end of their most recent course   such as Gini impurity or entropy, are recognized as more crucial
+     of treatment.                                                      for the model’s predictive performance. This method ensures a
+                                                            comprehensive understanding of each feature’s contribution to the
+                                                                         overall model eﬃcacy.
+
+2.5. Model development
+                                 3 Results
+   Among the four models tested, the Random Forest algorithm
+achieved the highest raw accuracy (81.5%) and balanced accuracy   3.1 Participant characteristics
+(53.3%), outperforming logistic regression (raw accuracy 79.6%,
+balanced accuracy 50.0%), gradient boosting (raw accuracy 78.7%,      Out of the 108 DR-TB patients included in the study, in
+balanced accuracy ∼49.5%), and SVM (raw accuracy 77.8%,    Table 1 distribution of demographic, socioeconomic, and clinical
+balanced accuracy ∼48.7%) (Figures 3, 4, Table 2). Because the    characteristics  for  all study  participants,  frequencies  (n) and
+dataset was imbalanced (79.6% adherent vs. 20.4% non-adherent),    percentages (%) are shown for each category. The largest age group
+reporting balanced accuracy was essential to evaluate performance   was 20–30 years (24.1%), followed by 30–40 years (22.2%) and
+
+
+
+
+Frontiers in Tuberculosis                                          04                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+
+TABLE 1 Presents the detailed distribution of demographic and clinical      TABLE 2 Logistic regression of predictors of adherence among DR-TB
+variables.                                                                    patients (n = 90)
+
+  Variable         Category   Frequency  Percentage     Variable        OR      95% CI      p-value
+                                           (n)           (%)
+                                                                        Age 40–49 vs.                3.55           0.18–68.43           0.401
+  Age group (years)        20–30                 26             24.1%           20–39
+
+                        30–40                 24             22.2%           Age ≥50 vs. 20–39           1.35           0.12–15.19           0.809
+
+                        40–50                 19             17.6%
+                                                                              Female (vs. male)           14.36          1.61–127.82          0.017
+                        50–60                 17             15.7%
+                                                             ≥1 comorbidity (vs.          1.30           0.10–17.32           0.844
+                        60–70                 12             11.1%            none)
+                     ≥70                  10             9.3%
+                                                                         Smoking (yes vs.            12.71          0.73–221.49          0.081
+  Gender                Male                  57             52.8%            no)
+
+                         Female                51             47.2%            Alcohol use (yes vs.          0.11            0.01–1.62           0.107
+  Income level          Low                  45             41.7%            no)
+
+                         Middle                38             35.2%           Smear positive (vs.           0.30            0.05–1.96           0.211
+                                                                                            negative)
+                       High                 25             23.1%
+
+  Education level        No formal             21             19.4%           Long regimen at             0.04            0.00–0.30           0.002
+                           education                                                            start (vs. short)
+
+                         Primary               27             25.0%             Relapse vs. New              0.50            0.05–5.24           0.562
+                           education
+                                                               TAL vs. New                 0.02            0.00–0.41           0.012
+                         Secondary             32             29.6%
+                           education                                        TF1 vs. New                 0.01            0.00–0.41           0.015
+
+                             Tertiary               28             25.9%          Model statistics:
+                           education                                             • N (included) = 90; pseudo-R² (McFadden) = 0.522
+                                                                               • Likelihood ratio χ²(11) = 45.49, p = 3.98e−06
+  HIV status                 Positive               55             50.9%          • Missing data handling: listwise deletion (no imputation).
+
+                           Negative              53             49.1%
+
+  Comorbidities         None                 33             30.6%
+                                                          40–50 years (17.6%). Males comprised 52.8% of participants. Most
+                     One                  42             38.9%         patients had low (41.7%) or middle income (35.2%), with only
+                    Two or more           33             30.6%       23.1% in the high-income category. Education levels varied, with
+  Smoking history        Smoker               40             37.0%       29.6% having secondary education and 25.9% tertiary education.
+                                               HIV prevalence was 50.9%. Comorbidities were present in 69.4%
+                       Non-smoker           68             63.0%
+                                                                      of patients, with 30.6% having two or more.
+  Alcohol use              Alcohol use            36             33.3%
+
+                   No alcohol use         72             66.7%
+
+  Occupation            Unemployed           32             29.6%       3.2. Treatment adherence patterns
+
+                       Manual labor           26             24.1%
+                                                         The outcome  adherence  was  operationalized  from  ﬁnal
+                       Government           25             23.1%
+                         employee                                     treatment status as a binary outcome: adherent  if the patient
+                                                         was cured or treatment completed, and non-adherent  if lost to
+                          Corporate job          25             23.1%
+                                                                    follow-up, treatment failed, or died. Records coded as moved out,
+  Patient classiﬁcation    New                  36             33.3%         transferred out, or still on treatment were excluded from regression
+                           Relapse               30             27.8%         analyses. We ﬁt a multivariable logistic regression with adherence
+                    TAL (Loss to           12             11.1%         as the outcome (adherent = cured/completed; non-adherent =
+                            follow-up)                                     LTFU/failed/died; outcomes 6–8 excluded). Predictors included age
+                      TF1 (1st-line           15             13.9%        group, sex, comorbidities (≥1 vs. none), smoking, alcohol use,
+                                failure)                                   smear positivity, long vs. short regimen at treatment start, and
+                      TF2 (2nd-line          15             13.9%         patient category (Relapse, TAL, TF1 vs. New). Age bands were
+                                failure)                                         collapsed (20–39, 40–49, ≥50) (26, 27). Missing data were handled
+Income level inferred from occupation: unemployed/manual labor = low; government   by listwise deletion.
+employment = middle; corporate/professional = high. DR-TB categories (RR/MDR/pre-       In Table 2, sex (OR = 14.36; 95% CI: 1.61–127.82; p =
+XDR/XDR) were assigned based on microbiological testing (Xpert, LPA, culture-DST) as    0.017) and short regimen at start (reference; long regimen at start
+per 2.2.1.
+Patient category deﬁnitions: New = never treated for TB or <4 weeks of treatment; Relapse    associated with lower odds of adherence: OR = 0.04; 95% CI: 0.00–
+= previously cured/completed treatment, now recurrent TB; TAL = treatment after loss to    0.30; p = 0.002) were signiﬁcant. TAL (vs. New) (OR = 0.02; 95%
+follow-up; TF1 = treatment failure after ﬁrst-line drugs; TF2 = treatment failure after second-    CI: 0.00–0.41; p = 0.012) and TF1 (vs. New) (OR = 0.01; 95%
+line drugs, as deﬁned in the South African DR-TB Clinical Management Guidelines (55).
+                                                                     CI: 0.00–0.41; p = 0.015) showed lower odds of adherence. Other
+
+
+
+
+
+Frontiers in Tuberculosis                                          05                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+covariates were not statistically signiﬁcant in this speciﬁcation.    associations, suggesting they have a comparatively less inﬂuence on
+Reference categories included male, no comorbidity, non-smoker,   adherence compared to income and education (Figure 2).
+no alcohol use, smear-negative, short regimen at start, age 20–39,
+and new patient category.
+                                              3.6 Feature importance in predictive
+                                       modeling
+3.3 Socioeconomic and occupational
+inﬂuences                                                     In the Random Forest model, age contributed the most to
+                                                                    prediction (37.6%), followed by education (17.3%) and income
+                                                                    (10.9%). Alcohol use, comorbidities, gender, and HIV status were   Adherence improved progressively from unemployed patients
+                                                                      of moderate to lower importance (Figure 3).(65%) to those in manual labor (72%), government employment
+(85%),  and  corporate  roles  (88%).  Income  and  education
+were the variables most strongly associated with adherence in
+descriptive analyses.                                 3.7 Model performance
+
+
+                                                 Among the four models tested, the Random Forest algorithm
+                                                                 achieved the highest  overall accuracy (53.3%), outperforming
+3.4 Social and behavioral factors                                                                               logistic regression (46.7%), gradient boosting (45.0%), and SVM
+                                                                (43.3%) (Table 3, Figure 4). Accuracy represents the proportion of
+   Peer inﬂuence was linked to the lowest adherence (55%),                                                                                          all predictions, both adherent and non-adherent, that were correct.
+followed by mental health issues (58%), unstable lifestyle (60%),                                                 Random  Forest  also demonstrated the  best balance between
+alcohol use (65%), and smoking (62%). Demographics of women                                                                     precision and recall, as reﬂected in its highest F1 score (0.59).
+had a  signiﬁcantly higher adherence  rate (75.4%) than men                                                                In this context, precision measures the proportion of patients the
+(58.8%). Adherence was highest in younger patients (85–88%)                                                        model identiﬁed as adherent who were truly adherent, while recall
+and declined with age, reaching its lowest point in older patients                                                             measures the proportion of all truly adherent patients correctly
+(6–65%). In socioeconomic  factors, adherence improved with                                                                   detected by the model. The F1 score, being the harmonic mean
+higher education and socioeconomic status. The rate increased                                                                      of precision and recall, provides a single summary of this balance,
+from 62% for those with no formal education to 85% for those                                                          which is important in DR-TB care because both missing a high-
+with tertiary education. Similarly, adherence was lowest for the                                                                           risk patient (low recall) and ﬂagging too many low-risk patients
+unemployed (65%) and highest for corporate workers (88%).                                                                    unnecessarily (low precision) can have serious consequences for
+Health and social factors of HIV-negative individuals showed                                                                  resource allocation and patient outcomes. These ﬁndings suggest
+higher adherence (82%) compared to HIV-positive patients (68%).                                                                        that while the overall predictive performance was modest, the
+Social inﬂuences were also a factor; the lowest adherence rates                                                 Random Forest model oﬀered the most clinically balanced trade-
+were linked to peer inﬂuence (55%) and mental health issues                                                       oﬀbetween identifying at-risk patients and avoiding excessive false
+(58%). Additionally, an unstable lifestyle (60%), smoking (62%),                                                                                   alerts, making it the most promising approach in this comparison
+and alcohol use (65%) were all associated with lower adherence. 3.5                                                                        for guiding targeted adherence interventions.
+Adherence by patient category
+   New  patients had the highest adherence (80%), followed
+by relapse cases (78%). Chronic patient categories had lower  4 Discussion
+adherence, with TAL (30%), TF1 (55%), and TF2 (50%) showing
+the poorest performance (Figure 1). The chronic (TF1) and chronic                                                                   This study investigated the predictors of treatment adherence
+(TF2) categories exhibit moderate adherence rates of 55% and 50%,                                                   among patients with DR-TB in a rural South African setting,
+respectively, indicating areas that still require improvement.                                                                  focusing on socioeconomic, demographic, and clinical factors.
+                                                             Using a Random Forest model, we found that age, education,
+                                                              income,  patient  category, and  social  history were  the most
+3.5 Variable associations                                inﬂuential  factors  in adherence  classiﬁcation. These ﬁndings
+                                                                    contribute to the growing evidence that treatment adherence is
+   Income (85%) and Education (82%) demonstrated the most   inﬂuenced not only by individual health but also by broader social
+substantial positive associations with adherence, suggesting that   and economic factors (5, 8, 16, 28, 29).
+socioeconomic status and educational attainment are primary
+determinants of a patient’s ability to follow their treatment regimen.
+Age and occupation also showed signiﬁcant relationships with   4.1. Interpretation of key ﬁndings
+adherence, though their speciﬁc percentages were not provided
+in  the summary. HIV  status was  negatively  associated with      Our results indicate that younger patients generally achieve
+adherence, indicating that patients who are HIV-positive faced    higher adherence rates than older adults. Adherence to medication
+greater challenges with treatment compliance. In contrast, gender   and treatment regimens varies by age, but the relationship  is
+(65%) and the presence of comorbidities (60%) showed weaker   complex and depends on the disease, treatment type, and patient
+
+
+
+
+Frontiers in Tuberculosis                                          06                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+
+    FIGURE 1
+   Comparison of adherence rates by patient classiﬁcation type (patient categories). a = Categories deﬁned per South African DR-TB treatment
+    guidelines (see Table 1 footnote). b = Adherence calculated as actual treatment days completed ÷ expected treatment days × 100%.Abarchartillustratingadherenceratesacrossdifferentpatientcategories:Newpatientshaveanadherencerateof80%,relapsepatientsat78%,chronicpatients(TAL)at30%,chronicpatients(TF1)at55%,andchronicpatients(TF2)at50%.
+
+
+
+
+
+    FIGURE 2
+    Strength of association between selected variables and treatment adherence, expressed as percentage association values. a = Associations are
+    descriptive and not adjusted for confounding variables. b = Higher percentages indicate stronger observed relationships between the variable and
+   adherence in this dataset.Abarchartdisplayingtheassociationsofadherencewithvariousfactors:Agecontributes75%,Gender65%,Income85%,Education82%,HIVstatus70%,Comorbidities60%,andOccupation72%.
+
+population. Some research ﬁndings indicate that older adults    adults (31, 32). Adherence  is generally higher in older adults,
+often have equal or better adherence rates than younger adults,   but can decline with cognitive impairment, depression, or very
+contrary to common assumptions. A Singapore study’s ﬁndings   advanced age (>80) (33). While some studies suggest older adults
+documented a contrary result to our ﬁndings with medication non-   may adhere better due to greater health awareness, our data indicate
+adherence in young adults (38.4%), higher than that in older adults    that, in this rural setting, older age  is more often associated
+(22.3%). Reasons given for non-adherence in young adults were   with challenges such as comorbidities, physical limitations, and
+mainly patient- and therapy-related factors, which were generally    treatment fatigue. These barriers may be compounded by the
+identical to those identiﬁed in older adults (30). Other studies   complexity of managing DR-TB alongside HIV and other non-
+conducted in Singapore and Japan reported a higher level of   communicable diseases (1, 34, 35). This highlights the need for age-
+adherence among a convenient sample of community-dwelling    tailored interventions, for example, simplifying regimens, involving
+
+
+
+
+Frontiers in Tuberculosis                                          07                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+
+    FIGURE 3
+    Relative contribution of each predictor variable to the Random Forest model’s classiﬁcation accuracy. a = Importance scores represent the mean
+   decrease in Gini impurity across decision trees. b = Variables deﬁned as in Table 1 footnotes a–c. Abarchartdepictingfeatureimportance:Ageaccountsfor37.6%,Educationfor17.3%,andIncomefor10.9%.OthersignificantfactorsincludeAlcoholuse,Comorbidities,andSmoking.
+TABLE 3 Comparison of model accuracy, precision, recall, and F1-score across four machine learning algorithms predicting DR-TB treatment adherence
+(n = 108).
+
+ Model           Raw accuracy       Balanced           Precision            Recall           F1-Score
+                             (%)           accuracy (%)
+
+  Random forest                        81.5                         53.3                         0.61                         0.58                         0.59
+
+  Logistic regression                     79.6                         50.0                         0.52                         0.47                         0.49
+
+  Gradient boosting                     78.7                         49.5                         0.51                         0.45                         0.47
+
+  Support vector machine                77.8                         48.7                         0.49                         0.43                         0.45
+  (SVM)
+
+  Naïve baseline                         79.6                         50.0                       0.796                       1.000                       0.887
+
+Raw accuracy (%) = proportion of all predictions (adherent and non-adherent) that were correct.
+Precision = proportion of patients predicted to be adherent who were truly adherent.
+Recall = proportion of truly adherent patients correctly identiﬁed by the model.
+F1-score = harmonic mean of precision and recall, balancing false positives and false negatives.
+
+
+caregivers, and improving community health worker follow-up to        Social and  behavioral  factors,  particularly peer inﬂuence,
+sustain adherence in older patients.                                  alcohol use, and smoking, were associated with reduced adherence.
+   Education  level and income emerged  as  strong  positive   This is strongly supported by Garbrah et al. (45) and Nezenega
+predictors of adherence, aligning with previous ﬁndings that    et  al.  (46), who reported a reduced  likelihood  of treatment
+socioeconomic stability facilitates better health behaviors (29, 36).   adherence with patients who used substances such as alcohol,
+According to the study carried out in Malaysia, the odds of    marijuana, and cigarettes. Peer inﬂuence had the strongest negative
+non-adherence were higher among participants with no formal    impact, consistent with TB adherence studies from Ethiopia and
+education  in comparison with those who have  (37)  Studies   Ghana (44, 45). It reﬂects how social networks can either support
+carried out in other regions such as in Southwest Ethiopia (38)    or hinder treatment motivation (47, 48). In rural communities
+southeast Nigeria (39), Republic of Korea (36), and Indonesia (40)   with high TB stigma, negative peer messaging can discourage
+support the same ﬁndings. Nonetheless, with other studies, no    clinic attendance. Behavioral health interventions that integrate
+association was found between education and adherence to anti-   mental health counseling, peer-support groups, and substance-use
+TB drugs (41, 42). In our context, higher education likely enhances   programmes may be critical to mitigating these risks (28, 49).
+understanding of treatment importance, reducing misconceptions
+and increasing motivation, while higher income may improve
+access to transport, nutritious food, and ancillary care. However,
+these associations should be understood as markers of underlying   4.2. Predictive modeling and clinical
+structural inequalities. Addressing adherence, therefore, requires  implications
+interventions that go beyond individual counseling to include
+socioeconomic  support,  such  as  travel  stipends,  nutritional     Random Forest models proved superior in predicting treatment
+assistance, and workplace ﬂexibility for employed patients (43, 44).   adherence  in our  dataset,  outperforming  logistic  regression,
+
+
+
+
+
+Frontiers in Tuberculosis                                          08                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+
+    FIGURE 4
+   Raw accuracy (%) and balanced accuracy (%) of Random Forest, Logistic Regression, Gradient Boosting, and Support Vector Machine (SVM)
+   compared with the naïve baseline in classifying DR-TB treatment adherence. a = Models trained on 80% of the dataset and tested on 20% (hold-out
+    validation). b = Accuracy values are descriptive; no formal statistical comparison between models was performed due to limited sample size.Abarchartcomparingtheaccuracyoffourmodels:RandomForestat53.3%,LogisticRegressionat46.7%,GradientBoostingat45.0%,andSupportVectorMachine(SVM)at43.3%.
+
+gradient boosting, and support vector machines (SVMs) with an   and locally derived income categories were deﬁned contextually
+accuracy of 53.3%. This result highlights the model’s key advantage:   and may not exist in a comparable form in public datasets. Future
+its capacity to eﬀectively capture non-linear relationships and   work should prioritize assembling harmonized, multi-site datasets
+interactions between complex socioeconomic and clinical variables.    to enable robust external validation and to test whether Random
+   While  studies  in  other  health  domains  have  reported    Forest, or alternative algorithms, maintain performance across
+signiﬁcantly higher accuracies (e.g., up to 0.82–0.99), these results    diverse epidemiological and social settings.
+should be interpreted with caution. The high accuracy in those
+contexts often pertains to diﬀerent prediction  tasks, such as
+disease diagnosis from images or biomarkers, and may not be   4.3. Comparison with existing literature
+directly applicable to the behavioral complexities of TB treatment
+adherence. The modest accuracy of our model, while superior to      Adherence rates in our cohort (79.6%) are higher than those
+other approaches in our speciﬁc dataset, underscores the inherent    reported in some DR-TB studies from Ethiopia (37, 38) and
+diﬃculty in predicting a variable as complex and multidimensional   South Korea (1) but slightly lower than the Kosovo ﬁndings (53).
+as patient adherence (50). Age, education, and income accounted   These diﬀerences likely reﬂect variations in treatment protocols,
+for the largest proportion of predictive importance, followed by   adherence measurement, and health system support. Unlike many
+patient category and social history. While the model’s accuracy was    studies that assess adherence through single measures such as
+modest,  it demonstrates potential as a clinical decision-support   pharmacy reﬁll or self-report, our operational deﬁnition integrated
+tool for early identiﬁcation of high-risk patients. Random Forest    treatment duration against an ≥80% threshold, consistent with
+outperformed traditional  statistical models and other machine  WHO guidance (8, 9, 54). This standardization allows for more
+learning methods in our dataset. Although high accuracies for   meaningful comparison but also underscores the need for uniform
+Random Forest have been reported in other health domains    reporting in global DR-TB research. Our analysis adds depth to
+(51), these ﬁndings may not directly generalize to TB adherence    existing literature by linking socio-behavioral variables, particularly
+prediction.  Integrating Random Forest-based  predictions  into    peer inﬂuence, to modeled adherence risk in a rural African setting.
+electronic medical records could allow healthcare providers to   Few DR-TB predictive modeling studies have incorporated such
+target adherence counseling and social support resources more    qualitative-derived variables, and their inclusion here demonstrates
+eﬃciently by focusing interventions on high-risk patients and    that even “non-traditional” predictors can meaningfully improve
+potentially improving  overall adherence  rate  (50–52). While   model interpretability.
+Random Forest models show strong performance in retrospective
+and speciﬁc clinical datasets, their eﬀectiveness may vary across
+populations and settings, necessitating local validation. Hence,   4.4. Implications for policy and practice
+these ﬁndings must be interpreted with caution. The absence of an
+external validation dataset means that the model’s performance in      The ﬁndings underscore that improving DR-TB adherence
+other regions remains untested. Variables such as “peer inﬂuence”    in  rural  South  Africa  requires  a  multifaceted  strategy  that
+
+
+
+
+
+Frontiers in Tuberculosis                                          09                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+combines targeted support for older adults through age-speciﬁc    the importance  of comprehensive  patient  support,  including
+interventions,  socioeconomic  measures  to  address  transport,   adherence counseling, transportation stipends, and food packages.
+nutrition, and employment-related barriers, and behavioral health   These  measures  are  essential  for  addressing  socioeconomic
+integration to mitigate the negative eﬀects of peer pressure, alcohol    barriers.  Predictive  Tools:  using  predictive  models  like  the
+use, and smoking. Incorporating  predictive  risk  stratiﬁcation   Random Forest model can help identify high-risk individuals
+can further enable the identiﬁcation and prioritization of high-    early, allowing  for  personalized, proactive  care. Collaborative
+risk patients for intensiﬁed support. Together, these priorities   Approach: addressing the stigma associated with TB and sustaining
+align with the WHO End TB  Strategy’s focus on integrated,   adherence requires collaborative eﬀorts across health sectors and
+patient-centered care (8, 44) while extending its application by   community structures.
+operationalising locally speciﬁc social factors within predictive
+modeling. This combined approach linking structural support
+                                   Data availability statementwith precision targeting oﬀers a practical pathway for optimizing
+resource  allocation and improving outcomes in high-burden,
+                                                         The  raw   data  supporting   the   conclusions   of   this
+resource-limited settings.
+                                                                                article   will  be  made  available  by  the  authors,  without
+                                                       undue reservation.
+5 Limitations of study and future
+directions
+                                         Ethics statement
+
+   This  study  highlights  key  factors  inﬂuencing  DR-TB
+                                                         The  studies involving humans were approved by Walter
+management  in  the  rural Eastern Cape, where poverty and
+                                                                      Sisulu University Ethics Committee (Reference No. 026/2019. The
+socioeconomic  challenges  complicate  adherence.  Limitations
+                                                                       studies were conducted in accordance with the local legislation
+include potential recall bias from self-reported data, inconsistent
+                                                        and institutional requirements. The Ethics Committee/institutional
+documentation  of mental health conditions, and  reliance on
+                                                                review board waived the requirement of written informed consent
+qualitative notes to assess “peer inﬂuence” without standardized
+                                                                        for participation from the participants or the participants’ legal
+tools. Model comparisons were  descriptive only due  to  the
+                                                                  guardians/next of kin because The study is retrospective and using
+small sample  size, and no external validation was performed
+                                                                       patients records.
+because  comparable  datasets  with  equivalent  variables  were
+unavailable. Variables like “peer inﬂuence” and locally derived
+income categories were context-speciﬁc and may not exist in
+                                    Author contributionsother  datasets,  limiting  direct  transferability. While Random
+Forest performed best in this setting, its utility elsewhere would
+                                                                      LF: Conceptualization, Data curation, Formal analysis, Fundingrequire retraining with local data. Income was inferred from
+                                                                         acquisition,  Investigation,  Methodology,  Software,  Validation,employment status rather than recorded as an exact numeric
+                                                              Writing –  original  draft, Writing – review &  editing. MH:value, introducing the possibility of misclassiﬁcation. For example,
+                                                                   Conceptualization, Formal analysis, Investigation, Methodology,informal  sector workers may have  variable earnings  that do
+                                                                   Resources,  Validation,  Visualization, Writing –  original  draft,not align with the assumed “low income” category, and some
+                                                              Writing – review &  editing. ND: Conceptualization, Formalgovernment employees may earn outside the  typical middle-
+                                                                            analysis, Investigation, Methodology, Writing – original  draft,income range. These limitations may have attenuated the observed
+                                                              Writing – review & editing. JI: Conceptualization, Methodology,association between income and adherence. Future studies should
+                                                              Writing –  original  draft,  Writing –  review &  editing. TA:collect  direct,  self-reported income or  validated SES  indices
+                                                                    Supervision, Writing – original draft, Writing – review & editing.to  improve  measurement  accuracy.  Furthermore,  structured
+psychosocial  assessments,  integrated mental  health  screening,
+larger multi-site datasets, and robust external validation should be  Funding
+included in predictive modeling to improve its generalisability and
+predictive accuracy.                                          The   author(s)   declare   that  no   ﬁnancial   support
+                                                         was   received   for   the   research   and/or   publication   of
+                                                                             this article.
+6 Recommendation and conclusion
+
+    Tailored Support: Interventions should focus on older patients  Acknowledgments
+and those with low formal education. This includes providing
+simpliﬁed,  culturally  appropriate  health  education  materials      The authors are grateful to the healthcare professionals in
+using visual aids and engaging family or caregivers. Integrated    the healthcare facilities where the patients’ ﬁles were reviewed.
+Care:  it  is crucial to integrate support for patients managing   To the colleagues, Ncomeka Sineke, Thulani Gumede, and Eric
+multiple health conditions, such as DR-TB, HIV (ART), and   Nombekela, thank you  for your support during  traveling to
+non-communicable  diseases (NCDs). Socioeconomic  Support:    healthcare facilities. Sizwe Dlamini, thank you for assisting with
+the  study  aligns  with WHO recommendations by  stressing    data management.
+
+
+
+
+Frontiers in Tuberculosis                                          10                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+Conﬂict of interest                                  support  of  artiﬁcial  intelligence and  reasonable  eﬀorts have
+                                                           been  made  to  ensure  accuracy,  including  review  by  the
+   The authors declare that the research was conducted in the    authors wherever  possible.  If you  identify any  issues,  please
+absence of any commercial or ﬁnancial relationships that could be    contact us.
+construed as a potential conﬂict of interest.
+
+                                          Publisher’s note
+Generative AI statement
+                                                                           All claims expressed in this article are solely those of the
+   The author(s) declare that Gen AI was used in the creation    authors and do not necessarily represent those of their aﬃliated
+of this manuscript. All statistical analyses were performed using R    organizations, or those of the publisher, the editors and the
+statistical software, Version 4.5.1                                      reviewers. Any product that may be evaluated in this article, or
+   Any  alternative  text  (alt  text) provided  alongside ﬁgures    claim that may be made by its manufacturer, is not guaranteed or
+in  this  article  has  been  generated  by  Frontiers  with  the   endorsed by the publisher.
+
+
+
+References
+
+
+  1. Bea S, Lee H, Kim JH, Jang SH, Son H, Kwon JW, et  al. Adherence and     in Gondar town, North West Ethiopia. Patient Prefer Adherence. (2017) 11:743–9.
+associated factors of treatment regimen in drug-susceptible tuberculosis patients. Front     doi: 10.2147/PPA.S131314
+Pharmacol. (2021) 12:625078. doi: 10.3389/fphar.2021.625078
+                                                                                              15. Adeyemo S, Sangotola A, Korosteleva O. Modeling transmission dynamics
+  2. Horsburgh CR, Barry CE, Lange C. Treatment of tuberculosis. N Eng J Med. (2015)     of tuberculosis–HIV co-infection in South Africa. Epidemiologia. (2023) 4:408–19.
+373:2149–60. doi: 10.1056/NEJMra1413919                                                  doi: 10.3390/epidemiologia4040036
+
+  3. Furin    J,  Cox  H,  Pai  M.  Tuberculosis.  Lancet.  (2019)  393:1642–56.       16. National Department of Health, South Africa. National TB Recovery Plan 4.0:
+doi: 10.1016/S0140-6736(19)30308-3                                                      April 2025–March 2026. (2025). Pretoria: National Department of Health. Available
+                                                                                      online    at:   https://www.health.gov.za/wp-content/uploads/2025/05/TB-Recovery-
+  4. Alipanah N, Jarlsberg L, Miller C, Linh NN, Falzon D, Jaramillo E, et  al.
+                                                                                 Plan-4_ﬁnal_250526-1.pdf (Accessed March 5, 2025).
+Adherence interventions and outcomes of tuberculosis treatment: a systematic review
+and meta-analysis of trials and observational studies. PLoS Med. (2018) 15:e1002595.       17. Akanbi K, Ajayi I, Fayemiwo S, Gidado S, Oladimeji A, Nsubuga P. Predictors of
+doi: 10.1371/journal.pmed.1002595                                                       tuberculosis treatment success among TB-HIV co-infected patients attending major
+                                                                                           tuberculosis treatment sites in Abeokuta, Ogun State, Nigeria. Pan African Med  J.
+  5. Pradipta IS, Idrus LR, Probandari A, Lestari BW, Diantini A, Alﬀenaar JWC,
+                                                                                    (2019) 32:7. doi: 10.11604/pamj.supp.2019.32.1.13272
+et al. Barriers and strategies to successful tuberculosis treatment in a high-burden
+tuberculosis setting: a qualitative study from the patient’s perspective. BMC Public       18. Samuels JP, Sood A, Campbell JR, Khan FA, Johnston JC. Comorbidities and
+Health. (2021) 21:1903–12. doi: 10.1186/s12889-021-12005-y                            treatment outcomes in multidrug-resistant tuberculosis: a systematic review and meta-
+                                                                                                  analysis. Sci Rep. (2018) 8:4980. doi: 10.1038/s41598-018-23344-z
+  6. Pradipta IS, Idrus LR, Probandari A, Puspitasari IM, Santoso P, Alﬀenaar JWC,
+et al. Barriers to optimal tuberculosis treatment services at community health centers: a       19. Gachara G, Mavhandu L G, Rogawski ET, Manhaeve C, Bessong PO. Evaluating
+qualitative study from a high-prevalence tuberculosis country. Front Pharmacol. (2022)    adherence to antiretroviral therapy using pharmacy reﬁll records in a rural treatment
+13:857783. doi: 10.3389/fphar.2022.857783                                                         site in South Africa. AIDS Res Treat. (2017) 5456219. doi: 10.1155/2017/5456219
+
+  7. Zhu QQ, Wang  J, Sam NB, Luo  J, Liu  J, Pan HF. Factors associated with       20. Navasardyan I, Miwalian R, Petrosyan A, Yeganyan S, Venkataraman V. HIV-
+non-adherence to prescribed treatment in 201 patients with multidrug-resistant and    TB. coinfection: current therapeutic approaches and drug interactions. Viruses. (2024)
+rifampicin-resistant tuberculosis in Anhui province, China. Med Sci Monit. (2022)     16:321. doi: 10.3390/v16030321
+28:e935334. doi: 10.12659/MSM.935334
+                                                                                               21. Tibble H, Flook M, Sheikh A, Tsanas A, Horne R, Vrijens B, et al. Measuring
+  8. World Health Organization. Global tuberculosis report 2023. (2023). Geneva:    and reporting treatment adherence: what can we learn by comparing two respiratory
+World Health Organization. Available online at: https://www.who.int/teams/global-     conditions? Br J Clin Pharmacol. (2021) 87:825–36. doi: 10.1111/bcp.14458
+programme-on-tuberculosis-and-lung-health/tb-reports/global-tuberculosis-report-
+2023 (Accessed March 5, 2025).                                                               22. Thamineni R, Peraman R, Chenniah  J, Meka G, Munagala AK, Mahalingam
+                                                                           VT, et  al. Level of adherence to anti-tubercular treatment among drug-sensitive
+  9. Nidoi  J, Muttamba W, Walusimbi  S, Imoko  JF, Lochoro  P, Ictho  J,  et  al.     tuberculosis patients on a newly introduced daily dose regimen in South India: a
+Impact of socio-economic factors on tuberculosis treatment outcomes in north-     cross-sectional study. Trop Med Int Health. (2022) 27:1013–23. doi: 10.1111/tmi.
+eastern Uganda: a mixed methods  study. BMC Public Health. (2021) 21:2167.    13824
+doi: 10.1186/s12889-021-12056-1
+                                                                                              23. Vernon A, Fielding K, Savic R, Dodd L, Nahid P. The importance of adherence
+  10. Mekonnen HS, Azagew AW. Non-adherence to anti-tuberculosis treatment,                                                                                          in tuberculosis treatment clinical trials and its relevance in explanatory and pragmatic
+reasons  and  associated  factors  among  TB  patients  attending   at  Gondar      trials. PLoS Med. (2019) 16:e1002884. doi: 10.1371/journal.pmed.1002884
+town  health  centers,  Northwest  Ethiopia. BMC  Res  Notes.  (2018)  11:691.
+doi: 10.1186/s13104-018-3789-4                                                              24. Yin X, Tu X, Tong Y, Yang R, Wang Y, Cao  S, et  al. Development and
+                                                                                           validation of a tuberculosis medication adherence scale. PLoS One. (2012) 7:e50328.
+  11. Rossetto M, Brand ÉM, Rodrigues RM, Serrant L, Teixeira LB. Factors associated
+                                                                                               doi: 10.1371/journal.pone.0050328
+with hospitalization and death among TB/HIV co-infected persons in Porto Alegre,
+Brazil. PLoS ONE. (2019) 14:e0209174. doi: 10.1371/journal.pone.0209174                    25. World Health Organization. WHO Consolidated Guidelines on Tuberculosis.
+                                                                        Module 4: Treatment - Drug-Resistant Tuberculosis Treatment., 2022 Update. (2022).
+  12. Sinshaw  Y, Alemu  S, Fekadu A, Gizachew M.  Successful TB treatment
+                                                                               Geneva: World Health  Organization.  Available  online  at:  https://www.who.int/
+outcome and its associated factors among TB/HIV co-infected patients attending
+                                                                                     publications/i/item/9789240063129 (Accessed March 5, 2025).
+Gondar  University  Referral  Hospital, Northwest  Ethiopia: an  institution-based
+cross-sectional  study. BMC  Infect  Dis.  (2017)  17:132.  doi:  10.1186/s12879-01       26. Agresti A, Finlay B. Statistical Methods for the Social Sciences. 4th edn. London:
+7-2238-7                                                                        Pearson Education (2014).
+
+  13. Kimeu M, Burmen B, Audi B, Adega A, Owuor K, Arodi S, et al. The relationship       27. Chan AHY, Horne R, Hankins M, Chisari C. The medication adherence report
+between adherence to clinic appointments and year-one mortality for newly enrolled      scale: a measurement tool for eliciting patients’ reports of nonadherence. Br J Clin
+HIV infected patients at a regional referral hospital in Western Kenya, January 2011–    Pharmacol. (2020) 86:1281–8. doi: 10.1111/bcp.14193
+December 2012. AIDS Care. (2016) 28:409–15. doi: 10.1080/09540121.2015.1109587
+                                                                                               28. Subbaraman R, Thomas BE, Kumar JV, Lubeck-Schricker M, Khandewale A,
+  14. Ayele AA, Asrade Atnaﬁe S, Balcha DD, Weredekal AT, Woldegiorgis BA, Wotte     Thies W, et al. Measuring tuberculosis medication adherence: a comparison of multiple
+MM, et al. Self-reported adherence and associated factors to isoniazid preventive    approaches for urine isoniazid metabolite testing within a cohort study in India. Open
+therapy for latent tuberculosis among people living with HIV/AIDS at health centers    Forum Infect Dis. (2021) 8:ofab532. doi: 10.1093/oﬁd/ofab532
+
+
+
+
+
+Frontiers in Tuberculosis                                          11                                                                frontiersin.orgFaye et al.                                                                                                         10.3389/ftubr.2025.1659333
+
+
+
+
+
+  29. Gebreweld FH, Kiﬂe MM, Gebremicheal FE, Simel LL, Gezae MM, Ghebreyesus    Gofa zone, southern Ethiopia: a cross-sectional study. BMC Public Health. (2020)
+SS, et al. Factors inﬂuencing adherence to tuberculosis treatment in Asmara, Eritrea: a     20:1705. doi: 10.1186/s12889-020-09827-7
+qualitative study. J Health Popul Nutr. (2018) 37:1. doi: 10.1186/s41043-017-0132-y
+                                                                                               43. Nieuwlaat R, Wilczynski N, Navarro T, Hobson N, Jeﬀery R, Keepanasseril A,
+  30. Ge  L, Heng BH, Yap CW. Understanding reasons and determinants  of     et al. Interventions for enhancing medication adherence. Cochrane Database Syst Rev.
+medication non-adherence in community-dwelling adults: a cross-sectional study     (2014) 2014:CD000011. doi: 10.1002/14651858.CD000011.pub4
+comparing young and older age groups. BMC Health Serv Res. (2023) 23:905.
+                                                                                              44. Olivier C, Luies L. WHO goals, and beyond: managing HIV/TB co-infection in
+doi: 10.1186/s12913-023-09904-8
+                                                                              South Africa. SN Compr Clin Med. (2023) 5:251. doi: 10.1007/s42399-023-01568-z
+  31. Chew SM, Lee JH, Lim  SF, Liew MJ, Xu  Y, Towle RM. Prevalence and
+                                                                                              45. Garbrah BG, Abebrese J, Owusu-Marfo J. Factors associated with tuberculosis
+predictors of medication non-adherence among older community-dwelling people
+                                                                                   treatment adherence among tuberculosis patients in the Kumasi metropolis in the
+with chronic disease in Singapore. J Adv Nurs. (2021) 77:4069–80. doi: 10.1111/jan.
+                                                                                  Ashanti Region of Ghana; a cross-sectional study. J Public Health. (2024) 32:2353–64.
+14913
+                                                                                               doi: 10.1007/s10389-023-02002-3
+  32. Nakajima R, Watanabe  F, Kamei M. Factors  associated with medication       46. Nezenega ZS, Perimal-lewis L, Maeder AJ. Factors inﬂuencing patient adherence
+non-adherence among patients with lifestyle-related non-communicable diseases.     to tuberculosis treatment in Ethiopia: a literature review. Int J Environ Res Public
+Pharmaceuticals. (2021) 9:90. doi: 10.3390/pharmacy9020090                             Health. (2020) 17:1–12. doi: 10.3390/ijerph17155626
+  33. Burnier  M,  Polychronopoulou   E,  Wuerzner  G.  Hypertension  and       47. Matakanye H, Tshitangano T. The impact of substance use on tuberculosis
+drug   adherence   in   the   elderly.   Front   Cardiovasc  Med.   (2020)   7:49.     treatment adherence among tuberculosis patients in Limpopo Province, South Africa.
+doi: 10.3389/fcvm.2020.00049                                        New York, NY: medRxiv (2023). doi: 10.1101/2023.06.08.23291161
+  34. Roy NT, Sajith M, Bansode MP. Assessment of factors associated with low       48. Munro SA, Lewin SA, Smith HJ, Engel ME, Fretheim A, Volmink J. Patient
+adherence to pharmacotherapy in elderly patients. J Young Pharm. (2017) 9:272.    adherence to tuberculosis treatment: a systematic review of qualitative research. PLoS
+doi: 10.5530/jyp.2017.9.53                                                    Med. (2007) 4:e238. doi: 10.1371/journal.pmed.0040238
+
+  35. Daftary  A,   Padayatchi  N,  O’Donnell  MR.   Preferential  adherence       49. Kvarnström   K,  Westerholm   A,   Airaksinen  M,   Liira  H.   Factors
+to    antiretroviral   therapy   over    tuberculosis   treatment:   a    qualitative     contributing  to  medication  adherence  in  patients  with  a  chronic  condition:
+study   of   drug-resistant  TB/HIV   co-infected   patients   in  South   Africa.     a  scoping  review  of   qualitative  research.  Pharmaceutics.  (2021)  13:1100.
+Glob    Public    Health.   (2014)   9:1107–16.    doi:   10.1080/17441692.2014.     doi: 10.3390/pharmaceutics13071100
+934266
+                                                                                              50. Wenger F, Allenhof C, Schreynemackers S, Hegerl U, Reich H. Use of random
+  36. Choi H, Chung H, Muntaner C, Lee M, Kim Y, Barry CE, et al. The impact     forest to predict adherence in an online intervention for depression using baseline and
+of social conditions on patient adherence to pulmonary tuberculosis treatment. Int J     early usage data: model development and validation on retrospective routine care log
+Tuberc Lung Dis. (2016) 20:948–54. doi: 10.5588/ijtld.15.0759                               data. JMIR Form Res. (2023) 8:e53768. doi: 10.2196/53768
+  37. Lemma TL, Ersido T, Beyene HT, Shiferaw A. A Non-adherence to anti-       51. Veer R, Sihman S, Alabdeli H, Mumjitha T, Hirald T, Praveena D. Predicting
+tuberculosis treatment and associated factors among TB patients in public health    and managing medication adherence using random forest with light gradient boosting
+facilities  of Hossana town, Southern  Ethiopia. Front Med. (2024) 11:1360351.    method and mobile health data. In: 2024 4th International Conference on Mobile
+doi: 10.3389/fmed.2024.1360351                                                   Networks and Wireless Communications (ICMNWC), Tumkuru, India. New York, NY:
+  38. Woimo TT, Yimer WK, Bati T, Gesesew HA. The prevalence and factors    IEEE (2024). p. 1–5. doi: 10.1109/ICMNWC63764.2024.10872365
+associated  for  anti-tuberculosis  treatment  non-adherence  among  pulmonary       52. Lee S, Khan O, Seo JH, Kim DY, Park K, Jung S, et al. Impact of physicians’
+tuberculosis patients in public health care  facilities in South Ethiopia: a cross-     education on adherence to tuberculosis treatment for patients of low socioeconomic
+sectional study. BMC Public Health. (2017) 17:269–310.  doi: 10.1186/s12889-01     status in Bangladesh. Chonnam Med J. (2013) 49:27. doi: 10.4068/cmj.2013.49.1.27
+7-4188-9
+                                                                                              53. Krasniqi S, Jakupi A, Daci A, Tigani B, Jupolli-Krasniqi N, Pira M, et  al.
+  39. Ubajaka CF, Azuike EC, Ugoji JO, Nwibo OE, Ejiofor OC, Modebe IA,     Tuberculosis treatment adherence of patients in Kosovo. Tuberc Res Treat. (2017)
+et  al. Adherence to drug medications amongst tuberculosis patients in a tertiary     2017:4850324. doi: 10.1155/2017/4850324
+health  institution  in South  East  Nigeria.  Int  J  Clin Med.  (2015)  6:399–406.
+doi: 10.4236/ijcm.2015.66052                                                                 54. World  Health  Organization.  (2010).  Guidelines  for  the  Programmatic
+                                                                      Management of Drug-Resistant Tuberculosis−2010 Update. Geneva: World Health
+  40. Lahdji A, Anggraini M, Raynalda A. Education level and economic status in     Organization.  Available  online   at:  https://www.who.int/tb/publications/mdrtb-
+increasing adherence to medication in pulmonary tuberculosis patients. Proc Int Semin     guidelines/en/ (Accessed March 5, 2025).
+Community Health Med Sci. (2022) 15:75–6.
+                                                                                              55. National Department  of  Health,  South  Africa.  Clinical Management  of
+  41. Ibrahim  L,  Hadejia   I, Nguku  P,  Dankoli  R,  Waziri N, Akhimien M,     Rifampicin-Resistant Tuberculosis: Updated Clinical Reference Guide. Pretoria: National
+et   al.  Factors  associated  with  interruption  of  treatment among  pulmonary    Department of Health (2023). Available online at: https://www.knowledgehub.org.za/
+tuberculosis patients in Plateau State, Nigeria. Pan African Med  J. (2014) 17:78.     elibrary/revised-rr-tb-clinical-guideline-2023 (Accessed March 5, 2025).
+doi: 10.11604/pamj.2014.17.78.3464
+                                                                                              56. R Core Team. R: A Language and Environment for Statistical Computing. Vienna:
+  42. Ajema D, Shibru T, Endalew T, Gebeyehu S. Level of and associated factors for   R Foundation for Statistical Computing (2025). Available online at: https://www.r-
+non-adherence to anti-tuberculosis treatment among tuberculosis patients in Gamo     project.org/ (Accessed March 5, 2025).
+
+
+
+
+
+Frontiers in Tuberculosis                                          12                                                                frontiersin.org

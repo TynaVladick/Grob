@@ -1,0 +1,25 @@
+{
+  "pmcid": "PMC12845062",
+  "version": 1,
+  "pmid": 41599027,
+  "doi": "10.3390/pathogens15010043",
+  "mid": null,
+  "title": "Oral Microbiota Alterations and Potential Salivary Biomarkers in Colorectal Cancer: A Next-Generation Sequencing Study",
+  "citation": "Pathogens. 2025 Dec 30;15(1):43. doi: 10.3390/pathogens15010043",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12845062.1/PMC12845062.1.pdf?md5=8b6cfda837fa9a8a684e529f453e2754",
+  "xml_url": "s3://pmc-oa-opendata/PMC12845062.1/PMC12845062.1.xml?md5=86b01e76790554a68da8939718ce0cc1",
+  "text_url": "s3://pmc-oa-opendata/PMC12845062.1/PMC12845062.1.txt?md5=80f33bc9ea28002cbae128b89a8c83b0",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12845062.1/pathogens-15-00043-g001a.jpg?md5=738e6dbe2f5456bd453a588f35caf5c0",
+    "s3://pmc-oa-opendata/PMC12845062.1/pathogens-15-00043-g001b.jpg?md5=d04578f3a47f1451e112b5d629d8d793",
+    "s3://pmc-oa-opendata/PMC12845062.1/pathogens-15-00043-g002.jpg?md5=d8c26b2d402fa17f7cf2912e84bcdc4f",
+    "s3://pmc-oa-opendata/PMC12845062.1/pathogens-15-00043-g003.jpg?md5=56a5681afed336095c91c363d131fba6",
+    "s3://pmc-oa-opendata/PMC12845062.1/pathogens-15-00043-g004.jpg?md5=4cadded0d1c30d3a61ff19c88b188dd0",
+    "s3://pmc-oa-opendata/PMC12845062.1/pathogens-15-00043-s001.zip?md5=e0564b845bdae3e80ad7afdbe8fb5007"
+  ]
+}

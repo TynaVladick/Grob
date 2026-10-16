@@ -1,0 +1,96 @@
+DOI: 10.1002/alz70856_103242
+
+B I O M A R K E R S
+
+POSTER PRESENTATION
+
+NEUROIMAGING
+
+Cortical asymmetry index in Autosomal Dominant Alzheimer’s
+Disease: insights from the Clínic Barcelona and DIAN cohorts
+over time
+
+
+Agnès Pérez-Millan1,2     Beatriz Bosch-Capdevila1     Sergi Borrego-Écija1
+Anna Antonell1     Núria Guillén1    Guadalupe Fernandez-Villullas1
+Adrià Tort-Merino3    Mircea Balasa4     Albert Lladó4    Neus Falgàs Martínez1
+Raquel Sánchez-Valle1    The Dominantly Inherited Alzheimer Network (DIAN)
+
+
+
+
+1Alzheimer’s disease and other cognitive
+disorders Group. Service of Neurology,          Abstract
+Hospital Clínic de Barcelona. Fundació Recerca     Background: The Cortical Asymmetry Index (CAI) evaluates brain asymmetry, showing
+Clínic Barcelona-IDIBAPS, Barcelona, Spain
+                                       increased asymmetry in sporadic Alzheimer’s Disease (AD). We investigate CAI
+2eHealth Center, Faculty of Computer Science,
+Multimedia and Telecommunications,              in asymptomatic (AMC) and symptomatic (SMC) mutation carriers of Autosomal
+Universitat Oberta de Catalunya, Barcelona,      Dominant Alzheimer’s Disease (ADAD).
+Spain
+                                  Method: Baseline T1-weighted MRI were collected from the ADAD cohort at Clínic
+3Alzheimer’s Disease and Other Cognitive
+Disorders Unit, Neurology Department,          Barcelona (Clinic Barcelona cohort), including SMC (N = 19), AMC (N = 22), and
+Hospital Clinic, Barcelona, Spain
+                                       healthy controls (CTR) (N = 19). The Dominantly Inherited Alzheimer Network
+4Alzheimer’s disease and other cognitive
+                                        observational study (DIAN-OBS) provided longitudinal MRI data as a second cohort
+disorders Unit. Hospital Clínic de Barcelona.
+Fundació de Recerca Clínic Barcelona –         (DIAN cohort), including SMC (N = 115), AMC (N = 234), and CTR (N = 215). In the
+IDIBAPS. University of Barcelona, Barcelona,
+                             DIAN cohort, SMC participants were subdivided into mild cognitive impairment (SMC-
+Spain
+                                   MCI, CDR=0.5) and AD (SMC-AD, CDR≥1). Available cerebrospinal fluid (CSF) and
+Correspondence                         plasma neurofilament-light chain (NfL) levels were included. Cortical thickness was
+Agnès Pérez-Millan, Alzheimer’s disease and
+other cognitive disorders Group. Service of        analysed using Freesurfer, and CAI was calculated using the open-source pipeline.
+Neurology, Hospital Clínic de Barcelona.           Cross-sectional analyses assessed diagnosis and APOE4 differences, adjusting for age,
+Fundació Recerca Clínic Barcelona-IDIBAPS,
+Barcelona, Spain.                               sex, and estimated years from onset (EYO), and correlations between CAI and age,
+Email: AGPEREZ@recerca.clinic.cat            EYO, MMSE, and NfL. Longitudinal progression differences were examined using GAM
+
+                                   models according to EYO with the DIAN cohort, using as fixed effects age, sex and the
+
+                                          interaction between the group and EYO.
+
+                                         Result: CAI distinguished AMC and SMC from CTR in Clinic Barcelona cohort, and
+
+                                          differentiated SMC-AD from CTR and AMC in DIAN cohort (Figure 1). Carriers and
+
+                          SMC in the Clinic Barcelona cohort exhibited higher CAI, linked to elevated plasma-
+
+                                        NfL, advanced EYO and lower MMSE. In DIAN cohort, carriers showed higher CAI
+
+
+
+
+
+This is an open access article under the terms of the Creative Commons Attribution License, which permits use, distribution and reproduction in any medium, provided
+the original work is properly cited.
+© 2025 The Alzheimer’s Association. Alzheimer’s & Dementia published by Wiley Periodicals LLC on behalf of Alzheimer’s Association.
+
+
+Alzheimer’s Dement. 2025;21(Suppl. 2):e103242.                                                                        wileyonlinelibrary.com/journal/alz    1 of 3
+https://doi.org/10.1002/alz70856_1032422 of 3                                                                                                   BIOMARKERS
+
+
+
+                                        associated with elevated NfL (plasma and CSF), reduced MMSE and advanced EYO
+
+                                             (also for SMC-AD). DIAN cohort APOE3/3 showed differences from other APOE
+
+                                    genotypes in carriers and distinctions between AMC and SMC (Figure 2). In the DIAN
+
+                                         cohort, SMC and SMC-AD presented a significant CAI increase over time (Figure 3).
+
+                                       Conclusion: ADAD individuals show increased brain asymmetry as the disease
+
+                                      progresses and correlate with key biomarkers in both cohorts. APOE3/3 showed higher
+
+                                            levels of asymmetry than the other APOE genotypes. Longitudinally, CAI increases
+
+                                             significantly in SMC and SMC-AD, highlighting its potential as a marker for disease
+
+                                        monitoring. These findings highlight CAI’s potential as a tool for early detection and
+
+                                         tracking of AD progressionBIOMARKERS                                                                                                             3 of 3

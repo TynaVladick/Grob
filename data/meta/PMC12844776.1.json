@@ -1,0 +1,28 @@
+{
+  "pmcid": "PMC12844776",
+  "version": 1,
+  "pmid": 41599109,
+  "doi": "10.3390/pharmaceutics18010001",
+  "mid": null,
+  "title": "Ceragenins in Combination with Ivacaftor Prevent the Formation of Biofilm by Bacteria That Cause Rhinosinusitis",
+  "citation": "Pharmaceutics. 2025 Dec 19;18(1):1. doi: 10.3390/pharmaceutics18010001",
+  "is_pmc_openaccess": true,
+  "is_manuscript": false,
+  "is_historical_ocr": false,
+  "is_retracted": false,
+  "license_code": "CC BY",
+  "text_url": "s3://pmc-oa-opendata/PMC12844776.1/PMC12844776.1.txt?md5=842796f268001bc24acaca0d1112a914",
+  "pdf_url": "s3://pmc-oa-opendata/PMC12844776.1/PMC12844776.1.pdf?md5=c23b7983dc0c37bd7f0fc81cdeaefd43",
+  "xml_url": "s3://pmc-oa-opendata/PMC12844776.1/PMC12844776.1.xml?md5=fd32b2685d67b8fd8c4ba5d86ba200ec",
+  "media_urls": [
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g001.jpg?md5=3d471b80ce2c603488b9087cfe08243f",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g002.jpg?md5=1c5001f9d6db77cfcc954918c0ba1313",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g003.jpg?md5=a937940b13378a0b9abf6621fb0a3616",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g004.jpg?md5=8c9a5444804ee47e9550ced84572e91d",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g005.jpg?md5=3507297c02d64e8aee00515355d6eb0e",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g006.jpg?md5=5d179d3ec1f57bf28c638752966e4cb5",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g007.jpg?md5=1aa863caa7570d56d781cb3019fc4ba4",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g008.jpg?md5=2373d0de9f8d7f0af249ded030883c92",
+    "s3://pmc-oa-opendata/PMC12844776.1/pharmaceutics-18-00001-g009.jpg?md5=64e18c79bdc60d34682824494522262b"
+  ]
+}
