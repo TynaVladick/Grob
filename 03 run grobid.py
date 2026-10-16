@@ -128,12 +128,11 @@ def main() -> None:
         stamp = datetime.fromtimestamp(PROCESSING_LOG.stat().st_mtime).strftime("%Y%m%d_%H%M%S")
         PROCESSING_LOG.rename(PROCESSING_LOG.with_name(f"processing_log.{stamp}.csv"))
 
-    params = {
-        "consolidateHeader": args.consolidate_header,
-        "consolidateCitations": args.consolidate_citations,
-        "includeRawCitations": "1",   # исходная строка ссылки — удобно для разбора ошибок
-        "teiCoordinates": "",         # координаты не нужны
-    }
+    params = [("consolidateHeader", args.consolidate_header),
+              ("consolidateCitations", args.consolidate_citations),
+              ("includeRawCitations", "1"),
+              ("teiCoordinates", "figure"), ("teiCoordinates", "ref")]
+
     params = {k: v for k, v in params.items() if v != ""}
     endpoint = f"{base}/api/processFulltextDocument"
     run_id = datetime.now(timezone.utc).strftime("%Y%m%dT%H%M%SZ")
